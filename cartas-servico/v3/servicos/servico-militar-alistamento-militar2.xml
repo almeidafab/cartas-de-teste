@@ -23,7 +23,7 @@ A Diretoria de Serviço Militar (DSM) é o órgão de apoio técnico-normativo, 
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
-        <em-media max="12" unidade="meses"/>
+        <atendimento-imediato/>
         <descricao></descricao>
     </tempo-total-estimado>
     <validade-documento>
