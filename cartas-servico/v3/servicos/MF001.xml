@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Seguro de Crédito à Exportação - SCE, coberto pelo Fundo de Garantia à Exportação - FGE</nome>
+	<sigla/>
+	<nomes-populares>
+		<item>Seguro de Crédito</item>
+	</nomes-populares>
+	<descricao>Consiste em uma cobertura (seguro) do Governo Federal para operações de exportação brasileira contra riscos comerciais, políticos e extraordinários.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas privadas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo/>
+			<descricao>Cadastrar a empresa (exportador brasileiro ou instituição financeira) no SGP da ABGF.</descricao>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>Registro da Junta Comercial</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A. - ABGF</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.abgf.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Av. Rio Branco, 1, 9º Andar /B – Rio de Janeiro
+20090-003 – Rio de Janeiro – RJ - Brasil</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo/>
+			<descricao>Cadastro da operação de exportação</descricao>
+			<documentos>
+				<default>
+					<item>contrato comercial entre exportador e importador; contrato de financiamento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A. - ABGF</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.abgf.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Av. Rio Branco, 1, 9º Andar /B – Rio de Janeiro
+20090-003 – Rio de Janeiro – RJ - Brasil</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo/>
+			<descricao>Pagamento do preço de cobertura (prêmio) para emissão do Certificado de Garantia de Cobertura.</descricao>
+			<documentos>
+				<default>
+					<item>comprovante de pagamento da GRU</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A. - ABGF</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.abgf.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+	<item>Comércio e Serviços</item>
+		<item>Economia e Finanças</item>
+		<item>Indústria</item>
+		<item>Relações Internacionais</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
