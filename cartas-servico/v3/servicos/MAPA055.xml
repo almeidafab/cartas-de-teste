@@ -3,7 +3,7 @@
 	<nome>SFA-UF/MAPA</nome>
 	<sigla/>
 	<descricao>O Ministério da Agricultura, Pecuária e Abastecimento (Mapa), por meio de emissão de registro, autoriza o funcionamento de estabelecimentos que exerçam as atividades de fabricação, fracionamento, importação ou exportação de produtos destinados à alimentação animal. O objetivo é assegurar que estes estabelecimentos atendam aos procedimentos higiênicosanitários e de Boas Práticas de Fabricação exigidos para o exercício das atividades relacionadas aos produtos destinados à alimentação animal, garantindo a inocuidade e a qualidade dos produtos.</descricao>
-	<gratuito>false</gratuito>
+	<gratuito>true</gratuito>
 	<solicitantes>
 		<solicitante>
 			<tipo>Cidadãos e Famílias</tipo>
