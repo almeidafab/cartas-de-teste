@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Conceder Licença de Importação (LI)</nome>
+	<sigla/>
+	<nomes-populares>
+		<item>LI material novo
+LI  material usado- DISIM  ou COIMP</item>
+	</nomes-populares>
+	<descricao>A Licença de Importação (LI) é um documento eletrônico registrado pelo importador no SISCOMEX, que contém informações acerca da mercadoria a ser importada e da operação de importação de maneira geral, tais como importador, exportador, país de origem, procedência e aquisição, regime tributário, cobertura cambial, entre outras. Como regra geral, as importações brasileiras estão dispensadas de licenciamento, devendo o importador apenas providenciar o registro da Declaração de Importação (DI) no Siscomex quando da chegada da mercadoria em território nacional. Em alguns casos, no entanto, exige-se o licenciamento com anuência do DECEX, que poderá ser automático ou não automático, conforme o produto ou operação de comércio exterior realizada, de acordo com o disposto na Portaria SECEX nº 23/2011. O licenciamento é um dos instrumentos fundamentais para a operacionalização e a implementação das políticas públicas de comércio exterior, bem como de desenvolvimento da indústria nacional. Por meio do licenciamento, também se possibilita o monitoramento estatístico das importações de mercadorias com características específicas.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas privadas</item>
+		<item>Empresas públicas ou de economia mista</item>
+		<item>Fundações e autarquias de direito público</item>
+		<item>Estados e municípios</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo/>
+			<descricao>Registro da LI no Siscomex, momento em que se exigem informações acerca da mercadoria a ser importada e da operação de importação de maneira geral, tais como importador, exportador, país de origem, procedência e aquisição, regime tributário, cobertura cambial, entre outras.</descricao>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>Certificado Digital</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://portal.siscomex.gov.br/</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo/>
+			<descricao>Verificar o resultado da análise da LI no Siscomex, para manifestação do órgão (anuência), visando o deferimento (autorização da importação tal como solicitada), indeferimento (negar o pedido de importação) ou exigência (solicitação de informações adicionais, documentação ou correção).</descricao>
+			<documentos>
+				<default>
+					<item>Somente em caso de exigência na LI, o importador deverá apresentar documentação que comprove a operação pleiteada, como faturas, conhecimento de embarque, e outros de acordo com a operação pleiteada.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://portal.siscomex.gov.br/</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/3162"/>
+	<areas-de-interesse>
+		<item>Administração e gestão pública</item>
+		<item>Cultura</item>
+		<item>Economia e Finanças</item>
+		<item>Energia</item>
+		<item>Indústria</item>
+		<item>Pesquisa, Ciência, Inovação e Tecnologia</item>
+		<item>Relações Internacionais</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
