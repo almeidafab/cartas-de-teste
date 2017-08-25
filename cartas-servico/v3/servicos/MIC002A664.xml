@@ -19,6 +19,7 @@
 		<item>Empresas privadas</item>
 	</segmentos-da-sociedade>
 	<tempo-total-estimado>
+		<ate max="90" unidade="dias-corridos"/>
 		<descricao>
 		Mais de 120 dias.
 	</descricao>
