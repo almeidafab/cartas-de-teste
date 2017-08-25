@@ -26,7 +26,7 @@
 		<item>Empresas privadas</item>
 	</segmentos-da-sociedade>
 	<tempo-total-estimado>
-		<ate max="1" unidade="dias"</ate>
+		<ate max="1" unidade="dias"/>
 		<descricao/>
 	</tempo-total-estimado>
 	<etapas>
