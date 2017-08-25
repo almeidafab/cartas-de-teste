@@ -19,7 +19,7 @@
 		<item>Empresas privadas</item>
 	</segmentos-da-sociedade>
 	<tempo-total-estimado>
-		<entre min="60" max="90" unidade="dias"/>
+		<entre min="60" max="90" unidade="dias-corridos"/>
 		<descricao/>
 	</tempo-total-estimado>
 	<etapas>
