@@ -19,7 +19,7 @@
 		<item>Empresas privadas</item>
 	</segmentos-da-sociedade>
 	<tempo-total-estimado>
-		<atendimento-imediato/>
+		<entre min="2" max="7" unidade="minutos"/>
 		<descricao/>
 	</tempo-total-estimado>
 	<etapas>
