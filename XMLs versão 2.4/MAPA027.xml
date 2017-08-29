@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Departamento da Comissão Executiva do Plano da Lavoura -CEPLAC</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Crédito rural orientado - CRO</item>
+	</nomes-populares>
+	<descricao>Elaboração de projetos de financiamento rural e assistência técnica aos produtores na área de atuação da CEPLAC</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Cidadãos e Famílias</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Empresas privadas</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Proposta e agendamento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Certidão de casamento</item>
+					<item>Certidão de nascimento</item>
+					<item>Certidões de cartório</item>
+					<item>Certidões da Receita Federal</item>
+					<item>Certificado de antecedentes criminais</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de renda</item>
+					<item>Comprovante de quitação eleitoral</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+					<item>Registro da Junta Comercial</item>
+					<item>Registro em Cartório</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Escritórios locais e regionais da CEPLAC</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Visita de avaliação técnica ao imóvel rural</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Imóvel rural do solicitante</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Elaboração do projeto técnico</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Escritórios locais e regionais da ceplac</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>7332143321</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>roberto.santana@agricultura.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/14"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

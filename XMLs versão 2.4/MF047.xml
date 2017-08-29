@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>DISO</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Declaração de Informações sobre Regularização de Obras - DISO</item>
+	</nomes-populares>
+	<descricao>Disponibilizar on line na página da RFB na internet a Declaração de Informações sobre Regularização de Obras - DISO</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Cidadãos e Famílias</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Empresas privadas</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Empresas públicas ou de economia mista</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Fundações e autarquias de direito público</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Estados e municípios</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Preencher a declaração na Internet e apresentar os documentos na unudade da RFB</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>CPF</item>
+					<item>DISO; comprovantes de pagamentos</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Unidade da RFB</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Habitação</item>
+		<item>Previdência Social</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

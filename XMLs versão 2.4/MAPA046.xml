@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Credenciamento de Empresas Classificadoras</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não</item>
+	</nomes-populares>
+	<descricao>Credenciamento de empresas que prestam serviço de classificação de produtos de origem vegetal.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Empresas privadas</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Empresas públicas ou de economia mista</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Fundações e autarquias de direito público</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Órgãos da administração direta</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentação de documentação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Contrato Social</item>
+					<item>Requerimento do próprio MAPA e Lista de documentos previstos na IN MAPA nº 54/2011</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Nas unidades descentralizadas do MAPA pelo país.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Correção e ajustes de eventuais dados inconsistentes/incompletos.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Depende da inconsistência ou da necessidade de complementação das informações prestadas inicialmente</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Unidades descentralizadas do MAPA pelo país.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Unidades descentralizadas do MAPA pelo país.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Vistoria obrigatória para verificação de instalações e equipamentos.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>No local de instalação da empresa.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/14"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

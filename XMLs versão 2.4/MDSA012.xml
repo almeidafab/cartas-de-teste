@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa de Fomento às Atividades Produtivas Rurais</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Fomento BSM, Fomento Brasil Sem Miséria, Fomento Rural</item>
+	</nomes-populares>
+	<descricao>O Programa Fomento Rural (Fomento às Atividades Produtivas Rurais) contribui com a estratégia de inclusão produtiva, apoiando os investimentos produtivos de famílias rurais que se encontram em situação de pobreza.
+
+O programa envolve a combinação de duas ações: a oferta de serviços de assistência técnica e extensão rural (Ater), que pode ser oferecida pela Secretaria Especial de Agricultura Familiar e Desenvolvimento Agrário (Sead/Casa Civil) ou por meio de parcerias com os governos estaduais, e a transferência direta às famílias, por meio do cartão do Programa Bolsa Família, de recursos financeiros não-reembolsáveis, por parte do Ministério do Desenvolvimento Social.
+
+Ambas as ações são articuladas com o objetivo de apoiar a estruturação produtiva das famílias rurais mais pobres e o desenvolvimento do projeto produtivo de cada uma, para que ampliem ou diversifiquem a produção de alimentos e as atividades geradoras de renda, bem como para que possam ter acesso a uma alimentação mais saudável. O programa é de responsabilidade conjunta do MDS e da Secretaria Especial de Agricultura Familiar e do Desenvolvimento Agrário (Sead/Casa Civil).
+
+No Fomento Rural há duas modalidades de repasse dos recursos não-reembolsáveis às famílias beneficiárias: a modalidade tradicional e a modalidade Semiárido.
+Fomento Rural – modalidade tradicional:
+Criada em 2011 com o nome Fomento BSM, a modalidade tradicional do Fomento Rural beneficia famílias rurais que estejam em situação de extrema pobreza, ou seja, que tenham renda mensal por pessoa de até R$ 85,00. O valor que as famílias recebem nessa modalidade do programa é de R$ 2.400,00, repassados diretamente aos beneficiários em duas ou três parcelas.
+Fomento Rural – modalidade Semiárido:
+A modalidade Semiárido do Fomento Rural foi criada em 2013, sendo acessada pelas famílias rurais em situação de extrema pobreza e de pobreza, ou seja, famílias que apresentem renda mensal por pessoa de até R$ 170,00. Além disso, devem residir no semiárido e deter tecnologias sociais de armazenamento de água para produção, bem como serem inseridas no Programa por meio de um contrato específico da modalidade Semiárido. O objetivo é apoiar as famílias no desenvolvimento de um projeto que amplie sua capacidade produtiva, levando em consideração as condições climáticas da região e promovendo ações de convivência com o semiárido. O valor é de R$ 3.000,00, repassado em duas parcelas.
+
+Formas de pagamento:
+Os valores nas duas modalidades do programa são repassados em parcelas, sendo que o intervalo entre essas parcelas é de dois meses, no mínimo, e que o prazo máximo para o pagamento da última parcela do benefício às famílias é de dois anos, contados a partir da data de liberação da primeira parcela. Cada parcela recebida pelas famílias beneficiárias deve ser aplicada em seu projeto produtivo.
+Na modalidade tradicional, as parcelas têm os seguintes valores:
+I – quando transferido em duas parcelas, a primeira parcela será de R$ 1.400,00 e a segunda de R$ 1.000,00;
+II – quando transferido em três parcelas, a primeira parcela é de R$ 1.000,00 e as duas seguintes de R$ 700,00.
+Na modalidade Semiárido, as parcelas têm os seguintes valores:
+I - a primeira parcela é de R$ 1.800,00 e a segunda de R$ 1.200,00.
+ATENÇÃO: Os recursos do Fomento Rural serão transferidos em três parcelas às famílias atendidas por contratos de Ater quando pelo menos um beneficiário tiver recebido uma ou mais parcelas em data anterior à publicação da Resolução Nº4 do Comitê Gestor do programa, o que ocorreu no final de fevereiro de 2014.
+
+Para receber os recursos do Programa de Fomento, o(a) beneficiário(a) deve:
+- estar inscrito no Cadastro Único do Governo Federal para Programas Sociais, tendo renda mensal, por pessoa, de R$ 85,00 (no caso da modalidade tradicional, ou de R$ 170,00 (no caso da modalidade Semiárido);
+- ser agricultor(a) familiar, assentado rural ou pertencente a povos e comunidades tradicionais. Para tanto, é necessário possuir o documento Declaração de Aptidão ao Pronaf (DAP), que identifica os agricultores familiares, e/ou constar na Relação de Beneficiários (RB) do Instituto Nacional de Colonização e Reforma Agrária (INCRA); 
+
+– ter sido selecionado para recebimento dos serviços de ATER pelas entidades parceiras e ter assinado um documento chamado termo de adesão, que é um documento em que o a pessoa confirma que está participando do Programa de Fomento e que conhece as regras desse Programa;
+No caso específico da modalidade Fomento Semiárido, também é necessário que a família já possua água para a produção de alimentos.
+Se a família atende aos requisitos para participar do Programa de Fomento, procure a(s) entidade(s) de Assistência Técnica e Extensão Rural (ATER) que atua(m) na sua região, para verificar se o Programa de Fomento está sendo executado. Em caso afirmativo, a entidade de ATER verificará a disponibilidade de atendimento da sua família. 
+No site do MDS (www.mds.gov.br), para saber quais entidades atuam e em quais localidades, seguir o caminho: aba “Segurança Alimentar” -> aba “Inclusão Produtiva Rural” -> aba “Programa Fomento”-> aba “Metas previstas e entidades responsáveis” (canto direito da tela).</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Cidadãos e Famílias</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Mulher.</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Mobilização e seleção das famílias beneficiárias. 
+
+As entidades de Ater, depois de contratadas, serão responsáveis por identificar e mobilizar as famílias para participar do programa.
+A seleção prévia das famílias que participam do Fomento Rural é feita a partir dos dados do Cadastro Único, mantido pelo MDS. Cria-se uma lista de potenciais beneficiários do programa que orienta o trabalho das entidades de Ater na identificação e na mobilização dos beneficiários. Há também um percentual de famílias que as entidades devem identificar a partir da realização da Busca Ativa. Ao mobilizar as famílias, as entidades de Ater são orientadas a, na medida do possível, priorizar a cobertura de famílias que cumprem os requisitos para participar do Fomento Rural dentro de uma mesma comunidade.
+Além disso, o governo federal sugere que o atendimento seja direcionado prioritariamente para as famílias em situação de insegurança alimentar e nutricional, conforme o estudo técnico da Câmara Interministerial de Segurança Alimentar e Nutricional (Caisan).</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>NIS</item>
+					<item>DECLARAÇÃO DE APTIDÃO AO PRONAF (DAP)</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>A mobilização ocorre em comunidades rurais, com suporte da rede de assistência social e de saúde, de sindicatos e de outros parceiros que possam ajudar a identificar comunidades mais vulneráveis. A seleção das famílias ocorre nas comunidades rurais e nas residências das mesmas.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>DIAGNÓSTICO da família com suas características sociais e produtivas.
+
+Os agentes de Ater elaboram um diagnóstico de sua situação socioeconômica levantando informações como a identificação de todos os integrantes de cada família, a descrição de sua rotina de trabalho e de comercialização dos excedentes produzidos, a forma como acessam os serviços públicos e quais são suas expectativas e anseios quanto a atividades geradoras de renda. Essas informações fornecem a base para os técnicos de Ater elaborarem, conjuntamente com a família, o projeto produtivo.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>NIS</item>
+					<item>DECLARAÇÃO DE APTIDÃO AO PRONAF (DAP)</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>UNIDADE PRODUTIVA FAMILIAR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>ELABORAÇÃO DE PROJETO PRODUTIVO para organizar e/ou ampliar a produção.
+
+No momento da elaboração do projeto, são definidas uma ou mais atividades produtivas e as etapas necessárias para seu desenvolvimento. Os recursos financeiros repassados à família podem ser utilizados para investimentos em atividades agrícolas, como criação de pequenos animais e horta, ou não agrícolas, como artesanato e pesca. O importante é que o projeto sirva para gerar renda para a família beneficiária e, se possível, para ampliar e diversificar sua produção de alimentos.
+Nesta etapa, a família também assina o Termo de Adesão, documento em que confirma que está participando do Programa de Fomento e que conhece as regras para essa participação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>NIS</item>
+					<item>DECLARAÇÃO DE APTIDÃO AO PRONAF (DAP)</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>UNIDADE PRODUTIVA FAMILIAR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>VISITAS TÉCNICAS DE ACOMPANHAMENTO
+
+Trata-se do assistência técnica em si, customizada para o projeto produtivo da família. O agente de ATER  acompanha o desenvolvimento do projeto produtivo e discute com os integrantes familiares soluções para problemas técnicos da produção. Além disso, o agente de ATER contribui para a inserção das famílias beneficiárias em outras políticas sociais e de desenvolvimento rural, repassando informações sobre como acessá-las e fazendo encaminhamento a outros órgãos públicos ou entidades.
+Em uma das visitas de acompanhamento, o agente de ATER confirma que a família aplicou os recursos da primeira parcela e está desenvolvendo o projeto de forma satisfatória. Essa confirmação da entidade ao MDS garante que, estando o contrato vigente, a transferência da segunda e, quando for o caso, da terceira parcela, possa ser realizada.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>UNIDADE PRODUTIVA FAMILIAR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>SAQUE DOS RECURSOS TRANSFERIDOS</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>NIS</item>
+					<item>Cartão Cidadão ou Cartão do Bolsa Família. Caso o beneficiário não tenha um desses documentos, deve apresentar documento de identificação com foto para saque por guia offline exclusivamente em agências bancárias</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Para receber informações sobre a liberação das parcelas para saque, na unidade produtiva familiar ou residência.
+Para sacar os recursos, em agência bancária, lotérica ou outro correspondente bancário.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>AVALIAÇÕES</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Unidade produtiva familiar ou centro comunitário</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1945"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

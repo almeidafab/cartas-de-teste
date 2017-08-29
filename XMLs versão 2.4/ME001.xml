@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa Bolsa Atleta</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Bolsa Atleta</item>
+	</nomes-populares>
+	<descricao>Concessão de bolsas a atletas praticantes de esportes olímpicos, paralímpicos, não olímpicos e não paralímpicos. 
+Para ser contemplado o atleta precisa atender aos critérios estabelecidos na legislação vigente e os requisitos elencados nos Editais publicados anualmente.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Atletas de Alto Rendimento</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrição online e envio de documentações(a documentação formaliza as informações prestadas na inscrição online)</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>CPF</item>
+					<item>Declarações emitidas pelas Confederações e/ou Clubes.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6134296906</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.esporte.gov.br - link Bolsa Atleta</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>duvidasbolsa@esporte.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Envio do Termo de Adesão, se contemplado.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Termo de Adesão ao Programa.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.esporte.gov.br - link Bolsa Atleta (área restrita do atleta)</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Prestação de Contas.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Declarações emitidas pelas Confederações e/ou Clubes. Modelos são disponibilizados no site oficial do ME.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6134296841</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.esporte.gov.br - link bolsa atleta</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>prestacaobolsa@esporte.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Setor de Industrias Gráficas (SIG), Quadra 4 – lote 83 Centro Empresarial Capital Financial Center (Bolsa Atleta)</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/36670"/>
+	<areas-de-interesse>
+		<item>Esporte e Lazer</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>SFA-UF/MAPA</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O Ministério da Agricultura, Pecuária e Abastecimento (Mapa), por meio de emissão de registro, autoriza o funcionamento de estabelecimentos que exerçam as atividades de fabricação, fracionamento, importação ou exportação de produtos destinados à alimentação animal. O objetivo é assegurar que estes estabelecimentos atendam aos procedimentos higiênicosanitários e de Boas Práticas de Fabricação exigidos para o exercício das atividades relacionadas aos produtos destinados à alimentação animal, garantindo a inocuidade e a qualidade dos produtos.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Cidadãos e Famílias</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Empresas privadas</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentar requerimento de registro de estabelecimento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Registro da Junta Comercial</item>
+					<item>Licença ambiental, Alvarâ de funcionamento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Superintendência da Agricultura da UF/MAPA</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.agricultura.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Endereço da Superintendência da Agricultura da UF/MAPA</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Receber a vistoria inicial de seu estabelecimento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Local da fábrica vistoriada.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/14"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

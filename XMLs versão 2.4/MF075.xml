@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Alterar Cadastro CPF</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>CPF</item>
+	</nomes-populares>
+	<descricao>Alterar dados no CPF, tais como endereço, nome, inclusão de Título de Eleitor, e outros dados pela internet. Pode-se também realizar o pedido de alteração de dados no CPF nos conveniados Banco do Brasil, Caixa Econômica Federal e Correios. Nestas instituições os serviços são tarifados. O serviço de alteração de endereço no CPF pode ser realizado gratuitamente nas entidades públicas conveniadas.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Cidadãos e Famílias</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Estrangeiros</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Informar as informações atuais</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de casamento</item>
+					<item>Certidões de cartório</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Passaporte</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>rfb.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="aplicativo-movel">
+						<descricao>Smartphones Android e IOS</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Comércio e Serviços</item>
+		<item>Comunicações</item>
+		<item>Cidadania</item>
+		<item>Economia e Finanças</item>
+		<item>Habitação</item>
+		<item>Previdência Social</item>
+		<item>Saúde</item>
+		<item>Trabalho</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

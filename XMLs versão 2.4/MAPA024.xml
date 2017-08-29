@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Venda do Biofungicida Tricovab para a vassoura-de-bruxa do cacaueiro</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Tricovab</item>
+	</nomes-populares>
+	<descricao>Produção e comercialização do Biofungicida desenvolvido pela Ceplac - Tricovab, para produtores de cacau da Bahia e de outros Estados brasileiros que também produzem cacau. O contato do produtor para aquisição do Tricovab é através dos escritórios locais da Ceplac e diretamente através do telefone da Unidade de Biocontrole (73-3214-3283). O produto é pago e recolhido pelo Ministério da Fazenda, Secretaria do Tesouro Nacional através de Guia de Recolhimento da União - GRU. A quantidade vendida (demanda) em 2013 foi de 3.272 kg; 2014 de 4.356 kg; 2015 de 526 kg e em 2016 foi de 468 kg. Vale ressaltar que em 2015/16 ocorreu uma forte estiagem no sul da Bahia que causou inclusive a morte de muitos cacaueiros.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Cidadãos e Famílias</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Empresas privadas</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Realizar o pedido da quantidade do Tricovab</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Comprovante de pagamento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Ceplac/Unidade de Biocontrole</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>A compra do Tricovab ocorre mensalmente durante os meses de aplicação do Tricovab que vai de maio até agosto para o sul da Bahia</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Comprovante de pagamento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Ceplac/Unidade de Biocontrole</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/14"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>NÃO TEM NOME OU SIGLA</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>NÃO TEM</item>
+	</nomes-populares>
+	<descricao>Concessão de licença para funcionamento de estabelecimento que fabrique, manipule, fracione, envase, rotule, controle a qualidade, comercie, armazene, distribui, importe ou exporte produto de uso veterinário. O objetivo é garantir que as instalações desses estabelecimentos atendam os requisitos exigidos para o exercício da atividade para a qual é licenciado, visando assegurar a qualidade do produto de uso veterinário comercializado.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Empresas privadas</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Empresas públicas ou de economia mista</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Fundações e autarquias de direito público</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Órgãos da administração direta</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>CADASTRAR A SOLICITAÇÃO DE REGISTRO DO ESTABELECIMENTO</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>CONTRATO SOCIAL E CARTEIRA PROFISSIONAL DO CRF OU CRMV</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://sistemasweb.agricultura.gov.br/pages/SIPEAGRO.html</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>RECEBIMENTO DO PRODUTO - LICENÇA DE FUNCIONAMENTO DO ESTABELECIMENTO</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>SUPERINTENDENCIAS FEDERAIS DE AGRICULTURA EM CADA ESTADO</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/14"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+		<item>Indústria</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

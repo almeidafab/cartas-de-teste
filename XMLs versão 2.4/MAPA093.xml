@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Não se aplica</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Registro de granjas</item>
+	</nomes-populares>
+	<descricao>É a emissão da certidão de registro que atesta que o estabelecimento avícola cumpre com os requisitos de biosseguridade exigidos pela normativa de Registro, Fiscalização e Controle de Estabelecimentos Avícolas, com o objetivo de prevenir a introdução e disseminação de doenças aviárias de controle oficial pelo Ministério da Agricultura, Pecuária e Abastecimento (Mapa). O Mapa é responsável pelo registro dos estabelecimentos avícolas de reprodução, conforme Instrução Normativa nº 56, de 4 de dezembro de 2007, enquanto o registro dos estabelecimentos avícolas comerciais é de responsabilidade dos Serviços Veterinários Estaduais.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Cidadãos e Famílias</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Empresas privadas</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Empresas públicas ou de economia mista</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Entrega da documentação para registro do estabelecimento avícola</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Registro em Cartório</item>
+					<item>requerimento de solicitação de registro; declaração do médico veterinário como responsável pelo estabelecimento avícola; planta de localização da propriedade; planta baixa das instalações; Memorial descritivo das medidas higiênico-sanitárias e de biossegurança; plano descritivo da rastreabilidade; documento comprobatório da qualidade microbiológica da água; cadastro no órgão estadual de defesa sanitária animal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Superintendência Federa da Agricultura, Pecuária e Abastecimento do Estado onde se localiza o estabelecimento avícola</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>no site do MAPA no campo "Quem é quem", na identificação da Superintendência Federa da Agricultura, Pecuária e Abastecimento do Estado onde se localiza o estabelecimento avícola</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>no site do MAPA no campo "Quem é quem", na identificação da Superintendência Federa da Agricultura, Pecuária e Abastecimento do Estado onde se localiza o estabelecimento avícola</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Inspeção Física e Sanitária do estabelecimento avícola</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>No endereço do estabelecimento avícola</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>entrega do certificado de registro do estabelecimento avícola</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Superintendência Federa da Agricultura, Pecuária e Abastecimento do Estado onde se localiza a empresa</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>endereço do requerente do registro</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/14"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

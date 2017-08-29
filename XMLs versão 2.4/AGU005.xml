@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Atendimento à população indígena nos interesses abrangidos pela Portaria AGU nº 839, de 18 de junho de 2010</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O serviço é prestado por procuradores federais lotados nos órgãos que compõem a Procuradoria Geral Federal em todas as unidades da federação. Os indígenas, com o auxílio da Funai ou diretamente, acessam o procurador com o objetivo de receber assistência jurídica nos mais variados casos, que envolvem interesses individuais ou coletivos.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Cidadãos e Famílias</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>apresentação da demanda, realizar entrevista e entrega de documentos</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>em razão da natureza do serviço, o tipo de documento vai depender do tipo de demanda apresentada</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>procuradoria federais presentes nas várias unidades da federação</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>retorno com o resultado do atendimento realizado na primeira entrevista</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>procuradoria federal presentes nas unidades da federação</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/46"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Cultura</item>
+		<item>Cidadania</item>
+		<item>Educação</item>
+		<item>Segurança e Ordem Pública</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

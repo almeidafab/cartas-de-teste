@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Emissão de Carta de Aprovação no âmbito do Mecanismo de Desenvolvimento Limpo - MDL</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>MDL</item>
+	</nomes-populares>
+	<descricao>A Comissão Interministerial de Mudança Global do Clima – CIMGC,  é a Autoridade Nacional Designada – AND, ponto focal, no Brasil, do Mecanismo de Desenvolvimento Limpo do Protocolo de Quioto. A Autoridade Nacional Designada deve atestar a participação voluntária dos participantes da atividade de projeto no âmbito do Mecanismo de Desenvolvimento Limpo - MDL, atestar que a atividade de projeto contribui para o desenvolvimento sustentável e, finalmente, emitir a Carta de Aprovação do projeto para os participantes nacionais de atividades de projeto MDL.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Empresas privadas</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Empresas públicas ou de economia mista</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Estados e municípios</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Submissão do Projeto.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Contrato Social</item>
+					<item>Registro da Junta Comercial</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>A/C Comissão Interministerial de Mudança Global de Clima
+Ministério da Ciência, Tecnologia, Inovações e Comunicações
+Esplanada dos Ministérios, Bloco E, Sala 258
+CEP: 70.067-900</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Pedido de Pequenas Revisões de Projeto.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Documentos Complementares.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Endereço do Proponente.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Submissão do Projeto Revisado e Documentos Complementares.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Ministério da Ciência, Tecnologia, Inovação e Comunicações</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1988"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

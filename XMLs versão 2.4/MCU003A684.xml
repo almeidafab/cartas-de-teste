@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Mediação e Arbitragem em Direitos Autorais</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O serviço de mediação e conciliação visa promover a resolução de conflitos entre titulares de direitos autorais ou seus mandatários, em relação à falta de pagamento, aos critérios de cobrança, às formas de oferecimento de repertório e aos valores de arrecadação e entre titulares e suas associações, em relação aos valores e critérios de distribuição. 
+O serviço de arbitragem visa dirimir os litígios entre usuários e titulares de direitos autorais ou seus mandatários e entre titulares e suas associações que forem submetidos na forma da Lei nº 9.307, de 23 de setembro de 1996, e de acordo como regulamento de mediação e arbitragem aprovado por meio da Instrução Normativa nº 4, de 7 de julho de 2015.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Cidadãos e Famílias</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Empresas privadas</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Encaminha ao Ministério da Cultura o Requerimento de abertura de procedimento de Mediação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>CPF</item>
+					<item>requerimento de Mediação com: nomes, endereços e números de telefone, fax, correio eletrônico, ou qualquer outra referência, para fins de comunicação das partes em controvérsias e de seus representantes legais; Cópia do compromisso de mediação, quando houver e, uma breve descrição da natureza da controvérsia</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Edifício Parque Cidade Corporate – SCS Quadra 09 Lote C Torre B, 12º Andar ou Esplanada dos Ministérios, bloco B.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>20242640</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>direito.autoral@cultura.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Edifício Parque Cidade Corporate – SCS Quadra 09 Lote C Torre B, 12º Andar ou Esplanada dos Ministérios, bloco B</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Recebimento de  ofício comunicando abertura de procedimento de mediação e arbitragem.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>direito.autoral@cultura.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Edifício Parque Cidade Corporate – SCS Quadra 09 Lote C Torre B, 12º Andar ou Esplanada dos Ministérios, bloco B.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Recebimento de lista com nomes de mediadores  para escolha das partes</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>Direito.autoral@cultura.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SCS, Quadra 9, Lote C, Edifício Parque Cidade Corporate, Asa Sul, Brasília/DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Envia indicação de mediador ou árbitro escolhido ao MinC.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Documento indicando o mediador ou árbitro escolhido</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>direito.autoral@cultura.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SCS, Quadra 9, Lote C, Edifício Parque Cidade Corporate, Asa Sul, Brasília/DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Recebimento de notificação de instauração do processo de mediação e arbitragem</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>direito.autoral@cultura.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SCS, Quadra 9, Lote C, Edifício Parque Cidade Corporate, Asa Sul, Brasília/DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Recebe convocação para apresentação de documentação ao mediador.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Resumo dos antecedentes da parte; Estado Atual da controvérsia e  outras informações pertinentes à controvérsia.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>direito.autoral@cultura.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SCS, Quadra 9, Lote C, Edifício Parque Cidade Corporate, Asa Sul, Brasília/DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Comunicar à outra parte, ao mediador e ao Ministério da Cultura, os nomes e os endereços das pessoas autorizadas a representá-las, se for o caso, bem como os nomes e os cargos das pessoas que assistirão as reuniões com o mediador em nome da respectiva parte.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Comprovante de pagamento</item>
+					<item>nomes e os endereços das pessoas autorizadas a representá-las, se for o caso, bem como os nomes e os cargos das pessoas que assistirão as reuniões com o mediador em nome da respectiva parte.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>direito.autoral@cultura.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SCS, Quadra 9, Lote C, Edifício Parque Cidade Corporate, Asa Sul, Brasília/DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Recebimento de solicitação de depósito de honorários dos mediadores e árbitros.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Comprovante de pagamento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>Direito.autoral@cultura.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SCS, Quadra 9, Lote C, Edifício Parque Cidade Corporate, Asa Sul, Brasília/DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Participar de audiência com o mediador ou árbitro.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>SCS, Quadra 9, Lote C, Edifício Parque Cidade Corporate, Asa Sul, Brasília/DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Recebimento de extrato contábil relativo a depósitos efetuados e de reembolso de saldo eventualmente existente, ou solicitação de pagamento de quantias pendentes relativas a mediação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>direito.autoral@cultura.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SCS, Quadra 9, Lote C, Edifício Parque Cidade Corporate, Asa Sul, Brasília/DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Assinar o Termo de acordo (se houver).</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>SCS, Quadra 9, Lote C, Edifício Parque Cidade Corporate, Asa Sul, Brasília/DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1926"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

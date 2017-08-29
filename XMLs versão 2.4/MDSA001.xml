@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Inscrição e atualização no Cadastro Único para Programa Sociais do Governo Federal</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Cadastro Único, CadÚnico.</item>
+	</nomes-populares>
+	<descricao>O Cadastro Único é um registro criado para o Governo Federal saber melhor quem são e como vivem as famílias brasileiras mais pobres. Podem ser cadastradas as famílias de baixa renda que ganham até meio salário mínimo mensal por pessoa; ou que ganham até 3 salários mínimos de renda total por mês.
+
+Ao se inscrever ou atualizar os dados no Cadastro Único, uma família ou pessoa pode tentar participar de diferentes programas sociais, como o Bolsa Família, a Tarifa Social de Energia Elétrica, o Telefone Popular, entre outros. Mas é importante saber que estar no Cadastro Único não significa a entrada automática nestes programas, pois cada um deles tem suas regras.
+
+No Cadastro Único temos dados sobre renda, tipo de moradia, escolaridade, idade, e outros. É por meio dessas informações que o governo consegue entender quais são as principais dificuldades que as famílias enfrentam e como pode ajudar a melhorar as condições de vida delas. Por isso, as famílias devem manter o seu cadastro sempre atualizado. É recomendada a atualização dos dados do cadastro sempre que houver alguma mudança nas características da família, como quando alguém começa um novo trabalho, perde o emprego, muda de escola, entre outros. É obrigatória a atualização das informações a cada dois anos, mesmo que não haja mudança nas características das famílias.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Cidadãos e Famílias</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Fundações e autarquias de direito público</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Órgãos da administração direta</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Estados e municípios</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Mulher.</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Ir até o posto de atendimento e prestar informações ao entrevistador.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de casamento</item>
+					<item>Certidão de nascimento</item>
+					<item>CPF</item>
+					<item>Título de Eleitor</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Centro de Referência da Assistência Social, Posto de Atendimento do Cadastro Único</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Ir até o posto de atendimento e prestar informações ao entrevistador para atualizar os dados do Cadastro Único.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de casamento</item>
+					<item>Certidão de nascimento</item>
+					<item>CPF</item>
+					<item>Título de Eleitor</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Centro de Referência da Assistência Social, Posto de Atendimento do Cadastro Único</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1945"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

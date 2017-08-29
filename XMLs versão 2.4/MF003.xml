@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Grupo Técnico de Interesse Público - GTIP</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não</item>
+	</nomes-populares>
+	<descricao>Análise de pleitos de suspensão ou alteração de medidas antidumping e compensatórias definitivas, bem como de não aplicação de medidas antidumping e compensatórias provisórias, por razões de interesse público. Os usuários são as empresas pleiteantes ou interessadas, devidamente habilitadas no processo.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Empresas privadas</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentar pleito.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Contrato Social</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Secretaria de Assuntos Internacionais do Ministério da Fazenda.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SAUS Quadra 3 Bloco O 10º andar Ed. Órgãos Regionais CEP 70079-900</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Habilitação no processo de empresas interessadas.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Contrato Social</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Secretaria de Assuntos Internacionais do Ministério da Fazenda</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SAUS Quadra 3 Bloco O 10º andar Ed. òrgãos Regionais CEP 70079-900</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Comércio e Serviços</item>
+		<item>Economia e Finanças</item>
+		<item>Indústria</item>
+		<item>Relações Internacionais</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa Nacional de Apoio à Captação de Água de Chuva e Outras Tecnologias Sociais de Acesso à Água.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Programa Cisternas</item>
+	</nomes-populares>
+	<descricao>O serviço se enquadra no âmbito das ações do Programa Nacional de Apoio à Captação de Água de Chuva e Outras Tecnologias Sociais de Acesso à Água - Programa Cisternas, que tem como finalidade promover o acesso à água para o consumo humano e animal e para a produção de alimentos, por meio de implementação de tecnologias sociais, destinado às famílias rurais de baixa renda atingidas pela seca ou falta regular de água.  
+O cerne do processo de implantação está associado ao conceito de tecnologia social, o que diferencia o Programa de outras intervenções públicas de grande vulto, especialmente no campo do abastecimento de água. A perspectiva aqui é conferir maior sustentabilidade dos ganhos sociais garantidos pelo acesso à água, envolvendo os(as) beneficiários(as) diretos(as) em todas as etapas do processo.
+Como forma de mitigar as dificuldades de acesso à água nas escolas públicas rurais, o serviço consiste na implantação de cisternas com captação de água a partir do telhado dessas escolas. Neste caso, a principal tecnologia social apoiada é a cisterna escolar de 52 mil litros, já amplamente implantada no semiárido brasileiro.
+A execução do Programa é realizada por meio da celebração de instrumentos de parcerias entre o MDS com os Estados, consórcios públicos municipais e organizações da sociedade civil, desde que cumpridas as exigências estabelecidas em Edital de Seleção Pública. 
+Após levantamentos realizados pelo MDSA com base no Cadastro Único e outras bases de dados, a seleção e mobilização das famílias a serem beneficiadas é realizada pela comissão local, normalmente formada pelos conselhos municipais, sindicatos, igrejas, pastorais, entidades de classe e outros, e pela equipe técnica da entidade executora no município. Dessa forma, a participação da sociedade organizada na execução do programa é fundamental para que os objetivos sejam atingidos.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Cidadãos e Famílias</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Não é possível especificar</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="90" max="120" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Seleção e cadastramento das escolas e da comunidade escolar</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>CPF</item>
+					<item>NIS</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Na escola ou na própria comunidade da escola a ser beneficiada, podendo ser a sede do sindicato rural, secretaria municipal de educação ou assistência social, igreja, sede da associação comunitária, dentre outros.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Capacitações</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CPF</item>
+					<item>NIS</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Nas próprias escolas a serem atendidas e em locais definidos pela entidade executora, podendo ser: sede da associação comunitária, escolas da comunidade, igreja, dentre outros.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Implementação da tecnologia social.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>CPF</item>
+					<item>NIS</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>A própria escola a ser beneficiada pela tecnologia social.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1945"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Cidadania</item>
+		<item>Educação</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

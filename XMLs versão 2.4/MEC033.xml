@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa Basil Alfabetizado (PBA)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>PBA</item>
+	</nomes-populares>
+	<descricao>Apoio suplementar da União (técnico e financeiro) aos municípios, aos estados e ao Distrito Federal para abertura de turma de alfabetização de jovens e adultos.  
+O objetivo do Programa é universalizar a alfabetização de jovens e adultos com 15 anos ou mais de idade e promover a elevação de escolaridade desse public.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Cidadãos e Famílias</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Escolher fazer parte de uma turma de alfabetização</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>CPF</item>
+					<item>NIS</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>local onde acontecem as turmas de alfabetização</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Matricular-se no sistema public de ensino</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>A escola indica os documentos a serem apresentados</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Escola da rede pública de ensino</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/244"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

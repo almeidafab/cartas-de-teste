@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa de Aquisição de Alimentos – PAA
+Modalidade Compra com Doação Simultânea (PAA/CDS), executada pela Companhia Nacional de Abastecimento – CONAB.</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O Programa de Aquisição de Alimentos – PAA, modalidade Compra com Doação Simultânea, executada pela CONAB com recursos do MDS, é um programa por meio do qual o Governo Federal compra alimentos de cooperativas ou associações da agricultura familiar e os destina gratuitamente às pessoas em situação de insegurança alimentar e nutricional e àquelas atendidas pela rede socioassistencial e pelos equipamentos de alimentação e nutrição, como os restaurantes populares, bancos de alimentos e cozinhas comunitárias.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+	</solicitantes>
+	<segmentos-da-sociedade>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Participar da elaboração do projeto junto à Cooperativa ou Associação da Agricultura Familiar.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>(1) CNPJ; (2) cópia de RG e CPF do responsável legal; (3) cópia do comprovante de inscrição no Conselho Municipal de Assistência Social, no caso de entidade socioassistencial de direito privado.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Cooperativa ou Associação da agricultura familiar que esteja elaborando Proposta de Participação do PAA CONAB, modalidade Compra com Doação Simultânea.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Recebimento de alimentos do PAA na entidade</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Termo de Recebimento e Aceitabilidade (modelo do documento encontra-se disponível no sítio eletrônico da CONAB – Manual de Operações – MOC Título nº 30) •	Podem ser consultados em: •	http://mds.gov.br/assuntos/seguranca-alimentar/programa-de-aquisicao-de-alimentos-paa/programa-de-aquisicao-de-alimentos/compra-com-doacao-simultanea/compra-com-doacao-simultanea-conab •	http://www.conab.gov.br/conabweb/moc.php.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Endereço da própria entidade.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1945"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Certificação de Entidade Beneficente de Assistência Social - CEBAS</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>CEBAS</item>
+	</nomes-populares>
+	<descricao>A certificação, facultada às entidades e organizações da assistência social, é um instrumento que possibilita a entidade usufruir da isenção das contribuições sociais, tais como a parte patronal da contribuição previdenciária sobre a folha de pagamento, Contribuição Social sobre o Lucro Líquido – CSLL, Contribuição para o Financiamento da Seguridade Social – COFINS e Contribuição PIS/PASEP, permite ainda a priorização na celebração de contratualização/convênios com o poder público, entre outros benefícios. 
+Para obtenção do CEBAS a entidade deve realizar ações de acordo com as normativas da política de assistência social (Resolução CNAS nº 109/2009, 27/2011, 33/2011 e 34/2011 e outras) e cumprir requisitos definidos na Lei nº 12.101/2009 (inscrição no CMAS; realizar atendimento, assessoramento e defesa e garantia de direitos, de forma gratuita, continuada e planejada e universal; em funcionamento no mínimo 12 meses - CNPJ; apresentar documentos contábeis – Demonstrativo do Resultado do Exercício e Nota Explicativa).
+A Administração Pública (MDS) tem o prazo de 180 dias para analisar o pedido do CEBAS da entidade e/ou organização de entidade beneficente de assistência social a contar da data de protocolo do requerimento.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>I) Protocolo de requerimento do CEBAS - Atendimento no balcão do protocolo para recebimento do requerimento da certificação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Procuração do representante legal</item>
+					<item>requerimento do pedido de certificação, Demonstrativo do Resultado do Exercício, Nota Explicativa, Relatório de atividades, ata de eleição dos dirigentes</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Protocolo da Secretaria Nacional de Assistência Social</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>8007072003</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.mds.gov.br/webarquivos/arquivo/assistencia_social/cneas/Cartilha_passos_certificacao.pdf (cartilha passo a passo para certificação – orientações acerca do CEBAS)</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Setor de Múltiplas Atividades Sul, Trecho 3 Lote 1, Ed. The Union – CEP.: 70.610-635 – Brasília/DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Comunicação por meio de Ofício da emissão da decisão e publicação no Diário Oficial da União</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.in.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Endereço da entidade a ser notificada.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1945"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
