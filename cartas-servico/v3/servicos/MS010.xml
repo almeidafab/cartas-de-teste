@@ -14,6 +14,7 @@
 		<item>Órgãos e entidades públicas</item>
 	</segmentos-da-sociedade>
 	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias"/>
 		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
 	</tempo-total-estimado>
 	<etapas>
