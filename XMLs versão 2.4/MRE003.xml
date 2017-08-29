@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Emissão de passaportes diplomáticos e oficiais.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não.</item>
+	</nomes-populares>
+	<descricao>Trata-se da emissão de passaporte diplomático ou oficial às pessoas que fazem jus ao documento, nos termos do Regulamento de Documentos de Viagem anexo ao Decreto 5.978, de 4 de dezembro de 2006.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Empresas públicas ou de economia mista</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Fundações e autarquias de direito público</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Órgãos da administração direta</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>O órgão público apresenta, por meio de representante (em geral, contínuo), a documentação necessária à emissão do passaporte, que inclui ofício original da Assessoria Internacional ou do Gabinete da chefia máxima do órgão solicitante; RER original (Recibo de Entrega de Requerimento do formulário preenchido online com os dados do requerente do passaporte e da missão a ser desempenhada, com assinatura do requerente); foto 3x4 ou 5x7, recente, colorida e de fundo branco; cópia de documento de identidade com foto e que contenha a naturalidade do requerente; cópia de certidão de quitação eleitoral; e, no caso de menores de idade, autorização de emissão de passaporte para menores (a autorização deve ser, para atender a disposições legais, original e com firmas dos genitores ou responsáveis legais reconhecidas por autenticidade).</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Certidão de casamento</item>
+					<item>Comprovante de quitação eleitoral</item>
+					<item>Ofício do órgão solicitante e, quando pertinente, autorização de emissão de passaporte para menores.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Coordenação-Geral de Documentos de Viagem e, em determinados casos, Escritórios de Representação do Ministério das Relações Exteriores no Rio de Janeiro e São Paulo e postos da rede consular brasileiro no exterior.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>Parte do processo inclui o preenchimento de formulário online, no endereço https://formulário-autoridades.serpro.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Coordenação-Geral de Documentos de Viagem
+Ministério das Relações Exteriores
+Esplanada dos Ministérios - Bloco H
+CEP 70170-900
+Brasília - DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>O órgão solicitante retira, depois de 5 dias úteis, por meio de representante (em geral, contínuo), os passaportes impressos. O representante do órgão assina recibo de retirada dos documentos.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Comprovante do protocolo recebido na entrega dos documentos.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Coordenação-Geral de Documentos de Viagem e, em determinados casos, Escritórios de Representação do Ministério das Relações Exteriores no Rio de Janeiro e em São Paulo e postos da rede consular brasileira no exterior.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/263"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Relações Internacionais</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

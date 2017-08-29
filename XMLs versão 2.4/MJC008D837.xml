@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Pedido de Indenização  de Pessoas Tratadas Compulsoriamente  por  Hanseniase até 31/12/1986 (Lei 11.520/2007)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Pensão por Tratamento Compulsório de Hanseníase</item>
+	</nomes-populares>
+	<descricao>Requerimento de Pensão Especial (Lei 11.520/2007) de pessoas que foram isoladas para tratamento compulsório contra a Hanseníase em hospitais colônias  até 31 de dezembro de 1986.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Cidadãos e Famílias</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Não é possível especificar</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="90" max="120" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Encaminhamento de toda a documentação necessária.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Cópias de registros administrativos que comprovem a compulsoriedade de tratamento de hanseníase em hospitais colônias ate 31/12/1986</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Comissão Interministerial de Avaliação 
+SCS - B Quadra 9 Lote C - Edifício Parque Cidade Corporate
+Torre A - 8º Andar
+Asa Sul - Brasília - DF 
+70308-200</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Obtenção de Portaria de deferimento ou Ofício de indeferimento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/219925"/>
+	<areas-de-interesse>
+		<item>Cidadania</item>
+		<item>Previdência Social</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

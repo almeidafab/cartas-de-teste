@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>OEA - Operador Econômico Autorizado</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O Operador Econômico Autorizado (OEA) é  o interveniente em operação de comércio exterior envolvido na movimentação internacional de mercadorias a qualquer título que, mediante o cumprimento voluntário dos critérios de segurança aplicados à cadeia logística ou das obrigações tributárias e aduaneiras, conforme a modalidade de certificação, demonstre atendimento aos níveis de conformidade e confiabilidade exigidos pelo Programa Brasileiro de OEA.  Podem ser certificados os seguintes intervenientes da cadeia logística:
+I - o importador;
+II - o exportador;
+III - o transportador;
+IV - o agente de carga;
+V - o depositário de mercadoria sob controle aduaneiro;
+VI - o operador portuário ou aeroportuário; e
+VII - o despachante aduaneiro.
+Aos operadores certificados no Programa OEA, serão concedidos benefícios que se relacionem com a facilitação dos procedimentos aduaneiros, no País ou no exterior.
+As interações com o usuário são as seguintes:
+1- Requerente solicita o Serviço por meio do formulário SODEA, seguindo as orientações da RFB, e abre um Do ssiê Digital de Atendimento (DDA). ;
+2 - Após aberto o DDA, o Requerente da certificação OEA tem 30 dias para realizar a juntada da documentação necessária, podendo ser feita presencialmente, em qualquer unidade de atendimento da RFB, ou pela internet;
+3- Análise do pedido de certificação pelo Centro OEA e posterior Certificação como OEA ou indeferimento;
+4 - Monitoramento dos OEA para acompanhamento das recomendações feitas durante a certificação e também para acompanhamento permanente quanto ao cumprimento das condições de permanência no Programa OEA.
+Para maiores informações acerca da certificação OEA, ver Instrução Normativa RFB nº 1.598, de 9 de dezembro de 2015 ou acesse o Portal AEO na internet (http://idg.receita.fazenda.gov.br/orientacao/aduaneira/importacao-e-exportacao/oea/oea).</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Empresas privadas</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Requerente solicita o Serviço por meio do formulário SODEA, seguindo as orientações da RFB, e abre um Dossiê Digital de Atendimento (DDA).</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nesta primeira interação, o requerente precisa apresentar apenas o formulário SODEA preenchido. Se o documento for assinado por procurador, deve-se digitalizar também a procuração e os documentos de identificação do outorgante e do outorgado.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Presencial - em qualquer unidade de atendimento da RFB.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Após aberto o DDA, o Requerente da certificação OEA tem 30 dias para realizar a juntada da documentação necessária, podendo ser feita presencialmente, em qualquer unidade de atendimento da RFB, ou pela internet.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Os documentos a serem juntados ao DDA de solicitação de certificação OEA são: Requerimento da Certificação OEA – Anexo I - para todas as modalidades; Questionário de Autoavaliação (QAA) respondido - Anexo II - para todas as modalidades;Documentos e evidências que comprovam as informações declaradas no QAA - para todas as modalidades; Relatório Complementar de Validação – Anexo III - para as modalidades OEA-C Nível 2 e OEA-Pleno, composto de 3 documentos (Mapas de Risco dos Critérios de Conformidade, Metodologia adotada e papéis de trabalho e Curriculum dos profissionais responsáveis). Observação: Ver IN RFB 1598/2015</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Em qualquer unidade de atendimento da RFB.
+Pela internet - Centro Virtual de Atendimento (e-CAC) da RFB - https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>Pela internet - Centro Virtual de Atendimento (e-CAC) da RFB - https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Análise do pedido de certificação pelo Centro OEA e posterior Certificação como OEA ou indeferimento. (Ver IN RFB 1598/2015)</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Documentos ou esclarecimentos referentes à certificação OEA, caso o que tenha sido protocolado esteja errado ou incompleto ou insuficiente.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>oea.df@rfb.gov.br ou e-mail institucional do servidor designado para fazer a análise de certificação</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Monitoramento dos OEA para acompanhamento das recomendações feitas durante a certificação e também para acompanhamento permanente quanto ao cumprimento das condições de permanência no Programa OEA.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Documentos solicitados nas recomendações feitas durante a certificação e outros exigidos pelo servidor designado para acompanhamento permanente do OEA certificado.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>oea.df@rfb.gov.br ou e-mail institucional do servidor designado para o acompanhamento</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Relações Internacionais</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

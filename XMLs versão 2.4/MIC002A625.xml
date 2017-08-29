@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Concessão de Ex-tarifário para bens de capital (BK) e bens de informática e telecomunicações (BIT)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Ex-Tarifário</item>
+	</nomes-populares>
+	<descricao>O serviço oferece às empresas que importam bens de capital (BK) e/ou bens de informática e de telecomunicações (BIT) a redução, temporária e excepcional, da alíquota do Imposto de Importação, desde que não exista produção nacional equivalente destes bens, e que estejam assinalados na Tarifa Externa Comum (TEC) como BK ou BIT
+As empresas interessadas no serviço precisam apresentar ao MDIC um pleito para concessão ou renovação de Ex-tarifário, por meio do qual é sugerida uma descrição para a identificação do bem, é apresentado o catálogo técnico do bem, e também são apresentadas outras informações da empresa e do projeto de investimento ao qual o bem fará parte. Havendo erros formais no preenchimento do pleito, solicita-se à empresa pleiteante, por e-mail, as correções necessárias. Estando o pleito devidamente preenchido, coloca-se a descrição proposta e o catálogo técnico em Consulta Pública, para que a indústria nacional possa se manifestar quanto à existência de produção nacional equivalente.
+As empresas nacionais que julgarem produzir um bem equivalente ao qual se pretende importar devem apresentar um documento indicando o bem que produz, assim como os documentos que comprovem essa produção (como notas fiscais, propostas técnicas, croquis). Sendo avaliada como pertinente a manifestação de uma empresa nacional, comunica-se à empresa pleiteante que existe a contestação daquela empresa nacional à concessão do Ex-tarifário, e solicita-se que, não concordando com a avaliação do MDIC, apresente argumentos que desqualifiquem a produção nacional como equivalente ao bem importado.
+Havendo a apresentação destas novas argumentações, realiza-se uma análise mais minuciosa do processo, podendo, inclusive, envolver a realização de reuniões entre as partes ou a realização de laudos técnicos para embasar a nova decisão do MDIC. Essa decisão é levada para defesa e votação no CAEx, o qual, por maioria simples, pode acatar ou refutar o parecer do MDIC. Havendo a manutenção da indicação de produção nacional por parte do CAEx, é oferecido ao pleiteante um prazo para apresentação de um novo recurso, que voltará a ser analisado pelo CAEx.
+Se nesse segundo recurso o CAEx manter seu entendimento de que existe produção nacional equivalente, é direcionado à Secretaria Executiva da CAMEX um parecer para ser pautado na reunião do GECEX propondo o indeferimento do pleito. Sendo acatado este parecer do CAEx, ocorre o indeferimento do pleito, mas ainda é permitido um último recurso da empresa pleiteante, agora perante a SE/CAMEX. Sendo apresentado novos argumentos pertinentes para uma nova avaliação dos membros do GECEX, o pleito volta a ser discutido. Não havendo retratação da 1º decisão, o pleito é definitivamente indeferido, e o pleiteante é comunicado quanto ao fim do processo.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Empresas privadas</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentação de pleito, em papel, para concessão ou renovação de Ex-tarifário</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Procuração do representante legal</item>
+					<item>Declaração de vínculo empregatício ou procuração registrada em cartório</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Protocolo do Ministério da Indústria, Comércio Exterior e Serviços</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Endereço para envio: Esplanada dos Ministérios, Bloco J, andar térreo, Brasília, DF, CEP 70.053.900</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Conferência da descrição publicada em Consulta Pública</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>sdp.extarifario@mdic.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/3162"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Indústria</item>
+		<item>Relações Internacionais</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

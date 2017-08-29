@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Retificar Licenças de Importação após o desembaraço da mercadoria</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Retificação de LI</item>
+	</nomes-populares>
+	<descricao>Para os casos de retificação de DI amparada por LI, após o desembaraço, em que o DECEX deve se manifestar, conforme previsto no art. 28 da Portaria SECEX nº 23/2011, em situações gerais, o importador deverá apresentar o pedido por meio de LI substitutiva registrada no SISCOMEX, com a alteração pretendida. O resultado da anuência na LI substitutiva via sistema corresponderá à manifestação do órgão acerca da retificação. No entanto, este procedimento não se aplica às seguintes situações, nas quais não é possível o registro de LI substitutiva: i) importação vinculada a ato concessório de Drawback; ii) importação que, no momento da solicitação de retificação, não esteja mais sujeita a licenciamento; e iii) importação que não foi originalmente objeto de licenciamento, mas a LI é exigida em face da retificação requerida. Nestes casos, o importador deverá encaminhar a solicitação mediante a anexação a um dossiê eletrônico no Portal Siscomex, observadas as instruções do “Manual Visão Integrada e Módulo Anexação" (disponível em http://portal.siscomex.gov.br/informativos/manuais).</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Empresas privadas</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Fundações e autarquias de direito público</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Órgãos da administração direta</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Registro da LI substitutiva no Siscomex ou solicitação via anexação a um dossiê eletrônico.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certificado Digital, no caso de LI substitutiva. No caso de utilização do Módulo Anexação, o extrato da Declaração de Importação e demais documentos que amparam a operação.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://portal.siscomex.gov.br/</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>resposta à exigências, quando houver.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>No caso de LI substitutiva, somente em caso de exigência, o importador deverá apresentar documentação que comprove a operação pleiteada. Em caso de pedido apresentado via dossiê eletrônico, o extrato da DI e demais documentos comprobatórios da operação realizada.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/3162"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Comércio e Serviços</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

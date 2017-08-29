@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Malha Fiscal IRPF - Pedido de Antecipação de Análise, Entrega de Documentos e/ou impugnação</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Malha Pessoa Física</item>
+	</nomes-populares>
+	<descricao>Possibilita a contribuintes pessoas físicas:
+a)	intimados a apresentar esclarecimentos sobre suas Declarações do Imposto sobre a Renda, em procedimento fiscal, identifiquem a relação de documentos que vão apresentar, organizem melhor essa relação de documentos, tentando evitar esquecimento ou engano;
+b)	cujas Declarações do Imposto sobre a Renda foram objeto de procedimento fiscal que encerrou com lançamento de ofício (por infrações à legislação tributária), apresentem contestação a esse lançamento, por meio de uma impugnação ou uma solicitação de retificação de lançamento. Neste caso, os contribuintes encontram um modelo padrão de impugnação/SRL, orientação e relação de documentos passíveis de apresentação para contestar o lançamento, inclusive selecionando o que vai contestar, se todo o lançamento ou parte dele. O contribuinte pode imprimir os modelos de SRL e/ou Impugnação, conforme o caso e a relação de documentos que vai juntar para fundamentar sua contestação.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Cidadãos e Famílias</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Estrangeiros</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Na primeira tela do serviço, o contribuinte identifica o tipo de serviço que deseja:
+Atendimento a Intimação ou Notificação de Lançamento do IRPF ou ainda Solicitar antecipação de análise de DIRPF 
+Identifica-se informando CPF e número do Documento e caracteres anti-robô
+No segundo passo, seleciona a documentação que vai apresentar, de acordo com o serviço indicado no primeiro passo.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Além do CPF, o Termo de Intimação para a qual deseja apresentar documento e Notificação de Lançamento que deseja contestar.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao> www.receita.fazenda.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Envio da declaração através do PGD</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.receita.fazenda.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Economia e Finanças</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

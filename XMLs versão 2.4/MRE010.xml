@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programas de Estudantes-Convênio (PEC)</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Divulgação dos Programas de Estudante-Convênio de Graduação (PEC-G) e de Pós-Graduação (PEC-PG): divulgação da existência e características dos Programas. Meios utilizados: página eletrônica da DCE (www.dce.mre.gov.br); confecção e envio, às representações diplomáticas brasileiras no exterior, de material impresso informativo dos Programas e das instituições de ensino superior participantes, para distribuição gratuita ao público interessado e uso em eventos de divulgação, como feiras e palestras em escolas; envio de recursos para participação das representações diplomáticas brasileiras em eventos para divulgação de oportunidades de cooperação educacional internacional; atendimento (presencial, por telefone e email), ao público interessado, incluindo candidatos em potencial, instituições de ensino superior brasileiras e governos estrangeiros.
+
+Concessão de passagem para Programas de Estudante-Convênio de Graduação (PEC-G) e de Pós-Graduação (PEC-PG): aquisição de passagem aérea de retorno ao país de origem do aluno que concluiu o curso por meio dos Programas e ao aluno que, por motivo de doença grave ou incurável que impeça a continuação dos estudos, não possa continuar nos Programas. O benefício deve ser solicitado pela instituição onde o estudante concluiu o curso, por meio de ofício endereçado à DCE, contendo as informações necessárias para efetuação da reserva de passagem. De posse do pedido, a DCE faz a reserva e a envia ao beneficiário por email, para conferência dos dados e anuência para emissão. O serviço é finalizado quando do envio do bilhete eletrônico ao beneficiário.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Estrangeiros</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Enviar pedido de passagem por email</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Certificado de conclusão de curso</item>
+					<item>CPF</item>
+					<item>Passaporte</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>dce@itamaraty.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Confirmar dados da reserva por email</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>dce@itamaraty.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/263"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

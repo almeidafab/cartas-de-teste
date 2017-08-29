@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Conduzir revisão de restituição de direito antidumping.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Revisão de restituição</item>
+	</nomes-populares>
+	<descricao>O procedimento consiste em examinar se a margem de dumping apurada no período de revisão de restituição é inferior ao direito vigente, com vistas a eventual restituição de direitos antidumping recolhidos em montante superior à margem supramencionada.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Empresas privadas</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1 – Apresentação da petição
+O usuário do serviço protocola, em meio eletrônico, a petição de revisão de restituição conforme requisitos do Decreto nº 8.058, de 2013. A petição escrita é protocolada no Sistema DECOM Digital – SDD, em conformidade com o disposto na Portaria SECEX nº 28, de 29 de julho de 2013. O endereço do SDD é http://decomdigital.mdic.gov.br .</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Petição com informações detalhadas do direito antidumping recolhido conforme o disposto no Decreto nº 8.058, de 2013. O protocolo no Sistema DECOM Digital – SDD exige a utilização de Certificado digital de pessoa física em conformidade com o disposto na Portaria SECEX nº 28, de 29 de julho de 2013.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://decomdigital.mdic.gov.br.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>2 – Edição de parecer de início, publicação de Circular SECEX de início e emissão de notificações
+O DECOM emite seu parecer para iniciar a revisão e publica a Circular SECEX de início do procedimento no Diário Oficial da União (DOU). Após a publicação da Circular são emitidas as notificações comunicando o usuário (peticionário) e as demais partes interessadas no processo do início da revisão.
+O usuário não precisa realizar nenhuma atividade nessa etapa, cabendo-lhe apenas receber os documentos emitidos pelo DECOM.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; o usuário pode acessar o parecer de início nos autos eletrônicos do processo e a Circular SECEX de início no DOU. As notificações de início são encaminhadas por ofício, via correspondência, para o usuário e demais partes interessadas.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://decomdigital.mdic.gov.br/</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>3 – Instrução do processo
+Em várias fases do processo o usuário tem a oportunidade de se manifestar, protocolando documentos com suas alegações e com as informações que julgar necessárias à sua participação na revisão.
+O usuário pode protocolar elementos de prova durante a condução da revisão. Os prazos da revisão estão dispostos no Decreto nº 8.058, de 2013.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; o usuário pode protocolar os documentos e informações que desejar, respeitando o prazo de conclusão da revisão. O prazo está previsto no Decreto nº 8.058, de 2013.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://decomdigital.mdic.gov.br/</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>4 - Edição de parecer de determinação final e emissão de notificações
+O DECOM emite seu parecer de determinação final e, em caso de determinação positiva, notificará a Secretaria da Receita Federal do Brasil do Ministério da Fazenda a respeito da margem de dumping apurada para o período da revisão de restituição. Alcançando a determinação final, o DECOM emite as notificações comunicando o usuário (peticionário) e as demais partes interessadas do resultado da revisão.
+O usuário não precisa realizar nenhuma atividade nessa etapa, cabendo-lhe apenas receber os documentos emitidos pelo DECOM.
+A revisão será concluída no prazo de dez meses, contado da data do início da revisão.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; o usuário pode acessar o parecer de determinação final nos autos eletrônicos do processo. As notificações são encaminhadas por ofício, via correspondência, para o usuário e demais partes interessadas.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://decomdigital.mdic.gov.br/</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/3162"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Conduzir avaliação de escopo.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Avaliação de escopo.</item>
+	</nomes-populares>
+	<descricao>Exame para determinar se um produto está sujeito a uma medida antidumping em vigor. O resultado da avaliação é tornado público pela Câmara de Comércio Exterior (CAMEX); dessa forma, cabe ressaltar que a entrega do resultado da revisão, ou seja, a declaração de sujeição ou não do produto a medida antidumping em vigor, não é realizada pelo DECOM diretamente ao usuário, uma vez que a atividade do DECOM se restringe a conduzir a avaliação e a informar o resultado à CAMEX.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Empresas privadas</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="90" max="120" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1 – Apresentação da petição
+O usuário do serviço protocola, em meio eletrônico, a petição de avaliação de escopo. A petição escrita é apresentada conforme o disposto na Portaria SECEX nº 42/2016; e protocolada no Sistema DECOM Digital – SDD, em conformidade com o disposto na Portaria SECEX nº 28, de 29 de julho de 2013. O endereço do SDD é http://decomdigital.mdic.gov.br.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Petição com informações detalhadas do(s) produto(s), conforme o disposto na Portaria SECEX nº 42/2016. O protocolo no Sistema DECOM Digital – SDD exige a utilização de Certificado digital de pessoa física em conformidade com o disposto na Portaria SECEX nº 28, de 29 de julho de 2013.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://decomdigital.mdic.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>2 – Pedido de informações complementares à petição
+O usuário é demandado a apresentar informações complementares à sua petição de avaliação de escopo. Cabe a ele responder a perguntas encaminhadas pelo DECOM e apresentar dados adicionais àqueles constantes da petição. 
+A petição é analisada em 15 dias. O usuário tem o prazo de 5 dias para fornecer as informações solicitadas pelo DECOM, contados da data de ciência da comunicação, que é de 5 dias da data de expedição do ofício. O DECOM analisa as informações complementares em 10 dias, a contar da data do recebimento dos dados. 
+Os prazos de cada etapa da avaliação de escopo estão dispostos no Decreto nº 8.058, de 2013.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; o usuário deve protocolar as respostas às solicitações do DECOM, as quais variam de caso a caso.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://decomdigital.mdic.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>3 – Edição de parecer de início, publicação de Circular SECEX de início e emissão de notificações
+O DECOM emite seu parecer para iniciar a avaliação de escopo e publica a Circular SECEX de início do procedimento no Diário Oficial da União (DOU). Após a publicação da Circular são emitidas as notificações comunicando o usuário (peticionário) do início da avaliação.
+O usuário não precisa realizar nenhuma atividade nessa etapa, cabendo-lhe apenas receber os documentos emitidos pelo DECOM.
+Não há prazo estabelecido no Decreto nº 8.058, de 2013, para conclusão dessa etapa. O prazo é estabelecido pelo DECOM, conforme as peculiaridades da avaliação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; o usuário pode acessar o parecer de início nos autos eletrônicos do processo e a Circular SECEX de início no DOU. A notificação de início é encaminhada por ofício, via correspondência, para o usuário.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>4 – Instrução do processo
+Em várias fases do processo o usuário tem a oportunidade de se manifestar, protocolando documentos com suas alegações e com as informações que julgar necessárias à sua participação na avaliação.
+Serão concedidos trinta dias contados da data de início da avaliação para que as partes interessadas possam manifestar-se por escrito ou submeter elementos de prova.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; o usuário pode protocolar os documentos e informações que desejar, respeitando os prazos das diferentes fases da avaliação de escopo. Esses prazos e fases variam de caso a caso, estando todos previstos no Decreto nº 8.058, de 2013.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://decomdigital.mdic.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>5 - Edição de parecer de determinação final e emissão de notificações
+O DECOM emite seu parecer de determinação final e encaminha para a Câmara de Comércio Exterior – CAMEX (órgão responsável pela aprovação e publicação do ato contendo o resultado da avaliação de escopo). Quando a CAMEX publica sua Resolução de encerramento da avaliação, o DECOM emite as notificações comunicando o usuário (peticionário) e as demais partes interessadas no processo do resultado da avaliação.
+O usuário não precisa realizar nenhuma atividade nessa etapa, cabendo-lhe apenas receber os documentos emitidos pelo DECOM.
+A avaliação será concluída no prazo de 60 dias, contado da data do início, caso a conclusão final seja alcançada apenas com as informações da petição; e no prazo de 120 dias, contado da data do início da avaliação, caso não seja possível uma conclusão final apenas com base nas informações constantes da petição.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; o usuário pode acessar o parecer de determinação final nos autos eletrônicos do processo e a Resolução CAMEX de encerramento no DOU. As notificações são encaminhadas por ofício, via correspondência, para o usuário e demais partes interessadas.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/3162"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Legalização de documentos emitidos no Brasil para validade em países estrangeiros que não tenham aderido à Convenção da Apostila da Haia.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>"Legalização", "legalização de documentos".</item>
+	</nomes-populares>
+	<descricao>Para que um documento, público ou particular, emitido no Brasil (em território brasileiro) tenha validade em um país estrangeiro que não seja parte da Convenção da Apostila, ele deve ser legalizado no Setor de Legalizações da Coordenação-Geral de Legalizações e da Rede Consular Estrangeira (CGLEG), em Brasília-DF, ou em um dos nove Escritórios de Representação do Ministério das Relações Exteriores localizados nas capitais dos seguintes estados da federação: Rio de Janeiro, São Paulo, Minas Gerais, Rio Grande do Sul, Paraná, Santa Catarina, Pernambuco, Bahia e Amazonas. O serviço de legalização de documentos brasileiros destinados a produzir efeitos no exterior é regulamentado pela Portaria nº 656, do Ministério das Relações Exteriores, de 29 de novembro de 2013. O ato de legalização consistirá EXCLUSIVAMENTE na conferência do sinal público pelo funcionário responsável e sua atestação mediante a aposição de carimbo ou etiqueta oficiais e firma desse funcionário. O sinal público é a marca cartorial, ou seja, a assinatura dos notários e escreventes.
+O ato de legalização não constitui validação ou reconhecimento do conteúdo, da forma ou da(s) autoridade(s) emitente(s) do documento assim legalizado.
+Conforme a natureza do documento, serão exigidos procedimentos específicos.
+Não serão legalizados documentos que consubstanciem ato jurídico contrário à legislação brasileira.
+O serviço de legalização de documentos para fins exclusivos de produzir efeitos no exterior é prestado, tanto pelo Setor de Legalizações da CGLEG, quanto pelos Escritórios Regionais de Representação do MRE, em caráter estritamente voluntário e gratuito.
+Os documentos a serem legalizados deverão estar na língua portuguesa, preferencialmente. Podem ser legalizados documentos bilíngues, desde que um dos idiomas seja o português. Caso sejam redigidos em língua estrangeira, deverão ser acompanhados, necessariamente, por tradução pública juramentada para o português.
+Após a "legalização" do documento, ainda será necessário proceder à "consularização", serviço prestado pela Representação Consular do país ao qual o documento se destina, e de exclusiva responsabilidade das autoridades daquele país.
+Observe-se que, com a entrada em vigor da Convenção da Apostila, os documentos destinados a países que fazem parte dessa convenção devem ser "apostilados" em cartórios de capitais. Este serviço é de competência da Corregedoria Nacional de Justiça, órgão do Conselho Nacional de Justiça (CNJ).</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Cidadãos e Famílias</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Estrangeiros</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Empresas privadas</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Empresas públicas ou de economia mista</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Fundações e autarquias de direito público</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Órgãos da administração direta</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Estados e municípios</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Usuário dirige-se ao Setor de Legalizações em Brasília ou em uma das nove capitais onde há Escritórios de Representação do MRE, apresenta o(s) documento(s) que deseja legalizar.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>o documento que ele deseja legalizar para que valha em outro país, podendo ser qualquer documento.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Setor de Legalização de Documentos da Coordenação-Geral de Legalizações e da Rede Consular Estrangeira, do Ministério das Relações Exteriores, ou Escritórios de Representação do MRE nos Estados.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Coordenação-Geral de Legalizações e da Rede Consular Estrangeira, do Ministério das Relações Exteriores, Esplanada dos Ministérios, Bloco H, Anexo I, térreo, 70170-900, Brasília-DF,</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Usuário retorna ao Setor de Legalização de Documentos para buscar seu(s) documento(s) legalizado(s), ou então recebe os documentos pelos Correios.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>protocolo do pedido de legalização</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Setor de Legalização de Documentos da Coordenação-Geral de Legalizações e da Rede Consular Estrangeira, do Ministério das Relações Exteriores</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Coordenação-Geral de Legalizações e da Rede Consular Estrangeira, do Ministério das Relações Exteriores, Esplanada dos Ministérios, Bloco H, Anexo I, Térreo, 70170-900, Brasília-DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/263"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Comércio e Serviços</item>
+		<item>Educação</item>
+		<item>Relações Internacionais</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

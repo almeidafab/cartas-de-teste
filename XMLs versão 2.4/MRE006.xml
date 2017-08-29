@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Carteira de Matrícula Consular - CMC</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Matrícula Consular</item>
+	</nomes-populares>
+	<descricao>Trata-se do registro, junto à Repartição Consular brasileira, de brasileiro residente no exterior, com informações pessoais e de contato. Ao realizar o registro da Carteira de Matrícula Consular, o brasileiro recebe uma carteira, como uma identidade, que, em alguns países, serve de documento de identificação. Para solicitar o registro ou a emissão de uma Carteira de Matrícula Consular, é possível fazer o agendamento junto à Repartição Consular responsável pela jurisdição onde reside o cidadão, ou, em alguns casos, basta o comparecimento à Repartição Consular para solicitar o serviço. As interações podem variar nas mais de 195 Repartições Consulares espalhadas pelo mundo, onde o serviço da CMC for solicitado, podendo ser entregue na hora, ou posteriormente, com a retirada ou envio pelos correios.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Cidadãos e Famílias</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Cidadãos e famílias no exterior</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Agendar atendimento: agendamento eletrônico ou por outro meio não presencial para atendimento na repartição consular. Alternativamente, se a Carteira de Matrícula Consular é feita pelos correios, haverá apenas o envio da documentação necessária para a emissão da CMC.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>CPF</item>
+					<item>Passaporte</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>Página de internet da Repartição Consular (Embaixada ou Consulado) responsável pela jurisdição onde o cidadão reside.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Comparecimento à Repartição Consular, para realização do serviço. Alternativamente, se o serviço foi feito pelos correios, o cidadão deverá receber a Carteira de Matrícula Consular no local indicado.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Repartição Consular</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Recebimento da Carteira de Matrícula Consular pelos correios. Alternativamente, se a solicitação foi feita pelos correios, não há a terceira interação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/263"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Relações Internacionais</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

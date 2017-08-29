@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Registro Profissional</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Sim, é conhecido popularmente por Drt.</item>
+	</nomes-populares>
+	<descricao>O MTb expede um número de registro profissional que é impresso no cartão de registro profissional, assim, o interessado em obter o registro profissional deve acessar o Sistema Informatizado de Registro Profissional – Sirpweb e proceder com o preenchimento da solicitação virtualmente.
+
+Ao final do preenchimento dos dados, o referido Sistema apresentará para a impressão o “Requerimento de registro profissional", que conterá, além dos dados informados pelo interessado, a lista de documentos que deverá ser entregue na Unidade Regional deste Ministério para análise.
+
+ Após a entrega da documentação na respectiva Unidade, o requerente deve acompanhar o andamento do seu pedido, bem como proceder com a impressão do seu cartão de registro profissional, por meio do próprio Sirpweb.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante><tipo>Cidadãos e Famílias</tipo>
+		<requisitos/>
+		</solicitante>
+		<solicitante><tipo>Estrangeiros</tipo>
+		<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>solicitar agendamento e preencher o requerimento de registro profissional</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://portal.mtps.gov.br/delegacias/df/sobre-o-sistema-informatizado-do-registro-profissional.htm</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>comparecer a Unidade de atendimento do Ministério do Trabalho e entregar a documentação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de casamento</item>
+					<item>Certificado de conclusão de curso</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>Diploma</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Na unidade de atendimento do Ministério do Trabalho agendada previamente ou na unidade mais próxima da residência do requerente.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Acompanhar a análise do pedido e imprimir o cartão de registro profissional.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://portal.mtps.gov.br/delegacias/df/sobre-o-sistema-informatizado-do-registro-profissional.htm</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2844"/>
+	<areas-de-interesse>
+		<item>Trabalho</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

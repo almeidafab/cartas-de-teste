@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>PROVITA</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Acolhimento, transferência de território, proteção e reinserção social são algumas das ações realizadas pelo PROVITA.  Para tanto, o PROVITA paga aluguel, subsídios mensais para alimentação, transporte, cuidados pessoais. Apoia no acesso seguro às políticas públicas.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+	</solicitantes>
+	<segmentos-da-sociedade>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitação de proteção ; pode ser feita em qualquer instituição do Governo e da sociedade civil, além de Ministérios Públicos e Poder Judiciário. Encaminhamento: Ministério Público ouve a testemunhas independentemente de quem a encaminhe ao serviço de proteção. O encaminhamento é feito à Coordenação - Geral de Proteção a Testemunhas, que por sua vez, aciona a equipe técnica do Programa de Proteção Federal, para iniciar a triagem; Após a triagem, é feito um parecer para apreciação do Conselho Deliberativo. Após a aprovação de inclusão, o cidadão /testemunhas, é incluído no Programa de Proteção a Testemunhas - PROVITA</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Geralmente a qualificação das testemunhas encaminhadas encontram-se em documentos oficiais</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Junto ao Ministério Público, Poder Judiciário, Autoridades Policiais. As vítimas e testemunhas solicitam proteção a estes órgão e o PROVITA é acionado pela Coordenação - Geral de Proteção a Testemunhas, para início do atendimento.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Participar de processos de entrevistas com a equipe técnica do PROVITA</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Em locais sigilosos, devido ao fato de se tratar de pessoas ameaçadas</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Traslado para nova cidade, distante do local dos fatos denunciados e que originaram  a ameaça que justificou o ingresso no PROVITA</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Os atendimentos após a inclusão definitiva no PROVITA passam a ocorrer na residência do próprio usuário. Os atendimentos serão realizados por meio de equipe técnica, até o momento do desligamento da testemunha, conforme disposto na Lei nº 9.807/99.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/219925"/>
+	<areas-de-interesse>
+		<item>Cidadania</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
