@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Requerer Autorização para Aquisição ou Funcionamento de Sociedades Seguradoras, de Capitalização, Resseguradoras Locais e Entidades Abertas de Previdência Complementar</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Conceder autorização de aquisição ou funcionamento para sociedades seguradoras, de capitalização, resseguradoras locais e entidades abertas de previdência complementar.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="90" max="120" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1) SOLICITA AUTORIZAÇÃO;
+2) CONCEDIDA AUTORIZAÇÃO.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidões da Receita Federal</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de renda</item>
+					<item>Contrato Social</item>
+					<item>FGTS</item>
+					<item>Registro da Junta Comercial</item>
+					<item>1 - Requerimento subscrito por representante do grupo organizador, no caso de sociedade em constituição, ou por administradores cuja representatividade seja reconhecida pelo estatuto social, no caso de entidade em funcionamento. 2 - Relação dos documentos encaminhados (checklist). 9 - Organograma completo do grupo econômico, contendo a identificação de todas as pessoas jurídicas com o número de inscrição no Cadastro Nacional de Pessoa Jurídica (CNPJ), ou, caso estrangeira, com o nome do país onde se localiza a sede e respectivos percentuais de capital votante e total detidos ou declaração de que a entidade não pertence a um grupo econômico. 10 - Indicação da forma pela qual o controle societário da entidade será exercido. 11 - Identificação da origem dos recursos a serem utilizados na operação. 12 - Folhas completas de exemplar dos jornais em que foi publicada a declaração de propósito. 13 - Demonstrações financeiras dos dois últimos exercícios das pessoas jurídicas prospectivas controladoras diretas ou indiretas, exceto quando se tratar de entidade autorizada a funcionar pela SUSEP, auditado por auditor independente devidamente registrado na Comissão de Valores Mobiliários CVM) ou documento equivalente, no caso de pessoa jurídica sediada no exterior. 14 - Declarações de Ajuste Anual de Imposto de Renda – Pessoa Física, das pessoas físicas prospectivas controladoras diretas ou indiretas, referentes aos dois últimos exercícios, com comprovante de encaminhamento à Secretaria da Receita Federal do Brasil ou documento equivalente, no caso de residente no exterior, que evidencie a renda anual auferida e listagem dos bens, direitos e ônus da pessoa física, com o respectivo valor. 15 - Minuta de acordo de acionistas ou quotistas envolvendo todos os níveis de participação societária, do qual deve constar cláusula de prevalência sobre qualquer outro não submetido à apreciação da SUSEP ou declaração de sua inexistência. 16 - Contrato de usufruto relativo às participações societárias dos prospectivos controladores envolvendo todos os níveis de participação societária ou declaração de sua inexistência. 17 - Indicação de outros investimentos mantidos no Brasil ou realizados com outras empresas brasileiras pelos prospectivos controladores diretos e indiretos ou declaração da inexistência de tais investimentos. 18 - Comprovante de regularidade do auditor independente na CVM. 19 - Plano de negócios, na forma definida pela SUSEP, ou resumo das alterações decorrentes da autorização pretendida. 20 - Identificação dos integrantes do grupo de controle e dos detentores de participação qualificada, com as respectivas participações societárias. 21 - Formulário cadastral. 22 - Declaração de que trata o inciso III do art. 5.º do Anexo I da Resolução n.º 330, de 2015. 23 - Autorização firmada pelos acionistas controladores e detentores de participação qualificada à Secretaria da Receita Federal do Brasil, para fornecimento à SUSEP das Declarações de Ajuste Anual do Imposto de Renda – Pessoa Física ou das Declarações de Informações Econômico-Fiscais da Pessoa Jurídica, conforme o caso, relativas aos dois últimos exercícios, para uso exclusivo no respectivo processo de autorização. 24 - Autorização firmada pelos acionistas controladores e detentores de participação qualificada à SUSEP, para acesso a informações a seu respeito em qualquer sistema público ou privado de cadastro e informações, inclusive processos e procedimentos judiciais ou administrativos e inquéritos policiais, para uso exclusivo no respectivo processo de autorização. 25 – Organograma do prospectivo controlador e mapa da composição do seu capital e das pessoas jurídicas que dele participam direta ou indiretamente. 26 - Atos constitutivos dos prospectivos controladores diretos e indiretos. 27 - Não objeção da autoridade supervisora estrangeira, quando se tratar de pessoa residente ou sediada no exterior. 28 - Demonstrativo de suficiência de capital, no caso de entidade sujeita a requisito de capital mínimo. 29 - Demonstrativo da fundamentação econômica do ágio ou deságio.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>RIO DE JANEIRO
+Sede:
+Av. Presidente Vargas, 730 - Centro
+Rio de Janeiro - RJ - CEP: 20071-900
+SÃO PAULO
+Rua Formosa, 367 - 26º andar - Edificio CBI
+São Paulo - Cep: 01049-000
+BRASÍLIA
+Setor Bancário Sul, Quadra 1 - BL.K - 13º andar - Ed. Seguradora
+Cep: 70093-900
+RIO GRANDE DO SUL
+Rua Coronel Genuíno, 421 - 11º andar
+Centro Histórico - Porto Alegre - Cep: 90010-350</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/235"/>
+	<areas-de-interesse>
+		<item>Economia e Finanças</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

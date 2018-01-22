@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Requerer Concessão da Depreciação Acelerada Incentivada e o Desconto da Contribuição para o PIS (Programa de Integração Social)/PASEP (Programa de Formação do Patrimônio do Servidor Público) e da COFINS (Contribuição para o Financiamento da Seguridade Social)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>não</item>
+	</nomes-populares>
+	<descricao>O serviço destina-se a pessoas jurídicas que já usufruem do Incentivo Fiscal de Redução de 75% do Imposto de Renda da Pessoa Jurídica, com a depreciação acelerada incentivada de bens adquiridos, para efeito de cálculo do imposto sobre a renda, e com o desconto dos créditos da Contribuição para o PIS/PASEP e da COFINS.O serviço possibilita à empresa a melhoria da sua rentabilidade e das condições de competitividade no mercado. O usuário deve entrar em contato com a unidade técnica para os encaminhamentos necessários.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Encaminhar toda a documentação necessária para exame e atendimento do benefício.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>trata-se de usuário pessoa jurídica</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>www.sudene.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/91144"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+		<item>Energia</item>
+		<item>Indústria</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

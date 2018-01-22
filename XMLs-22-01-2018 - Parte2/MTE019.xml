@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Certidão Declaratória de Transporte de Trabalhadores Rurais – CDTT</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>CDTT</item>
+	</nomes-populares>
+	<descricao>Para  o  transporte  de  trabalhadores  contratados  em  qualquer  atividade  econômica  urbana ou rural, recrutados  para  trabalhar  em  localidade  diversa  da  sua  origem,  é  necessária  a  comunicação  do  fato  ao  órgão  local  do  Ministério  do  Trabalho  e  Emprego  -  MTE  por  intermédio  da  Certidão  Declaratória  de Transporte de Trabalhadores - CDTT. Isso porque O  aliciamento  e  o  transporte  irregular  de  trabalhadores  para  localidade  diversa  de  sua  origem constituem, em tese, o crime previsto no art. 207,  do Decreto-Lei n.º 2.848, de 7 de dezembro de 1940 - Código Penal, quando se tratar de trabalhador nacional, e o crime previsto no art. 125, inciso XII, da  Lei n.º 6.815, de 19 de agosto de 1980, quando se tratar de trabalhador estrangeiro.A CDTT é preenchida em modelo próprio e entregue nas unidades descentralizadas do MTE, ou seja,  nas  Superintendências  Regionais  do  Trabalho  e Emprego  -  SRTE  -  ou  nas  Gerências  Regionais  do Trabalho e Emprego - GRTE da circunscrição dos trabalhadores recrutados, acompanhada de diversos documentos.Estando a documentação completa, a SRTE receberá uma via da CDTT, devolvendo outra via ao empregador, devidamente protocolada. O empregador, ou seu preposto, deverá manter à disposição da fiscalização, durante a viagem, no veículo  de  transporte  dos  trabalhadores,  e,  posteriormente,  no  local  da  prestação  de  serviços,  cópia  da CDTT, juntamente com a cópia da relação nominal dos  trabalhadores recrutados.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentação da CDTT com documentos no setor de protocolo.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Registro da Junta Comercial</item>
+					<item>I) cópia da inscrição no CNPJ ou CEI e CPF do empre gador;  II)  procuração  original  ou  cópia  autenticada,  conce dendo  poderes  ao  procurador  para  recrutar,  contrata r  trabalhadores e proceder ao encaminhamento da CDTT  junto à SRTE;  III) cópia do contrato social do empregador, quando  se tratar de pessoa jurídica;  IV) cópias do documento de identidade do procurador  e das habilitações dos condutores dos veículos;  V) cópias dos contratos individuais de trabalho,  VI)  cópia  do  certificado  de  registro  para  fretament o  da  empresa  transportadora,  emitido  pela  Agência  Nacional  de  Transportes  Terrestres  -  ANTT  ou  do  com provante  de  custeio  por  parte  do  empregador  de  transporte terrestre, aéreo ou fluvial efetuado por  linhas regulares;  VII) relação nominal dos trabalhadores recrutados,  com os números da Carteira de Trabalho e Previdênci a  Social - CTPS, e do Programa de Inte</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>SETOR DE PROTOCOLO.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/ 2844"/>
+	<areas-de-interesse>
+		<item>Segurança e Ordem Pública</item>
+		<item>Trabalho</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

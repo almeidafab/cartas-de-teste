@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Submeter Projetos de Consultas Prévias para o Fundo de Desenvolvimento da Amazônia–FDA</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O serviço permitirá o cadastramento de Consultas Prévias referentes a projetos de implantação, ampliação, modernização ou diversificação de empreendimentos produtivos, de acordo com as diretrizes e prioridades editadas pelo Ministério da Integração Nacional, na área de atuação da SUDAM, objetivando obter o financiamento do Fundo de Investimento da Amazônia – FDA. Este fundo tem a finalidade de assegurar recursos para a realização de investimentos em infraestrutura e serviços públicos e em empreendimentos produtivos com grande capacidade germinativa de novos negócios e novas atividades produtivas.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Realizar reuniões.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Área Técnica</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/91138"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+		<item>Economia e Finanças</item>
+		<item>Energia</item>
+		<item>Indústria</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Apoio para Projetos de Investimento por Meio do Fundo de Desenvolvimento do Nordeste (FDNE)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>SigFDNE</item>
+	</nomes-populares>
+	<descricao>O serviço destina-se a pessoas jurídicas interessadas na implantação, ampliação, modernização ou diversificação de empreendimentos na área de atuação da Sudene, podendo o fundo, desde que previamente aprovada a consulta-previa e na sequência, o projeto, participar com até 80% do investimento total, limitado a 90% do investimento fixo. Essas taxas são das mais atrativas do mercado, o que possibilita ao negócio, com um crédito mais adequado, rentabilidade, competitividade e proximidade de mercados consumidores com potencialidade na Região e nos continentes Europeu, Africano e Norte americano a depender da natureza do negócio. O usuário deve entrar em contato com a unidade técnica para os encaminhamentos necessários.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Cadastrar usuário - Pessoa Física e Pessoa Jurídica, que habilita usuário para em seguida cadastrar consulta prévia no SigFDNE.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Comprovante de renda</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>FGTS</item>
+					<item>Procuração do representante legal</item>
+					<item>Registro da Junta Comercial</item>
+					<item>Demonstrações Financeiras, Certidões de Regularidade Fiscal - Estados e Municípios.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Protocolo Geral da SUDENE, Diretoria de Gestão de Fundos, Incentivos e de Atração de Investimentos e Unidades Administrativas dessa Diretoria diretamente relacionadas ao serviço.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.sudene.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>fdne@sudene.gov.br e outros.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Av. Domingos Ferreira, 1967 - Boa Viagem - Edf. Souza Melo Tower
+51011-051 - Recife – PE.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Usuário é cientificado da aprovação, indeferimento ou devolução da consulta prévia.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.sudene.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>fdne@sudene.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Solicitar autorização ao Agente Operador (Banco Oficial Federal) para apresentar o projeto definitivo para fins de análise.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>FGTS</item>
+					<item>Procuração do representante legal</item>
+					<item>Registro da Junta Comercial</item>
+					<item>a critério do agente operador</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Agência Bancária e outras unidades de cada Banco, dependendo do porte do empreendimento.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Empresa apresenta o projeto ao Agente Operador que  irá realizar a análise técnico-econômico-financeira e de risco do projeto. Caso o Agente Operador aprove o projeto, este será submetido à manifestação da Diretoria Colegiada da SUDENE, que decidirá quanto à participação do FDNE.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Comprovante de renda</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>FGTS</item>
+					<item>Procuração do representante legal</item>
+					<item>Registro da Junta Comercial</item>
+					<item>A critério do Agente Operador.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Agência Bancária ou outra Unidade do Agente Operador.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Agente Operador envia Relatório de Resultado da Análise do Projeto para apreciação da Sudene</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Aprovação/Indeferimento do Financiamento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.sudene.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>fdne@sudene.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Contratação do Agente Operador</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Contrato Assinado pelos representantes legais do Agente Operador</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Contrato de Financiamento do FDNE entre Empresa e Agente Operador</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>A critério do agente operador</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Agência Bancária ou outra Unidade do Agente Operador.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Empresa apresenta pedido de liberação de recursos ao Agente Operador, após a contratação do financiamento.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certidões da Receita Federal</item>
+					<item>FGTS</item>
+					<item>Certidões de Regularidade Fiscal - Estado e Município, Relatório de Desempenho do Empreendimento, Pedido de Liberação e outros documentos exigidos pelo Agente Operador</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Agente Operador analisa RDE e pedido de liberação da empresa e encaminha proposta de liberação à Sudene</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certidões da Receita Federal</item>
+					<item>FGTS</item>
+					<item>Certidões de Regularidade Fiscal - Estado e Município e outros a critério do Agente Operador</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Agência Bancária ou outra unidade do Agente Operador</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/91144"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Agropecuária</item>
+		<item>Comunicações</item>
+		<item>Defesa Nacional</item>
+		<item>Educação</item>
+		<item>Energia</item>
+		<item>Esporte e Lazer</item>
+		<item>Indústria</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Relações Internacionais</item>
+		<item>Saneamento</item>
+		<item>Saúde</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

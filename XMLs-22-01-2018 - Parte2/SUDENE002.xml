@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Requerer Concessão do Incentivo Fiscal do Reinvestimento do Imposto de Renda da Pessoa Jurídica</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>NÃO</item>
+	</nomes-populares>
+	<descricao>O serviço destina-se a pessoas jurídicas com empreendimento em operação na área de atuação da SUDENE, com o reinvestimento de 30% (trinta por cento) do Imposto devido, em projetos de modernização ou complementação de equipamento, até o ano de 2018. O serviço possibilita à empresa usufruir de condições diferenciadas quando opta por se instalar na área de atuação da SUDENE, permitindo-lhe a melhoria da sua rentabilidade e das condições de competitividade no mercado. Além disso, gera outros efeitos que orbitam no entorno, como a ampliação dos empregos e o aumento da receita tributária do município e do estado aonde se localiza, além dos próprios impostos federais. O usuário deve entrar em contato com a unidade técnica para os encaminhamentos necessários.O usuário deve entrar em contato com a unidade técnica para os encaminhamentos necessários.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>ENCAMINHAR OS FORMULARIOS DEVIDAMENTE PREENCHIDOS.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>CERTIDÕES, COMPROVANTES DE DEPÓSITO NO BANCO DO NORDESTE, INFORMAÇÃO SOBRE O BEM A SER ADQUIRIDO E DADOS GERAIS DA EMPRESA.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SUPERINTENDENCIA DO DESENVOLVIMENTO DO NORDESTE
+AV. ENGENHEIRO DOMINGOS FERREIRA 1967 BOA VIAGEM, RFECIFE, PERNAMBUCO
+CEP 51.111-021</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/91144"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+		<item>Comunicações</item>
+		<item>Energia</item>
+		<item>Indústria</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Saneamento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>SISTEMA NACIONAL DE EMPREGO - SINE</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>CENTRO DE ATENDIMENTO AO TRABALHADOR (CAT)</item>
+		<item>POSTOS DE ATENDIMENTO AO TRABALHADOR (PAT)</item>
+		<item>UNIDADE DE ATENDIMENTO AO TRABALHADOR (UAT)</item>
+		<item>UNIDADE DE ATENDIMENTO</item>
+	</nomes-populares>
+	<descricao>Serviços de trabalho, emprego e renda fornecidos aos cidadãos que buscam o SINE para:- emissão de Carteira de Trabalho,- cadadatro no SINE/- busca de vagas de eprego;- cadastro de vagas pelo empregador;- habilitação ao seguro desemprego;- orientação profissional;- informações diversas.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Cadastro no sistema mais emprego - para busca de vagas.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>NIT / PIS / PASEP</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Postos de atendimento do SINE.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>maisemprego.mte.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="aplicativo-movel">
+						<descricao>Em desenvolvimento para Android e iOS</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Caso ele tenha sido encaminhado para uma vaga de emprego em sua primeira interação, o trabalhador ou empregador deve retornar com a carta de encaminhamento.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CPF</item>
+					<item>NIT / PIS / PASEP</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Posto de atendimento do SINE</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/ 2844"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Comércio e Serviços</item>
+		<item>Economia e Finanças</item>
+		<item>Educação</item>
+		<item>Indústria</item>
+		<item>Segurança e Ordem Pública</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Previdência Social</item>
+		<item>Trabalho</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

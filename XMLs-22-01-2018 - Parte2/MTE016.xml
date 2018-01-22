@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>INSTRUMENTO COLETIVO DE TRABALHO - ICT, ACORDO COLETIVO DE TRABALHO - ACT, CONVENÇÃO COLETIVA DE TRABALHO - CCT, MEDIAÇÃO.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>SISTEMA MEDIADOR</item>
+		<item>MEDIADOR</item>
+		<item>INSTRUMENTO COLETIVO</item>
+		<item>ACORDO COLETIVO</item>
+		<item>CONVENÇÃO COLETIVA</item>
+		<item>TERMO ADITIVO</item>
+	</nomes-populares>
+	<descricao>ESTE SERVIÇO DESTINA-SE A ELABORAÇÃO, PROTOCOLO, REGISTRO E CONSULTA A INSTRUMENTOS COLETIVOS DE TRABALHO; É POSSÍVEL SOLICITAR MEDIAÇÃO PARA DIRIMIR CONFLITOS E FORMALIZAR INSTRUMENTOS COLETIVOS DE TRABALHO.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>ENTIDADES SINDICAIS</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>ELABORAÇÃO E TRANSMISSÃO DE INSTRUMENTO COLETIVO DE TRABALHO</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+					<item>REGISTRO DE ENTIDADE SINDICAL</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>PONTO DE ATENDIMENTO DO MINISTÉRIO DO TRABALHO</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>158.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.trabalho.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>mediador.srt@mte.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Esplanada dos Ministério - Bloco F, Ministério do Trabalho sala 449 - Brasilia DF CEP 70056900</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/ 2844"/>
+	<areas-de-interesse>
+		<item>Trabalho</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

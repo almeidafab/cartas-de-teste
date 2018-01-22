@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Requerer Registro de Corretores de Seguros</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Conceder registro para atuação como corretor de seguros, capitalização ou previdência complementar aberta.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1) Solicita o cadastramento de corretor de seguros encaminhando os documentos pertinentes;
+2) Recebe a autorização para intermediar seguros entre a sociedade e as seguradoras autorizadas.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certificado de conclusão de curso</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de quitação eleitoral</item>
+					<item>CPF</item>
+					<item>Diploma</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://www2.susep.gov.br/safe/menumercado/CadastroCorretores/inicioPesFis.asp
+https://www2.susep.gov.br/safe/menumercado/CadastroCorretores/inicioPesFis.asp?modulo=RF
+https://www2.susep.gov.br/safe/menumercado/CorretoresComum/Acesso/login.asp?modulo=AF
+https://www2.susep.gov.br/safe/menumercado/Carteiras/PreLoginCarteira.asp</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/235"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

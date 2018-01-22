@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Serviço de Cadastro no Programa de Alimentação do Trabalhador</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Cadastro do PAT</item>
+	</nomes-populares>
+	<descricao>Preenchimento de formulários eletrônicos por parte de pessoas jurídicas empregadoras (empresas beneficiárias, empresas fornecedoras de alimentação e empregadores individuais com CEI) e de profissionais habilitados em nutrição que, ao final do cadastro, têm adesão automática no Programa, com recebimento de  comprovante de inscrição ou registro via sistema.No caso de empresa prestadora de serviço de alimentação coletiva que participam do PAT emitindo documentos de legitimação (cartões eletrônicos e vouchers de vale alimentação ou refeição), o cadastramento é feito com abertura de processo em que conste documentação previamente encaminhada pela empresa, que deve ser analisada e, caso aprovada, tem cadastramento no sistema feito pelo órgão.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empregadores individuais com CEI.</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Cadastramento automática de informações no sistema ou, no caso de empresas prestadoras de serviço de alimentação coletiva (cartões eletrônicos e vaouchers de vale alimentação e refeição), encaminhamento de documentação com requerimento de registro (cujo tempo para conclusão não é estimado).</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>TOs documentos acima referidos referem-se apenas às empresas prestadoras que ainda devem apresentar: Contrato com profissional legalmente habilitado em nutrição para atuar como responsável técnico, mídias físicas de documentos de legitimação, declaração sobre mecanismos de segurança contra fraudes, declarações sobre filiais, sobre abrangência de atuação, além de outros dados da empresa, previstos em portaria específica.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>pat.mte.gov.br/</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Esplanada dos MinistériosAnexo B do Bloco F - 1ª Andar, Sala 150Brasília-DF - CEP 70059-900</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/ 2844"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Previdência Social</item>
+		<item>Trabalho</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

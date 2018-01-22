@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Cadastramento de Resseguradores Admitidos e Eventuais</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Conceder autorização para operação, no País, de sociedades resseguradoras estrangeiras.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1) SOLICITAR CADASTRO;
+2)CONFIRMAR CADASTRAMENTO.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidões da Receita Federal</item>
+					<item>Certificado de antecedentes criminais</item>
+					<item>Contrato Social</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>RIO DE JANEIRO
+Sede:
+Av. Presidente Vargas, 730 - Centro
+Rio de Janeiro - RJ - CEP: 20071-900
+SÃO PAULO
+Rua Formosa, 367 - 26º andar - Edificio CBI
+São Paulo - Cep: 01049-000
+BRASÍLIA
+Setor Bancário Sul, Quadra 1 - BL.K - 13º andar - Ed. Seguradora
+Cep: 70093-900
+RIO GRANDE DO SUL
+Rua Coronel Genuíno, 421 - 11º andar
+Centro Histórico - Porto Alegre - Cep: 90010-350</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/235"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Economia e Finanças</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

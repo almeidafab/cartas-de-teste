@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Cadastro dos Prestadores de Serviços Turísticos – Cadastur</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Cadastur</item>
+		<item>Cadastro na Embratur</item>
+	</nomes-populares>
+	<descricao>O cadastro permite ao prestador atuar legalmente, de acordo com a Lei do Turismo, por meio da emissão do Crachá de guia de turismo.O exercício regular da atividade de Guia de Turismo depende de prévia realização de curso técnico de formação profissional e de cadastro junto ao Ministério do Turismo, válido por cinco anos.O interessado que solicitar cadastro junto ao Ministério será classificado na categoria de Guia de Turismo para a qual estiver habilitado, desde que comprovada esta condição, mediante apresentação de certificado ou diploma de conclusão de curso específico de educação profissional de nível técnico.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Entrega de documentosSolicitação e preenchimento de cadastro online (www.cadastur.gov.br)</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certificado de conclusão de curso</item>
+					<item>Comprovante de quitação eleitoral</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Órgãos Oficiais de Turismo nos 26 Estados do Brasil e no Distrito Federal</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>endereço eletrônico dos Órgãos Oficiais de Turismo nos 26 Estados do Brasil e no Distrito Federal</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Emissão de certificado e coleta de crachá identificador de guia de turismo</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Endereço dos Órgãos Oficiais de Turismo nos 26 Estados do Brasil e no Distrito Federal</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/72084"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

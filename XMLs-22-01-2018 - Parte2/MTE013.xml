@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Homologação de Plano de Cargos e Salários (PCS)</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Para que seja considerado válido o quadro de pessoal, de que trata o art. 461, § 2º, da CLT, é imprescindível sua homologação pelo Ministério do Trabalho. Nesse sentido, foi editada a Portaria nº. 2, de 25 de maio de 2006, que estabelece critérios para homologação dos quadros de carreira. O processo inicia com um pedido de homologação do quadro de carreira protocolado nas Superintendências Regional do Trabalho conforme disposição do artigo 1º da Portaria nº. 2, de 25 de maio de 2006.Cabe ressaltar que as alterações no quadro de carreira deverão ser submetidas, também, ao órgão regional do Ministério do Trabalho e Emprego para análise e homologação, conforme se infere do artigo 5º da Portaria em comento.Para fins de homologação, os quadros de carreira deverão conter os seguintes requisitos:  I - discriminação ocupacional de cada cargo, com denominação de carreiras e suas subdivisões;  II - critérios de promoção alternadamente por merecimento e antiguidade;  III - critérios de avaliação e desempate.  Parágrafo único. Os critérios adotados pela empresa não podem restringir o acesso do empregado às promoções.A gestão de cargos e salários ocupa uma posição-chave no recrutamento e manutenção dos recursos humanos das empresas, pois estas precisam propiciar um ambiente de motivação e produtividade, eliminando as incoerências e distorções que possam causar desequilíbrios salariais ou a insatisfação das pessoas.A importância do plano de cargos e salários está justamente na possibilidade de se garantir uma isonomia, através do exercício da avaliação da estrutura funcional separando tarefas e responsabilidades que corresponderão a cada cargo, atribuindo-lhes valores justos e coerentes.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>"Protocolar documetos"; "Notificação e pblicação no DOU".</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Plano de Cargos</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Superintendências Regionais do Trabalho</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/ 2844"/>
+	<areas-de-interesse>
+		<item>Trabalho</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

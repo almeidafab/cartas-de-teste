@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Sistema Homolognet - usuário quem atende é a central 158</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Homolognet</item>
+	</nomes-populares>
+	<descricao>•	Elaborar o cálculo da rescisão do contrato de trabalho, dando segurança aos trabalhadores e empregadores;•	 Agilizar o procedimento de assistência ao trabalhador na fase de homologação da rescisão contratual;•	 Fornecer às Agências Regionais do Trabalho e Emprego controle informatizado do agendamento das rescisões contratuais;•	 Integrar eletronicamente os procedimentos de liberação do Seguro-Desemprego e FGTS, aumentando a segurança contra fraudes;•	 Possibilitar ao MTE melhor acompanhamento da fase final do ciclo do vínculo empregatício.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1º o usuario deverá acessar o sistema e digitar os dados da rescisão.2º após digitar e emitir o TRCT ele deverá agendar a homologação;3º homologar a rescisão na Agencia do MTE</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>TRCT</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>SINDICATOS DA CATEGORIA</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>HOMOLOGAR A RESCISÃO ESTANDO PRESENTES AS PARTES- EMPRESA (PREPOSTO) E O TRABALHADOR JUNTAMENTE COM O AGENTE HOMOLOGADOR.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>TRCT E EXTRATO FGTS, E COMPRVANTE DE PAGAMENTO</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>NAS AGENCIAS DO MTE OU PODERIA SER NO SINDICATO DA CATEGORIA</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/ 2844"/>
+	<areas-de-interesse>
+		<item>Trabalho</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

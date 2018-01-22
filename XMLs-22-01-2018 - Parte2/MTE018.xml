@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>CERTIFICADO DE APROVAÇÃO - CA</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>CA do EPI (equipamento de proteção individual)</item>
+		<item></item>
+	</nomes-populares>
+	<descricao>Se um produto será utilizado como Equipamento de Proteção de Individual (EPI) e encontra-se listado no Anexo I da Norma Regulamentadora 06 (NR-06), então há necessidade de emissão de Certificado de Aprovação - CA. Para a solicitação desse CA, o fabricante (ou importador) deverá se cadastrar junto ao Ministério do Trabalho, a fim de que possa realizar tal solicitação. A documentação exigida para tal solicitação encontra-se prevista na Portaria SIT nº 451/2014. Para que o CA seja emitido, é necessário a apresentação de três solicitações: 1) cadastro de usuário CAEPI; 2) cadastro da empresa no sistema CAEPI; e 3) requerimento de emissão/renovação de CA. O produto só poderá ser comercializado como EPI se constar, entre outras informações, o número do CA marcado no produto.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitar cadastro de usuário CAEPI.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>REQUERIMENTO PADRONIZADO.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Coordenação-Geral de Normatização e Programas – CGNOR/ DSST/ SIT/MTbEsplanada dos Ministérios Bloco F, Ed. Anexo, Ala B, CEP 70056-900, Brasília-DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/ 2844"/>
+	<areas-de-interesse>
+		<item>Saúde</item>
+		<item>Trabalho</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

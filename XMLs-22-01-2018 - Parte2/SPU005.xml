@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Remeter Plantas e Valores de Imóveis da União (exclusivo para Municípios)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Remessa de Valor Venal de Terreno</item>
+	</nomes-populares>
+	<descricao>Este serviço permite aos Municípios, que possuem bens imóveis da União em área urbana sob sua jurisdição, o envio de arquivo com as informações necessárias à avaliação desses bens para fins de cobrança de receitas patrimoniais, conforme a Lei nº 13.465, de 11 de julho de 2017.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Preencher o requerimento
+Acesse o Portal da SPU, anexe os documentos e envie o requerimento.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Informações de Valor Venal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.patrimoniodetodos.gov.br/#/servicoGenericoSemRip?servico=108#dados-requerente</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Receber a resposta da Secretaria do Patrimônio da União
+
+Obter o resultado da solicitação pelo e-mail informado no requerimento ou pela consulta do pedido no Portal da SPU, informando o nº do CPF ou CNPJ do requerente e o nº do atendimento.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.patrimoniodetodos.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2981"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

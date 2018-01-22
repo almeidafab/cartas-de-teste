@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Consultar e Emitir DARF de Parcelamento de Débitos sobre Imóvel da União Concedidos a partir de 1º de agosto de 2017</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Parcelamento</item>
+	</nomes-populares>
+	<descricao>Este serviço possibilita consultar e imprimir DARF de débitos de natureza patrimonial, parcelados na forma da Portaria SPU nº 107, de 03/07/2017. Para a consulta e impressão do DARF, o interessado deve ter realizado o parcelamento, presencialmente em uma das Superintendências da SPU, mediante formalização do Termo de Confissão de Dívida.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Consultar parcelamento ou emitir DARF de parcelamento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Número do Registro Imobiliário Patrimonial</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.patrimoniodetodos.gov.br/#/consultaParcelamento?servico=110</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2981"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Urbanismo</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
