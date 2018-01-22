@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Curso de qualificação nacional em Assistência Farmacêutica e utilização do sistema Hórus.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Ead Hórus ou EducafarSUS</item>
+	</nomes-populares>
+	<descricao>Com o intuito de proporcionar acesso à educação de qualidade a um maior número de profissionais de saúde envolvidos na Assistência Farmacêutica localizados em todo o País, o DAF disponibiliza capacitação por meio de projetos e cursos que utilizam novas tecnologias de informação e comunicação.Os Cursos são ofertados na modalidade à distância, utilizando o ambiente virtual Moodle, denominada EducafarSUS em parceria com o DATASUS/RJ.Este curso conta com o acompanhamento de tutores para orientação e esclarecimento de dúvidas e têm acesso aos recursos de correios eletrônicos, fórum de dúvidas e discussões, chats, dentre outros canais. Esta tutoria é realizada pela equipe da CGAFB, que também realiza o monitoramento da plataforma e atualização dos conteúdos.O curso possui carga horária de 40 horas, com duração de 40 dias e tem como público alvo Profissionais da Assistência Farmacêutica dos municípios, estados e Distrito Federal, que atuam no Componente Básico da AF. O Curso é dividido em 6 módulos, onde são abordados temas relacionados à gestão e atividades diárias da AF, além da capacitação para utilização do Sistema Hórus.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Comentários nas correções das atividades.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6133156281.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>educafarsus.saude.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>educafarsus@saude.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo></titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/304"/>
+	<areas-de-interesse>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

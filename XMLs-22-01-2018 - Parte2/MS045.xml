@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Distribuição de Repelentes em parceria com o Ministério do Desenvolvimento Social</nome>
+	<sigla/>
+	<contato/>
+	<descricao>A aquisição e distribuição de repelentes, realizada pelo Ministério da Saúde, com recursos relativos ao crédito extraordinário em favor do Ministério do Desenvolvimento Social e Agrário (Lei n° 13.310, de 7 de julho de 2016), visa oferecer às gestantes integrantes de famílias beneficiárias do Programa Bolsa Família (PBF) proteção individual contra as principais arboviroses urbanas -Dengue, Zika e Chikungunya-, transmitidas pelo mosquito Aedes Aegypti e comprovadamente relacionadas à ocorrência de microcefalia em nascituros.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo></titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Cartão do SUS</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Os municípios têm autonomia para definirem o fluxo de dispensação podendo esse ocorrer em Centros de Referência da Assistência Social (CRAS) ou Unidade Básica de Saúde (UBS) ou outros.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/304"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

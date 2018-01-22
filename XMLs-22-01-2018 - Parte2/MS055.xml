@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Não há siglas ou nomes específicosAquisição de métodos contraceptivos para atendimento ao programa saúde da mulherAquisição de Insulinas para atendimento aos estados e municípiosAquisição de medicamentos e produtos para a saúde para atendimento ao programa</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não</item>
+	</nomes-populares>
+	<descricao>O serviço tem como objetivo a aquisição de métodos contraceptivos para atender ao programa saúde da mulher, bem como o acompanhamento da execução dos contratos administrativos firmados para o fornecimento e envio aos estados, capitais e municípios com população superior a 500 mil habitantes. São também adquiridas as insulinas humanas NPH e Regular para envio aos estados, para tanto também são acompanhados os contratos administrativos firmados para o fornecimento e envio das mesmas. Há também a aquisição de medicamentos e produtos da saúde para compor kits para atendimento a entes federados em situação de calamidade pública.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Informar por meio de planilhas as necessidades apontadas para cada um dos itens</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não se aplica</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6133157989.0000000000</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Solicitação de ajustes, cancelamento de pautas.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não se aplica</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6133157989.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SCN QUADRA 2, PROJEÇÃO C, SALA 108 (EDIFÍCIO CADE)CEP 70712902BRASÍLIA-DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/304"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Administração </item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

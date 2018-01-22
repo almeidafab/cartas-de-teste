@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa Nacional de Apoio à Formação de Médicos Especialistas em Áreas Estratégicas (Pró-Residência)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>-RESIDÊNCIAS EM SAÚDE-RESIDÊNCIA MÉDICA-RESIDÊNCIA MULT-RESIDÊNCIAS MÉDICAS E MULTIPROFISSIONAL-PRÓ-RESIDÊNCIAS</item>
+	</nomes-populares>
+	<descricao>-Apoiar a formação de  especialistas em regiões especialidades prioritárias para o SUS por meio da Expansão de Programas de Residência Médica (PRMs) e Multiprofissionais (PRMS).-Apoiar a qualificação e expansão dos programas de Residências em Saúde por meio do incentivo técnico, político e financeiro para instituições proponentes;-Política de concessão de bolsas para novas vagas de Residência em Regiões do país, Áreas e Redes Prioritárias para o SUS;-Elaboração e Publicação de editais</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>INSCRIÇÃO NO CADASTRO</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certificado de conclusão de curso</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>INSTITUIÇÃO PROPONENTE</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>REALIZAR CONCURSO EFETIVAR CADASTRO NO SISTEMA</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Diploma</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>COREME/ COREMU INSTITUIÇÕES PROPONENTES</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>CADASTRO NO SIGRESIDENCIAS</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Diploma</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>COREME/ COREMU</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/304"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

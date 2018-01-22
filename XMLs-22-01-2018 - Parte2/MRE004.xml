@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>LAVRATURA DE ATOS DE REGISTRO CIVIL (REGISTROS CONSULARES DE NASCIMENTO, CASAMENTO E ÓBITO)</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Lavratura de registros de nascimento, casamento e óbito pelas Repartições consulares do Brasil no exterior.  A lavratura de atos de registro civil por Autoridade Consular brasileira fundamenta-se na alínea "f" do Art. 5º da Convenção de Viena sobre Relações Consulares de 1963, no Art. 18 da Lei de Introdução às Normas do Direito Brasileiro (Decreto-Lei nº 4.657/1942) e no Art. 32 da Lei dos Registros Públicos (Lei nº 6.015/1973). A Autoridade Consular lavrará unicamente os atos de registro civil previstos nas normas consulares e disponíveis no Sistema Consular Integrado (SCI), devendo expedir certidão dos respectivos termos, que deverá ser entregue ao declarante. O termo do registro deverá ser assinado pelo declarante, por uma Autoridade Consular do Posto e, quando houver previsão normativa, pelas testemunhas; a Autoridade Consular emitirá segundas vias de certidões referentes a registros que constem nos livros do Posto. Tais documentos poderão ser requeridas pelo declarante ou, por se tratarem de registros públicos, por qualquer outra pessoa interessada; e para fins de emissão de segundas vias, a Autoridade Consular deverá solicitar que o requerente assine declaração, sob as penas da lei, de que a primeira certidão original do documento ainda não foi trasladada no Brasil. A Autoridade Consular deverá manter arquivada no Posto, junto ao respectivo termo e à declaração acima referida, cópia do documento de identificação do solicitante. Somente os nacionais brasileiros podem valer-se dos serviços de registro civil prestados pelas Repartições Consulares brasileiras. Os termos de registro civil serão lavrados mediante declaração do interessado, que deverá ser formulada na presença da Autoridade Consular que dará fé ao ato, na sede da Repartição Consular ou em locais que sirvam de base para consulados itinerantes. O termo de registro, depois de lavrado, deverá ser lido pelo declarante e pelas eventuais testemunhas; a Autoridade Consular solicitará, a seguir, que o declarante e as eventuais testemunhas assinem o documento no campo apropriado, o que caracterizará a concordância com o seu conteúdo; se o declarante, por motivo de incapacitação física ou por ser analfabeto, não puder assinar o termo de registro, outra pessoa poderá assinar a seu rogo (a seu pedido). Nesses casos, a Autoridade Consular deverá tomar a impressão digital do declarante, que será aposta à margem do termo; o termo de registro e as respectivas certidões originais deverão ser assinados pela Autoridade Consular, não sendo permitida a assinatura em substituição ao signatário expresso no documento (“por” ou “p/”); A Autoridade Consular não poderá enviar termo de registro civil para o declarante por via postal; nos casos em que o declarante estiver física ou juridicamente impedido de locomover-se e houver fato que justifique a lavratura imediata do registro civil consular, a Secretaria de Estado das Relações Exteriores/Divisão de Assistência Consular analisará a conveniência de que o termo seja tomado pela Autoridade Consular em local que não seja o da sede da Repartição Consular ou de realização de consulado itinerante; e não é possível requerer a lavratura de atos de registro civil por meio de procuração, seja pública ou particular. Os atos consulares de registro civil referentes a nascimento, a casamento e a óbito, com exceção do casamento celebrado pela Autoridade Consular, terão como base a certidão de registro estrangeira correspondente, emitida por autoridade que atue na jurisdição da respectiva Repartição Consular.   O registro consular de nascimento de filhos de nacional brasileiro poderá ser efetuado em qualquer Repartição Consular sediada no país em que ocorreu nascimento; o registro consular de nascimento referente a nascimento ocorrido em terceiro país (cujo território não faça parte da jurisdição de Posto localizado no país sede) deverá ocorrer em conformidade com normas específicas; o registro consular de casamento celebrado por autoridade estrangeira poderá ser efetuado em qualquer Repartição Consular sediada no país em que o matrimônio foi realizado, em conformidade com normas sobre casamentos realizados fora da jurisdição; e o registro consular de casamento referente a matrimônio ocorrido em terceiro país (cujo território não faça parte da jurisdição de Posto localizado no país sede) deverá ocorrer em conformidade com as normas sobre casamentos realizados fora da jurisdição. Os atos de registro civil lançados nos livros das Repartições Consulares destinam-se, primordialmente, a atender à circunstância de residência no exterior do nacional brasileiro e têm plena validade para fins de emissão de documentos consulares: quando o genitor brasileiro não estiver a serviço do Brasil, o registro consular de nascimento será pré-requisito para a aquisição da nacionalidade brasileira originária por filho, nascido no exterior, de brasileiro (art. 12, I, "c", da Constituição Federal), sendo condição para que o registrado solicite passaporte brasileiro; quando o</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>APRESENTAÇÃO DE DOCUMENTOS, CONFERÊNCIA E ASSINATURA DE TERMOS DE REGISTRO.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de casamento</item>
+					<item>Certidão de nascimento</item>
+					<item>Certidões de cartório</item>
+					<item>Comprovante de pagamento</item>
+					<item>Passaporte</item>
+					<item>CERTIDÃO DE CASAMENTO (EVENTUALMENTE)</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>BALCÕES DE ATENDIMENTO DE REPARTIÇÕES QUE PRESTAM SERVIÇOS CONSULARES</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/263"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Cidadania</item>
+		<item>Segurança e Ordem Pública</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

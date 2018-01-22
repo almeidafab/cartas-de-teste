@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Seguro-Desemprego - SD.</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O Seguro-Desemprego é um benefício integrante da seguridade social, garantido pelo art. 7º dos Direitos Sociais da Constituição Federal e tem por finalidade prover assistência financeira temporária ao trabalhador dispensado involuntariamente.Embora previsto na Constituição de 1946, foi introduzido no Brasil no ano de 1986, por intermédio do Decreto-Lei n.º 2.284, de 10 de março de 1986 e regulamentado pelo Decreto n.º 92.608, de 30 abril de 1986.Após a Constituição de 1988, o benefício do Seguro-Desemprego passou a integrar o Programa do Seguro-Desemprego, que tem por objetivo, além de prover assistência financeira temporária ao trabalhador desempregado em virtude de dispensa sem justa causa, inclusive a indireta, auxiliá-lo na manutenção e busca de emprego, promovendo para tanto, ações integradas de orientação, recolocação e qualificação profissional.O trabalhador dispensado sem justa causa recebe do empregador o Requerimento do Seguro-Desemprego devidamente preenchido. Duas vias desse formulário devem ser levadas a um posto de atendimento do Ministério do Trabalho, junto com os seguintes documentos:- Guias do Seguro-Desemprego conforme Resolução CODEFAT nº 736 (Empregador Web)- Cartão do PIS-PASEP, extrato atualizado ou Cartão do Cidadão;- Carteira de Trabalho e Previdência Social - CTPS (verificar todas que o requerente possuir);- Termo de Rescisão do Contrato de Trabalho - TRCT devidamente quitado;- Documentos de Identificação: Carteira de identidade; ou Certidão de nascimento; ou Certidão de casamento com o protocolo de requerimento da identidade (somente para recepção); ou Carteira nacional de habilitação (modelo novo); ou Carteira de trabalho (modelo novo); ou Passaporte ou certificado de reservista.- Três últimos contracheques, dos três meses anteriores ao mês de demissão;- Documento de levantamento dos depósitos do FGTS (CPFGTS) ou extrato comprobatório dos depósitos ou relatório da fiscalização ou documento judicial (Certidão das Comissões de Conciliação Prévia / Núcleos Intersindicais / Sentença / Certidão da Justiça).- Comprovante de residência.- Comprovante de escolaridade.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Agendar atendimento pelo sítio eletrônico do Ministério do Trabalho ou através das Centrais de Atendimento 158 e 156.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CPF</item>
+					<item>Data de nascimento e telefone</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>158.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://saaweb.mte.gov.br/inter/saa/pages/agendamento/main.seam</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Comparecer ao Posto de Atendimento com os documentos necessários para dar entrada no Seguro-Desemprego.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de renda</item>
+					<item>CPF</item>
+					<item>FGTS</item>
+					<item>NIT / PIS / PASEP</item>
+					<item>Comprovante de escolaridade</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Postos de Atendimento do Ministério do Trabalho ou do SINE.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Comparecer à Caixa Econômica Federal para fazer o saque da parcela do Seguro-Desemprego.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Cartão do Cidadão ou cartão da conta corrente da CAIXA, caso a possua.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Agência da Caixa Econômica Federal ou Casa Lotérica.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/ 2844"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Trabalho</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

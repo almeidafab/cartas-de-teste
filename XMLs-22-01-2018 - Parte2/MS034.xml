@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>REDE DE ATENÇÃO AS URGÊNCIAS - RAU</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>RUE - REDE DE URGÊNCIA E EMERGÊNCIA</item>
+	</nomes-populares>
+	<descricao>A RAU faz parte de uma rede complexa, composta por serviços de atenção a saúde e que atende a diferentes condições, sejam elas clínicas, cirúrgicas, traumatológicas, em saúde mental, etc. Composta por diferentes pontos de atenção, de forma a dar conta das diversas ações necessárias ao atendimento às situações de urgência. Desse modo, é necessário que seus componentes atuem de forma integrada, articulada e sinérgica, nos quais devem estar presentes dispositivos de humanização e ferramentas de gestão da clinica como: acolhimento, classificação de risco, diretrizes e meios para a qualificação profissional, gestão de risco, gestão do acesso e regulação.Tem por objetivo principal reordenar a atenção à saúde do usuário em situações de urgência e emergência qualificada e resolutiva, vinculada ao desenvolvimento de ações de promoção da saúde e prevenção de doenças e agravos, suporte diagnóstico, padronização do tratamento, disponibilidade da continuidade do cuidado, bem como realizar interface e articulação para o acesso a serviços como: reabilitação, cuidados paliativos, alem da atenção domiciliar.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>PROCURA DO SERVIÇO PARA ATENDIMENTO COM UMA QUEIXA RELACIONADA A SAÚDE</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Cartão do SUS</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de nascimento</item>
+					<item>CPF</item>
+					<item>Passaporte</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>SERVIÇO DE SAÚDE: RECEPÇÃO E/OU ACOLHIMENTO. NO CASO DO SAMU 192 HÁ INTERAÇÃO POR MEIO TELEFÔNICO EM QUE O USUÁRIO CONTACTA UM SERVIÇO DE CALL CENTER E/OU MÉDICO REGULADOR</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>192.0000000000</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>BUSCA POR ATENDIMENTO DE SAÚDE</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de nascimento</item>
+					<item>Passaporte</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>SERVIÇOS DE SAÚDE DE URGÊNCIA E EMERGÊNCIA (UPA 24h E HOSPITAIS)</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>BUSCA PELO ATENDIMENTO NO SERVIÇO DE SAÚDE</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de nascimento</item>
+					<item>Passaporte</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>INTERNAÇÃO HOSPITALAR, UNIDADE DE TERAPIA INTENSIVA E OUTRAS UNIDADES INTRA-HOSPITALARES BEM COMO ATENÇÃO DOMICILIAR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/304"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Administração </item>
+		<item>Cidadania</item>
+		<item>Economia e Finanças</item>
+		<item>Educação</item>
+		<item>Esporte e Lazer</item>
+		<item>Segurança e Ordem Pública</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Previdência Social</item>
+		<item>Saneamento</item>
+		<item>Saúde</item>
+		<item>Trabalho</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

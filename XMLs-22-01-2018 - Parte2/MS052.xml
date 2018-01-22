@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Curso de qualificação nacional em Assistência Farmacêutica na Saúde Indígena e utilização do Sistema Hórus.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Capacitação Hórus Indígena</item>
+	</nomes-populares>
+	<descricao>Este curso é uma realização do Conselho Nacional de Secretarias Municipais de Saúde (CONASEMS) em parceria com o Departamento de Assistência Farmacêutica e Insumo Estratégicos do Ministério da Saúde. A equipe da CGAFB realiza o gerenciamento da plataforma e a tutoria fica sob responsabilidade da SESAI.Os objetivos principais do curso foram pensados para subsidiar, por meio de noções gerais, as equipes locais da Assistência Farmacêutica da Saúde Indígena nas discussões de processos de trabalho e capacita-las em serviços para qualificar a Assistência Farmacêutica da Secretaria Especial de Saúde Indígena (SESAI), bem como para operacionalizar o instrumento de inovação tecnológica em saúde, o Sistema Hórus Indígena.Também é ofertado na modalidade à distância, utilizando o ambiente virtual Moodle, denominada EducafarSUS em parceria com o DATASUS/RJ.O Curso é dividido em 8 módulos, onde são abordados temas como Gestão da Assistência Farmacêutica na Saúde Indígena; Medicina Tradicional Indígena e a Fitoterapia; Vigilância em Saúde; Seleção, Programação e Aquisição de Medicamentos; utilização do Sistema Hórus indígena, dentre outros.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Esclarecimento de dúvidas e realização das atividades práticas.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6133156281.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>educafarsus.saude.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>educafarsus@saude.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/304"/>
+	<areas-de-interesse>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

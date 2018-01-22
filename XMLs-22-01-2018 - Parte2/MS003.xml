@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Qualificação Nacional em Citopatologia na prevenção do câncer do colo do útero (QualiCito), no âmbito da Rede de Atenção à Saúde das Pessoas com Doenças Crônicas.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>QualiCito</item>
+	</nomes-populares>
+	<descricao>Consiste na definição de padrões técnicos para avaliação e monitoramento da qualidade do exame citopatológico do colo do útero nos laboratórios públicos e privados prestadores de serviços para o SUS. Os laboratórios públicos e privados habilitados que realizam exames citopatológicos ao SUS serão classificados em Tipo I e Tipo II. Serão habilitados como Laboratórios Tipo I aqueles que realizam exames citopatológicos do colo do útero com finalidade diagnóstica. Serão habilitados como Laboratórios Tipo II aqueles que realizam exames citopatológicos do colo do útero com finalidade de monitoramento externo de qualidade. Ao Ministério da Saúde compete coordenar a QualiCito em âmbito nacional, bem como habilitar os laboratórios após solicitação dos gestores locais, a partir de propostas encaminhadas via SAIPS – SISTEMA DE APOIO À IMPLEMENTAÇÃO DE POLÍTICAS EM SAÚDE.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Agendar atendimento.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Cartão do SUS</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Unidades Básicas de Saúde</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Consulta médica para realização do exame preventivo e coleta do material a ser enviado ao laboratório que realizará o exame.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Cartão do SUS</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Unidade Básica de Saúde</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Retorno à Unidade Básica de Saúde para recebimento do resultado do exame e encaminhamentos necessários.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Cartão do SUS</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Unidade Básica de Saúde</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/304"/>
+	<areas-de-interesse>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

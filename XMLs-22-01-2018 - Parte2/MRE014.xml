@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa de Ação Afirmativa do Instituto Rio Branco (PAA/IRBr)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>"Bolsa-Prêmio de Vocação para a Diplomacia"</item>
+	</nomes-populares>
+	<descricao>O PAA/IRBr foi instituído para proporcionar maior igualdade de oportunidade de acesso à carreira de diplomata e ensejar a diversidade étnica nos quadros do Itamaraty. Foi lançado em 2002, por meio de Protocolo de Cooperação entre os Ministérios das Relações Exteriores, da Justiça, da Cultura e da Ciência e Tecnologia. Atualmente, participam da Comissão Interministerial responsável pelo processo de seleção dos bolsistas, juntamente com o Instituto Rio Branco, as seguintes instituições públicas parceiras na implementação do Programa: o Ministério da Ciência, Tecnologia, Inovações e Comunicações, por meio do CNPq, o Ministério da Cultura (Fundação Palmares) e a Secretaria Especial de Promoção de Políticas de Igualdade Racial (SEPPIR), vinculada ao Ministério dos Direitos Humanos.  Os bolsistas selecionados receberão bolsa-prêmio no valor de R$ 30 mil, desembolsado pelo CNPq, para o custeio de estudos preparatórios ao Concurso de Admissão à Carreira de Diplomata (CACD).</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrever-se no programa.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+					<item>Diploma</item>
+					<item>Fotografia 3x4</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Instituto Rio Branco - Setor de Administração Federal Sul, Quadra 5 -Lotes 2/3   CEP: 70070-600 Brasília - DF</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6120309851.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.institutoriobranco.mre.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>irbr@itamaraty.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Desembolso da bolsa-prêmio.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>CPF</item>
+					<item>Diploma</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Instituto Rio Branco - Setor de Administração Federal Sul, Quadra 5 -Lotes 2/3   CEP: 70070-600 Brasília - DF</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>irbr@itamaraty.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/263"/>
+	<areas-de-interesse>
+		<item>Cidadania</item>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

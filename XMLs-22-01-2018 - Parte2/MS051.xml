@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Curso de qualificação nacional em Assistência Farmacêutica com foco no Componente Especializado.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Curso Hórus Especializado</item>
+	</nomes-populares>
+	<descricao>Este curso é realizado em parceria entre CGAFB e CEAF, onde a CGAFB realiza o gerenciamento da plataforma e a equipe da CEAF realiza a tutoria do curso.Também é ofertado na modalidade à distância, utilizando o ambiente virtual Moodle, denominada EducafarSUS em parceria com o DATASUS/RJ.O objetivo principal do curso é capacitar os profissionais na qualificação dos serviços referentes às etapas e processos do Componente Especializado de Assistência Farmacêutica, buscando também subsidiar os profissionais de saúde para que possam aprimorar a gestão e impactar positivamente nos processos de trabalho com vistas à qualificação do acesso e o uso racional dos medicamentos ofertados pelo SUS frente aos desafios das redes de atenção à saúde.O curso possui carga horária de 40 horas, com duração de 40 dias e tem como público alvo Profissionais de saúde que trabalham no Componente Especializado da Assistência Farmacêutica (CEAF) nos municípios, estados e Distrito Federal.O Curso é dividido em 7 módulos, onde são abordados temas desde a Contextualização Histórica , Execução e Organização do CEAF até o Planejamento, Programação e Armazenamento, utilização do Sistema Hórus Especializado, dentre outros.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Correção de atividades práticas e esclarecimento de dúvidas sobre o curso.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6133156281.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>educafarsus.saude.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>educafarsus@saude.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/304"/>
+	<areas-de-interesse>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

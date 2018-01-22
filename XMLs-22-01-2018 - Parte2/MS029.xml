@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>1) Sistema de Regulação (SISREG)2) Central Nacional de Regulação da Alta Complexidade (CNRAC)</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Nossa relação é integralmente com as secretarias de saúde de estados e municípios, não temos serviços de atendimento direto à população. Na Coordenação-Geral de Regulação e Avaliação (CGRA) mantemos o sistema de informações SISREG (Sistema de Regulação), que é disponibilizado para as secretarias de saúde regularem o acesso aos procedimentos ambulatoriais e hospitalares, em seu âmbito de gestão. Gerenciamos, também, nesta Coordenação-Geral, a Central Nacional de Regulação da Alta Complexidade (CNRAC), que faz a intermediação interestadual para atendimento de pacientes, segundo critérios definidos em regulamentação específica. Toda a interface desta área técnica é com as secretarias de saúde, que por sua vez têm uma interface direta com os pacientes.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>A primeira diz respeito a um atendimento inicial em saúde, que, quando gera algum encaminhamento, demanda um segundo contato para informar sobre o agendamento.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Cartão do SUS</item>
+					<item>solicitação médica</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Estabelecimentos de saúde vinculados ao SUS.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>Tanto o meio telefônico, quanto à página da internet, são decisões e implantações de cada secretaria de saúde.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Passiva, receber a informação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Cartão do SUS</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>Tanto o telefone quanto a página da web são decisões e implantações de cada secretaria de saúde.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/304"/>
+	<areas-de-interesse>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

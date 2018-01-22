@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>BAS - Biblioteca Embaixador Antonio Francisco Azeredo da Silveira</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Biblioteca do Itamaraty</item>
+	</nomes-populares>
+	<descricao>A Biblioteca Azeredo da Silveira possui importante coleção na área de Relações Internacionais, sendo considerada instituição de referência na América do Sul, dispondo de mais de cem mil volumes relacionados ao tema em seu acervo. Dispõe de periódicos, diários oficiais, coleções e publicações de interesse geral vinculadas em sua maior parte às relações exteriores.A Biblioteca é aberta ao pública e  funciona diariamente, de segunda à sexta-feira, em caráter ininterrupto, das 8h às 20h.  O empréstimo é facultado aos servidores ativos e inativos do MRE e alunos do Instituto Rio Branco.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Servidores ativos e inativos do MRE,  Estudantes do Instituto Rio Branco</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitação de empréstimo de livro, artigos de periódicos ou pesquisa bibliográficas.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Passaporte</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Biblioteca Antonio Francisco Azeredo da Silveira</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>20309103.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Ministério das Relações Exteriores -  Anexo II  TérreoBrasília - DF CEP 70170-900</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/263"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+		<item>Defesa Nacional</item>
+		<item>Cidadania</item>
+		<item>Economia e Finanças</item>
+		<item>Energia</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Relações Internacionais</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

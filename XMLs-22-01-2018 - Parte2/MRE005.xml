@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Realização de atos notariais no exterior</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Procurações e Escrituras</item>
+	</nomes-populares>
+	<descricao>A lavratura de atos notariais por Autoridade Consular brasileira fundamenta-se na alínea "f" do Art. 5º da Convenção de Viena sobre Relações Consulares de 1963 e no Art. 18 da Lei de Introdução às Normas do Direito Brasileiro (Decreto-Lei nº 4.657/1942).  A Autoridade Consular lavrará unicamente os atos notariais previstos nas normas consulares e disponíveis no Sistema Consular Integrado (SCI), devendo expedir certidão dos respectivos termos, que deverá ser entregue à(s) parte(s): o termo do registro deverá ser assinado pela(s) parte(s), por uma Autoridade Consular do Posto e, quando houver previsão normativa, pelas testemunhas; e a Autoridade Consular emitirá segundas vias de certidões referentes a registros que constem nos livros do Posto. Tais documentos poderão ser requeridos pelo declarante ou, por se tratarem de registros públicos, por qualquer outra pessoa interessada. A Autoridade Consular deverá manter arquivada no Posto, junto ao respectivo termo, cópia do documento de identificação do solicitante;  caso a Autoridade Consular suspeite que o requerente esteja de má-fé, notadamente nos casos de testamentos e procurações, a SERE/DAC deverá ser consultada. Dos serviços de natureza notarial, lavrados por instrumento público, prestados pelas Repartições Consulares brasileiras, podem valer-se os nacionais brasileiros e os estrangeiros portadores de carteira do Registro Nacional de Estrangeiros (RNE) válida, com exceção do reconhecimento de firma de tabeliães estrangeiros e da autenticação de documentos expedidos por órgãos oficiais na jurisdição do Posto : os portadores de RNE vencido, que até a data do vencimento do documento tenham completado 60 anos de idade, não têm necessidade de substituí-lo, conforme os termos do Decreto-Lei nº 2.236, de 23 de janeiro de 1985, com redação dada pela Lei nº 9.505 de 1997. Assim, poderão utilizar o referido documento, mesmo que vencido, para valer-se dos serviços de natureza notarial. Qualquer cidadão, brasileiro ou estrangeiro, poderá solicitar a emissão de Declarações e de Atestados consulares, documentos que não se incluem no rol dos atos notariais, já que não são emitidos com base em termo registrado nos livros de atos notariais do Posto. Os atos notariais podem ser efetuados por instrumento público ou particular, dependendo de sua natureza: instrumento público é aquele lavrado em Livro da Repartição Consular, do qual a(s) parte(s) ou qualquer interessado poderá requerer certidão; e instrumento particular é elaborado em documento individual, a ser assinado somente pela parte.  Quando assinado por nacional brasileiro ou estrangeiro , a assinatura da parte deverá ser reconhecida pela Autoridade Consular; e quando assinado por estrangeiro sem carteira RNE válida, a assinatura deverá ser reconhecida na forma da legislação do país onde se originou e, a seguir, para produzir efeitos no Brasil, legalizada pela Autoridade Consular brasileira.  Os estrangeiros que não possuam RNE e que necessitem apresentar procuração pública a ser apresentada no território nacional devem ser orientados a efetuar os seguintes procedimentos: efetuar a lavratura de instrumento público, nos termos da lei local.  Em países onde não houver a previsão legal de lavratura de procuração por instrumento público, os interessados deverão ser orientados a lavrar procuração particular, na qual a firma do(s) requerente(s) deverá ser reconhecida por autenticidade por notário local ou apostilada nos termos da Convenção de Haia, caso o país em que se encontre seja membro de referida convenção; e caso configure-se a situação acima descrita que requeira tal providência, a Autoridade Consular poderá emitir declaração confirmando a impossibilidade de que procurações por instrumento público sejam lavradas com base na lei do país sede.  Nesse caso deve-se providenciar a legalização do documento em Repartição Consular brasileira ou seu apostilamento; providenciar a tradução do documento por tradutor público juramentado, no Brasil; e efetuar o registro do documento em Cartório de Registro de Títulos e Documentos no Brasil. Nos casos em que, para produzir efeitos no Brasil, seja necessária a lavratura de ato notarial por instrumento público de que participem, solidariamente ou não, brasileiro e estrangeiro, , ainda que se trate de casal, a Autoridade Consular deverá orientar as partes a efetuar os procedimentos acima descritos, junto a autoridades locais. Os termos dos atos notariais serão lavrados mediante manifestação de vontade da(s) parte(s), que deverá ser formulada na presença da Autoridade Consular que dará fé ao ato, na sede da Repartição Consular ou em locais que sirvam de base para consulados itinerantes: os formulários com as informações necessárias para a lavratura de termo de registro notarial poderão ser antecipados ao Posto por via postal ou transmitidos por meio eletrônico; o termo de registro, depois de lavrado, deverá ser lido pela(s) parte(s) e pelas eventuais testemunhas; a Autoridade Consular solicitará, a seguir, que a(s) parte(s</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>APRESENTAÇÃO DE DOCUMENTOS, CONFERÊNCIA E ASSINATURA</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Certidão de casamento</item>
+					<item>Certidão de nascimento</item>
+					<item>Certidões de cartório</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Comprovante de pagamento</item>
+					<item>CPF</item>
+					<item>DIFERENTES PROCURAÇÕES E ESCRITURAS PODEM EXIGIR A APRESENTAÇÃO DE DIFERENTES DOCUMENTOS COMPROBATÓRIOS</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>BALCÃO DE ATENDIMENTO DAS REPARTIÇÕES COM SERVIÇOS CONSULARES</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/263"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

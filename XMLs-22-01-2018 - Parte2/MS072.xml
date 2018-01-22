@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Casa de Saúde Indígena - CASAI</nome>
+	<sigla/>
+	<contato/>
+	<descricao>A Casa de Saúde Indígena (CASAI) é um estabelecimento de saúde responsável pelo apoio logístico, acolhimento e assistência à saúde dos indígenas referenciados pelos Distritos Sanitários Especiais Indígenas à Rede de Serviços do SUS para realização de ações complementares de atenção básica e de atenção especializada, sendo destinada também aos acompanhantes, quando necessário. Esse estabelecimento é integrante do Subsistema de Atenção à Saúde dos Povos Indígenas do Sistema Único de Saúde (SASI-SUS, Lei nº 9.836/99).</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>A interação do usuário não é diretamente com a CASAI  e sim por intermédio das equipes multidisciplinares que atuam nas terras indígenas que solicitam a CASAI agendamento para a média e alta complexidade, complementação da atenção básica ou casos de urgência e emergência, todos fornecidos pelo município onde a CASAI é quem articula e acolhe os pacientes indígenas.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Cartão do SUS</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de nascimento</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/304"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

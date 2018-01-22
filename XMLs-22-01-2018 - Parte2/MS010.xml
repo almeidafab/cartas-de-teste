@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Habilitação na Alta Complexidade em Neurocirurgia/Neurologia.</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Trata-se da ação de habilitar estabelecimentos de saúde como Unidade de Assistência de Alta Complexidade em Neurocirurgia ou como Centro de Referência de Alta Complexidade em Neurologia (Portaria SAS/MS nº 756, de 27/12/2005).</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitação para habilitação do estabelecimento de saúde como Centro de Atendimento de Urgência aos Pacientes com AVC.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>álvara sanitário, titulação dos profissionais e outros</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://portalsaude.saude.gov.br/index.php?option=com_content&view=article&id=10593&Itemid=575</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Recebimento de pendências referentes ao processo de habilitação ou aguardo para a publicação da portaria de habilitação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://portalsaude.saude.gov.br/index.php?option=com_content&view=article&id=10593&Itemid=575</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/304"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

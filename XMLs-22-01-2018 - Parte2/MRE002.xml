@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Divisão de Imigração - DIM</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Vistos</item>
+	</nomes-populares>
+	<descricao>Expedição de autorizações de vistos de trabalho; Emissão de vistos e carteiras de identificação para membros da rede diplomática e consular estrangeira que não contam com privilégios e imunidades, bem como a seus dependentes;Comunicação com outros órgãos brasileiros que tratam de temas migratórios, como ABIN, MJSP e PF; Expedição de autorização de vistos que demandam consulta prévia à DIM; Atualização do Manual do Serviço Consular e Jurídico; Análise e manifestação em processos de transformação de vistos; Encaminhamento de respostas a consultas do DPU e do MPU sobre vistos; Atendimento a pedidos de vistos feitos por outras unidades da SERE ou outros órgãos do Poder Executivo; Atualização da área de vistos do Portal Consular; Atendimento diário, presencial, por telefone ou email, a dúvidas de estrangeiros, empresas, corpo diplomático e consular no Brasil e Postos no exterior;Instalação do sistema de emissão de visto eletrônico;Expansão da rede de Visa Centers (VACS) no exterior;Inspeção, supervisão e acompanhamento do funcionamento do setor de vistos dos Postos no exterior.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo></titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Certificado de antecedentes criminais</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de pagamento</item>
+					<item>Diploma</item>
+					<item>Informação biométrica</item>
+					<item>Passaporte</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Ministério das Relações Exteriores ou Consulados brasileiros no exterior.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Retirada de documento expedido pela DIM.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/263"/>
+	<areas-de-interesse>
+		<item>Defesa Nacional</item>
+		<item>Cidadania</item>
+		<item>Relações Internacionais</item>
+		<item>Trabalho</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

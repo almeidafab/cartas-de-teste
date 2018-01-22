@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>PROGRAMA NACIONAL DE QUALIFICAÇÃO DA HEMORREDE- PNQH</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>PNQH</item>
+	</nomes-populares>
+	<descricao>O Programa Nacional de Qualificação da Hemorrede (PNQH), implementado desde 2008 visa o alcance de melhorias contínuas nos serviços de hematologia e hemoterapia (SHH). Além da ênfase em qualificação técnica e gerencial, o PNQH caracteriza-se como  Programa que promove o aperfeiçomento das atividades dos SHH, com foco na garantia da segurança transfusional por meio da colaboração mútua da Hemorrede.	Para atender o escopo das atividades, o PNQH possui os seguintes objetivos:•	Promover a qualificação técnica e gerencial da Hemorrede Pública Nacional;•	Identificar áreas críticas/estratégicas para priorizar investimento de recursos na Hemorrede;•	Implantar e implementar o processo de melhoria contínua nos serviços de hematologia e hemoterapia , por meio da avaliação permanente dos processos de trabalho;•	Apoiar a elaboração e monitorar a evolução de Planos de Ação (PA) dos serviços de hematologia e hemoterapia, para as não conformidades e/ou recomendações apontadas no relatório de visita;•	Cooperação e integração entre serviços públicos de hematologia e hemoterapia do país;•	Prestar consultorias técnicas e realizar capacitações conforme necessidades apontadas nas visitas;•	Motivar mudanças internas nos serviços de hematologia e hemoterapia, como a implantação e/ou implementação do sistema de gestão da qualidade, a certificação e/ou acreditação da unidade, capacitação dos profissionais, enfim a busca pela excelência da qualidade dos serviços e produtos hemoterápicos e hematológicos.Como desdobramento do PNQH, considerando a estrutura da Hemorrede Pública Nacional e a complexidade que envolve a segurança transfusional, o Programa foi ampliado, por meio da estadualização (PEQH), e implantado o Programa Estadual de Qualificação da Hemorrede (PEQH), a fim de proporcionar que avaliações técnicas e gerenciais sejam realizadas entre os serviços de hemoterapia, conforme a organização da hemorrede estadual.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Serviços de Hemoterapia e Hemoterapia</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>"confirmar agendamento da visita de avaliação pelo PNQH", "receber e acompanhar os avaliadores durante a visita",  "recebimento do relatório da visita," " envio do Plano de Ação que será elaborado após recebimento do relatório".</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6133156159.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>pnqh@saude.gov.br e o email do Serviço de Hemoterapia (usuário)</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>2-receber e acompanhar os avaliadores durante a visita</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>Atas de treinamentos; Procedimentos Operacional Padrão (POP); Atas de reuniões de análise crítica; registros de controle de estoque, temperatura; registros de manutenção/calibração de equipamentos; Programa Estadual de Qualificação da Hemorrede; Planejamento de ações na área de hematologia e hemoterapia, registrados, divulgados para os profissionais da instituição, com definição orçamentária e financeira (receita x despesa); Plano dire</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>no endereço do usuário (Serviços de Hematologia e Hemoterapia)</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>3- recebimento do relatório da visita o PNQH</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>pnqh@saude.gov.br e o email do Serviço de Hemoterapia (usuário)</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>endereço de cada Usuário (serviço de hemoterapia que foi visitado)</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>envio pelo SH do Plano de Ação que será elaborado após recebimento do relatório.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>O</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>pnqh@saude.gov.br e o email do</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>no endereço do usuário (Serviços de Hematologia e Hemoterapia) e o endere�</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/304"/>
+	<areas-de-interesse>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

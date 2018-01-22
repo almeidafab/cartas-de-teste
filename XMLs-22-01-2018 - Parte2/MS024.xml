@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Leitos Retaguarda de Terapia Intensiva com custeio mensal diferenciado para a RAU.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Leitos Retaguarda de Terapia Intensiva com custeio mensal diferenciado para a RAU</item>
+	</nomes-populares>
+	<descricao>São  leitos de terapia intensiva que devem servir como retaguarda às portas de entrada de urgências e emergências que deverão ser criados, leitos novos, ou leitos existentes, em hospitais acima de 50 leitos localizados na região de saúde em que os hospitais estão inseridos, podendo ser implantados em hospitais estratégicos de alta complexidade ou em hospitais de menor adensamento tecnológico desde que deem suporte às portas de entrada hospitalares, prontos-socorros, unidades de pronto  atendimento e upa 24h, devendo, como pressuposto, ser regulados, pela Central de Regulação Hospitalar e prioritariamente servir como retaguarda aos usuários dos serviços de urgências.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>PROCURA DO SERVIÇO PARA ATENDIMENTO E TRATAMENTO RELACIONADA A SAÚDE.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Cartão do SUS</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de nascimento</item>
+					<item>Passaporte</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>UNIDADE DE TERAPIA INTENSIVA</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>USUÁRIO ENCAMINHADO PARA ATENDIMENTO EM UNIDADE DE ALTA COMPLEXIDADE HOSPITALAR</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Cartão do SUS</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de nascimento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>UNIDADE DE TERAPIA INTENSIVA EM HOSPITAL DE ALTA COMPLEXIDADE</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>USUÁRIO INTERNADO NA UNIDADE DE TERAPIA INTENSIVA APÓS ALTA PARA SERVIÇO DE ATENÇÃO HOSPITALAR PARA RECUPERAÇÃO E/OU ATENÇÃO DOMICILIAR</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Cartão do SUS</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de nascimento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>UNIDADE HOSPITALAR E/OU ATENÇÃO DOMICILIAR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/304"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Administração </item>
+		<item>Economia e Finanças</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

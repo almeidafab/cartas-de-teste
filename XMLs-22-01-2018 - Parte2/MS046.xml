@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Coordenação do Programa Farmácia Popular  - CPFP</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Farmácia Popular</item>
+		<item>Aqui Tem</item>
+		<item>Rede Própria</item>
+	</nomes-populares>
+	<descricao>O Programa Farmácia Popular do Brasil vem a ser uma iniciativa do Governo Federal que cumpre uma das principais diretrizes da Política Nacional de Assistência Farmacêutica, de ampliar o acesso aos medicamentos pela população. Permite que as Farmácias/Drogarias cadastradas no programa realizem a dispensação de medicamentos para as patologias: hipertensão, asma e diabetes (Programa saúde não tem preço) ; Venda subsidiada de medicamentos para as patologias: glaucoma, rinite, doença de parkson, osteoporose, dislipidemia e influenza A (H1N1) com um desconto de até 90% sobre o preço praticado no mercado. Além desses medicamentos, também são subsidiados medicamentos para Anticoncepção e apresentações de fralda geriátrica.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>retirada de medicamentos na farmácia credenciada</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de nascimento</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>nas farmácias credenciadas no programa farmácia popular</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/304"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>CADSOL - Cadastro Nacional de Empreendimentos Econômicos Solidários e Comércio Justo</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>CADSOL (sistema)DCSOL - Declaração de Empreendimento Econômico Solidário (resultado do serviço)</item>
+	</nomes-populares>
+	<descricao>Trata-se de um serviço de cadastro, realizado através de um sistema totalmente digital, que tem por finalidade o reconhecimento público dos Empreendimentos Econômicos Solidários, com a emissão da Declaração de Empreendimento Econômico Solidário, de modo a permitir-lhes o acesso às políticas públicas nacionais de Economia Solidária e demais políticas, programas públicos de financiamento, compras governamentais, comercialização de produtos e serviços e demais ações e políticas públicas. Vale ressaltar que é preciso que no estado ou município do empreendimento requisitante exista uma Comissão Estadual ou Municipal do CADSOL (composta por representantes da sociedade civil, de entidades de apoio e fomento e do governo local) responsável pela análise e aprovação do cadastro, para posterior emissão da DCSOL.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Preenchimento de cadastro</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://cadsol.mte.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>Cada Comissão Estadual e Municipal terá e-mails próprios para comunicação com os EES. Mas para comunicação geral e dúvidas, o e-mail</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/ 2844"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Economia e Finanças</item>
+		<item>Trabalho</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

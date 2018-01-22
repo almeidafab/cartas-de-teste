@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Habilitações em Alta Complexidade Cardiovascular: Serviço de Cirurgia Cardiovascular Adulto, Serviço de Cirurgia Cardiovascular Pediátrico, Serviço de Cirurgia Vascular, Serviço de Procedimentos Endovasculares Extracardíacos, Serviço de Procedimentos em Cardiol</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>O único serviço que possui nome popular é o Serviço de Procedimentos em Cardiologia Intervencionista chamado popularmente como Hemodinâmica</item>
+	</nomes-populares>
+	<descricao>Considerando os inúmeros tipologias de habilitação e que cada serviço listado acima realiza procedimentos diferentes e com complexidades diferentes agrupados por procedimentos descritos na Tabela SUS - http://sigtap.datasus.gov.br/tabela-unificada/app/sec/inicio.jsp.- Serviço de Cirurgia Cardiovascular Adulto e Serviço de Cirurgia Cardiovascular Pediátrico: procedimentos com grupo e subgrupo 040601- Serviço de Cirurgia Vascular: procedimentos com grupo e subgrupo 040602- Serviço de Procedimentos Endovasculares Extracardíacos: procedimentos com grupo e subgrupo 040604- Serviço de Procedimentos em Cardiologia Intervencionista: procedimentos com grupo e subgrupo 040603- Laboratório de Eletrofisiologia: procedimentos com grupo e subgrupo 040605</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Encaminhamento dos documentos</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certificado de conclusão de curso</item>
+					<item>CNPJ</item>
+					<item>Diploma</item>
+					<item>Relatório da Vigilância Sanitária, CIB, Comprovantes exigidos na PT SAS/MS 210/2004</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SAS - Secretaria de Atenção a Saúde / Ministério da Saúde - Ed. Premium SAF SULQuadra 2 – Lt 5/6 - Bloco II – 2º andar – Sala 203CEP: 70.070-600 - Brasília/DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Resolução de pendências</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>depende das pendências</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>SAS - Secretaria de Atenção a Saúde / Ministério da Saúde - Ed. Premium SAF SULQuadra 2 – Lt 5/6 - Bloco II – 2º andar – Sala 203CEP: 70.070-600 - Brasília/DF</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6133156170.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>altacomplexidade@saude.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/304"/>
+	<areas-de-interesse>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

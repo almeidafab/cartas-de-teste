@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Rename - Relação Nacional de Medicamentos Essenciais</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Rename</item>
+	</nomes-populares>
+	<descricao>A Relação Nacional de Medicamentos Essenciais - RENAME compreende a seleção e a padronização de medicamentos indicados para atendimento de doenças ou de agravos no âmbito do SUS. Conforme o Decreto nº 7.508/2011 no Art. 26. cita: O Ministério da Saúde é o órgão competente para dispor sobre a RENAME e os Protocolos Clínicos e Diretrizes Terapêuticas em âmbito nacional, observadas as diretrizes pactuadas pela CIT. Além disso, a cada dois anos, o Ministério da Saúde consolidará e publicará as atualizações da RENAME, do respectivo FTN e dos Protocolos Clínicos e Diretrizes Terapêuticas.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Necessário prescrição médica para obtenção de medicamento no SUS.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Cartão do SUS</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Estabelecimento de Saúde.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Dispensação de medicamento no SUS</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Cartão do SUS</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Prescrição</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Estabelecimento de Saúde (Farmácia)</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/304"/>
+	<areas-de-interesse>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
