@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Cadastro de Informações dos Regimes de Previdência Social por meio do CADPREV</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Cadastro e Acompanhamento no Sistema CADPREV da legislação previdenciária dos entes federativos.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Agendar atendimento.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Diário Oficial</item>
+					<item>Procuração do representante legal</item>
+					<item>Registro em Cartório</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>SRPPS</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6120215555.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.previdencia.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>legislacao.cgnal@previdencia.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>MINISTERIO DA FAZENDA, BLOCO F, ANEXO A, SALA 465</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Previdência Social</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

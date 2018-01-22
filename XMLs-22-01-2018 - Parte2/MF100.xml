@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Cadastro - Registro Especial de Empresas que realizam operações com  Papel Imune</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Papel Imune</item>
+	</nomes-populares>
+	<descricao>Cadastro dos estabelecimentos que que realizam operações com papel imune, nas operações destinados à impessão de livros, jornais e períodicos.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1- Faz o pedido para a inclusão de sua empresa no cadastro de Registro Especial para Papel Imune - Pessoalmente e 2- Consulta se seu estabelecimento esta registrado.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>Documentos estipulados na Lei nº 11.945, de 2009, e no Decreto nº 6.842, de 2009.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao> www.receita.fazenda.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Economia e Finanças</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

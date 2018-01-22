@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Julgar em segunda instância e em instância especial, recursos administrativos em matéria tributária e aduaneira.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não</item>
+	</nomes-populares>
+	<descricao>O Conselho Administrativo de Recursos Fiscais (CARF) julga os recursos de ofício e voluntário de decisão de primeira instância, bem como os recursos de natureza especial, que tratem sobre a aplicação da legislação referente a tributos administrados pela Secretaria da Receita Federal do Brasil.Na prestação desse serviço público (julgar recursos), há diversas interações possíveis, que surgem a partir de possíveis demandas dos recorrentes durante a tramitação do processo e estão disciplinadas na carta de serviços do CARF, disponível em:https://idg.carf.fazenda.gov.br/acesso-a-informacao/institucional/carta-de-servicos/carta-de-servicos</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>O serviço atende aos recorrentes que podem ser qualquer dos entes anteriormente mencionados.</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Pedido de vista dos autos</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>documento comprobatório de que é representante legal, responsável legal ou patrono</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Central de Atendimento ao Público - CAP</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Tomar conhecimento da "Publicação de Pautas"</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Diário Oficial</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>in.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Realização de sustentação oral</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>h</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Pedido de retirada de pauta ou transferência de data</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://idg.carf.fazenda.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>T</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>i</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo></titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo></titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

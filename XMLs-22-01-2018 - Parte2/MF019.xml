@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Reparcelamento Simplificado.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não</item>
+	</nomes-populares>
+	<descricao>A adesão ao reparcelamento simplificado também deve ser efetuada pela Internet, por meio da opção “Adesão a parcelamento”, no ambiente e-CAC da PGFN. O próprio sistema gerará o DARF no valor correspondente ao pedágio (10 ou 20% do saldo a ser parcelado). Após o pagamento do DARF, o parcelamento será automaticamente deferido no sistema e a situação de parcelamento será automaticamente registrada</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Todos.</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Adesão ao parcelamento de forma online.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.pgfn.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>O contribuinte deverá emitir o DARF para pagamento das parcelas por meio da opção “Emissão de DARF de parcelamento”, noambiente e-CAC da PGFN.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.pgfn.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Economia e Finanças</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

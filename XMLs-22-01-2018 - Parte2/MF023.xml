@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Atribuição do Fator Acidentário de Prevenção (FAP)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não</item>
+	</nomes-populares>
+	<descricao>Permite ao Empregador, a cada empresa, conhecer o cálculo anual de seu Fator Acidentário de Prevenção – FAP, mediante publicação e acesso restrito (com senha) e demais informações sobre o referido fator; preencher e enviar contestações eletronicamente ao processamento anual, em 1ª e 2ª instâncias administrativas, conforme prazos definidos pelo Ministério da Fazenda.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Recurso de 1ª e 2ª Instância.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>NIT / PIS / PASEP</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://www2.dataprev.gov.br/FapWeb/faces/pages/principal.xhtml</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Previdência Social</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

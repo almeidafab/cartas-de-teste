@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Regularizar Cadastro CPF</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>CPF</item>
+	</nomes-populares>
+	<descricao>Regularizar o CPF na página da RFB na internet ou nos conveniados Banco do Brasil, Caixa Econômica Federal e Correios.  A regularização do CPF na página da RFB será realizada nos casos de complementação de dados cadastrais que não constem na base de dados e quando não houver pendência na entrega de declarações de pessoa física.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentar comprovantes para conferência do servidor da RFB</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de casamento</item>
+					<item>Certidão de nascimento</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Passaporte</item>
+					<item>Registro em Cartório</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Página da RFB na internet, conveniados e CAC da RFB</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>rfb.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Apresentar comprovantes na unidade da RFB</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de casamento</item>
+					<item>Certidão de nascimento</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Passaporte</item>
+					<item>Registro em Cartório</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>CAC da RFB</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Comércio e Serviços</item>
+		<item>Cultura</item>
+		<item>Cidadania</item>
+		<item>Economia e Finanças</item>
+		<item>Educação</item>
+		<item>Habitação</item>
+		<item>Segurança e Ordem Pública</item>
+		<item>Previdência Social</item>
+		<item>Saúde</item>
+		<item>Trabalho</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

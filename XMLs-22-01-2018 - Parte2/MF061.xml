@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Habilitação Definitiva - Programa Mais Leite Saudável</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Programa Mais Leite Saudável</item>
+	</nomes-populares>
+	<descricao>Os contribuintes alcançados pelo benefício poderão descontar créditos presumidos da Contribuição para o PIS/Pasep e da Cofins relativos às operações de aquisição de leite in natura para utilização como insumo na produção dos produtos destinados à alimentação humana ou animal classificados nos códigos da Nomenclatura Comum do Mercosul - NCM mencionados no art. 8º da Lei nº 10.925/2004, na forma prevista na IN SRF nº 660/2006, e na IN RFB nº 1.590/2015.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitar a adesão ao programa pelo portal de atendimento virtual da RFB.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Projeto elegível ao Mapa</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

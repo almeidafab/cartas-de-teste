@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Cadastro - Registro Especial de Produtores de Bebidas Alcoólicas</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Registro Especial de Produtores de Bebidas Alcoólicas</item>
+	</nomes-populares>
+	<descricao>Cadastro onde é possivel Protocolar Termo de Opção pelo regime especial especial a que estão sujeitos os produtores, engarrafadores, cooperativas de produtores, estabelecimentos comerciais atacadistas e importadores de bebidas alcoólicas, e sobre o selo de controle a que estão sujeitos esses produtos.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1- Faz a inscrição no Cadastro de registro especial instituído pelo art. 1º do Decreto-Lei nº 1.593, de 21 de dezembro de 1977,  2- Consulta se esta inscrito no cadastro.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao> www.receita.fazenda.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Economia e Finanças</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

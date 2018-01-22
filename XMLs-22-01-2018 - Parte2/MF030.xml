@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>COCAP/CGAUC/SRPPS/SPREV/MR</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>CONTENCIOSO</item>
+	</nomes-populares>
+	<descricao>JULGAMENTO DOS PROCESSOS ADMINISTRATIVOS PREVIDENCIÁRIOS (PAPA),  CUJO OBJETO É A NOTIFICAÇÃO DE AUDITORIA-FISCAL (NAF) EXPEDIDA EM AUDITORIA-FISCAL JUNTO AOS ENTES FEDERATIVOS.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>APRESENTAR IMPUGNAÇÃO/RECURSO/JUSTIFICATIVAS</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>ESPLANADA DOS MINISTÉRIOS - BLOCO F - ANEXO A - 4º ANDAR - SALA 450 - CEP: 70059-900 - BRASÍLIA/DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>ENVIO DE DOCUMENTOS</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>IMPUGNAÇÃO/RECURSO/JUSTIFICATIVA</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>ESPLANADA DOS MINISTÉRIOS - BLOCO F - ANEXO A - 4º ANDAR - CEP 70059-900</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>ENTREGA DE DOCUMENTOS</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>IMPUGNAÇÃO/RECURSO/JUSTIFICATIVAS</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>ESPLANADA DOS MINISTÉRIOS - BLOCO F - ANEXO A - 4º ANDAR - 70059-900</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Previdência Social</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

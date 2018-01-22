@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Declarações - DIF Papel Imune - Declaração do Papel Imune</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>DIF Papel Imune - Declaração do Papel Imune</item>
+	</nomes-populares>
+	<descricao>Segundo o Código Tributário Nacional, Lei nº 5.172, de 25 de outubro de 1966, obrigação tributária acessória tem por objeto as prestações, positivas ou negativas, de interesse da arrecadação ou fiscalização de tributos. Representa, desse modo, as ações ou vedações que devem obrigatoriamente ser cumpridas pelos sujeitos passivos em decorrência da lei. Dentre elas, está a prestação de informações à Receita Federal sobre informações dos estabelecimentos que estão cadastrados no registro especial de estabelecimentos que realizam operações com papel imune, nas operações destinados à impessão de livros, jornais e períodicos.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Download do Programa Gerador de Declaração e Envio da Declaração</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao> www.receita.fazenda.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Economia e Finanças</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

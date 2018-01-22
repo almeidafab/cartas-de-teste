@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Subsecretaria dos Regimes Próprios de Previdência Social (SRPPS)</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Cumprimento de decisões judiciais que determinam a emissão do Certificado de Regularidade Previdenciária (CRP) ou a exclusão das irregularidades relativas ao CRP dos cadastros da União em favor dos Entes Federativos que possuam RPPS, conforme orientação da Procuradoria-Geral da Fazenda Nacional. Manutenção do controle da emissão e renovação do certificado específico para cumprimento de decisão judicial, nos casos em que foi determinada a suspensão de irregularidades relacionadas ao CRP dos cadastros da União.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitação  do CRP por força de decisão judicial. Apresentação da Decisão.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Decisão Juducial</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Subsecretaria dos Regimes Próprios de Previdencia SocialEsplanada dos Ministérios - Bloco F - Anexo A - 4º AndarBrasília - DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Previdência Social</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

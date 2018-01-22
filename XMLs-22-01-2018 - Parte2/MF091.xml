@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Julgar recursos em última instância administrativa.</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Julgar os recursos:I - previstos: a) no §2º do art. 43 da Lei nº 4.380, de 21 de agosto de 1964;b) no §2º do art. 2º do Decreto-Lei nº 1.248, de 29 de novembro de 1972;c) no §4º do art. 11 da Lei nº 6.385, de 7 de dezembro de 1976;d) no §2º do art. 16 da Lei nº 9.613, de 3 de março de 1998; ee) no parágrafo único do art. 9º da Lei nº 10.214, de 27 de março de 2001;II - de decisões do Banco Central do Brasil:a) que aplicarem penalidades em sede de processo administrativo sancionador instaurado em razão do descumprimento de normas legais e regulamentares que lhe caiba fiscalizar;b) que aplicarem medidas cautelares;c) referentes à desclassificação e à descaracterização de operações de crédito rural; ed) relacionadas à retificação de informações, à aplicação de multas e custos financeiros associados a recolhimento compulsório, ao encaixe obrigatório e ao direcionamento obrigatório de recursos; eIII - de decisões das autoridades competentes relativas à aplicação das sanções previstas na Lei nº 9.613, de 1998.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo></titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+					<item>Carteira da OAB</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Sede do CRSFN em Brasília e nas representações do CRSFN no Rio de Janeiro e em São Paulo.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://fazenda.gov.br/orgaos/colegiados/crsfn</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>70.079-900; 20071-900; 01310-922</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Apresentação de pedido de esclarecimento ou pedido de revisão.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Sede do CRSFN em Brasília e nas suas representações no Rio de Janeiro e em São Paulo.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>crsfn@fazenda.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>70.079-900; 01310-922; 20071-900</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo></titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Economia e Finanças</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

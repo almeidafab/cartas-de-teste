@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Intercâmbio de Informações</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Quando se trata de intercâmbio eletrônico, o sistema se chama Sistema Eletrônico de Intercâmbio - SEI-C</item>
+	</nomes-populares>
+	<descricao>Intercâmbio de informações por ofício ou por meio do Sistema Eletrônico de Intercâmbio (SEI-C).</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>promotores, juízes, delegados de polícia</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>solicitação de informações de inteligência financeira</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.coaf.fazenda.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Recebimento de Relatório de Inteligência Financeira</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.coaf.fazenda.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SAUN Qd 5 Lote C  Torre D   2º andar - CEP: 70.040-250 - Asa Norte - Brasília - DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Economia e Finanças</item>
+		<item>Segurança e Ordem Pública</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

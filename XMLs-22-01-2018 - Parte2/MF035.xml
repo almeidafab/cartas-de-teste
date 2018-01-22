@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Sistema Previdenciário de Gestão de Regimes Próprios de Previdência Social - SIPREV/Gestão</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>SIPREV</item>
+	</nomes-populares>
+	<descricao>O SIPREV/Gestão é um aplicativo disponibilizado gratuitamente aos Entes Federativos que possuem Regime Próprio de Previdência Social. O objetivo do SIPREV/Gestão é manter em um cadastro único do Ente Federativo informações cadastrais, funcionais e previdenciárias dos seus servidores ativos, aposentados e pensionistas, bem como dos dependentes dos segurados.Visando permitir que todos os Entes Federativos tenham condições de utilizar a aplicação, o SIPREV/Gestão foi disponibilizado no Portal da Previdência, http://www.previdencia.gov.br/regimes-proprios/sistemas-srpps/siprevgestao-rpps/ onde também estão disponíveis os manuais e layouts com orientações para carregamento da base.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Trata-se de um sistema de gestão disponibilizado aos Entes Federativos que possuem regime próprio de previdência. A Secretaria de Previdência do Ministério da Fazenda disponibiliza gratuitamente e sua utilização é opcional. A partir do momento que o Ente começa a utiliza-lo, começa a interação Ente Federativo,  Unidade Gestora e os servidores do Ente Federativo por meio de realização de Censo, simulação de aposentadorias, emissão de Certidão por Tempo de Contribuição e outras funcionalidades disponíveis na aplicação.  A aplicação é desenvolvida pela empresa de TI da Previdência, mas os usuários finais são os Entes Federativos.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.previdencia.gov.br/regimes-proprios/sistemas-srpps/</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>treinamento.siprev@previdencia.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Baixar a aplicação do site da Previdência, baixar os manuais de orientação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6120215555.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>treinamento.siprev@previdencia.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Manutenção, auxílio, apoio na utilização da aplicação, se necessário.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6120215555.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>treinamento.siprev@previdencia.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Previdência Social</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

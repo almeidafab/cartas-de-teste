@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Concessão de Benefícios Fiscais e outros assuntos relacionados ao ICMS</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Receber e dar tramitação de pleitos encaminhados ao Conselho Nacional de Política Fazendária-CONFAZ dos assuntos relacionados à concessão de benefícios fiscais no âmbito do ICMS, ou de assuntos relacionados ao mesmo imposto tipificados nos Regimentos do CONFAZ e da Comissão Técnica Permanente do ICMS-COTEPE/ICMS.  Assessora também, nos aspectos fáticos, a Procuradoria-Geral da Fazenda Nacional –PGFN e  Advocacia Geral da União em ações judiciais contestando contra normas baixadas pelo CONFAZ oriundas de Ministérios Públicos , Poderes judiciários, Tribunal de Contas,  impetradas contra o Presidente e/ou o Secretário Executivo do CONFAZ. A tramitação dos assuntos ingressados na Secretaria, em geral, consistem nos seguintes procedimentos: (a) cadastramento e abertura de processo;(b) convocação de  grupo(s) de trabalho-GT(s) constituídos por técnicos das Secretarias de Fazenda dos Estados e do Distrito Federal, com especialização no assunto a ser examinado, para elaborar parecer; (c) convocar a Comissão Técnica Permanente do ICMS-COTEPE/ICMS, para exame e deliberação técnica das propostas apresentadas pelos GT’s; (d) publicar no DOU os atos aprovados no âmbito de sua competência; (e) elaboração da pauta das propostas aprovadas pela COTEPE/ICMS a serem submetidas à apreciação e deliberação  dos Secretários de Fazenda dos Estados e do Distrito Federal, membros conselheiros titulares do CONFAZ, segundo as disposições contidas na  Constituição Federal e na Lei Complementar nº 24/75; (e) converter as propostas aprovados em normativos e proceder a respectiva publicação no DOU;  (f) disponibilizar e manter atualizado o site do CONFAZ  os assuntos de interesse público baixados no âmbito do Conselho; (g) responder aos interessados as consultas encaminhadas por pessoas físicas, jurídicas ou governamentais; (h) assessorar e manter o Presidente do CONFAZ, os membros do CONFAZ e os membros da COTEPE/ICMS permanentemente informados sobre as ocorrências transitadas na Secretaria Executiva do CONFAZ.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Entregar a solicitação à Secretaria-Executiva do CONFAZ, seja por e-mail, correio, através de outros órgãos ou Secretarias de Fazenda.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.confaz.fazenda.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>confaz@fazenda.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Tirar eventuais dúvidas relacionadas à solicitação que foi entregue no primeiro momento de interação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Receber resposta em relação à solicitação apresentada</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Administração </item>
+		<item>Agropecuária</item>
+		<item>Comércio e Serviços</item>
+		<item>Comunicações</item>
+		<item>Cultura</item>
+		<item>Defesa Nacional</item>
+		<item>Educação</item>
+		<item>Energia</item>
+		<item>Esporte e Lazer</item>
+		<item>Habitação</item>
+		<item>Indústria</item>
+		<item>Segurança e Ordem Pública</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Saúde</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

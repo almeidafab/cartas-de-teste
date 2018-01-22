@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Ressarcimento do IPI a Missões Diplomáticas e Repartições Consulares</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Ressarcimento às missões diplomáticas e repartições consulares de caráter permanente e às representações de caráter permanente de órgãos internacionais de que o Brasil faça parte, os valores do IPI incidente sobre produtos adquiridos no mercado interno destinados à manutenção, ampliação ou reforma de imóveis de seu uso.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>missões diplomáticas e repartições consulares de caráter permanente e representações de caráter permanente de órgãos internacionais de que o Brasil faça parte</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Protocolar o  Pedido de Ressarcimento de IPI</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Dados das notas fiscais das aquisições que dão direito ao ressarcimento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Centro de Atendimento ao Contribuinte</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Economia e Finanças</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

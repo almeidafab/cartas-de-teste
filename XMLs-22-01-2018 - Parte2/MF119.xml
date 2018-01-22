@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Procedimentos de Fiscalização de Pessoas Obrigadas</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>AVEC - Avaliação Eletrônica de ConformindadeAPO - Averiguação Preliminar ObjetivaAPA - Averiguação Preliminar Ampla</item>
+	</nomes-populares>
+	<descricao>Procedimentos de fiscalização adotados em relação às pessoas físicas e jurídicas reguladas pelo COAF.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Responder aos questionamentos de fiscalização</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>Registro da Junta Comercial</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.coaf.fazenda.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Centro Empresarial CNCSAUN Qd 5 Lote C  Torre D   2º andar - CEP: 70.040-250 - Asa Norte - Brasília - DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Economia e Finanças</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

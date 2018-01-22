@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Emissão de Documento de Arrecadação de Receitas Federais (DARF) através do Sistema de Cálculo (SICALC).</nome>
+	<sigla/>
+	<contato/>
+	<descricao>É importante destacar que este serviço e toda a sua descrição referem-se exclusivamente a emissão do Documento de Arrecadação de Receitas Federais (DARF) através do Sistema de Cálculo (SICALC).  O DARF é o documento hábil para pagamento de tributos administrados pela Secretaria da Receita Federal do Brasil (RFB).  Já o Sistema de Cálculo é um dos meios possíveis para a emissão de DARF. Explicando melhor, o usuário pode acessar o SICALC, disponível no sítio da Secretaria da Receita Federal do Brasil (RFB) na Internet, para cálculo de tributos com acréscimos legais e emissão de DARF.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Acessar o Sistema de Cálculo (SICALC), disponível no sítio da Secretaria da Receita Federal do Brasil na internet, realizar o cálculo do tributo e emitir o DARF.OuComparecer a uma Central de Atendimento ao Contribuinte (CAC) para que cálculo e emissão do DARF através do SICALC seja realizado pelo servidor.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Central de Atendimento ao Contribuinte (CAC).</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://idg.receita.fazenda.gov.br/http://idg.receita.fazenda.gov.br/orientacao/tributaria/pagamentos-e-parcelamentos/darf-calculo-e-impressao-programa-sicalc-1/darf-calculo</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

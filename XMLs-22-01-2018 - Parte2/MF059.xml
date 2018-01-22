@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Cancelamento da Habilitação Definitiva  ao Programa Leite Mais Saudável.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Cancelamento da Habilitação Definitiva</item>
+	</nomes-populares>
+	<descricao>Solicitar o cancelamento de habilitação ao Programa Mais Leite Saudável mediante juntada do pedido ao dossiê digital atendimento em que a decisão de habilitação foi proferida. A desistência do requerimento de habilitação definitiva antes da decisão de deferimento ou indeferimento produzirá os mesmos efeitos do indeferimento da habilitação.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Entrar no atendimento virtual da RFB e solicitar a adesão ao serviço.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certidões da Receita Federal</item>
+					<item>Projeto elegível ao Mapa</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://cav.receita.fazenda.gov.br/eCAC/publico/login.aspx</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+		<item>Economia e Finanças</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
