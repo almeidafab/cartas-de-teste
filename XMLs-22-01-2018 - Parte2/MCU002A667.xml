@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programação de filmes nas “salas Cinemateca”.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Programação</item>
+	</nomes-populares>
+	<descricao>O setor de Programação organiza e produz programas de mostras de filmes nacionais e estrangeiros, a partir de curadorias temáticas no acervo da própria instituição ou através de parcerias com outros arquivos. Esses programas são exibidos nas duas salas de projeção da Cinemateca Brasileira: Sala Cinemateca Petrobras (108 lugares) e Sala Cinemateca BNDES (208 lugares), ambas contando com recursos para pessoas com necessidades especiais relativas à mobilidade. Há ainda uma área externa com tela de projeção com capacidade para cerca de 1.000 pessoas.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Consulta ao site da Cinemateca Brasileira para verificar a programação do mês e seus respectivos horários.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Retirada gratuita de ingresso na bilheteria na Cinemateca Brasileira.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Largo Senador Raul Cardoso, 20704021-070 - Vila ClementinoSão Paulo - SP</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1926"/>
+	<areas-de-interesse>
+		<item>Comunicações</item>
+		<item>Cultura</item>
+		<item>Cidadania</item>
+		<item>Educação</item>
+		<item>Esporte e Lazer</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

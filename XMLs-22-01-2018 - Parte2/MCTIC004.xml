@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Canal da Cidadania</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O Canal da Cidadania é o serviço de televisão digital aberta, de abrangência municipal, outorgado pelo Ministério da Ciência, Tecnologia, Inovações e Comunicação e executado pelo Poder Público Municipal e Estadual. A principal característica do Canal da Cidadania é o uso da multiprogramação, recurso que permite dividir um canal de televisão em quatro faixas de programação simultâneas. Na prática, é como se quatro emissoras de tv pudessem ocupar o mesmo canal, ao mesmo tempo, e o espectador pudesse, então, escolher a qual delas prefere assistir. Essas faixas de programação serão ocupadas da seguinte forma: (i) uma faixa para veiculação de programação institucional do Poder Público do município onde o canal está instalado; (ii) uma faixa de mesma finalidade para o Poder Público do Estado onde o município está situado; e (iii)  duas faixas para associações comunitárias, com programação local de interesse da população beneficiada. Os objetivos do canal da cidadania são ampliar a interface entre o Estado e o Cidadão, dar mais transparência à gestão pública, estimular a produção de conteúdo audiovisual local, além de oferecer uma plataforma interativa ao cidadão, pois a tecnologia digital permite que o espectador interaja em tempo real com os responsáveis pela estação geradora.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Responder a exigência</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>projeto técnico</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://sistema.mc.gov.br/CADSEIWeb/pages/externo/SisCADSEI.jsf</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1988"/>
+	<areas-de-interesse>
+		<item>Comunicações</item>
+		<item>Cultura</item>
+		<item>Educação</item>
+		<item>Esporte e Lazer</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

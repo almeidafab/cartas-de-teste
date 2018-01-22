@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Emissão de Certificado Zoossanitário Internacional (CZI) ou Certificado Veterinário Internacional (CVI).</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não se aplica</item>
+	</nomes-populares>
+	<descricao>Emissão de Certificado Zoossanitário Internacional (CZI) ou Certificado Veterinário Internacional (CVI) para o trânsito internacional de animais vivos e material de multiplicação animal, em cumprimento aos requisitos sanitários exigidos pelo país de destino.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1. Apresentação do Requerimento de Autorização de Exportação e de toda documentação comprobatória ao atendimentos dos requisitos sanitários específicos do país de destino, nas unidades da SFA da UF de origem;2. Apresentação da Autorização para emissão de CZI e demais documentos comprobatórios nas unidades do VIGIAGRO nos pontos de egresso.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Documentos que comprovem o atendimento aos requisitos sanitários específicos do país de destino</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>1.  unidades da SFA da UF de origem;2.  unidades do VIGIAGRO nos pontos de egresso.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/14"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

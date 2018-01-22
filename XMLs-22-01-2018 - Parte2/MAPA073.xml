@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Renovação de Registro de Produto Veterinário</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não tem</item>
+	</nomes-populares>
+	<descricao>O registro do produto veterinário permite ao Ministério da Agricultura avaliar a qualidade, estabilidade, eficácia e segurança desse produto para a espécie para a qual ele é indicado. Esse registro confere ao detentor uma licença para que o produto seja comercializado no Brasil por 10 anos. Portanto, para que o produto possa continuar sendo comercializado após esse período, a licença precisa ser renovada.  Os usuários são as empresas fabricantes e importadoras de produtos veterinários.  A solicitação de renovação é encaminhada por meio de sistema informatizado. O serviço responsável pela fiscalização de produtos veterinários na Superintendência Federal da Agricultura recebe por meio do sistema essa solicitação, analisa os dados apresentados e se tudo estiver de acordo com a legislação, defere a renovação de registro. Nesse caso, será impresso um novo certificado de registro o qual será assinado pelo chefe do serviço e entregue ao responsável do estabelecimento em mãos ou por correio.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Cadastrar no SIPEAGRO uma solicitação de renovação de registro de produto.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>Por meio do sistema Sipeagro o Mapa acessa todos os documentos relativos ao estabelecimento detentor do registro do produto e ao produto que está sendo renovado.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://sistemasweb.agricultura.gov.br/pages/SIPEAGRO.html</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/14"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

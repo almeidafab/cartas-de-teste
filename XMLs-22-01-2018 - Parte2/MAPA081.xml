@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Licença para fabricação exclusiva para exportação</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não tem</item>
+	</nomes-populares>
+	<descricao>O estabelecimento que deseja fabricar um produto de uso veterinário exclusivamente para exportação deve protocolar na Superintendência Federal da Agricultura/UF uma solicitação apresentando a documentação exigida no §1º do artigo 120 do Decreto 5053/2004.  Essa solicitação será analisada pelos auditores que atuam no serviço responsável pela fiscalização de produtos veterinários na SFA/UF e estando tudo conforme exigido a legislação será emitida uma licença para fabricação exclusiva para exportação.  Essa licença será assinada eletronicamente e enviada por e-mail através do sistema SEI.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Protocolar solicitação de licença para fabricação exclusivamente para exportação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Comprovante de registro como fabricante de produto veterinário, documentos e informações exigidas no §1º do art. 120 do Decreto 5053/2004.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Serviço responsável pela fabricação de produtos veterinários, na Superintendência Federal da Agricultura de cada unidade da Federação.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/14"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

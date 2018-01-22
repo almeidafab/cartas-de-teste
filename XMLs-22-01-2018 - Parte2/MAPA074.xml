@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Registro de produto veterinário de natureza biológico</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Registro de produto veterinário</item>
+	</nomes-populares>
+	<descricao>O fabricante ou importador de produto veterinário biológico (ex: vacinas, soros, kits de diagnóstico) protocola uma solicitação de registro acompanhada de estudos que comprovam sua estabilidade, potência, inocuidade e todos os estudos exigidos pela legislação. Após análise dos estudos apresentados e desde que os mesmos atendam as exigências técnicas e legais, será concedido o registro para fins de licenciamento para comercialização do produto no Brasil. Esse certificado de registro é entregue em mãos ou pelos Correios.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Protocolar solicitação de registro de produto veterinário de natureza biológica.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>Relatório de fabricação de partida piloto, relatório de estudos de estabilidade, laudos de testes de inocuidade, laudo de teste de potência, comprovação de identidade e habilitaçaõ profissional do responsável técnico do estabelecimento.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Protocolo das Superintendências Federais da Agricultura de cada estado da Federação.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Receber certificado de registro de produto de natureza biológica</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Procuração ou qualquer comprovante de que representa o estabelecimento solicitante</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Na unidade descentralizada do Ministério da Agricultura (Superintendência Federal da Agricultura/UF ou seus escritórios regionais)</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/14"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

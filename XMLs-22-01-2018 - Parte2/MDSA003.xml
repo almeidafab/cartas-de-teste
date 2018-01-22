@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa Bolsa Família - PBF</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Bolsa Família, Bolsa</item>
+	</nomes-populares>
+	<descricao>O Bolsa Família é um programa que contribui para o combate à pobreza, transferindo a cada mês uma quantia em dinheiro diretamente às famílias, que são acompanhadas nas áreas de saúde e educação. É feito o acompanhamento mês a mês da frequência escolar das crianças e adolescentes de 6 a 17 anos, com identificação de dificuldade de acesso à escola, o acompanhamento da vacinação, peso e altura das crianças com menos de 7 anos, e o pré-natal das gestantes e orientação às mulheres em fase de amamentação. É necessário cumprir esses compromissos para continuar recebendo o benefício.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrição no Cadastro Único de Programas Sociais do Governo Federal. O cidadão deverá solicitar a sua inscrição no Cadastro Único, que é a porta de entrada unificada para todos os programas sociais do governo, e manter as informações de toda a sua família atualizadas.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de casamento</item>
+					<item>Certidão de nascimento</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>Título de eleitor</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Centro de Referência da Assistência Social, Posto de Atendimento do Cadastro Único.http://aplicacoes.mds.gov.br/cadsuas/pesquisarConsultaExterna.html</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Entrega do cartão do PBF.Recebimento e ativação do cartão do PBF – o cidadão precisa desbloquear, cadastrar senha e ativar seu cartão em um ponto de pagamento de benefícios do PBF.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Ao ser habilitado no PBF, o novo beneficiário receberá uma carta do MDS, explicando o Bolsa Família e informações sobre como desbloquear seu cartão para o saque do benefício mensal. O cartão do Bolsa é enviado via Correios.Ministério do Desenvolvimento Social (MDS) - Esplanada Dos Ministérios - s/n bl A, DFSecretaria Nacional de Renda de Cidadania (Senarc/MDSA)SMAS, Trecho 3, Quadra 2, Lote 1 – Ed. The Union – 70610-051 – Brasília – DFDeben: 2º andarFone/Atendimento: 0800 707 2003 | Gabinete/S</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Pagamento/saque de benefícios do PBF.Com o benefício liberado, a família passará a receber mensalmente uma quantia de dinheiro, que varia conforme a sua composição familiar e renda declarada no Cadastro. O benefício básico atualmente é R$ 85,00, pago apenas a famílias extremamente pobres, e os benefícios variáveis são R$ 39,00, para crianças e adolescentes de 0 a 15 anos, gestantes e nutrizes, R$ 46,00, para adolescentes entre 16 e 17 anos. O limite de benefícios variáveis é de 5 por família.Importante saber:Saque do benefício – o cidadão deve sacar mensalmente seu benefício, ou no prazo máximo de três meses, em um dos canais de pagamento do PBF.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+					<item>Título de Eleitor, Cartão do Bolsa Família</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Canais de pagamento: agências bancárias da CAIXA; caixas eletrônicos da CAIXA; Casas lotéricas e CAIXA AQUI (estabelecimentos comercias credenciados pela CAIXA, tais como: padarias, mercados, etc.)</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>8007072003.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>h</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>atendimento.senarc@mds.gov.br (para beneficiários) / bolsa.familia@mds.gov.br (para todos os cidadãos - beneficiários e não beneficiá</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="aplicativo-movel">
+						<descricao>Aplicativo Bolsa Família da CAIXA – para consulta do benefício, localização de canal de pagamento mais próximo e calendário de pagamento.http://www.caixa.gov.br/atendimento/aplicativos/bolsa-familia/Paginas/defa</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Setor Responsável pelo Programa Bolsa Família ou CRAS de cada município. É possível localizar em:http://aplicacoes.mds.gov.br/cadsuas/pesquisarConsultaExterna</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Cumprimento dos compromissos (condicionalidades).As condicionalidades do Programa Bolsa Família são compromissos assumidos tanto pelas famílias beneficiárias quanto pelo poder público para ampliar o acesso dessas famílias a seus direitos sociais básicos. Por um lado, as famílias devem assumir e cumprir esses compromissos para continuar recebendo o benefício. Por outro, as condicionalidades responsabilizam o poder público pela oferta dos serviços de saúde, educação e assistência social.As Condicionalidades do Programa Bolsa Família são (Lei nº 10.836/2004): i) Na área de educação: frequência escolar mensal mínima de 85% para beneficiários de 6 a 15 anos e de 75% para os de 16 e 17 anos beneficiários do Benefício Variável Vinculado ao Adolescente (BVJ); ii) Na área de saúde: vacinação e acompanhamento nutricional (peso e altura) de crianças de até 7 anos e pré-natal de gestantes.A operacionalização da gestão de condicionalidades no PBF ocorre de forma compartilhada entre governo federal, governos estaduais, distrital e municipais, e de forma intersetorial, com os responsáveis pela gestão do PBF, assistência social, educação e saúde envolvidos. A gestão das condicionalidades compreende um conjunto de ações que envolvem i) secretarias municipais de saúde, educação, assistência social e gestão municipal do PBF; ii) secretarias estaduais de saúde, educação, assistência social e gestão estadual do PBF; e iii) Ministério da Saúde, Ministério da Educação e Ministério do Desenvolvimento Social. A interação entre beneficiários e o poder público para a prestação do serviço de cumprimento das condicionalidades ocorre apenas no âmbito da gestão federal e municipal do PBF. A administração federal é responsável pela comunicação direta com beneficiários, por meio de cartas e extratos bancários, objetivando a informação sobre o calendário das condicionalidades, assim como sobre o descumprimento de algum dos compromissos. No caso de descumprimento de condicionalidades, qualquer família pode contestá-lo por meio da apresentação de um recurso junto à gestão municipal do PBF, tendo resguardado o direito de recebimento do benefício em caso de deferimento. O recurso é r</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>:</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Para interposição de recurso: gestão municipal do PBF</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="aplicativo-movel">
+						<descricao>Para a visualização das mensagens de extrato: aplicativo Bolsa Família da CAIXA – para consulta do benefício, localização de canal de pagamento mais próximo e calendário de pagamento.http://www.caixa.gov.br/atendimento/aplicativos/bolsa-familia/Paginas/default.aspx</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>I</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CPF</item>
+					<item>Registro em Cartório</item>
+					<item>Título de eleitor</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Centro de Referência da Assistência Social, Posto de Atendimento do Cadastro ÚnicoÉ possível localizar em:http://aplicacoes.mds.gov.br/cadsuas/pesquisarConsultaExterna.html</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1945"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Cidadania</item>
+		<item>Educação</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

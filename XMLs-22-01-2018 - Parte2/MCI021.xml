@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Minha Casa Minha Vida – Rural</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Subsídio á produção ou reforma de imóveis para agricultores familiares e trabalhadores rurais, por intermédio de operações de repasse de recursos do orçamento geral da União ou de financiamento habitacional com recursos do Fundo de Garantia do Tempo de Serviço (FGTS).</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Não há interação direta do usuário com o Ministério das Cidades, mas somente com as entidades organizadoras (públicas ou privadas sem fins lucrativos) que, por sua vez, farão  a interação com as instituições financeiras, Caixa Econômica Federal ou Banco do Brasil.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>exigidos pelas entidades organizadoras e pelas instituições financeiras</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Sede da entidade organizadora</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo></titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/42672"/>
+	<areas-de-interesse>
+		<item>Habitação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

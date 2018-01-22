@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Serviço Militar Inicial - SMI</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Serviço Militar Obrigatório - SMO</item>
+	</nomes-populares>
+	<descricao>- Consiste em proporcionar ao cidadão brasileiro, do sexo masculino, que completa 18 anos de idade, condições de realizar o alistamento militar de forma on-line (via internet), realizar a inserção de dados pessoais, acompanhar cada fase do processo seletivo pelo registro de alistamento gerado, receber mensagens do sistema orientando cada passo a ser seguido.- O Serviço Militar (SM) consiste no exercício de atividades específicas desempenhadas nas Forças Armadas – Marinha, Exército e Aeronáutica, incorporados em organizações militares da ativa ou matriculados em órgãos de formação da reserva, por um período de 12 meses. - O recrutamento para o SM obrigatório (SMO) compreende: convocação, alistamento, seleção e incorporação/matrícula.- Alistam-se, anualmente, cerca de 2 milhões de jovens.- As mulheres, em tempo de paz, ficam isentas do SMO.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Realizar a Seleção Geral (Inspeção de saúde e entrevista).</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de casamento</item>
+					<item>Certidão de nascimento</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Comissão de Seleção; ou Comissão de Seleção das Forças Armadas; ou Comissão de Seleção Permanente das Forças Armadas.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Comissão de distribuição.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Alguns dos utilizados anteriormente</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Comissão de distribuição.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Comissão de Seleção Complementar.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Alguns listados anteriormente</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Comissão de Seleção Complementar.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/41066"/>
+	<areas-de-interesse>
+		<item>Defesa Nacional</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

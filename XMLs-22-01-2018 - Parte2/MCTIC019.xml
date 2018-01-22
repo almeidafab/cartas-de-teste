@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Centro de Tecnologia Mineral - CETEM</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>NÃO</item>
+	</nomes-populares>
+	<descricao>O Cetem possui na cidade de Cachoeiro de Itapemirim - ES um laboratório de caracterização tecnológica de rochas ornamentais voltado para apoiar a cadeia produtiva desse setor industrial. O laboratório realiza ensaios em material rochoso tanto para cumprimento de exigências legais junto ao DNPM quanto relativos a pesquisa aplicada. Entre os principais ensaios realizados pode-se citar:Análise Petrográfica (ABNT NBR 15845-1:2015)Ataque Químico (ABNT NBR 13818:1997 -Anexo H)Compressão Uniaxial(ABNT NBR 15845-5:2015)Congelamento e Degelo (ABNT NBR 15845-4:2015)Densidade aparente, porosidade aparente e absorção de água (ABNT NBR 15845-2:2015)Desgaste Amsler (ABNT NBR 12042:2012)Dilatação Térmica Linear (ABNT NBR 15845-3:2015)Flexão em quatro pontos (ABNT NBR 15845-7:2015)Impacto de Corpo Duro (ABNT NBR 15845-8:2015)Microdureza Knoop ou Vickers (ASTM E 384-11 e1)Módulo de Ruptura (ABNT NBR 15845-6:2015)</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>O usuário solicita um orçamento, aprova a proposta, traz os corpos de prova para a realização dos ensaios, o CETEM elabora o laudo final e o usuário efetua o pagamento.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2835118937.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>labro@cetem.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1988"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

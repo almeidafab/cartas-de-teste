@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Serviço de Registro Nacional de Cultivares - SRNC</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>RNC</item>
+	</nomes-populares>
+	<descricao>Inscrição para habilitar cultivares para serem produzidas e comercializadas.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitação de inscrição com envio da documentação exigida.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Formulário, comprovante de pagamento de taxa (GRU), declaração específica</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>No Protocolo Geral do MAPA</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Ministério da Agricultura, Pecuária e Abastecimento - MAPAProtocolo Geral do MAPAEsplanada dos Ministérios, Bloco D, Edifício Sede, Sala 12, TérreoBrasília - DF. CEP: 70043-900Aos cuidados da Coordenadora de Sementes e MudasCoordenação de Sementes e Mudas - CSM/DFIA/SDARegistro Nacional de Culti</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Preenchimento de formulário e envio de documentos obrigatórios.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Formulário, GRU paga, Declaração específica</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Protocolo Geral do MAPA</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Ministério da Agricultura, Pecuária e Abastecimento - MAPAProtocolo Geral do MAPAEsplanada dos Ministérios, Bloco D, Edifício Sede, Sala 12, TérreoBrasília - DF. CEP: 70043-900Aos cuidados da Coordenadora de Sementes e MudasCoordenação de Sementes e Mudas - CSM/DFIA/SDARegistro Nacional de Cultivares - RNC</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Entrega da documentação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Formulário, GRU paga, Declaração específica</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Protocolo Geral do MAPA</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Ministério da Agricultura, Pecuária e Abastecimento - MAPAProtocolo Geral do MAPAEsplanada dos Ministérios, Bloco D, Edifício Sede, Sala 12, TérreoBrasília -</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Entrega dos documentos obrigatórios</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>F</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Protocolo Geral do MAPA</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>CEP: 70043-900</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>E</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Formulário,  GRU paga, Declaração específica</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>CEP: 70043-900</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Apresentação da documentação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Formulário, GRU paga, Declarção especí</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Protocolo geral do MAPA</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>M</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/14"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

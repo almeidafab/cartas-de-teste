@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>SUPERINTÊNCIA FEDERAL DE AGRICULTURA (SFA) NOS ESTADOS DA FEDERAÇÃO</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>SFA/UF</item>
+	</nomes-populares>
+	<descricao>É a emissão de certificado para Granjas de Reprodutoras de Suínos Certificadas (GRSC) baseada no cumprimento de requisitos de biossegurança e na realização de exames semestrais para as seguintes doenças: peste suína clássica, doença de Aujeszky, tuberculose, brucelose, leptospirose e sarna. Essa certificação tem por finalidade zelar pela sanidade dos rebanhos suínos brasileiros, minimizando o risco de disseminação de doenças.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>REQUERIMENTO DE CERTIFICAÇÃO</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>CPF</item>
+					<item>ALVARÁS E COMPROVANTE DE CADASTRO NO SVO</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>SFA/UF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>REALIZADA VISTORIA NA GRANJA</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>ALVARÁS</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>UNIDADES DE ATENDIMENTO DO SERVIÇO OFICIAL ESTADUAL</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/14"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

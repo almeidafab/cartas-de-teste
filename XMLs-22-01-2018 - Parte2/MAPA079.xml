@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>AUTORIZAÇÃO DE IMPORTAÇÃO  DE PRODUTO DE USO VETERINÁRIO DESTINADO À PESQUISA</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>AUTORIZAÇÃO DE IMPORTAÇÃO</item>
+	</nomes-populares>
+	<descricao>SOLICITAÇÃO DE CONCESSÃO  DE AUTORIZAÇÃO PARA IMPORTAÇÃO DE PRODUTO DE USO VETERINÁRIO PARA PESQUISA, REALIZADA POR EMPRESAS FABRICANTES  E  LABORATÓRIO DE ANÁLISE QUÍMICA  OU BIOLÓGICA.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>PROTOCOLA A SOLICITAÇÃO DE IMPORTAÇÃO EM UMA UNIDADE DO MAPA</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>EM QUALQUER UNIDADE DO MAPA</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>DFPV.CPV@AGRICULTURA.GOV.BR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/14"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Agropecuária</item>
+		<item>Comércio e Serviços</item>
+		<item>Educação</item>
+		<item>Indústria</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

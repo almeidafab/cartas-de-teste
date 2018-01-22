@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Serviço de identificação de pedras preciosas</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Todo e qualquer cidadão, que possua uma pedra com características de pedra preciosa, esteja ela no estado bruto, lapidada ou até cravada em uma joia, poderá, após agendar uma visita ao laboratório, trazer até 10 unidades para exame gratuito no Laboratório de Pesquisas Gemológicas do CETEM. Este serviço é realizado empregando técnicas básicas de identificação de gemas, incluindo a espectrometria Raman. O laboratório não analisa rochas, minerais industriais ou minérios de outro tipo, incluindo os metálicos, e também não possui competência na área de meteoritos. Caso a identificação de uma amostra trazida por um cidadão não seja possível empregando as técnicas retro mencionadas, será feita uma proposta de análises adicionais, para as quais serão cobradas taxas módicas, que poderão levar à identificação inequívoca da substância mineral. Nestes dois casos, com ou sem a realização das análises adicionais, é emitido um laudo apenas verbal. No caso das análises adicionais pagas pelo cidadão é emitido um boletim com os resultados da análise. Caso o cidadão tenha interesse na emissão de um laudo escrito, este poderá ser emitido mediante pagamento de uma taxa proporcional à quantidade de peças analisadas.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Agendar atendimento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2138657258.0000000000</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Identificação das substâncias gemológicas trazidas pelo cidadão</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Laboratório de Pesquisas GemológicasCentro de Tecnologia Mineral - Ministério da Ciência, Tecnologia, Inovações e ComunicaçõesAv. Pedro Calmon, 900 - Ilha da Cidade Universitár</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1988"/>
+	<areas-de-interesse>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Emissão de comprovante de cadastramento no Cadastro Único (Consulta Cidadão).</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Consulta Cidadão</item>
+	</nomes-populares>
+	<descricao>Lançada em maio de 2017, a Consulta Cidadão visa disponibilizar aos inscritos do Cadastro Único consulta a alguns dos seus dados cadastrais, bem como de sua família, e possibilitar a impressão do comprovante de cadastramento. Os dados que podem ser gerados são: mensagem de confirmação de cadastro com nome, Número de Identificação Social (NIS), data de nascimento, nome da mãe, município e Unidade da Federação onde a pessoa está cadastrada; datas de cadastramento e da última atualização cadastral da família e faixas de renda familiar total e per capita; nome completo, data de nascimento e NIS de cada um dos integrantes da família e da identificação do Responsável pela Unidade Familiar (RF); e relação de parentesco de cada um dos integrantes da família com o RF. Os comprovantes gerados referem-se a informações de cerca de 45 dias anteriores à data de consulta. Essas informações são importantes caso a família queira participar de algum programa ou benefício social, ou retificar informações que eventualmente estejam equivocadas, ou verifique a necessidade de se proceder à revisão cadastral, para incluir novo membro na família ou atualizar a informação sobre rendimento, por exemplo. A proposta da iniciativa é que a Consulta Cidadão ajude a diminuir as filas de atendimento nos postos do Cadastro Único e Bolsa Família, já que muitas pessoas procuram o setor apenas para obter o NIS ou outros dados para utilizarem nos mais diversos programas, ao mesmo tempo em que possibilita qualificar a informação do próprio Cadastro Único, pelo olhar do maior interessado, que é o cidadão. O benefício imediato é, portanto, múltiplo, tanto para o gestor municipal, que não precisará designar servidor apenas para prestar um serviço que agora é possível por meio do autoatendimento, como para o cidadão, que economiza tempo e dinheiro, como também para o próprio MDS, que oferece um serviço de qualidade diretamente à população.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>(1) Insere dados pessoais, Confirma os dados e emite certidão.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://aplicacoes.mds.gov.br/sagi/consulta_cidadao</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1945"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

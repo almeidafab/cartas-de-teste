@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Cursos em Métodos de Diagnóstico e Controle da Brucelose e Tuberculose Animal e de Noções em Encefalopatias Espongiformes Transmissíveis</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>NÃO</item>
+	</nomes-populares>
+	<descricao>É o serviço pelo qual o Ministério da Agricultura, Pecuária e Abastecimento (Mapa) reconhece cursos em Métodos de Diagnóstico e Controle da Brucelose e Tuberculose Animal e de Noções em Encefalopatias Espongiformes Transmissíveis, para habilitação de médicos veterinários noPrograma Nacional de Controle e Erradicação da Brucelose e Tuberculose Animal (PNCEBT). Para habilitação no Programa Nacional de Controle de Erradicação da Brucelose e Tuberculose Animal (PNCEBT), os médicos veterinários precisam, obrigatoriamente, ser aprovados em treinamento previamente reconhecido. Os cursos têm o objetivo de atualizar os conhecimentos dos profissionais e, sobretudo, padronizar as ações sanitárias.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Instituições de ensino e pesquisa</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitação de reconhecimento da instituição para ministrar cursos em Métodos de Diagnóstico e Controle da Brucelose e Tuberculose Animal e de Noções em Encefalopatias Espongiformes Transmissíveis, para habilitação de médicos veterinários no Programa Nacional de Controle e Erradicação da Brucelose e Tuberculose Animal (PNCEBT).</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certificados dos professores de participação em Seminário para Padronização de Cursos de Treinamento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Superintendências Federais de Agricultura, Pecuária e Abastecimento nas UFs</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>diversos, dependendo da SFA (UF)</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Recebimento do agente público para vistoria do local</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>No local onde a instituição está localizada. O agente público realiza uma vistoria no local.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Recebimento da resposta da solicitação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Superintendência Federal de Agricultura nas UFs</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>Diversos. Verificar endereços das SFAs no site do Mapa</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/14"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

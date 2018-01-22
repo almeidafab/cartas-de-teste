@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Autorização de importação de material genético animal e animais vivos – exceto cães e gatos</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O cidadão deverá apresentar o Licenciamento de Importação - LI à Superintendência Federal da Agricultura - SFA do estado em que reside. Por sua vez a SFA fornecerá um formulário denominado "Requerimento para a solicitação de autorização de importação de animais vivos, material de multiplicação animal, micro-organismos, produtos de origem animal ou material biológico de origem animal não destinados à alimentação humana ou animal"Neste formulário o cidadão deverá fornecer informações a respeito da mercadoria a ser importada, sua origem, seu destino, o número do Licenciamento de Importação - LI, entre outras. Poderão ser adicionados ao processo outros documentos pertinentes à mercadoria a ser importada, tais como faturas, procurações, entre outros. Além disso, a SFA dará orientações ao cidadão quanto aos requisitos zoossanitários que deverão ser cumpridos pelo Serviço Veterinário Oficial - SVO do país de origem dos animais ou materiais de multiplicação animal, cujo documento de comprovação se denomina Certificado Zoossanitário Internacional - CZI. Essas informações normalmente são adicionadas no corpo do Licenciamento de Importação.Com base em todas as informações e documentos obtidos a Superintendência Federal da Agricultura irá emitir a autorização de importação a fim de conceder a anuência para a importação. Essa autorização é sempre condicionada aos requisitos zoossanitários que serão verificados pelos Servidores do  Sistema de Vigilância Agropecuária Internacional - VIGIAGRO.O cidadão poderá também obter informações sobre autorização para a importação de animais vivos e de material de multiplicação animal por meio do endereço eletrônico http://www.agricultura.gov.br/animal/importacao , selecionando a opção que desejar.A autorização de importação de material genético animal e animais vivos, exceto cães e gatos, deverá ser solicitada ao serviço de saúde animal da Superintendência Federal da Agricultura, Pecuária e Abastecimento (SFA) do Estado ou Distrito Federal.O endereço, telefone, fax e e-mail de cada uma das Superintendências Federais da Agricultura - SFAs pode ser encontrado no seguinte endereço: http://www.agricultura.gov.br/sfa/lista-sfas</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>O usuário deve fornecer toda a documentação solicitada e o formulário corretamente preenchido.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Licenciamento de Importação</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Sede da Superintendência Federal da Agricultura da Unidade da Federação onde o cidadão reside.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>32182828.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>varia para cada Superintendência Federal da Agricultura</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>recepção da autorização de importação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Superintendência Federal da Agricultura do estado onde o cidadão reside.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/14"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

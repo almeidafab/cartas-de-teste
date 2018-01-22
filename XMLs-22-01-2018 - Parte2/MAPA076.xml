@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Autorização de embarque de produto semi-acabado ou de substância controlada para uso na fabricação de produto veterinario</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não tem</item>
+	</nomes-populares>
+	<descricao>O estabelecimento que deseja importar um produto semi-acabado ou uma substância sujeita à controle especial para utilização na fabricação de produto veterinário deve protocolar solicitação de autorização de embarque que será analisada pela Divisão de Fiscalização de Produtos Veterinários, na Coordenação de Fiscalização de Produtos Veterinários, em Brasília. Essa solicitação deve estar acompanhada dos documentos exigidos no artigo 19 da IN 29/2010. Estando tudo de acordo com a exigência normativa, o setor competente do Mapa irá autorizar o embarque daquele produto semi-acabado ou daquela substância controlada. A autorização será assinada eletronicamente e enviada ao usuário através de email pelo Sistema SEI.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Protocolar solicitação de autorização de embarque de produto semi-acabado ou substância controlada para uso na fabricação de produto veterinário</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certificado de registro do estabelecimento fabricante, Extrato do licenciamento de importação emitido pelo SISCOMEX</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Serviço de protocolo das unidades descentralizadas do Ministério da Agricultura, Pecuária e Abastecimento, especialmente as Superintendências Federais da Agricultura de cada unidade da Federação.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/14"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

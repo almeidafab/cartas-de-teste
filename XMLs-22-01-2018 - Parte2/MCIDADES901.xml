@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Minha Casa Minha Vida - Financiamento FGTS</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Minha Casa Minha Vida - Financiamento FGTS</item>
+	</nomes-populares>
+	<descricao>Acesso à casa própria de famílias que necessitam de moradia, por intermédio de financiamento habitacional, com subsídio dos juros ou do valor de complemento do imóvel, considerando sua localização e valor, e a renda familiar do adquirente.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Não há interação do usuário com o Ministério das Cidades, mas somente com instituições financeiras e incorporadoras.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>a critério da instituição financeira</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Incorporadoras e instituições financeiras</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/42672"/>
+	<areas-de-interesse>
+		<item>Habitação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

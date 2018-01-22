@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>INSTITUTO NACIONAL DE TECNOLOGIA</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>INT</item>
+	</nomes-populares>
+	<descricao>O INT é órgão público federal acreditado pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia (Inmetro) para desenvolver atividades de certificação compulsória de produtos no âmbito do Sistema  Brasileiro de Avaliação da Conformidade - SBAC para certificar preservativos masculinos, luvas de procedimentos, implantes mamários e cachaça, também  é credenciado pelo Ministério da Agricultura, Pecuária e Abastecimento (MAPA) para atuar na certificação de produtos orgânicos dentro do Sistema Brasileiro de Avaliação da Conformidade</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>RECEBE ORIENTAÇÕES, DISPONIBILIZA DOCUMENTOS E EVIDENCIAS, RECEBE AUDITORIA NO LOCAL</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>DOCUMENTOS ESPECIFICOS DO ORGANISMO DE CERTIFICAÇÃO</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>21231169.0000000000</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>FORMALIZAÇÃO DO CONTRATO</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>21231169.0000000000</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>PLANEJAMENTO E EXECUÇÃO DA AUDITORIA</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>DOCUMENTOS ESPECIFICOS DO OCP</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>CONCLUSÃO DO SERVIÇO E EMISSÃO DO CERTIFICADO</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>D</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1988"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+		<item>Comércio e Serviços</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

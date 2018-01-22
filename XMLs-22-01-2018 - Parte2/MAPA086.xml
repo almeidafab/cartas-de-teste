@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Credenciamento para emissão de Certificado de Inspeção Sanitária - CIS-E</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não se aplica</item>
+	</nomes-populares>
+	<descricao>Procedimento pelo qual o Ministério da Agricultura, Pecuária e Abastecimento (MAPA) credencia médicos veterinários não vinculados à administração pública para a emissão de Certificado de Inspeção Sanitária - CIS-E para o trânsito de subprodutos de origem animal, desde que atendidas as seguintes exigências:1.  A unidade administrativa não apresenta número suficiente de médicos veterinários ou funcionários autorizados dos órgãos oficiais de Defesa Sanitária Animal;2. O médico veterinário particular deve prestar assistência veterinária aos estabelecimentos de onde se originam os subprodutos;3. Apresentar a solicitação de credenciamento dirigida ao Superintendente Federal de Agricultura da respectiva Unidade Federativa (UF), entregue no escritório de atendimento à comunidade do serviço de Defesa Sanitária Animal da UF que pretende atuar;4. Preencher ficha cadastral adquirida no órgão de Defesa Sanitária Animal da UF;5. Apresentar documento expedido pelo Conselho Regional de Medicina Veterinária da UF de atuação, declarando que o profissional está devidamente inscrito;6. Participação do interessado em treinamentos especializados, quando convocado pelo MAPA.O médico veterinário credenciado só poderá emitir CIS-E nos municípios especificados em Portaria expedida pela SFA.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Profissionais médicos veterinários</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1. Formalizar o pedido e fornecer documentação;2. Comparecer à SFA para treinamento após a publicação da Portaria de credenciamento;3. Comparecer à SFA sempre que convocado para treinamentos</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+					<item>CRMV</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>órgão de Defesa Sanitária Animal da UF e Superintendência Federal de Agricultura da UF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/14"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

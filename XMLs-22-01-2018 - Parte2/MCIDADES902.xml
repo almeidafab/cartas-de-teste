@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Renovação de Frota do Transporte Público Coletivo Urbano de Passageiros (REFROTA17), apresentadas no âmbito do Programa de Infraestrutura de Transporte e da Mobilidade Urbana (Pró-Transporte).</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>REFROTA17</item>
+	</nomes-populares>
+	<descricao>Financiamento, exclusivamente para o setor privado, com vistas à  aquisição de ônibus, visando ampliar a eficiência dos prestadores de serviços de mobilidade urbana e com isso melhorar a qualidade de vida da população.Entrega: Exclusivamente veículos do sistema de transporte sobre pneus, do tipo:Tipo 1: Micro-ônibus, Miniônibus, Midiônibus e ônibus básico;Tipo 2: Ônibus Padron, Ônibus Articulado  e Ônibus Biarticulado.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>A empresa privada deve preencher a Carta Consulta e encaminhar ao Agente Financeiro.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Documentação da empresa a ser apresentada aos  Agentes Financeiros</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/42672"/>
+	<areas-de-interesse>
+		<item>Meio ambiente</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

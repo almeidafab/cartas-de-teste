@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa 2048 Mobilidade Urbana e Trânsito - Diversas ações orçamentárias referentes à Mobilidade Urbana</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não tem</item>
+	</nomes-populares>
+	<descricao>Programa com recursos do OGU voltados à Mobilidade Urbana, entre eles: implantação de infraestruturas que contribuam para a melhoria da mobilidade urbana e apoio técnico e assistência financeira à elaboração de projetos (como item de investimento)</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Beneficiários finais: população urbana</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="90" max="120" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrição da proposta técnica pelo ente federativo solicitante do recurso, quando aberto o processo de seleção por ato normativo publicado no Diário Oficial da União</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Documentação do ente federado interessado nos recursos orçamentários para aplicação em Mobilidade Urbanas</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.cidades.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/42672"/>
+	<areas-de-interesse>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

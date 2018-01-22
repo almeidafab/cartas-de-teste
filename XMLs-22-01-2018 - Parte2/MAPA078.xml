@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Autorização de embarque de produto veterinário para uso individual</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não tem</item>
+	</nomes-populares>
+	<descricao>Para importar um produto de uso veterinário para uso individual o usuário deve dirigir-se ao serviço responsável pela fiscalização de produtos veterinários na Superintendência Federal da Agricultura do seu estado e apresentar uma solicitação de importação que deve estar acompanhada da prescrição de um médico veterinário.  A solicitação será protocolizada através de sistema informatizado do Mapa (SEI), analisada pelo setor competente e se estiver atendendo as exigências da Instrução Normativa nº 29/2010 será emitida um Ofício de autorização de embarque.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Protocolar uma solicitação de autorização de embarque de produto veterinário para uso individual</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Prescrição de médico veterinário</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Superintendências Federais da Agricultura de cada unidade da Federação</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>Como o serviço não é centralizado, cada SFA/UF tem o seu e-mail de contato com o serviço responsável pela fiscalização de produtos vet</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/14"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Seleção de propostas para ações de saneamento básico (abastecimento de água, esgotamento sanitário, drenagem e manejo das águas pluviais e manejo de resíduos sólidos urbanos) a serem apoiadas pelo Governo Federal, no âmbito do Programa de Aceleração do Cres</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>PAC Saneamento (OGU)</item>
+	</nomes-populares>
+	<descricao>A Secretaria Nacional de Saneamento Ambiental realiza seleções públicas de propostas de empreendimentos de saneamento (obras, estudos e projetos de engenharia) apresentadas por Municípios, Estados, Distrito Federal ou consórcios públicos, a serem apoiadas com recursos do Orçamento Geral da União (recursos não onerosos). A entrega realizada após o processo de seleção da proposta é a formalização de um Termo de Compromisso garantindo o repasse para a execução dos objeto compromissado.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrição de Cartas-Consulta por meio do formulário eletrônico</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>CPF</item>
+					<item>Legislação que criou o prestador de serviços de saneamento; legislação relativa à concessão dos serviços de saneamento; comprovante de cobrança de tarifa de água e/ou esgoto; carta-consulta apresentando a proposta de empreendimento a ser selecionado</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.cidades.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Entrevista Técnica para apresentação da Proposta</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Projetos Técnicos</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Secretaria Nacional de Saneamento Ambiental do Ministério das Cidades</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Apresentação dos projetos de engenharia e demais documentações técnica, jurídica e institucional</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>relação de documentos descrita no Manual de Instruções Para Contratação e Execução dos Programas e Ações do Ministério das Cidades inseridos No PAC (MICE-PAC)</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Gerência de Desenvolvimento Urbano da Caixa Econômica Federal da área de jurisdição correspondente à localização do empreendimento</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Formalização do Termo de Compromisso</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>N</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Gerência de Desenvolvimento Urbano da Caixa Econômica Federal da área de jurisdição correspondente à localização do empreendimento</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/42672"/>
+	<areas-de-interesse>
+		<item>Saneamento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

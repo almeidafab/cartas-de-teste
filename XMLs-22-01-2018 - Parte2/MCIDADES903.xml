@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa de Infraestrutura de Transporte e da Mobilidade Urbana (Pró-Transporte)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Pró-Transporte</item>
+	</nomes-populares>
+	<descricao>O Pró-Transporte é implementado de forma a propiciar o aumento da mobilidade urbana, da acessibilidade, dos transportes coletivos urbanos e da eficiência dos prestadores de serviços, de maneira a garantir o retorno dos financiamentos concedidos e conferir maior alcance social às aplicações do Fundo de Garantia do Tempo de Serviço - FGTS.É voltado ao financiamento do setor público e privado com vista a: a)implantação/modernização de sistemas de infraestrutura do transporte coletivo urbano e da mobilidade urbana, incluindo obras civis, equipamentos, investimentos em tecnologia, sinalização e/ou aquisição de veículos de todos os modos de transporte (trilhos, pneus, hidroviário) e afins;b)obras civis, e equipamentos de vias segregadas, vias exclusivas, faixas exclusivas e corredores dos sistemas de veículos sobre trilhos e pneus, inclusive sinalização; c)terminais, incluindo bicicletários e garagens junto aos locais de integração dos modais, e pontos de conexão de linhas de transporte público coletivo urbano, em todas as modalidades; d)abrigos nos pontos de parada de transporte público coletivo urbano de passageiros; e e)projetos básicos (incluídos estudos e projetos de concepção) e executivos para empreendimento, desde que incluídos no escopo da proposta de implementação f)equipamentos e sistemas de informática e/ou telecomunicações para aplicação de uso embarcado e não embarcado, inclusive tecnologias que otimizem a integração, controle e modernização do sistema de transporte público coletivo urbano, como bilhetagem eletrônica e central de controle operacional;g)implantação, calçamento, pavimentação, recapeamento de vias locais, coletoras, arteriais, estruturantes e exclusivas de pedestres, que beneficiem diretamente a circulação, a acessibilidade e a mobilidade urbana, incluindo ciclofaixas, ciclovias e circulação de pedestres;</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>População urbana que utiliza o transporte público coletivo urbano</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrição da proposta pelos entes federados ou pelo setor privado, de acordo com o proposto no ato normativo de seleção.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Informações do proponente para análise de risco para obter o financiamento e proposta técnica do solicitado</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Agências locais dos diferentes Agentes Financeiros.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.cidades.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/42672"/>
+	<areas-de-interesse>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

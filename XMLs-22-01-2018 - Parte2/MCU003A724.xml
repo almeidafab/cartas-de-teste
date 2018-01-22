@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Núcleo de Produção Digital - NPD</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não</item>
+	</nomes-populares>
+	<descricao>O Núcleo de Produção Digital (NPD) é o braço da formação e da produção regionalizada dentre as políticas públicas da Secretaria do Audiovisual. Cada NPD recebe equipamentos de produção e de edição audiovisual digital. Em determinados casos, também é repassado recurso financeiro para a realização de cursos e oficinas. O Núcleo deve funcionar como um centro de qualificação e de produção não comercial, fortalecendo a cadeia produtiva local. O NPD deve ser um multiplicador de conhecimento, promovendo cursos, oficinas e palestras de aperfeiçoamento técnico para a comunidade.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Manifestação de Interesse do órgão/entidade.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não se aplica</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Edifício SedeEsplanada dos Ministérios, Bloco B, 2º andar.CEP: 70068-900 – Brasília/DF</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6120242962.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>audiovisual@cultura.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Envio de documentos para compor o processo. Os documentos variarão de acordo com o instrumento de pactuação (Convênio, TED etc.).</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certidões da Receita Federal</item>
+					<item>Documentos variarão dependendo do instrumento de pactuação</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Edifício SedeEsplanada dos Ministérios, Bloco B, 2º andar.CEP: 70068-900 – Brasília/DF</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6120242962.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.convenios.gov.br (em caso de convênio)</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>concurso.sav@cultura.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Edifício SedeEsplanada dos Ministérios, Bloco B, 2º andar.CEP: 70068-900 – Brasília/DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Assinatura do Termo. O termo variará conforme o instrumento de pactuação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Termo de Convênio / Termo de Execução Descentralizada / Termo de Cessão de Equipamentos</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Edifício SedeEsplanada dos Ministérios, Bloco B, 2º andar.CEP: 70068-900 – Brasília/DF</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>w</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>audiovisual@cultura.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Edifício SedeEsplanada dos Ministérios, Bloco B, 2º andar.CEP: 70068-900 – Brasília/DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Implantação do Núcleo de Produção Digital.Esta etapa variará de acordo com o instrumento de pactuação.Caso o NPD seja possibilitado por termo de cessão, o beneficiário deverá buscar os equipamentos no Centro Técnico Audiovisual (CTAv), no Rio de Janeiro. Se implantação ocorrer via transferência de recursos (Convênio ou TED), o próprio usuário adquirirá os equipamentos.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certidões da Receita Federal</item>
+					<item>T</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>CTAvAv. Brasil, 2482, Benfica. Rio de Janeiro, RJ</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1926"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

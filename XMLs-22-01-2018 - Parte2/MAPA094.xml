@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Não se aplica</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Compartimentação</item>
+		<item>Certificado de Compartimento Avícola</item>
+		<item></item>
+	</nomes-populares>
+	<descricao>É a emissão do certificado sanitário para Compartimentos Avícolas que atesta que o compartimento cumpre com as exigências previstas na normativa de Certificação Sanitária da Compartimentação da Cadeia Produtiva Avícola das granjas de reprodução, de corte e incubatórios, de galinhas ou perus, para a infecção pelos vírus de influenza aviária - IA e doença de Newcastle - DNC.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>entrega da documentação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>termo de adesão à normativa; relação das unidades do compartimento; plano de rastreabilidade; plano de contingência; mapas; identificação das espécies das aves silvestres da região; responsável; programa de capacitação; declaração que as unidades atendem à normativa; memorial descritivo das medidas de biosseguridade</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Superintendência Federa da Agricultura, Pecuária e Abastecimento do Estado onde se localiza a empresa</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>auditorias pelo serviço veterinário oficial</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Nas unidades que compõe o compartimento: granjas, incubatórios, abatedouros, fábricas de ração e fábricas de material para forração de camas e ninhos</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>vigilância epidemiológica com colheita de amostras para exames laboratorais</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Nas unidades do compartimento: granjas, incubatórios, abatedouros, fábricas de ração e fábricas de material para forração de camas e ninhos</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>entrega do certificado sanitário de Compartimento Avícola</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Superintendência Federa da Agricultura, Pecuária e Abastecimento do Estado onde se localiza a empre</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/14"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

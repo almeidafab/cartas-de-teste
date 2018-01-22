@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Outorga de Radiodifusão Comunitária</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>RADCOM</item>
+	</nomes-populares>
+	<descricao>É o serviço de radiodifusão sonora, em frequência modulada (FM), operado em baixa potência (25 Watts) e que tem por finalidade atender uma comunidade, um bairro ou mesmo uma municipalidade de pequeno porte. Primeiramente, é publicado um Edital de Seleção para as localidades, ao qual as entidades interessadas em executar o serviço podem concorrer, apresentando a documentação necessária. Os documentos são analisados, e, com a instrução do processo, é emitida uma Portaria de Autorização, assinada pelo Ministro. O processo segue então para a Casa Civil, que o encaminha para o Congresso Nacional, que publica o Decreto Legislativo, a partir do qual é emitida uma licença para funcionamento.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Responder Exigências</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certificado de antecedentes criminais</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>Estatuto Social, Ata de Eleição da Diretoria, Requerimento de Outorga, Manifestações de Apoio de outras entidades.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Protocolo - Esplanada dos Ministérios, Bloco R, Edifício Sede, térreo, Brasília/DF.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://sistema.mc.gov.br/CADSEIWeb/pages/externo/SisCADSEI.jsf</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Esplanada dos Ministérios, Bloco R, Anexo B, sala 300, CEP 70.044-900, Brasília/DF.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1988"/>
+	<areas-de-interesse>
+		<item>Comunicações</item>
+		<item>Cultura</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
