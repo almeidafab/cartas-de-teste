@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Certidão de Serviços de Guerra-Emissão ou 2ª VIA.</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Expedição de Certidão de Serviços de Guerra a ex-combatente(aquele que tenha  participado efetivamente de operações bélicas na Segunda Guerra Mundial, como aquaviário tripulante de embarcação da Marinha Mercante Nacional e possuidor do Diploma da Medalha de Serviços de Guerra com estrelas, acompanhado da citação assinada pelo Secretário do Conselho do Mérito de Guerra ou Certificado de Concessão de Medalha de Serviços de  Guerra ), em conformidade com as Leis nº 5.315, de 12/09/1967 modelo DPC-1020, 5.698 de 31/08/1971 modelo DPC-1021 e pelo art. 7º, § único, do decreto n 167 16.368, de 16/08/1944.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Entrega da documentação para  a emissão da Certidão.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de nascimento</item>
+					<item>Requerimento do interessado, conforme modelo do Anexo 6-A da NORMAM-13/DPC; Caderneta Matrícula ou Caderneta de Inscrição Pessoal (CIP)referente ao período da 2ª Guerra Mundial; Diploma da Medalha de Serviços de Guerra com a Citação do Conselho de Mérito de Guerra ou Certificado de Concessão de Medalha de Serviços de Guerra(para quem o possuir) e Certidão de Tempo de Embarque(quem o possuir).</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Capitanias, Delegacias e Agências</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/41066"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Previdência Social</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Sistema Integrado de Registro do CEIS/CNEP - SIRCAD</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O Sistema Integrado de Registro do CEIS/CNEP foi desenvolvido para publicar, no Portal da Transparência, os dados do Cadastro Nacional de Empresas Inidôneas e Suspensas (CEIS) e do Cadastro Nacional das Empresas Punidas (CNEP), atendendo as determinações da Lei 12.846/2013 (Lei Anticorrupção). O acesso ao Sistema é permitido aos entes públicos, de todas as esferas federativas (municipais, estaduais e federais), de todos os poderes. Atualmente, na esfera federal, o CEIS e no CNEP é alimentado diretamente pela CGU, a partir de pesquisa às sanções publicadas no Diário Oficial da União e da importação de bancos de dados institucionais. Com o lançamento do Sistema CGU-PJ, os órgãos federais cadastrarão diretamente ali as sanções aplicadas, com integração automática aos cadastros.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Pré-cadastro no SIRCAD</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certificado digital (e-CNPJ)</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://www.ceiscadastro.cgu.gov.br/index.aspx?ReturnUrl=%2f</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/214460"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Ingresso no Exército como militar temporário na 1ª Região Militar.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Processo Seletivo da 1ª Região Militar
+
+Processo Seletivo do Comando da 1ª Região Militar</item>
+	</nomes-populares>
+	<descricao>Selecionar profissionais civis/militares habilitados para o ingresso nas áreas de interesse do Exército Brasileiro. A seleção para o serviço técnico voluntário,inclui:
+
+Inscrição pela Internet - A inscrição é realizada com o acesso do candidato pelo site do Comando da 1ª Região Militar (www.1rm.eb.mil.br).
+
+Publicação de resultados e recebimento de documentos - Após o término do período de inscrições será publicada a relação geral de todos os candidatos inscritos. Determinada a classificação, os candidatos serão convocados a entregar todas as documentações cadastradas no ato da inscrição.
+
+Análise curricular - Tem por finalidade realizar a validação dos documentos curriculares cadastrados na Ficha de Inscrição pela Internet e verificar coerência dos mesmos com a prática profissional.
+
+Teste de Conhecimentos - Destina-se a avaliar a capacidade do candidato expor com clareza, concisão, precisão, coerência e objetividade assuntos ligados à sua profissão. O candidato convocado a participar desta fase, realizará um teste prático/teórico na qual serão abordados conhecimentos necessários ao exercício da atividade pretendida.
+
+Inspeção de saúde - Tem por finalidade a verificação das condições físicas dos candidatos, bem como identificar a existência de motivos incapacitantes ao exercício das atividades militares. Sendo composta de avaliação médica e odontológica.
+
+Teste de aptidão física - O Exame de Aptidão Física tem como objetivo avaliar os convocados quanto à higidez física necessária ao desempenho das atividades militares.
+
+Curso de formação - O candidato apto em todas as etapas e mediante a necessidade do Exécito Brasileiro será incorporado nas Organizações Militares sediadas no âmbito do Comando da 1ª Região Militar, para realizar o estágio de adaptação ao serviço técnico no período de 45 dias.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrição via Internet; convocação e entrega de documentos; convocação e realização do teste de conhecimentos;  convocação e realização da inspeção de saúde; convocação e realização do exame de aptidão física; convocação e realização da entrega de certidões; convocação e realização de reunião de orientação; e incorporação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de casamento</item>
+					<item>Certidão de nascimento</item>
+					<item>Certidões de cartório</item>
+					<item>Certificado de antecedentes criminais</item>
+					<item>Certificado de conclusão de curso</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de quitação eleitoral</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>Diário Oficial</item>
+					<item>Diploma</item>
+					<item>Registro em Cartório</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Comissão de Seleção Especial - Palácio Duque de Caxias - Praça Duque de Caxias nº25</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2125195425</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.1rm.eb.mil.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>cse@1rm.eb.mil.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>20221-904</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/41066"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

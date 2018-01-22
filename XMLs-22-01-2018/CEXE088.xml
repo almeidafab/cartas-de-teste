@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter o certificado comprobatório de situação militar</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>O Ministério da Defesa instituiu o Certificado Militar Único (CMU) por meio da Portaria Normativa Nº 35. O CMU pode receber os seguintes títulos conforme a condição do indivíduo em face ao Serviço Militar:
+
+· Certificado de Alistamento Militar (CAM)</item>
+		<item>· Certificado de Isenção (CI)</item>
+		<item>· Certificado de Dispensa de Incorporação (CDI)</item>
+		<item>· Certidão de Situação Militar (C Sit Mil)</item>
+		<item>· Certidão de Dispensa de Prestação do Serviço Alternativo (CDSA)</item>
+		<item>e
+· Certificado de Reservista (CR)</item>
+	</nomes-populares>
+	<descricao>O serviço consta na oportunidade do cidadão poder realizar o requerimento do certificado por meio da Internet. 
+O cidadão terá a oportunidade de se identificar com a situação em que se encontra, seja dispensado do serviço militar, possuir dependentes, ser portador de necessidades especiais ou possuir convicção religiosa, ideológica ou filosófica contrária à atividade militar.
+O serviço tem como objetivo a geração de um certificado que atenda as peculiaridades do cidadão, o usuário.
+O produto é o certificado militar do cidadão, o qual lhe dará comprovação de sua situação militar.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Responder perguntas simples para identificação de necessidade de multas.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+					<item>Passaporte</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Geração de boleto ou GRU para pagamento do serviço e da multa , se tiver.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Receber a resposta da data de seu agendamento para realizar o juramento à bandeira e receber o certificado.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Junta de Serviço Militar ou Organização Militar das Forças Armadas.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/41066"/>
+	<areas-de-interesse>
+		<item>Defesa Nacional</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

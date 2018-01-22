@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>EMISSÃO DA CARTEIRA DE HABILITAÇÃO DE AMADORES (CHA)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>CHA</item>
+	</nomes-populares>
+	<descricao>PARA A NAVEGAÇÃO EM EMBARCAÇÕES DE ESPORTE E RECREIO É NECESSÁRIO QUE O CONDUTOR REALIZE UM EXAME ESCRITO NAS CAPITANIAS DOS PORTOS E SUAS DELEGACIAS E AGÊNCIAS (CP/DL/AG). ESSE EXAME ESCRITO É REALIZADO APÓS O INTERESSADO REALIZAR UM TREINAMENTO EM ESTABELECIMENTO DE TREINAMENTO NÁUTICO CADASTRADO PELAS CP/DL/AG E PELA APRESENTAÇÃO DA DOCUMENTAÇÃO PERTINENTE. DEPOIS DA VERIFICAÇÃO DOCUMENTAL,  SERÁ AGENDADA A DATA PARA REALIZAÇÃO DO SEU EXAME ESCRITO NAS CP/DL/AG .
+CASO  APROVADO NO EXAME ESCRITO  SERÁ EMITIDA UMA CARTEIRA DE HABILITAÇÃO DE AMADORES-CHA EM UMA DAS SEGUINTES CATEGORIAS:
+VLE-VELEIRO
+MTA -MOTONAUTA
+ARA- ARRAIS AMADOR
+MSA-MESTRE AMADOR
+CPA CAPITÃO AMADOR
+ 
+OS DADOS DO AMADOR FAZEM PARTE AINDA DE UM SISTEMA INFORMATIZADO DENOMINADO SISAMA
+O SISTEMA DE APOIO , PROTOCOLO E AGENDAMENTO DE EXAMES SE CHAMA SISAP
+HÁ TAMBÉM A POSSIBILIDADE DE SE REALIZAR O EXAME ESCRITO EM AMBIENTE VIRTUAL NAS CP/DL/AG POR UM SISTEMA DE APLICAÇÃO DE PROVAS ELETRÔNICAS- PROVAET
+A DIRETORIA DE PORTOS E COSTAS -DPC NORMATIZA O ASSUNTO EM NORMA ESPECÍFICA DENOMINADA NORMAM-03/DPC (www.dpc.mar.mil.br) E DÁ SUPORTE TÉCNICO AS CP/DL/AG</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>ENTREGA DE DOCUMENTOS</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>REALIZAÇÃO DE EXAME ESCRITO</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>ENTRGA DA CHA</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/41066"/>
+	<areas-de-interesse>
+		<item>Esporte e Lazer</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

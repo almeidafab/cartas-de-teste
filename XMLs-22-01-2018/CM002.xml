@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>EMISSÃO DE TÍTULO DE INSCRIÇÃO DE EMBARCAÇÃO (TIE) E TÍTULO DE INSCRIÇÃO DE EMBARCAÇÃO MIÚDA (TIEM).</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>TIE E TIEM</item>
+	</nomes-populares>
+	<descricao>Inclusão de embarcação no sistema de gerenciamento de embarcações (SISGEMB) da Marinha. É realizada uma análise da documentação apresentada pelo usuário, conforme os requisitos descritos nas Normas da Autoridade Marítima - NORMAM 01, 02 e 03, disponíveis na página da DPC na internet. Se a documentação estiver em conformidade, é emitido o respectivo Título de Inscrição de Embarcação (TIE/TIEM) para o proprietário. Os TIE/TIEM têm validade de 5 (cinco) anos e precisam ser renovados. Esse serviço é prestado pelas Capitanias dos Portos, Delegacias e Agências (CP/DL/AG), as quais totalizam 63 organizações militares em todo o território nacional. As embarcações com Arqueação Bruta (AB) superior a 100 deverão ser registradas no Tribunal Marítimo (TM), cujo processo tem entrada nas CP/DL/AG.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>ENTREGA DE DOCUMENTOS</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de pagamento</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>NAS CAPITANIAS DOS PORTOS, DELEGACIAS E AGÊNCIAS SUBORDINADAS.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>RETIRADA DO DOCUMENTO DE INSCRIÇÃO DA EMBARCAÇÃO.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Procuração do representante legal</item>
+					<item>PROTOCOLO</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>NAS CAPITANIAS DOS PORTOS, DELEGACIAS E AGÊNCIAS.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/41066"/>
+	<areas-de-interesse>
+		<item>Esporte e Lazer</item>
+		<item>Meio ambiente</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

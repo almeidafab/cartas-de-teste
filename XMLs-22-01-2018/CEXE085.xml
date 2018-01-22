@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Ingressar no Exército como militar temporário nos estados sob responsabilidade da 11ª Região Militar.</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Possibilita o cidadão a participar de processo seletivo para ingressar no Exército na condição deOficial Médico/ Farmacêutico/ Dentista/ Veterinário (OMFDV); Oficial Técnico Temporário (OTT); Oficial Engenheiro Militar Temporário (OEMT); Oficial Combatente Temporário (OCT); Sargento Técnico Temporário (STT); Sargento Combatente Temporário (SCT); e Cabo Especialista Temporário (CET).</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo></titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Para a inscrição pela internet;
+Para o Teste Prático nas Organizações Militares responsáveis pelo Teste ou nas Guarnições previstas no Aviso de Convocação;;
+Para a Inspeção de Saúde no Comando da 11ª Região Militar ou nas Guarnições previstas no Aviso de Convocação;
+Para o Exame de Aptidão Física no Comando da 11ª Região Militar ou nas Guarnições previstas no Aviso de Convocação.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/41066"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Defesa Nacional</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

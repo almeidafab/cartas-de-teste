@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Entregar à CNEN fontes radioativas fora de uso e rejeitos radioativos para armazenagem CDTN/CNEN.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Recebimento de rejeitos radioativos</item>
+	</nomes-populares>
+	<descricao>O Centro de Desenvolvimento da Tecnologia Nuclear - CDTN  - recebe fontes radioativas de uso industrial ou médico quando não mais servem ao dono atual. Também são recebidos outros tipos de rejeitos radioativos, como para-raios radioativos e detectores de fumaça. O primeiro passo é o cliente submeter à Comissão Nacional de Energia Nuclear o requerimento de transferência do material (RTR) e, após sua aprovação, contatar o CDTN para obtenção de proposta comercial e agendamento da entrega.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitar orçamento e enviar RTR para assinatura do CDTN.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Dados da fonte que serão entregues, além do próprio RTR.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>3130693257</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>vc@cdtn.br; seless@cdtn.br, pinhomg@cdtn.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Informar que a RTR está aprovada e agendar a entrega das fontes.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>RTR deferido pela CNEN.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>30693257</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>vc@cdtn.br; seless@cdtn.br, pinhomg@cdtn.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Entregar as fontes radioativas.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Documentação de transporte de material perigoso.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>CENTRO DE DESENVOLVIMENTO DA TECNOLOGIA NUCLEAR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/223"/>
+	<areas-de-interesse>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

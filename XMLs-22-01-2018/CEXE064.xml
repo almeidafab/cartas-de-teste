@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Cancelamento do Certificado de Registro (CR) de Colecionador, Atirador Desportivo e Caçador (CAC)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Cancelamento de CR de CAC</item>
+	</nomes-populares>
+	<descricao>Atendimento ao usuário, por meio de agendamento eletrônico ou protocolo eletrônico ou presencial, para protocolo do requerimento de Cancelamento do Certificado de Registro (CR) para autorização das atividades de Colecionamento, Tiro Desportivo e Caça. Ao final, o usuário fica com a(s) atividade(s) de Colecionamento, Tiro Desportivo e Caça cancelada(s).</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Atendimento ao usuário no posto de atendimento do Serviço de Fiscalização de Produtos Controlados, após haver realizado o agendamento por meio não presencial,  para protocolo do requerimento de cancelamento do Certificado de Registro de Colecionador, Atirador Desportivo e Caçador.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Comprovante de pagamento</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>No posto de atendimento do Serviço de Fiscalização de Produtos Controlados</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Atendimento ao usuário, no Posto de Atendimento do Serviço de Fiscalização de Produtos Controlados, para fins de comprovação da destinação apropriada dos produtos controlados pelo Exército que se encontravam em seu acervo de Colecionador, Atirador Desportivo e Caçador.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>Documentos que comprovem a destinação apropriada dos produtos controlados pelo Exército que se encontravam no acervo do CAC.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Nno posto de atendimento do Serviço de Fiscalização de Produtos Controlados.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/41066"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Comércio e Serviços</item>
+		<item>Esporte e Lazer</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

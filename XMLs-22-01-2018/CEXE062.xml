@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Apostilamento - atualização do endereço do acervo de Colecionador, Atirador Desportivo e Caçador (CAC)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Apostilamento - atualização do endereço de acervo do CAC</item>
+	</nomes-populares>
+	<descricao>Atendimento ao usuário, por meio de agendamento e protocolo eletrônico ou atendimento presencial, para protocolo do requerimento de apostilamento da atualização do endereço de acervo do Colecionador, Atirador Desportivo e Caçador. Ao final, o usuário recebe o CR para CAC, com o devido apostilamento do endereço atualizado do acervo.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Comparecimento do usuário ao posto de atendimento do Serviço de Fiscalização de Produtos Controlados, após haver realizado o agendamento eletrônico, para protocolar o requerimento de Apostilamento ao Certificado de Registro (CR) para atualização do endereço do acervo do Colecionador, Atirador Desportivo, e Caçador.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certificado de antecedentes criminais</item>
+					<item>Certificado de conclusão de curso</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de pagamento</item>
+					<item>Comprovante de quitação eleitoral</item>
+					<item>CPF</item>
+					<item>Declaração de segurança do acervo/ Observação: fica dispensada a apresentação de documentação para apostilamento na hipótese de já ter sido apresentada, por ocasião da concessão ou da revalidação do registro, e estiver na validade.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Posto de atendimento do Serviço de Fiscalização de Produtos Controlados</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Recepção da Equipe do Serviço de Fiscalização de Produtos Controlados, no endereço apresentado pelo usuário (Colecionador, Atirador Desportivo e Caçador), para fins de avaliação das condições de segurança do local do acervo.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>A declaração de segurança do acervo já foi entregue em outra oportunidade.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>No endereço do acervo do Colecionador, Atirador Desportivo e Caçador.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Comparecimento do usuário ao Posto de Atendimento do Serviço de Fiscalização de Produtos Controlados, após haver sido informado sobre o encerramento da confecção do documento, para recebimento do Certificado de Registro com o apostilamento do endereço atualizado do acervo  do CAC.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>Protocolo de atendimento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Posto de atendimento do Serviço de Fiscalização de Produtos Controlados</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>Páginas de internet de cada Região Militar, por meio do acesso ao link do respectivo Serviço de Fiscalização de Produtos Controlados (SFPC/RM)</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/41066"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Comércio e Serviços</item>
+		<item>Esporte e Lazer</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

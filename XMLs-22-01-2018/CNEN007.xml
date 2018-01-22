@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter os radiofármacos Iodeto de sódio (NaI) e meta-iodobenzilguanidina (MIBG) -IEN/CNEN</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Produzir e fornecer radiofármacos iodeto de sódio (NaI) e meta-iodobenzilguanidina (MIBG) marcados com Iodo 123 para uso em hospitais e clínicas de diagnósticos em medicina nuclear. O produto é produzido e fornecido semanalmente às 3a e 4a-feiras na forma de MIBG e 5a-feiras na forma de NaI. Os pedidos devem ser feitos diretamente junto ao IEN/CNEN por hospitais e clínicas de todo o País. O transporte deve ser contratado pelo cliente junto a empresas credenciadas pela CNEN.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Agendar o atendimento 
+Receber o Produto
+Efetuar o Pagemento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Autorização da CNEN para uso de material radioativo</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2121733715</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.ien.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>seom@ien.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/223"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Meio ambiente</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

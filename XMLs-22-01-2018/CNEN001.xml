@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Descartar rejeitos e fontes radioativas em desuso  - CRCN-NE/CNEN.</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Receber e armazenar para-raios, detectores de fumaça, rejeitos radioativos e fontes radioativas que não possuem mais utilidade. A solicitação pode ser feita por parte de pessoas físicas, empresas privadas ou públicas, universidades, institutos de pesquisa, entre outros. Os rejeitos radioativos e fontes em desuso serão armazenados de modo a garantir a segurança do material radioativo, do meio ambiente e das pessoas, até que as mesmas possam ser descartadas, em conformidade às normas da CNEN.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>O usuário entra em contato através do e-mail rejeitoscrcn@cnen.gov.br informando que quer realizar o descarte de uma fonte radioativa fora de uso, ou rejeitos radioativos, ou para-raios, ou detectores de fumaça.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Neste momento não é necessário enviar nenhum documento.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>rejeitoscrcn@cnen.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>A empresa interessada em entregar fontes radioativas fora de uso deve solicitar uma "Proposta de Recebimento" ao CRCN-NE pelo e-mail: rejeitoscrcn@cnen.gov.br. Na solicitação devem estar discriminados:
+- CNPJ, inscrição estadual, endereço e CEP da empresa;
+- nome e número de registro na CNEN do Supervisor de Radioproteção;
+- nome, telefone e e-mail da pessoa de contato da empresa;
+- número de fontes a serem entregues à CNEN, informando para cada fonte: o seu número de série, radionuclídeo presente, atividade e respectiva data de referência.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>Inscrição estadual, nome e número de registro na CNEN do Supervisor de Radioproteção,  nome, telefone e e-mail da pessoa de contato da empresa,  número de fontes a serem entregues à CNEN, informando para cada fonte: o seu número de série, radionuclídeo presente, atividade e respectiva data de referência.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>rejeitoscrcn@cnen.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>A coordenação da CORAD/CRCN-NE, junto com o supervisor de radioproteção em gerência de rejeitos radioativos, prepara uma "Proposta de Recebimento", que será enviada para a empresa interessada, junto com uma ficha de cadastro. O representante legal da empresa, após conferir os dados da "Proposta de Recebimento" com os dados da(s) fonte(s) a serem transferidas ao CRCN-NE, dá o aceite da proposta, preenche o formulário RTR "Solicitação de Transferência de Fonte Radioativa e/ou Equipamento Gerador de Radiação Ionizante” diretamente no site da CNEN, imprimi, assina e encaminhá por e-mail ao CORAD/CRCN-NE, junto com a "Ficha Cadastral" e o comprovante de pagamento da GRU (guia de recolhimento da união).</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>Apenas o aceite da proposta de recebimento, a RTR assinada e o comprovante de pagamento GRU.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>rejeitoscrcn@cnen.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Uma vez autorizada a transferência das fontes para o CRCN-NE, pela CGMI/CNEN, a empresa e o Serviço de Rejeitos do CRCN-NE combinam a data e o horário de entrega das fontes no Centro. A empresa acondiciona as fontes e providencia o transporte até o CRCN-NE, de acordo com a Norma CNEN – NN – 5.01. No ato do recebimento, o CRCN-NE confere os dados do formulário RTR com as fontes recebidas e emite o Recibo correspondente.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>Formulário RTR, e demais documentos em acordo com a Norma CNEN – NN – 5.01.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Centro Regional de Ciências Nucleares do Nordeste - CRCN-NE.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>rejeitoscrcn@cnen.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/223"/>
+	<areas-de-interesse>
+		<item>Defesa Nacional</item>
+		<item>Energia</item>
+		<item>Indústria</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Saúde</item>
+		<item>Trabalho</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

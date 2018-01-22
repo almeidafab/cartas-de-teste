@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Alterar a quantidade de PCE apostilado ao Certificado de Registro (Pessoa Jurídica)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>DFPC</item>
+	</nomes-populares>
+	<descricao>Incluir ou excluir um ou mais produtos controlados pelo Exército na apostila ao Registro da empresa.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentação do Requerimento e documentação necessária.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Requerimento, Relação dos PCE, para o caso de PCE sem Avaliação Técnica, Memorial Descritivo para cada PCE, para o caso de PCE sem Avaliação Técnica, Resultado de avaliação técnica (ReTEx), Recibo da taxa de fiscalização (Lei nº 10.834, de 29 DEZ 03)</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Diretoria de Fiscalização de Produtos Controlados</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/41066"/>
+	<areas-de-interesse>
+		<item>Indústria</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

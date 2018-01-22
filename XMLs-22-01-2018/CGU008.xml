@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>CNEP - Cadastro Nacional de Empresas Punidas</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Banco de dados, aberto a qualquer usuário e hospedado no Portal da Transparência (http://portaldatransparencia.gov.br/cnep) que consolida a relação das empresas que sofreram qualquer das punições previstas na Lei nº 12.846/2013 (Lei Anticorrupção). O CNEP também registra os acordos de leniência firmados pelas empresas com o poder público, inclusive aqueles que eventualmente sejam descumpridos.A Lei 12.846/2013 (Lei Anticorrupção) trouxe a obrigatoriedade para os entes públicos, de todos os Poderes e Esferas de Governo, de manter o Cadastro atualizado. Para atender a esta exigência, a CGU desenvolveu o Sistema Integrado de Registro do CEIS/CNEP, que é alimentado diretamente pelos órgãos e entidades do Distrito Federal, dos Estados e dos Municípios brasileiros.Na esfera federal, o CNEP é alimentado diretamente pela CGU, a partir de pesquisa às sanções publicadas no Diário Oficial da União e da importação de bancos de dados institucionais. Com o lançamento do Sistema CGU-PJ, os órgãos federais cadastrarão diretamente ali as sanções aplicadas, com integração automática para o Cadastro.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Consulta ao CNEP, hospedado no Portal da Transparência do Governo Federal (http://portaldatransparencia.gov.br/cnep)</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://portaldatransparencia.gov.br/cnep</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/214460"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

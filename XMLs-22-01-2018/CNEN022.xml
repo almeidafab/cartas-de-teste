@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar desenvolvimento de processos de concentração de minérios</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Setor de Tecnologia Mineral</item>
+	</nomes-populares>
+	<descricao>O setor de tecnologia mineral do CDTN atua no desenvolvimento de processos de concentração mineral, especialmente flotação convencional e por coluna, de minérios brasileiros radioativos ou não, em atendimento da demanda das empresas do setor mineral. desenvolve tambem estudos de caracterização quimica, mineralogica e granulometrica. Nesse contexto, visa promover o melhor aproveitamento dos recursos minerais brasileiros, estimulando o aumento do seu grau de processamento tecnologico, estimulando o aproveitamento de rejeitos, depositos de baixo teor,  estudando e sugerindo medidas que atendam às expectativas deproteção ao meio ambiente. Atua também em apoio a  programas academicos de mestrado e doutorado,</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Reunião com o cliente para estudo da demanda.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>CDTN</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>3130693195</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/223"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+		<item>Indústria</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

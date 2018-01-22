@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar serviço de determinação de radioisótopos naturais ou artificiais em amostras diversas</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>NÃO</item>
+	</nomes-populares>
+	<descricao>Consiste na determinação de radioisótopos em diversos tipos de amostras por técnicas de Análises Radiométricas ou Radioquímicas. É realizado mediante consulta prévia e contrato, podendo ser necessário o desenvolvimento de método analítico especifico para a amostra desejada. Inclui-se a Espectrometria Alfa (por exemplo, para determinação radio-226, radio-228 e chumbo-210, entre outros), especialmente em amostras ambientais, e a determinação de Trítio e Oxigênio-15 em água. Destacam-se os métodos de Ativação Neutronica e Espectrometria Gama, úteis em um sem-número de amostras ambientais, industriais e de pesquisa, em razão de serem técnicas multielementares, de alta especificidade e rápida execução.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitação do serviço pelo cliente, avaliação e proposta para execução do serviço, aceite ou não do usuário.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Centro de Desenvolvimento da Tecnologia Nuclear - CDTN</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>3130693355</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>rpgm@cdtn.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Rua Av. Presidente Antônio Carlos, 6.627 - Campus da UFMG - Pampulha - Belo Horizonte, MG - Brasil</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/223"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Educação</item>
+		<item>Energia</item>
+		<item>Indústria</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

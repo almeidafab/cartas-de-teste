@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Emissão de 2ª via ou revalidação de Certificado Modelo DPC-1034</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Certificação de Aquaviários</item>
+	</nomes-populares>
+	<descricao>O Sistema Informatizado de Cadastro de Aquaviário (SISAQUA) foi concebido para cadastrar e  controlar a Carreira de Pessoal Profissional Aquaviário, em  nível nacional, fornecendo informações gerenciais, relatórios estatísticos, assim como a emissão de documentação como as Etiquetas de Dados Pessoais da Caderneta de Inscrição e Registro (CIR), Etiquetas de Curso, Licenças de Categoria Superior e Certificados de Cursos de Habilitação modelo 1034.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Entrega de documentação para  a emissão do Certificado.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de pagamento</item>
+					<item>CPF</item>
+					<item>Certificado modelo DPC-1034; Requerimento do interessado; Caderneta de Inscrição e Registro(CIR); Atestado de Saúde Ocupacional(ASO) e Registro de Ocorrência(RO)</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Capitanias, Delegacias, Agências e Centros de Instrução:
+Centro de Instrução Almirante Graça Aranha(CIAGA); e
+Centro de Instrução Almirante Braz de Aguiar CIABA).</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/41066"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

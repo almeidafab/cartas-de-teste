@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Consulta a Processo Correcional</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Consulta PAD</item>
+	</nomes-populares>
+	<descricao>Consulta on-line, aberta a qualquer usuário e hospedada no Portal da CGU (http://www.cgu.gov.br/assuntos/atividade-disciplinar/cgu-pad/consulta-de-processos), usa como chave de busca o número do processo e apresenta como resultado a fase de apuração, assunto e local do fato. Os resultados são extraídos do Sistema CGU-PAD, base de dados de processos disciplinares mantida pela CGU e alimentada pelos órgãos e entidades do Poder Executivo Federal.Em 2017 prevê-se o lançamento do Sistema CGU-PJ, base de dados análoga ao CGU-PAD que consolidará os processos de responsabilização de pessoa jurídica instaurados pelo Poder Executivo Federal com base na Lei Anticorrupção (Lei nº 12.846/2013). A partir de tal lançamento pretende-se expandir o serviço, incluindo também a consulta no sistema CGU-PJ.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>agentes públicos federais</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Consulta ao Portal da CGU (http://www.cgu.gov.br/assuntos/atividade-disciplinar/cgu-pad/consulta-de-processos), usando como chave de busca o número do processo de interesse.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>(http://www.cgu.gov.br/assuntos/atividade-disciplinar/cgu-pad/consulta-de-processos</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/214460"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

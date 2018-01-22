@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar serviços de monitoração de trabalhadores expostos a radiações ionizantes CDTN/CNEN</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Dosimetria Pessoal</item>
+	</nomes-populares>
+	<descricao>Consiste prestação de serviços de monitoração dos trabalhadores exposto a radiações ionizantes em razão de suas atividades profissionais, por meio do fornecimento e leitura de dosímetros Termoluminescente - TLD. O serviço é prestado por solicitação e contrato, sendo que o solicitante deve estar legalmente autorizado a utilizar fontes de radiações ou a estar exposto a elas.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>A interação ocorre da seguinte forma: o usuário recebe um dosímetro de radiação para ser usado no período atual e devolve o monitor do período anterior para avaliação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>É o endereço do Intituto da CNEN onde o usuário trabalha e é monitorado.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>O usuário recebe o dosímetro/monitor de radiação do período atual e providencia a devolução do dosímetro do período anterior. Isto é feito por meio do setor/serviço de radioproteção de cada instituto.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Autorização assinada pelo setor/serviço de radioproteção da instituição onde trabalha</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>lmie@cdtn.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Solicitar o término da Monitoração Individual Externa</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Solicitação da seção/serviço de radioproteção para término da monitoração do usuário</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>lmie@cdtn.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/223"/>
+	<areas-de-interesse>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

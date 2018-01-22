@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Fornecer texto completo de documento técnico científico relacionado a área nuclear e correlatas (física, química etc.) de acordo com a solicitação do usuário</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>SERVIR</item>
+	</nomes-populares>
+	<descricao>O serviço de atendimento a texto completo destina-se a atender aos pedidos de pesquisadores da área nuclear e de alunos da pós-graduação de programas de engenharia nuclear que não conseguem obter um determinado documento técnico cientifico quer seja por não encontra-lo ou por não ter recursos financeiros suficientes para obtê-lo. Através da página da CNEN, o usuário preenche um formulário com a descrição do documento que está procurando, e o CIN, através de consultas no seu próprio acervo ou nos das redes de bibliotecas das quais é membro, tenta localizar o documento e disponibilizá-lo para o solicitante.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Preencher formulário de requisição</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>servir@cnen.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/223"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

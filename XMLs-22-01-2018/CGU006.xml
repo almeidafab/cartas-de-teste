@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>CEAF - Cadastro de Expulsões da Administração Federal</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Banco de Punidos</item>
+	</nomes-populares>
+	<descricao>Banco de dados, aberto a qualquer usuário e hospedado no Portal da Transparência (http://portaldatransparencia.gov.br/expulsoes/) que reúne as penalidades expulsivas aplicadas (demissão, cassação de aposentadoria e destituição de cargo em comissão ou função comissionada), no âmbito do Poder Executivo Federal e da Câmara dos Deputados, a servidores civis, efetivos ou não, desde o ano de 2003.As informações do Cadastro são obtidas pela CGU a partir de pesquisa às sanções publicadas no Diário Oficial da União. Os dados dos servidores apenados são mantidos no CEAF durante o tempo em que a sanção aplicada gera efeitos, a exemplo dos casos em que os apenados ficam inelegíveis ou são impedidos de retornar ao serviço público federal.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Consulta ao CEAF, hospedado no Portal da Transparência do Governo Federal (http://portaldatransparencia.gov.br/expulsoes/)</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://portaldatransparencia.gov.br/expulsoes/</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/214460"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

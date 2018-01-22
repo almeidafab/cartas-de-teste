@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>CERTIDÃO DE TEMPO DE SERVIÇO PARA EX-ALUNOS</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Expedição de Certidão de Tempo de Serviço(modelo DPC-1019) para ex-alunos das ex-Escolas de Marinha Mercante e das Escolas de Formação de Oficiais da Marinha Mercante(EFOMM), para fins de aposentadoria, regulamentada pelo Decreto 57.654/66.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Entrega de documentação para emissão da certidão.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Comprovante de endereço/residência</item>
+					<item>Requerimento do interessado(Anexo6-D da NOEMAM-13); Certificados de Alistamento Militar, de Reservista, de Dispensa de Incorporação ou de Isenção; Certidão de nascimento ou certidão de casamento; Carta Patente do Oficial(somente para os formandos oriundos do CIAGA e CIABA) e Declaração do requerente, expondo o(s) motivos(s) da solicitação da 2ª via.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Centro de Instrução Almirante Graça Aranha(CIAGA)
+Centro de Instrução Almirante Braz de Aguiar (CIABA)</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>CIAGA: Av. Brasil, nº  9020, Penha- Rio de Janeiro,RJ -CEP. 21031-831
+ CIABA: Rodovia Arthur Bernardes, nº 245, Pratinha, Belém, PA- CEP: 66816-900</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/41066"/>
+	<areas-de-interesse>
+		<item>Previdência Social</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

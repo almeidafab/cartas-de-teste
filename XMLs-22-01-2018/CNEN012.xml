@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar fabricação e fornecimento de fontes radioativas de Cobalto-60</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Fabricação de fontes radioativas de Cobalto-60 para uso em equipamentos industriais, mediante consulta prévia e em conformidade com as especificação técnica para cada caso.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitar fontes de Cobalto-60.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Solicitação por email</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>lcmb@cdtn.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Analisar proposta emitida pelo SETRE/CDTN/CNEN.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Documento emitido pelo Orgão</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>lcmb@cdtn.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Avenida Presidente Antônio Carlos, 6.627; Campus da UFMG - Pampulha - CEP 31270-901; Belo Horizonte - MG, Brasil
+Caixa Postal: 941; CEP: 30123-970; BH/MG</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Aceitar a proposta recebida</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>De acordo assinado em proposta</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Av. Pres  Antônio Carlos, 6627; CEP 31270-301; Cidade Universitária - Pampulha; BH/MG
+Caixa Postal 941; CEP 30123-970; BH/MG</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Obter a permissão para aquisição de material radioativo, por meio do preenchimento do formulário “Requerimento para Aquisição de Radioisótopos” (RAR), disponível no site da CNEN (http://www.cnen.gov.br)</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Requerimento para Aquisição de Radioisótopos</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.cnen.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Receber as fontes produzidas;</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>RAR aprovado pela CNEN</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>lcas@cdtn.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Pagamento pelo Serviço de fornecimento de fontes de Cobalto-60</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Comprovante de pagamento de GRU</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>lcas@cdtn.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/223"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+		<item>Indústria</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
