@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Certificado de organização de produção (COP) e seu respectivo registro de limitação de produção (RLP)</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Conforme artigo 69 do CBA (Código Brasileiro de Aeronáutica) o COP deve ser requerido por qualquer interessado em fabricar produto aeronáutico, de tipo já certificado. Os requisitos para emissão do COP podem ser encontrados na Subparte G do RBAC 21, emenda 02.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Requerimento.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Formulário F-300-03</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>ggcpdoc.sjc@anac.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>ANAC – Agencia Nacional de Aviação Civil
+Endereço: Rua Laurent Martins, 209 – Jardim Esplanada 
+CEP: 12242-431 – São José dos Campos / SP</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Entrega dos documentos exigidos no MANUAL DE PROCEDIMENTO MPR/SAR-121-R00</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Documentos exigidos no MANUAL DE PROCEDIMENTO MPR/SAR-121-R00</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>ANAC – Agencia Nacional de Aviação Civil
+Endereço: Rua Laurent Martins, 209 – Jardim Esplanada 
+CEP: 12242-431 – São José dos Campos / SP</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>ggcpdoc.sjc@anac.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>ANAC – Agencia Nacional de Aviação Civil
+Endereço: Rua Laurent Martins, 209 – Jardim Esplanada 
+CEP: 12242-431 – São José dos Campos / SP</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>auditoria inicial.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>ggcpdoc.sjc@anac.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/86144"/>
+	<areas-de-interesse>
+		<item>Indústria</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

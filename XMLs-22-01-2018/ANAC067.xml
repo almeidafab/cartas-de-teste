@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>AUTORIZAÇÃO ESPECIAL DE VOO - AEV</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>AEV</item>
+	</nomes-populares>
+	<descricao>A AEV é uma situação excepcional que se enquadra como uma permissão especial perante o art. 20 do Código Brasileiro de Aeronáutica - CBAer. Entre essas excepcionalidades que podem ocorrer está a falta do Certificado de Matrícula da aeronave, situação em que se enquadram, por exemplo, os voos de produção e de entrega ao comprador.
+Dentro da concepção estabelecida pelo CBAer, autorizações especiais de voo são emitidas para aeronaves que não cumprem todos os requisitos de aeronavegabilidade, mas que apresentam condições de operação segura, observadas as limitações operacionais da respectiva autorização. A AEV não exime a aeronave do cumprimento com os requisitos do RBAC 91.
+A ANAC poderá emitir uma AEV para os seguintes propósitos:
+(1) Translado de aeronave para uma base onde reparos, modificações ou serviços de manutenção serão executados ou para uma base onde a aeronave será armazenada;
+(2) Voo de experiência após manutenção;
+(3) Teste de Voo para cumprimento de requisito de VTI ou VTE;
+(4) Deslocamento de aeronave para aeródromo onde será realizada a sua VTI, VTE ou vistoria pela Receita Federal;
+(5) Entrega ou exportação da aeronave ao seu comprador;
+(6) Ensaios em voo de produção de aeronaves recém-fabricadas;
+(7) Evacuação da aeronave de áreas perigosas;
+(8) Condução de voos de demonstração para comprador em aeronaves novas que tenham satisfatoriamente completado ensaios em voo de produção;
+(9) Operação da aeronave com peso superior ao peso máximo de decolagem aprovado;
+(10) Traslado de aeronave para demonstração em show aéreo; e
+(11) Operação de aeronave agrícola certificada na categoria restrita equipada com motores convencionais utilizando etanol.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>DEPENDENDO DO TIPO DE AERONAVE, APÓS ANÁLISE DA DOCUMENTAÇÃO APRESENTADA, PODERÁ OCORRER VISTORIA TÉCNICA NO LOCAL E DATA AGENDADO.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Comprovante de pagamento</item>
+					<item>Procuração do representante legal</item>
+					<item>DOCUMENTAÇÃO RELATIVA À SITUAÇÃO TÉCNICA DA AERONAVE</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>CONFORME DITO ANTERIORMENTE, OCORRENDO VISTORIA TÉCNICA NA AERONAVE, O LOCAL É DETEMINADO PELO USUÁRIO, QUE GERALMENTE É UM AERÓDROMO EM TERRITÓRIO BRASILEIRO.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>1232036734</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>INSPECAO@ANAC.GOV.BR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>APRESENTAR CORREÇÕES TÉCNICAS DE NÃO-CNFORMIDADES EVENTUALMENTE PONDERADAS DURANTE A VISTORIA.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>RELATÓRIOS TÉCNICOS E EVIDÊNCIAS PRIMÁRIAS DE CORREÇÕES DE NAO CONFORMIDADES</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>INSPECAO@ANAC.GOV.BR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/86144"/>
+	<areas-de-interesse>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

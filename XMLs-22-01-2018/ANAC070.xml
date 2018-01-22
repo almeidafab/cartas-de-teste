@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter autorização de voos não regulares</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Autorização de voo</item>
+	</nomes-populares>
+	<descricao>A exploração de serviços de transporte aéreo não regulares domésticos e internacionais de passageiros e/ou carga e da Rede Postal pelas empresas de transporte aéreo com os respectivos itinerários, horários, números de voos, tipos de aeronaves e oferta de assentos dependem de prévia aprovação da ANAC. 
+
+Ao encaminhar a solicitação de autorização para a exploração de um serviço de transporte aéreo não regular para a ANAC, são avaliadas as condicionantes de infraestrutura aeronáutica necessárias à realização da operação.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitar autorização para prestação de serviço de transporte aéreo não regular específico.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://sistemas.anac.gov.br/saci/Login.asp</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/86144"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

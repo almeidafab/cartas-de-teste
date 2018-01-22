@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Realizar exame teórico para Despachante Operacional de Voo</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Consiste na realização, junto à ANAC, de exame teórico de Despachante Operacional de Voo, após a conclusão do curso de Despachante Operacional de Voo em escola de aviação homologada pela ANAC.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Agendar prova</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>agendamento.exame@anac.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Realizar prova</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Nas salas de prova disponibilizadas pela ANAC. LOCAIS DE PROVAS BELÉM: Aeroporto Internacional Val de Cans - Avenida Pará, s/n, CEP 66.115-900 Tel.: (91) 3210-6262 Horário de aplicação dos exames: 08:30 às 11:30 e 13:15 às 17:00 Obs.: Não há aplicação de exames às sextas-feiras BELO HORIZONTE: Aeroporto da Pampulha - Praça Bagatelle S/Nº - Bairro São Luiz - Belo Horizonte/MG - CEP: 31270-705 Tel.: (31) 3490-2040 Horário de aplicação dos exames: 09:30 às 12:15 e 13:30 às 17:15 BRASÍLIA: Setor Comercial Sul - Quadra 09 - Lote C Edifício Parque Cidade Corporate - Torre A - 1º Andar - CEP: 70.308-200 Tel.: (61) 3314-4780 / 3314-4783 Horário de aplicação dos exames: 09:00 às 12:45 e 13:00 às 16:00 CAMPINAS: Aeroporto Internacional de Viracopos/Campinas - Setor de Órgãos Públicos - Rodovia Santos Dumont, Km 66 - Campinas – SP Tel.: (19) 3795-8411 Horário de aplicação dos exames: 08:00 às 12:00 Obs.: Não disponível para exames iniciais CAMPO GRANDE: Aeroporto Internacional de Campo Grande - Av. Duque de Caxias, nº 4355 – CEP: 79101-901 – Campo Grande – MS Tel.: (67) 3368-6043 Horário de aplicação dos exames: 08:30 às 12:15 e 13:30 às 17:15 CURITIBA: Escritório de Aviação Civil - Aeroporto de Bacacheri. Rua Cicero Jaime Bley s/nº, Hangar 03 – Curitiba – PR – CEP: 82.515-230 Tel.: (41) 3251-3015 Horário de aplicação dos exames: 09:30 às 12:00 e 13:30 às 17:30 FORTALEZA: Av. Senador Carlos Jereissati, 3000 - Bairro Serrinha. CEP: 60741- 900 – Fortaleza – CE Tel.: (85) 3392-1699 / 3477-5009 Horário de aplicação dos exames: 08:30 às 11:00 e 13:30 às 17:00 Obs.: Não há aplicação de exames às quartas-feiras MANAUS: Avenida Santos Dumont, nº 1916, Sala 7 / Terraço – Tarumã - Manaus (AM) - CEP: 69041-000 Tel. PABX: (92) 3652-1168 Horário de aplicação dos exames: 09:00 às 12:00 e 13:30 às 17:30 Obs.: A aplicação de exames ocorre exclusivamente às segundas-feiras e terçasfeiras. PORTO ALEGRE: Avenida Severo Dullius, 1244 - Bairro São João - Porto Alegre – RS. CEP: 90200-310 Tel.: (51) 3302-7800 Horário de aplicação dos exames: 09:00 às 12:00 e 13:30 às 17:15 RECIFE: Av. Marechal Mascarenhas de Morais, 6333. Imbiribeira – Recife - PE. CEP: 51210-001 Tel.: (81) 2101-6001 / 2101-6034 Horário de aplicação dos exames: 08:30 às 12:00 e 13:30 às 17:30 RIO DE JANEIRO: Av. Presidente Vargas, 850 – Centro. CEP: 20071-001 - Rio de Janeiro – RJ Tel.: (21) 3501-5142/5143 Horário de aplicação dos exames: 09:30 às 11:30 e 13:30 às 17:15 SALVADOR: Aeroporto Internacional de Salvador – Dep. Luís Eduardo Magalhães. Praça Gago Coutinho, s/n° – São Cristóvão – Salvador – BA. CEP: 41510-045 Horário de aplicação dos exames: 09:00 às 12:00 e 13:30 às 17:20 SÃO PAULO: Rua Renascença, 112 - Vila Congonhas – São Paulo – SP. CEP: 04612-010 Tel.: (11) 3636-8600 Horário de aplicação dos exames: 09:00 às 12:00 e 13:15 às 17:00</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/86144"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Emenda ao Certificado de Organização de Manutenção de Produto Aeronáutico (COM) ou às suas Especificações Operativas (EO)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Alteração do COM/EO</item>
+		<item>Emenda ao COM/EO</item>
+	</nomes-populares>
+	<descricao>Uma emenda ao certificado é necessária se o detentor do certificado: 
+(1) mudar a localização da organização de manutenção; 
+(2) requerer adição ou alteração de sua capacidade ou categoria/classe; ou 
+(3) mudar de razão social ou denominação social da organização.
+Se o detentor do certificado vender ou transferir seus ativos, o novo proprietário deve requerer uma emenda ao certificado.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Envio da solicitação; auditoria e demonstrações; alteração do COM/EO</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>Documentos previstos na IS 145-001</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.anac.gov.br/acesso-a-informacao/protocolo-eletronico/</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/86144"/>
+	<areas-de-interesse>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

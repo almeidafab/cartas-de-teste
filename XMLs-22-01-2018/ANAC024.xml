@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar desinterdição de aeródromo excluído das Publicações Aeronáuticas.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Reabertura ao tráfego de aeródromo excluído das Publicações Aeronáuticas</item>
+	</nomes-populares>
+	<descricao>A reabertura ao tráfego de um aeródromo público que foi excluído das publicações aeronáuticas é feita por meio de processo de Atualização Cadastral, ao final do qual é publicada uma Portaria do Superintendente de Infraestrutura Aeroportuária.
+Para iniciar o processo deverá ser enviada à ANAC uma solicitação formal de desinterdição do operador do aeródromo que conste os dados/informações necessários à desinterdição, acompanhado de Declaração do Operador e de evidências de atendimento aos critérios mínimos estabelecidos para desinterdição.
+A partir da solicitação, a documentação constará de um processo administrativo. Desta forma, todos os documentos deverão vir em papel timbrado do operador do aeródromo e assinado pelo responsável legal ou representante legalmente estabelecido por meio de Procuração ou outro instrumento. 
+Após a análise da documentação, e caso seja necessário, poderão ser solicitados complementação das informações ou novas evidências, o que fará que o processo seja sobrestado.
+Os processos são analisados em ordem cronológica conforme data de protocolo na ANAC, e a reanálise (resposta à solicitação de novas informações) é feita com base na mesma ordem, considerando a data de protocolo ou envio eletrônico da resposta. 
+Estando o processo corretamente instruído, e tendo o operador complementado a documentação/informações, será finalizada a análise e tomada uma das decisões abaixo:
+A. DEFERIMENTO: se as condições mínimas (físicas e operacionais) para reabertura forem atendidas; ou
+B. INDEFERIMENTO: se as condições mínimas (físicas e operacionais) não forem atendidas.
+No caso de DEFERIMENTO, é sugerido ao SIA a assinatura de Portaria de alteração e renovação do cadastro do aeródromo que, após publicada, é encaminhada ao órgão publicador para inclusão do aeródromo nas publicações aeronáuticas.
+No caso de INDEFERIMENTO, o processo é arquivado, notificando-se o operador e a SAC da impossibilidade da reabertura, para análise daquela Secretaria quanto ao destino do aeródromo.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitação formal de desinterdição do operador do aeródromo.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>fiscalizacao.sia@anac.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>ANAC - RJ
+Endereço: Avenida Presidente Vargas, 850 - Centro
+Rio de Janeiro - RJ - CEP: 20.071-001</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/86144"/>
+	<areas-de-interesse>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

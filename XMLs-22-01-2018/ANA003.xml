@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Certificado de Avaliação de Sustentabilidade de Obras Hídricas - CERTOH</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>CERTOH</item>
+	</nomes-populares>
+	<descricao>CERTOH é  um Certificado, emitido pela ANA, que indica que a obra de infraestrutura hídrica para reservação ou adução de água bruta, de valor total igual ou superior a 10 milhões de reais, financiada em todo ou em parte com recursos da União, apresenta sustentabilidade hídrica e operacional, nos termos definidos pelo Decreto no 4.024/2001. As obras cuja implantação ou financiamento tenha sido contratado até 22 de novembro de 2001 não são sujeitas ao CERTOH.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="90" max="120" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Prestar informações e esclarecimentos complementares.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Apresentar documentação complementar, caso necessário.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/46876"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+		<item>Energia</item>
+		<item>Esporte e Lazer</item>
+		<item>Indústria</item>
+		<item>Meio ambiente</item>
+		<item>Saneamento</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

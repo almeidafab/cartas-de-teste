@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>CAVE - Certificado de Autorização de Voo Experimental</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>CAV</item>
+	</nomes-populares>
+	<descricao>Certifica a aeronavegabilidade de uma aeronave experimental (não homologada), devendo sempre estar a bordo quando em uso.
+Constam dele também informações relativas ao Operador.
+Toda transferência de Propriedade ou Operação implica na necessidade de uma nova CAVE.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Preencher formulário padrão e anexar documentos:Documentos das partes envolvidas ou de terceiros interessados – cópias autenticadas em cartório ou cópias comuns, acompanhadas dos originais (para autenticação).Apólice ou certificado de seguro da aeronave em nome do operador, com comprovante de pagamento do prêmio ou declaração, emitido pela seguradora, de sua quitação.Vistoria Técnica Inicial – VTI. ou(Vistoria Técnica Especial – VTE.) ouLaudo de vistoria final de aeronave, assinado pelo engenheiro aeronáutico responsável.e Recolher Taxa de Fiscalização da Aviação Civil enviando Comprovante de Pagamento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de pagamento</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+					<item>Registro da Junta Comercial</item>
+					<item>Registro em Cartório</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Setor Comercial Sul Quadra 09 Torre A Ed. Parque Cidade Corporate Lote C - Brasília, DF, 70297-400
+ANAC - Agência Nacional de Aviação Civil, Endereço</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.anac.gov.br/assuntos/setor-regulado/aeronaves/rab/servico/requerimento-padronizado</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>rab@anac.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/86144"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Agropecuária</item>
+		<item>Comunicações</item>
+		<item>Educação</item>
+		<item>Esporte e Lazer</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Trabalho</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

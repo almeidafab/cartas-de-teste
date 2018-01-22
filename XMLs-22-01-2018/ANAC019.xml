@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Autorização Prévia para Construção Inicial e/ou Modificação de Características de Aeródromos (Públicos ou Privados)</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Aeródromo é toda área destinada a pouso, decolagem e movimentação de aeronaves. E sua construção ou modificação de características físicas necessita de autorização prévia da ANAC.
+
+Os aeródromos podem ser classificados em militares ou civis. E estes últimos são subdivididos em:
+
+- Públicos: possuem destinação específica e só podem ser fechados mediante ato administrativo da Autoridade de Aviação Civil (a ANAC). Propriedades vizinhas aos aeródromos públicos estão sujeitas a restrições especiais, relacionadas ao plano básico de zona de proteção de aeródromos e ao plano de zoneamento de ruídos. São abertos ao tráfego por meio de processo de homologação.
+
+- Privados: só podem ser utilizados com a permissão de seu proprietário, sendo vedada sua exploração comercial - o proprietário não pode sujeitar os usuários de seu aeródromo ao pagamento de tarifas. São abertos ao tráfego por meio de processo de registro e podem ser fechados a qualquer tempo pelo proprietário ou pela Autoridade de Aviação Civil.
+
+Aeroportos são os aeródromos públicos dotados de instalações e facilidades para apoio de operações de aeronaves e de embarque e desembarque de pessoas e cargas.
+
+Helipontos são os aeródromos destinados exclusivamente a helicópteros. Heliportos são helipontos públicos dotados de instalações e facilidades para apoio de operações a helicópteros e de embarque e desembarque de pessoas e cargas.
+
+O interessado, ou seu representante, deve protocolar junto a ANAC, documentação nos termos do Portaria Nº 1.227/SIA, de 30 de julho de 2010, em conformidade com a Resolução ANAC Nº 158, de 13 de julho de 2010. Caso o pedido seja aprovado, a ANAC expede a Autorização de Construção Inicial de Aeródromo ou Autorização de Modificação de Características de Aeródromo, documento que tem validade indeterminada.
+
+A análise do processo de autorização será realizada em até 90 dias. A contagem desse prazo é interrompida toda vez que for necessário consultar o interessado (devido a problemas na documentação) ou algum órgão externo à ANAC.
+
+A autorização prévia expedida pela ANAC não supre a deliberação de outras entidades da administração pública sobre a observância dos requisitos de licenciamento ambiental, de uso do solo e de zoneamento urbano, ou da observância dos condicionantes impostos pelo órgão responsável pelo controle do espaço aéreo.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Encaminhar documentação solicitando autorização prévia</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Comprovante de pagamento</item>
+					<item>Contrato Social</item>
+					<item>Procuração do representante legal</item>
+					<item>Registro em Cartório</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Sede da ANAC - Brasília - DF
+Representações Regionais do Rio de Janeiro, São José dos Campos e São Paulo
+Núcleos Regionais de Aviação Civil</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://sistemas.anac.gov.br/sei/controlador_externo.php?acao=usuario_externo_logar&id_orgao_acesso_externo=0</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Avenida Presidente Vargas, nº 850 - 6º Andar
+20071-001 Centro - Rio de Janeiro - RJ</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Comunicar sobre resultado da solicitação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>cadastro.aeroportuario@anac.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Avenida Presidente Vargas, nº 850 - 6º Andar
+20071-001 Centro - Rio de Janeiro - RJ</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/86144"/>
+	<areas-de-interesse>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

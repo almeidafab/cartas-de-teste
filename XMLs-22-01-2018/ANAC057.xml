@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Transferência de Propriedade de Pessoa Física para Pessoa Física</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O usuário protocola os documentos necessários ao registro da transferência de propriedade, os quais estão discriminados no Requerimento Padronizado disponível em: http://www.anac.gov.br/assuntos/setor-regulado/aeronaves/rab/RAB.doc. O número do serviço é o 6 (seis), e o Rol de documentos está mapeado no Anexo A do requerimento. Os documentos são digitalizados e é aberto um processo no SEI, o qual é distribuído para análise. Se todos os documentos estiverem corretos, o processo segue para registro e cadastramento dos dados, com a alteração do proprietário da aeronave/motor, para a emissão do Certificado de Matrícula Digital (com posterior envio para o usuário), e para registro na Certidão de Propriedade da aeronave/motor. Não há contato direto entre usuário e o Poder Público, exceto no protocolo dos documentos.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Protocolo de documentos físicos</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de pagamento</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+					<item>Registro da Junta Comercial</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Protocolo da ANAC</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.anac.gov.br/acesso-a-informacao/protocolo-eletronico</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>rab@anac.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Setor Comercial Sul, Quadra 09, Lote C, Edifício Parque Cidade Corporate – Torre A , Brasília - DF, CEP: 70308-200
+Av. Presidente Vargas, 850 – Centro, Rio de Janeiro – RJ, CEP: 20071-001</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/86144"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Comércio e Serviços</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

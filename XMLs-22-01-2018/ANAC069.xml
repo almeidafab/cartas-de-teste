@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter autorização de voos regulares</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>HOTRAN</item>
+	</nomes-populares>
+	<descricao>A exploração de serviços de transporte aéreos regulares domésticas e internacionais de passageiros e/ou carga e da Rede Postal pelas empresas de transporte aéreo, com os respectivos itinerários, horários, números de voos, frequências, tipos de aeronaves e oferta de assentos dependem de prévia aprovação da ANAC.
+
+Ao encaminhar a solicitação de autorização para a exploração de um serviço de transporte aéreo regular  para a ANAC, são avaliadas as condicionantes de infraestrutura aeronáutica necessárias à realização da operação.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitar autorização para prestação de serviço de transporte aéreo regular específico.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/86144"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

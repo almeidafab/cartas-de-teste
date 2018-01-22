@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitação da Emissão de NOTAM – Informação ao Aeronavegante</nome>
+	<sigla/>
+	<contato/>
+	<descricao>NOTAM significa “informação ao aeronavegante” (do inglês Notice to Airman). O documento contém todas as informações necessárias para que as operações de transporte aéreo ocorram com segurança e eficiência, e é disponibilizado pelo Comando da Aeronáutica na página AISWEB, disponível no endereço http://www.aisweb.aer.mil.br/
+
+No âmbito dos aeroportos, devem solicitar o serviço todos os operadores de aeródromo que tenham suas operações, facilidades ou equipamentos alterados temporariamente.
+
+O primeiro passo para solicitar a emissão do documento é encaminhar uma solicitação, datada e assinada pelo operador do aeródromo, em formato digital “.xls” disponibilizado pelo setor de informações aeronáuticas da Gerência de Controle e Fiscalização (GFIC), para o endereço eletrônico prenotam@anac.gov.br. Depois de recebida e processada pela ANAC (em até três dias úteis), será encaminhada ao órgão responsável do Comando da Aeronáutica.
+
+No Comando da Aeronáutica, o processo observará os prazos estabelecidos nas ICA 53-1 e 53-4, conforme abaixo:
+
+- NOTAM novo Aeródromo com voo regular: com alteração na operacionalidade do fluxo de aeronaves – 17 dias; Sem alteração na operacionalidade do fluxo de aeronaves – 12 dias
+
+- Aeródromo sem voo regular: com alteração na operacionalidade do fluxo de aeronaves – 12 dias; sem alteração na operacionalidade do fluxo de aeronaves – 12 dias
+
+- NOTAM renovador / cancelador: todos os aeródromos com efeito imediato
+
+Deve-se adicionar 3 dias úteis para o envio à ANAC.
+
+O serviço é gratuito.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitar Emissão de NOTAM</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Estar cadastrado no Sistema de Cadastro de Operador de Aeródromo</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>prenotam@anac.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Encaminhar ao usuário solicitação emitida ao Comando da Aeronáutica.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>prenotam@anac.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/86144"/>
+	<areas-de-interesse>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

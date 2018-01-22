@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Representação Judicial dos agentes públicos</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não</item>
+	</nomes-populares>
+	<descricao>A representação judicial dos agentes públicos está prevista no artigo 22, da Lei nº 9.028/95. Foi regulamentada pela Portaria AGU nº 408, de 23 de março de 2009.O artigo 2º da mencionada Portaria estabelece: "A representação de agentes públicos somente ocorrerá por solicitação do interessado e desde que o ato pelo qual esteja sendo demandado em juízo tenha sido praticado no exercício de suas atribuições constitucionais, legais ou regulamentares, na defesa do interesse público, especialmente da União, suas respectivas autarquias e fundações, ou das instituições mencionadas no art. 22 da Lei nº 9.028, de 1995.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>agentes públicos</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>O agente público apresenta o pedido de representação judicial, nos termos da Portaria AGU nº 408/2009.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>todos os documentos necessários à comprovação de sua qualificação, em especial do cargo ou função pública exercida (art. 5º, Portaria AGU nº 408).</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Na unidade da AGU competente.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo></titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/46"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

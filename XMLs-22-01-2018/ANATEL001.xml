@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar a homologação de  produtos de telecomunicações.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>certificação de produtos</item>
+	</nomes-populares>
+	<descricao>Equipamentos de telecomunicações necessitam ser homologados pela Anatel para serem utilizados e comercializados no país. Há um selo no produto que identifica essa homologação. São exemplos, os tablets, os telefones celulares, os computadores com bluetooth, os rádios, os controles remotos e todos os equipamentos emissores de radiofrequência. A homologação do produto depende de um processo de avaliação da conformidade, que pode se dar por declaração, onde o próprio interessado atesta a conformidade (por exemplo, o caso de drones para uso próprio) ou por certificação, quando processo é conduzido por um Organismo de Certificação Designado (caso de celular e tablet). 
+A homologação pode ser solicitada pelo fabricante do produto no Brasil; pelo fornecedor do produto no país, quando o produto for produzido por fabricante estrangeiro; ou por pessoa física ou jurídica que solicita a homologação de produto de telecomunicação para uso próprio. A homologação da Anatel deve ser solicitada por meio do sistema Mosaico (https://sistemas.anantel.gov.br/mosaico). É necessário realizar um cadastro no mosaico para poder solicitar a homologação. Após o cadastro, será necessário preencher alguns formulários eletrônicos e encaminhar alguns arquivos necessários para a avaliação da homologação. Após o cadastro, será criado um boleto para o pagamento da solicitação da homologação. Após a confirmação do pagamento, a solicitação é avaliada pela Agência.
+As instruções detalhadas, contendo os arquivos que são necessários para a solicitação da homologação, estão contidas no site: http://www.anatel.gov.br/setorregulado/orientacoes."</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Cadastro do formulário do pedido de homologação e envio da documentação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+					<item>Documentação listada no site da Anatel, no endereço: http://www.anatel.gov.br/setorregulado/orientacoes/</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://sistemas.anatel.gov.br/mosaico</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>certificacao@anatel.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Necessidade de sanar exigências do processo.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Depende da exigência.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://sistemas.anatel.gov.br/mosaico</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>certificacao@anatel.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/25064"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Comunicações</item>
+		<item>Indústria</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

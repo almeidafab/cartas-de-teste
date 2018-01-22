@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Reserva de marcas de nacionalidade e matrícula de aeronaves</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Reserva de Marcas</item>
+	</nomes-populares>
+	<descricao>As marcas de nacionalidade e matrícula brasileiras correspondem à matrícula de uma aeronave no Registro Aeronáutico Brasileiro e são combinações de letras pré-determinadas (PP-___; PR-___; PT-___; PU-___).
+Essas letras são pintadas no lado externo da aeronave, em tamanho grande, de modo a serem bem visíveis e legíveis, para que se possa facilmente identificá-la, seja em espaço aéreo, seja em repouso. Qualquer cidadão pode reservar marcas para uma aeronave. 
+O serviço é prestado diretamente pela internet, através do preenchimento de um formulário eletrônico. As instruções para preenchimento são encontradas no endereço http://www.anac.gov.br/assuntos/setor-regulado/aeronaves/rab/servico/reserva-de-marcas-online
+A reserva de marcas é válida por um ano a partir da confirmação do pagamento da taxa correspondente e poderá ser renovada a partir de um mês antes do vencimento. O prazo de atendimento é de 30 dias úteis.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitar confirmação da reserva de marcas</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/86144"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+		<item>Comércio e Serviços</item>
+		<item>Esporte e Lazer</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

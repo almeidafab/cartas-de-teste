@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter cadastramento de Aeródromo Público ou Privado (homologação)</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Finalizada a construção do aeródromo, o interessado deve ingressar na ANAC com o pedido para Inscrição Cadastral do Aeródromo. Somente após o cadastramento, o aeródromo será inserido nas publicações aeronáuticas pertinentes e aberto ao tráfego aéreo.
+
+O interessado em homologar (aeródromo público) ou registrar (aeródromo privado) deve fazer a solicitação à ANAC encaminhando documentação nos termos da 
+Portaria ANAC Nº 1227/SIA, de 30/07/2010, em conformidade com a Resolução nº 158, de 13/07/2010. Adicionalmente deve ser observada a aplicabilidade da seguinte legislação: Resolução nº 153, de 18/06/2010; Regulamento Brasileiro de Aviação Civil - RBAC 154; Portaria nº 18/GM5 de 14/02/1974; e ICA 11-3, Processos de Área de Aeródromos (AGA) no âmbito do COMAER.
+
+A ANAC realiza a análise no prazo de 120 dias. A contagem desse prazo é interrompida toda vez que for necessário consultar o interessado (devido a problemas na documentação) ou algum órgão externo à ANAC. Vale ressaltar que os processos são ordenados para análise de acordo com a ordem de chegada, considerando-se a data em que o requerimento foi protocolado na ANAC.
+
+A inscrição da inscrição no Cadastro de Aeródromos poderá ser precedida de inspeção da ANAC, a fim de verificar o atendimento dos requisitos técnicos do RBAC 154 de acordo com as condições para as quais o aeródromo ou a nova infraestrutura será utilizada. 
+
+O prazo da ANAC para análise do pedido é de 120 (centro e vinte) dias para os processos relativos ao cadastramento, conforme definido pela Portaria Nº 1.227/SIA, de 30 de julho de 2010.
+
+Havendo necessidade de consulta ao interessado (por exemplo, devido a pendências na documentação) ou a um órgão externo à ANAC, o processo é sobrestado, o que interrompe a contagem do prazo de 120 dias. A contagem do prazo de análise apenas se inicia na data do protocolo da nova documentação enviada ou da resposta do órgão externo.
+
+Se deferido o processo, a ANAC emitirá uma Portaria de Inscrição do aeródromo no cadastro. O prazo de validade do documento é de 10 (dez) anos.
+
+Após a publicação, a ANAC enviará cópia da Portaria ao Instituto de Cartografia Aeronáutica – ICA (órgão integrante da estrutura do COMAER) para a divulgação  das respectivas informações em serviço de informação aeronáutica disponível na internet – AIS WEB, ou outro serviço de informações que vier a substituí-lo ou complementá-lo. A abertura ao tráfego somente passará a ter vigência e aplicabilidade às operações de aeronaves civis após essa divulgação.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Encaminhar documentação solicitando inscrição no cadastro.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Comprovante de pagamento</item>
+					<item>Contrato Social</item>
+					<item>Procuração do representante legal</item>
+					<item>Registro em Cartório</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Sede da ANAC - Brasília - DF
+Representações Regionais do Rio de Janeiro, São José dos Campos e São Paulo
+Núcleos Regionais de Aviação Civil</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://sistemas.anac.gov.br/sei/controlador_externo.php?acao=usuario_externo_logar&id_orgao_acesso_externo=0</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Avenida Presidente Vargas, nº 850 - 6º Andar
+20071-001 Centro - Rio de Janeiro - RJ</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Comunicar sobre resultado da solicitação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>cadastro.aeroportuario@anac.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Avenida Presidente Vargas, nº 850 - 6º Andar
+20071-001 Centro - Rio de Janeiro - RJ</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/86144"/>
+	<areas-de-interesse>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

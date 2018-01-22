@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Certificado de Autorização de Voo Experimental - CAVE</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Obter avaliação de aeronave experimental: construção amadora; exibição; competição aérea e aeronave leve esportiva. Consiste numa avaliação inicial da documentação enviada para verificar se a aeronave a ser construída é passível de enquadramento no propósito de operação específico pretendido pelo requerente e se a aeronave cumpre com os requisitos aplicáveis. Pessoas que podem solicitar estes serviço: Pessoa Física e Pessoa Jurídica.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitação do CAVE para o propósito pretendido com a documentação prevista para o processo.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Formulário ou carta requisitando o serviço</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Qualquer unidade da ANAC.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>ggcpdoc.sjc@anac.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Apresentar formulário de vistoria realizada por profissional credenciado na aeronave.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Formulário de vistoria</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Qualquer unidade da ANAC.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>ggcpdoc.sjc@anac.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/86144"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Esporte e Lazer</item>
+		<item>Indústria</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

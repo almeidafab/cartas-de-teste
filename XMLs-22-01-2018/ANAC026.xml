@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitação de designação (para serviço de transporte aéreo regular internacional).</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Designação</item>
+	</nomes-populares>
+	<descricao>A designação é ato de Governo a Governo, estabelecida por via diplomática. A solicitação da designação é necessária para que uma empresa aérea brasileira possa realizar um serviço de transporte aéreo regular internacional, assim como para que uma empresa aérea estrangeira regular possa operar serviços aéreos no Brasil.
+
+Dessa forma, uma empresa aérea brasileira deve requerer a designação à ANAC para tal operação. A partir do pedido da empresa interessada, caso não haja restrição, a ANAC solicita ao Ministério de Relações Exteriores que informe a outra Parte sobre a referida designação.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Protocolar a solicitação de Designação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Qualquer unidade da ANAC.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SEDE:  Setor Comercial Sul - Quadra 09 - Lote C - Edifício Parque Cidade Corporate - Torre A (1º ao 7º andar) Brasília - DF – CEP: 70.308-200</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/86144"/>
+	<areas-de-interesse>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

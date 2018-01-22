@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter credenciamento de Centros de Instrução em AVSEC</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Homologação de Centro de Instrução AVSEC</item>
+	</nomes-populares>
+	<descricao>Consiste no credenciamento de Centros de Instrução que oferecem cursos AVSEC (Aviation Security). Cada um dos cursos oferecidos pelo centro deve ser autorizado pela ANAC. Pessoas que podem solicitar estes serviço: Pessoa Jurídica.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentar ou enviar a documentação ao protocolo da ANAC</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Documentos de qualificação da pessoa jurídica, formulário de requerimento, comprovante de TFAC paga, manual de procedimento de centro de instrução, material instrucional</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Qualquer unidade de protocolo da ANAC</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Superintendência de Infraestrutura Aeroportuária/ANAC, Setor Comercial Sul - Quadra 09 - Lote C - Edifício Parque Cidade Corporate - Torre A (4º andar) Brasília - DF – CEP: 70.308-200</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/86144"/>
+	<areas-de-interesse>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

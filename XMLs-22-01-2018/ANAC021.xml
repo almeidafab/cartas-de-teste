@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar aprovação do Plano Diretor de um Aeródromo</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>PDIR</item>
+	</nomes-populares>
+	<descricao>O Plano Diretor Aeroportuário – PDIR é o documento elaborado pelo operador de aeródromo, que estabelece o planejamento para a expansão da infraestrutura aeroportuária em consonância com a regulamentação de segurança operacional expedida pela ANAC.
+Aos operadores de aeródromo compete a elaboração e submissão de PDIR para análise. A aprovação de Plano Diretor é requisito obrigatório para aeródromos que recebem voos de empresas aéreas prestando serviço de transporte aéreo regular de passageiros ou carga.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentação da minuta do Plano Diretor Aeroportuário</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Registro em Cartório</item>
+					<item>Documentos técnicos exigidos pelo regulamento específico</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>ANAC</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Endereços Principais:
+
+SEDE:  Setor Comercial Sul - Quadra 09 - Lote C - Edifício Parque Cidade Corporate - Torre A (1º ao 7º andar) Brasília - DF – CEP: 70.308-200
+
+ANAC RJ: Avenida Presidente Vargas, 850 - Centro Rio de Janeiro - RJ - CEP 20.071/001 – Telefone Geral: (21) 3501-5000/5985 (Recepção)
+
+ANAC SJC: Rua Laurent Martins 209 - Jardim Esplanada, São José dos Campos (SP) – CEP: 12242-431 – Telefone: (12) 3203-6600 / Fax.: (12) 3203-6801
+
+ANAC SP: Rua Renascença 112, Vila Congonhas - São Paulo/SP – CEP 04612-010 – Telefone Geral: (11) 3636-8600 (Recepção)</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/86144"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Transportes</item>
+		<item>Urbanismo</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

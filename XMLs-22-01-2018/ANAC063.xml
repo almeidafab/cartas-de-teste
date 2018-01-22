@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Certificação de Organização de Manutenção de Produto Aeronáutico</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Certificação de oficina</item>
+	</nomes-populares>
+	<descricao>A manutenção de aeronaves ou seus componentes é uma atividade que só pode ser exercida por empresas devidamente certificadas para isso pela ANAC. O Certificado de Organização de Manutenção especifica quais modelos de aeronave podem ser atendidos e que tipos de serviço a Oficina certificada pode executar. O processo de certificação possui várias etapas, nas quais a empresa deverá apresentar suas documentações e comprovar a sua capacidade técnica para efetuar os serviços para os quais será certificada.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Fase 1, contato inicial; Fase 2, reunião inicial; Fase 3, envio da documentação; Fase 4, demonstrações e auditoria; Fase 5, certificação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>Comprovante de pagamento</item>
+					<item>Contrato Social</item>
+					<item>Procuração do representante legal</item>
+					<item>Documentos listados na IS 145-001 item 5.3.2.1</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Representações Regionais da ANAC, Núcleos Regionais de Aviação Civil, Sede</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>556133144849</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>gtar.sp ou gtar.rj ou gtar.df@anac.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/86144"/>
+	<areas-de-interesse>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

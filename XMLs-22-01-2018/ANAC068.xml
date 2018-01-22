@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Constituir empresa para exploração de serviços aéreos públicos.</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Os serviços aéreos públicos abrangem os serviços aéreos públicos especializados e os serviços de transporte aéreo público de passageiro, carga ou mala postal, regular ou não-regular, doméstico ou internacional, conforme definição legal prevista pelo Artigo 175 da Lei nº 7.565/86 – Código Brasileiro de Aeronáutica - CBA.
+
+Para que uma empresa brasileira possa explorar serviços aéreos públicos, esta dependerá sempre de prévia concessão, quando se tratar de transporte aéreo regular, ou de autorização no caso de transporte aéreo não-regular ou de serviços aéreos especializados.
+
+Antes que a futura empresa aérea possa arquivar seus atos constitutivos (Contrato ou Estatuto Social) junto ao Registro de Comércio, deverá submetê-los à anuência prévia da ANAC, para avaliação do cumprimento dos requisitos determinados pelo Código Brasileiro de Aeronáutica, em atendimento ao Artigo 184 do mesmo diploma legal e à Instrução Normativa DREI nº 33, de 11.05.2016.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Protocolizar  formulário de requerimento e documentação necessária.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>FGTS</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Em qualquer unidade da ANAC.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>ANAC SEDE:  Setor Comercial Sul - Quadra 09 - Lote C - Edifício Parque Cidade Corporate - Torre A (1º ao 7º andar) Brasília - DF – CEP: 70.308-200</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/86144"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

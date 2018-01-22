@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>O transporte de carga realizado total ou parcialmente fora da fuselagem de uma aeronave deve ser autorizado pela ANAC.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>O transporte de carga realizado total ou parcialmente fora da fuselagem de uma aeronave deve ser autorizado pela ANAC</item>
+	</nomes-populares>
+	<descricao>O transporte de carga realizado total ou parcialmente fora da fuselagem de uma aeronave deve ser autorizado pela ANAC.
+A autorização refere-se a atividades contínuas, tendo validade de 24 meses, podendo perder a validade se antes desse prazo for cassada, suspensa ou revogada, ou se o seu detentor a devolver à ANAC.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitação de autorização</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/86144"/>
+	<areas-de-interesse>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
