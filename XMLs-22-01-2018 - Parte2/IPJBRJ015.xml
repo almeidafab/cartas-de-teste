@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>SOLICITAR INFORMAÇÕES À BIBLIOTECA BARBOSA RODRIGUES</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Na Biblioteca o usuário pode realizar: consultas ao acervo de obras gerais, periódicos e obras raras; ter acesso eletrônico a bases de dados nacionais e internacionais; fazer levantamento bibliográfico em bases de dados nacionais e internacionais. Serviço 1: Orientação bibliográfica aos usuários e pesquisa na internet feita por bibliotecários para fornecimento e/ou complementação de informações solicitadas. Prazo do serviço: variável de acordo com a complexidade e extensão do assunto. Espera para atendimento: atendimento presencial imediato; atendimento por e-mail em no máximo 48 h (dias úteis). Serviço 2: Reprodução de material bibliográfico. Prazo do serviço: A confecção e envio de fotocópias em caso de pedidos não presenciais levam de 7 (sete) a 10 (dez) dias úteis.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1- Solicitar atendimento (presencial ou à distância);</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Carteira estudantil</item>
+					<item>Comprovante de endereço/residência</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Biblioteca Barbosa Rodrigues</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>biblioteca@jbrj.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>2- Entrega do serviço</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Biblioteca Barbosa Rodrigues</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>biblioteca@jbrj.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1913"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+		<item>Educação</item>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

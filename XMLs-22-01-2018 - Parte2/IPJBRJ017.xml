@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>SOLICITAR SERVIÇO DE IDENTIFICAÇÃO DE PLANTAS</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O Herbário RB oferece o serviço de identificação de plantas para: a) pessoa física; b) pessoa jurídica: serviço de identificação e incorporação de amostras de licenciamento ambiental no RB. Prazo do serviço: a) as amostras recebidas por carta levam até 15 dias para identificação, dependendo também do número de amostras enviadas; e b) o prazo depende da quantidade de amostras a serem identificadas. Espera para atendimento: a) de 24 h a 48 h (dias úteis) a partir do recebimento das amostras e do agendamento; b) acesse a Portaria JBRJ nº 089/2010, de 9 de junho de 2010, no endereço eletrônico http://www.jbrj.gov.br/colecoes/biologicas > Herbário > Identificação de plantas.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo></titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1913"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>REALIZAR ESTÁGIO CURRICULAR</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Estágio de Estudantes</item>
+	</nomes-populares>
+	<descricao>O Programa de Estágio na Administração Pública Federal deve possibilitar aos estudantes a complementação de ensino e aprendizagem, constituindo-se em instrumento de iniciação ao trabalho, de aperfeiçoamento técnico cultural, científico e de relacionamento humano.
+O objetivo é possibilitar experiência prática na linha de formação, por meio da realização de estágio curricular, observadas as competências institucionais específicas de cada unidade do JBRJ, para estudantes regularmente matriculados e com frequência em instituições de ensino.
+Os supervisores de estágio deverão possibilitar a criação de métodos e aquisição de conteúdos capazes de promover o desenvolvimento integral do estudante. Deste modo, o estágio será planejado, executado, acompanhado e avaliado em conformidade com a área de formação e deverá propiciar complementação de ensino e aprendizagem aos estudantes, constituindo-se em instrumento de iniciação ao trabalho, de aperfeiçoamento técnico cultural, científico e de relacionamento humano.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrever-se para concorrer ao estágio.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira estudantil</item>
+					<item>Certidão de casamento</item>
+					<item>Certidão de nascimento</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de quitação eleitoral</item>
+					<item>CPF</item>
+					<item>Declaração da escola ou universidade</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>No endereço do Agente de Integração.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Participar do processo seletivo.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>No endereço do agente de integração e no órgão</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Admissão como estagiário no órgão.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Termo de Compromisso assinado pelas partes.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>No endereço do agente de integração e no órgão.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Atuar como estagiário no órgão.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Folha de frequência</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>No órgão.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1913"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Comunicações</item>
+		<item>Economia e Finanças</item>
+		<item>Educação</item>
+		<item>Esporte e Lazer</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Urbanismo</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Realizar matrícula no Mestrado Profissional em Preservação do Patrimônio Cultural – PEP-MP</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>PEP-MP</item>
+	</nomes-populares>
+	<descricao>O IPHAN possui o Mestrado Profissional em Preservação do Patrimônio Cultural, reconhecido pelo Ministério da Educação, por meio da Portaria MEC nº 978/2012. É um curso interdisciplinar, cuja área de concentração é Preservação do Patrimônio Cultural, contando com duas linhas de pesquisa
+– Patrimônio Cultural: história, política e sociedade e Patrimônio Cultural: instrumentos, informação e desenvolvimento.
+O IPHAN seleciona anualmente vinte alunos, por meio de edital público, para o Mestrado Profissional em Preservação do Patrimônio Cultural (PEP-MP). Os alunos recebem bolsas de estudos oferecidas pelo IPHAN, seguindo padrões da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, do
+Ministério da Educação – CAPES/MEC.
+Requisitos para o acesso
+> Ser cidadão brasileiro com graduação em curso superior reconhecido pelo MEC;
+> Ter formação na área definida pelo Edital;
+> Preencher e assinar o formulário de inscrição.
+Enviar o formulário preenchido e assinado, por Sedex ou Carta Registrada com Aviso de Recebimento, ou entregar em mãos exclusivamente para a Coordenação do Mestrado, na cidade do Rio de Janeiro, anexando ainda cópia dos seguintes documentos:
+> Registro de identidade;
+> Cadastro de Pessoa Física (CPF);
+> Certidão de quitação com a Justiça Eleitoral;
+> Documento de quitação com as obrigações militares, para candidatos do sexo masculino;
+> Diploma do curso superior reconhecido pelo MEC, na graduação exigida no edital;
+> Curriculum vitae cadastrado na Plataforma Lattes (http://lattes.cnpq.br/), impresso em sua versão completa;
+> Carta assinada de exposição de motivos, com no mínimo uma lauda (tamanho A4) e no máximo duas, em fonte Times New Roman, tamanho 12, espaço entre linhas 1,5, margens de 2 cm em toda a volta, contendo, obrigatoriamente, os seguintes itens: a) justificativa para a candidatura ao Mestrado;
+b) os objetivos a serem perseguidos; e c) interesse em desenvolver as atividades propostas pelo Programa;
+> Ensaio crítico ou outro exercício solicitado, assinado, abordando o conteúdo de textos escolhidos
+entre os descritos no edital.
+Como acessar o serviço
+Mediante participação em processo seletivo anual regido por Edital Público divulgado em www.iphan.gov.br
+Presencial: Informações na Coordenação do Mestrado. Sede do Mestrado: Palácio Gustavo Capanema - Rua da Imprensa, nº 16, 8º andar, sala 808, Centro, Rio de Janeiro-RJ, CEP: 20.030-120.
+Telefones: (21) 2215-5263/5155.
+Virtual: http://portal.iphan.gov.br | Por e-mail: mestrado.pep@iphan.gov.br
+Tempo para prestação do serviço: 
+O Mestrado tem duração de 24 meses.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>solicitação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Certificado de conclusão de curso</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de renda</item>
+					<item>CPF</item>
+					<item>Diploma</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2045"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Cultura</item>
+		<item>Educação</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

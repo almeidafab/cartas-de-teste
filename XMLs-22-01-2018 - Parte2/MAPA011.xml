@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Alocação de recursos para capacitação de técnicos e produtores do agronegócio café</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Realização de eventos para técnicos e produtores mediante workshops, cursos, seminários, dias de campo, congressos, simpósios e feiras agropecuárias,com vistas a habilitar os agentes da cadeia da cafeicultura à gestão integrada dos processo produtivos; disseminar técnicas de manejo e tecnologiasvoltadas à alta performance e propiciar a absorção de conhecimentos para viabilizar a agregação de valor. Atualmente este serviço é realizado via Termos de Execução Descentralizada</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Recebimento do plano para execução do TED</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>plano de trabalho</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Protocolo geral - entrega de ofício com a proposta</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>funcafé@agricultura.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>solicitação de documento assinado</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>plano de trabalho assinado</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>protocolo geral</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/14"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

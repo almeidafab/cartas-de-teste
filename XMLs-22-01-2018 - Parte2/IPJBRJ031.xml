@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>PERMISSÃO DE USO PARA FINS COMERCIAIS/INSTITUCIONAIS.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>PERMISSÃO DE USO OU USO PÚBLICO OU ASSESSORIA EVENTOS</item>
+	</nomes-populares>
+	<descricao>É permitida a realização de eventos, filmagens, gravações e fotos para fins comerciais/promocionais/institucionais nas dependências do JBRJ mediante pagamento de GRU (Guia de Recolhimento da União), conforme o disposto em Portaria disponível no endereço eletrônico http://jbrj.gov.br/jardim/servicos.
+A realização dessas atividades está condicionada à análise e aprovação da Presidência do JBRJ. As dependências do JBRJ compreendem o Centro de Visitantes, o Solar da Imperatriz (Escola Nacional de Botânica Tropical), o Arboreto e o Museu do Meio Ambiente.
+Prazo do serviço: conforme demanda. 
+Espera para atendimento: até 7 (sete) dias úteis. 
+
+O usuário solicita a autorização para fotos e/ou eventos que passam por análise de pertinência ao regramento da instituição.
+Há possibilidade de realização de visita técnica para conhecimento do espaço. 
+Se a solicitação for autorizada pela instituição, as partes assinam um Termo de Permissão de Uso do espaço e é emitida uma GRU para pagamento do interessado. Pode haver autorizações gratuitas para órgãos públicos ou se houver interesse da instituição no evento a ser realizado.  
+Regramento estabelecidos por meio das Portarias JBRJ n.  104/2010, de  01/07/2010 e Portaria JBRJ n . 03/2017, de 10/01/2017.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>solicitação por email ou telefone.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Casa de Pacheco Leão na Assessoria de Permissão de Uso.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2132042518</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>permissaodeuso@jbrj.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1913"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

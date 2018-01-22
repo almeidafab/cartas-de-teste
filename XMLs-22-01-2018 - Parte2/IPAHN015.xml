@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar apoio e Fomento a Bens Culturais Registrados</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>NÃO</item>
+	</nomes-populares>
+	<descricao>Apoio e Fomento a Bens Culturais Registrados
+Tem como objetivo o desenvolvimento de ações que favoreçam a salvaguarda dos bens já reconhecidos como Patrimônio Cultural do Brasil por meio do Registro, conforme Decreto nº 3.551/2000 (http://www.planalto.gov.br/ccivil_03/decreto/D3551.htm).
+Pretende-se contribuir, de forma sustentável, para o fortalecimento das condições de existência do bem cultural, das suas formas de produção e transmissão, assim como para a valorização de seus detentores.
+O apoio é realizado por meio de gestão participativa dos detentores do bem cultural registrado, envolvendo também parceiros de instituições governamentais e da sociedade civil. Aqueles que tiverem interesse em participar devem dirigir-se à Superintendência Estadual do IPHAN no estado onde se encontra o bem
+cultural. Para saber quais são os bens culturais registrados, consultar: www.iphan.gov.br.
+Requisitos para o acesso
+> Ser detentor do bem cultural registrado;
+> Não sendo detentor, possuir anuência dos detentores do bem cultural para propor ou participar de ações.
+Como acessar o serviço
+Presencial: Prioritariamente, na Superintendência do IPHAN no estado onde o bem se localiza, ou na Sede do IPHAN/Departamento de Patrimônio Imaterial – DPI.
+Por e-mail: cgsg@iphan.gov.br
+Por ofício: Dirigido à Direção do Departamento de Patrimônio Imaterial – DPI, ou à Superintendência do IPHAN no estado em que o bem se localiza.
+Tempo para prestação do serviço: Até trinta dias, para resposta à solicitação.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>solicitação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2045"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

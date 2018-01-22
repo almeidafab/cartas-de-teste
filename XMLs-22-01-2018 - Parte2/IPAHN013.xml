@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Realizar Educação Patrimonial</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>NÃO</item>
+	</nomes-populares>
+	<descricao>O IPHAN disponibiliza orientações visando implementar e fortalecer as ações educativas para a valorização e preservação do patrimônio cultural brasileiro por meio de duas estratégias principais:
+Educação Patrimonial no Programa Mais Educação (Parceria com o Ministério da Educação) – Desde 2011, o IPHAN propôs a inserção da Educação Patrimonial no denominado Macrocampo Cultura, Artes e Educação Patrimonial. As escolas do Programa Mais Educação que escolhem essa atividade recebem um conjunto de materiais e recursos para realizar um inventário pedagógico do patrimônio cultural local. Mais informações em: http://portal.mec.gov.br/index.php?option=com_
+content&view=article&id=16727&Itemid=1119.
+
+Preservação do Patrimônio Cultural, do edital do Programa de Extensão Universitária – ProExt (Parceria com o Ministério da Educação) – Trata-se de uma ação interministerial coordenada pelo MEC e desenvolvida em parceria com as instituições públicas de Educação Superior por meio de programas e projetos de extensão universitária. O IPHAN participa do ProExt favorecendo o envolvimento das unidades públicas de ensino superior em ações de reconhecimento, promoção e
+preservação do patrimônio cultural brasileiro. Mais informações em:  
+http://portal.mec.gov.br/index.php?option=com_content&view=article&id=12241&Itemid=488.
+Requisitos para o acesso
+> Educação Patrimonial no Programa Mais Educação
+Ser escola pública que cumpra os requisitos e escolha a temática do Patrimônio Cultural no Programa Mais Educação.
+> Preservação do Patrimônio Cultural, do edital do ProExt
+Ser instituição pública de Ensino Superior interessada no Programa.
+Como acessar o serviço
+Presencial: Na Sede do IPHAN / Departamento de Articulação e Fomento – DAF / Coordenação de Educação Patrimonial.
+Telefones: (61) 2024-5456/5457 | Fax: (61) 2024-5499.
+Virtual: http://portal.iphan.gov.br
+Por ofício: Dirigido ao IPHAN/Departamento de Articulação e Fomento – DAF/ Coordenação de Educação Patrimonial - SEPS 713/913, Lote D, 4º andar, Edifício IPHAN, Asa Sul, Brasília-DF, CEP: 70.390-135.
+Tempo para prestação do serviço: Até trinta dias, para resposta à solicitação. O prazo para a execução das ações, quando julgadas pertinentes e viáveis, depende da natureza do que é proposto e das condições existentes para o seu desenvolvimento.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>solicitação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2045"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+		<item>Educação</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

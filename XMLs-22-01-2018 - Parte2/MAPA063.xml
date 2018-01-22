@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Autorização prévia para importação de fertilizantes, inoculantes e corretivos</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Requerimento de Importação de Fertilizantes, Inoculantes e Corretivos</item>
+	</nomes-populares>
+	<descricao>Trata-se de autorização para as importações de fertilizantes, inoculantes e corretivos, e suas respectivas matérias primas.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Preenchimento de formulário e envio de documentos obrigatórios.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>cópias: LI, fatura, certificado de análise, conhecimento de cargas</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Nas Superintendências Federais da Agricultura, Pecuária e Abastecimento nas unidades da Federação e no DF.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>cada unidade de fiscalização das SFAs nos Estados. (http://www.agricultura.gov.br/acesso-a-informacao/institucional/quem-e-quem/secretaria-</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>cada unidade de fiscalização das SFAs nos Estados. (http://www.agricultura.gov.br/acesso-a-informacao/institucional/quem-e-quem/secretaria-executiva-superintendencias-federais-de-agricultura-sfa-se-mapa )</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/14"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

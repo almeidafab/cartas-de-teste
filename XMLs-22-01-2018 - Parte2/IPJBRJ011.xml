@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>SOLICITAR  INFORMAÇÕES SOBRE AS PLANTAS DO JBRJ (COLEÇÕES VIVAS)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Jardim Botânico</item>
+	</nomes-populares>
+	<descricao>A Coordenação de Coleções Vivas fornece informações botânicas sobre os espécimes da coleção viva, tombados no Arboreto do JBRJ, incluindo: Arboreto Geral, Bromeliário, Orquidário, Plantas Medicinais, Cactário e Plantas Insetívoras. As informações podem ser obtidas por solicitação do usuário à Coordenação das Coleções Vivas ou por consulta ao sistema Jabot, disponível na internet. Prazo do serviço: de 1 a 15 dias, dependendo da complexidade da solicitação do usuário. Espera para atendimento: até 48 h (dias úteis) após o recebimento da solicitação no setor.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitação do serviço</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.jbrj.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1913"/>
+	<areas-de-interesse>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

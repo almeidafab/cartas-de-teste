@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>REALIZAR COLETAS DE PLANTAS DAS COLEÇÕES VIVAS</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Jardim BotânicoAutyot</item>
+	</nomes-populares>
+	<descricao>A Curadoria de Coleções Vivas recebe pedidos de coleta de espécimes da Coleção. No site www.jbrj.gov.br/jardim/servicos estão disponibilizados o termo de doação e o formulário para solicitação de mudas; Os formulários deverão ser impressos, assinados e encaminhados ao Horto do JBRJ; Deverá ser encaminhado ofício em papel timbrado,com os formulários para solicitação de mudas preenchidos e assinados,em anexo. Prazo do serviço: 10dias. Espera para atendimento:até 5 dias úteis após o recebimento da documentação.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>O usuário solicita o serviço via site eletrônico e vai ao local proceder o serviço</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Solicitação formal e projeto de pesquisa</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Arboreto do JBRJ</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1913"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

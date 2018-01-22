@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar participação no Programa Educativo do Centro Nacional de Folclore e Cultura Popular - CNFCP</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>CNFCP</item>
+	</nomes-populares>
+	<descricao>Programa educativo desenvolvido pelo CNFCP por meio de assessoria direta e dos projetos itinerantes De mala e cuia, Olhando em volta e Fazendo fita, criados para possibilitar um contato especial do público com parte do acervo e do conhecimento produzido pelo Centro.
+Visando encontrar novas formas de diálogo com a escola e oferecer novos olhares sobre o tema nos espaços públicos que também integram o CNFCP, o Programa oferece empréstimo dos projetos itinerantes, assim como orientação e assessoria a professores ou a outros profissionais de instituições culturais e de ensino, individualmente ou em grupos previamente agendados. 
+Requisitos para o acesso
+> Ser professor ou educador dos ensinos Fundamental e Médio;
+> Ser instituição cultural que desenvolva ações educativas;
+> Participar da Reunião de Apresentação dos Projetos Itinerantes.
+Como acessar o serviço
+Presencial: Rua do Catete, nº 179. Catete, Rio de Janeiro-RJ, CEP: 22.220-000.
+Telefone: (21) 2285-0441.
+Por e-mail: educação.cnfcp@iphan.gov.br
+Por ofício: Dirigido à Difusão Cultural do CNFCP - Rua do Catete, nº 179, Catete, Rio de Janeiro-RJ, CEP:
+22.220-000.
+Horário de atendimento: De terça a sexta-feira, das 10h às 18h.
+Tempo para prestação do serviço: 45 dias.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>solicitação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2045"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+		<item>Educação</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

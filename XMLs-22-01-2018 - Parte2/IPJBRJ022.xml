@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Realizar matrícula em Programa de pós-graduação sensu stricto em botânica da Escola Nacional de Botanica Tropical - PPGENBT/JBRJ</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Ser aluno matriculado no PPG/ENBT ou em PPG de outra instituição (categoria 2 - aluno especial) ou ainda ser profissional graduado (categoria 3 - aluno ouvinte), vinculado ou não a um curso de pós-graduação (apenas como ouvinte) • acompanhar a divulgação do calendário de disciplinas por semestre no sítio eletrônico http://www.jbrj.gov.br/pesquisa-e-educacao/pos-graduacao • preencher e entregar na secretaria do PPG/ENBT o formulário de inscrição. Prazo do serviço: de acordo com o estabelecido no calendário letivo. Espera para atendimento: 20 (vinte) minutos para o atendimento presencial</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>solicitação de matricula do discente externo em cursar disciplina do nosso PPG.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+					<item>Diploma</item>
+					<item>Passaporte</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>secretaria do programa de pós-graduação  sensu stricto em botânica PPGENBT/JBRJ</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2138756201</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://w2.portais.atrio.scire.net.br/jbrj-ppgenbt/</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>ppgenbt@jbrj.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1913"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
