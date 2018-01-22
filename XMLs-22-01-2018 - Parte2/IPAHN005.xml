@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Registro de Bens Culturais de Natureza Imaterial</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>NÃO</item>
+	</nomes-populares>
+	<descricao>As associações da sociedade civil, o Ministro de Estado da Cultura, as instituições vinculadas ao Ministério da Cultura, as secretarias estaduais, municipais e do Distrito Federal são competentes para requerer a instauração do processo de reconhecimento de bens de natureza imaterial, por meio do Registro, conforme disposto no Decreto nº 3.551/2000 (http://www.planalto.gov.br/ccivil_03/decreto/D3551.htm) e na Resolução nº 01/2006 http://portal.iphan.gov.br/portal/baixaFcdAnexo.do?id=1383).
+Requisitos para o acesso
+Requerimento dirigido ao Presidente do IPHAN ou às Superintendências em cada estado da Federação.
+O requerimento deve ser apresentado em formato original, datado e assinado, acompanhado dos seguintes documentos e informações:
+> Identificação do proponente (nome, endereço, telefone, e-mail etc.);
+> Justificativa do pedido;
+> Denominação e descrição sumária do bem, com indicação da participação e/ou atuação dos grupos sociais envolvidos, de onde ocorre ou se situa, do período e da forma em que ocorre;
+> Informações históricas básicas sobre o bem;
+> Documentação mínima disponível, adequada à natureza do bem, como fotografias, desenhos, vídeos, gravações sonoras ou filmes;
+> Referências documentais e bibliográficas disponíveis;
+> Declaração formal de representante da comunidade produtora do bem ou de seus membros,
+expressando o interesse e a anuência à instauração do processo de Registro.
+Como acessar o serviço
+Por ofício: Dirigido prioritariamente à Superintendência do IPHAN no estado onde o bem se localiza, ou à Presidência do IPHAN.
+Tempo para a prestação do serviço: Até trinta dias, para informar a abertura de processo administrativo.
+Até três anos, para informar o deferimento ou indeferimento do Registro.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>solicitação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Superintendência Estadual</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo></titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2045"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+		<item>Cidadania</item>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

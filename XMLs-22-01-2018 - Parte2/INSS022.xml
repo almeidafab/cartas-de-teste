@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Cadastrar/Alterar Comunicação de acidente de Trabalho – CAT</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não há</item>
+	</nomes-populares>
+	<descricao>Trata-se de serviço disponível para cadastramento/alteração de Comunicação de acidente de Trabalho – CAT ou de trajeto bem como uma doença ocupacional; majoração de 25% em benefícios para os quais há necessidade de acompanhante; isenção de tributação de imposto de renda e auxílio-acidente. A empresa é obrigada a informar à Previdência Social todos os acidentes de trabalho ocorridos com seus funcionários.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentação de documentos, formalização do requerimento e cadastramento da CAT quando for o caso.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+					<item>CAT ou laudo médico</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Unidade de atendimento do INSS</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1934"/>
+	<areas-de-interesse>
+		<item>Previdência Social</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Autorização de Acesso a Conhecimentos Tradicionais Associados – CTA</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>NÃO</item>
+	</nomes-populares>
+	<descricao>O IPHAN foi credenciado pelo Conselho de Gestão do Patrimônio Genético – CGEN/DPG/MMA para autorizar o acesso de pesquisadores a conhecimentos tradicionais, quando se tratar de projetos de pesquisa científica que não preveja coleta de espécimes, perspectiva econômica ou comercial, conforme estabelecem a Medida Provisória nº 2.186-16/2001 (http://portal.iphan.gov.br/portal/baixaFcdAnexo.do?id=3765) e o Decreto nº 3.945/2001 (http://portal.iphan.gov.br/portal/
+baixaFcdAnexo.do?id=3312).
+Requisitos para o acesso
+> Ser pessoa jurídica, pública ou privada, constituída sob as leis brasileiras e exercer atividades de pesquisa nas áreas biológicas e afins, bem como possuir qualificação técnica para o desempenho das atividades de acesso ao CTA;
+> Apresentar formulário de solicitação, acompanhado dos documentos exigidos pela legislação sobre CTA (http://portal.iphan.gov.br/portal/montarDetalheConteudo.do?id=17265&sigla=Institucional&retorno=detalheInstitucional);
+
+> Possuir anuência prévia, com os respectivos documentos comprobatórios, do povo indígena ou da
+comunidade local envolvida;
+> Apresentar projeto e demais documentos necessários, conforme instruções disponíveis no site do
+IPHAN.
+Para detalhamento dos requisitos de acesso e melhor compreensão do processo de autorização, consultar: http://portal.iphan.gov.br/portal/montarPaginaSecao.do?id=16401&retorno=paginaIphan.
+Como acessar o serviço
+Por ofício: Dirigido à Sede do IPHAN / Departamento do Patrimônio Imaterial – DPI.
+Por e-mail: dpi@iphan.gov.br
+Tempo para a prestação do serviço: 
+Até sessenta dias após a apresentação da solicitação, para emissão da autorização, se toda a documentação requerida estiver de acordo.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>solicitação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>outros documentos específicos</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2045"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+		<item>Educação</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

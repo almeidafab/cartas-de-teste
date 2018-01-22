@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar avaliação de Impacto aos Bens Culturais Acautelados no Âmbito do Licenciamento Ambiental</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>NÃO</item>
+	</nomes-populares>
+	<descricao>Trata-se de serviço realizado pelo IPHAN quando instado a se manifestar nos processos de licenciamento ambiental federal, estadual e municipal, em razão da existência de interferência na Área de Influência Direta – AID da atividade ou empreendimento sobre bens culturais acautelados em âmbito federal. Consideram-se bens acautelados aqueles tombados pelo Decreto-Lei nº 25/1937 (http://www.planalto.gov.br/ccivil_03/decreto-lei/del0025.htm); protegidos pela Lei nº 3.924/1961 (http://www.planalto.gov.br/ccivil_03/leis/1950-1969/L3924.htm); registrados nos termos do Decreto nº3.551/2000 (http://www.planalto.gov.br/ccivil_03/decreto/D3551.htm) e valorados nos termos da Lei nº 11.483/2007 (http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11483.htm).
+Requisitos para o acesso
+> O acesso deverá ocorrer, exclusivamente, por meio da pessoa jurídica responsável pelo empreendimento;
+> Em casos de licenciamento ambiental, o interessado deverá consultar o órgão ambiental correspondente.
+
+Como acessar o serviço
+Por ofício: Dirigido à Superintendência do IPHAN no estado onde a atividade ou empreendimento se realizará, ou ao IPHAN-Sede, nos casos previstos no art. 7º da Lei Complementar nº 180/2011 (http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm#art23p).
+Tempo para a prestação do serviço: Até noventa dias.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>solicitação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2045"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

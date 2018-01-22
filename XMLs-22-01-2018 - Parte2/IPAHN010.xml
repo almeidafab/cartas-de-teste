@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Autorização para Exportação Temporária de Bens Culturais Protegidos</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>NÃO</item>
+	</nomes-populares>
+	<descricao>O cidadão ou instituição interessado(a) retirar do país um bem cultural protegido, para participar de exposição internacional, ou de outra forma de intercâmbio cultural, deverá pedir autorização ao IPHAN, conforme Decreto-Lei nº 25/1937 (http://www.planalto.gov.br/ccivil_03/decreto-lei/del0025.
+htm), Lei nº 3.924/1961 (http://www.planalto.gov.br/ccivil_03/leis/1950-1969/L3924.htm), Lei nº4.845/1965 (http://www.planalto.gov.br/ccivil_03/leis/L4845.htm) e Lei nº 5.471/1968 (http://www.planalto.gov.br/ccivil_03/leis/l5471.htm).
+Requisitos para o acesso
+Solicitação formal do proprietário, ou seu representante legal, a ser apresentada com a antecedência
+de noventa dias à data fixada para a saída do bem, contendo:
+> Dados técnicos completos do bem: tipo, autoria, título, datação, materiais, técnicas de confecção, dimensões, marcas, inscrições, estado de conservação, três fotos (9 cm x 12 cm), coloridas, no caso de obra policromada;
+> Identificação dos promotores da exposição;
+> Indicação do roteiro dos bens, com especificação de instituições, cidades, países onde serão expostos;
+> Cópia das solicitações das instituições estrangeiras interessadas em expor os bens;
+> Período da exposição e data provável do retorno ao país;
+> Avaliação dos bens para efeito de seguro;
+> Indicação dos responsáveis pela embalagem;
+> Indicação dos responsáveis pelo embarque e desembarque;
+> Indicação da empresa transportadora;
+> Indicação da empresa seguradora;
+> Indicação dos lotes, se for o caso;
+> Entrega da cópia da respectiva apólice de seguro, até quinze dias antes da data prevista para a saída do bem.
+Como acessar o serviço
+Por ofício: Dirigido à Superintendência do IPHAN em seu estado.
+Tempo para a prestação do serviço: Até noventa dias</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>solicitação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+					<item>outros comprovantes relativos ao bem</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2045"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

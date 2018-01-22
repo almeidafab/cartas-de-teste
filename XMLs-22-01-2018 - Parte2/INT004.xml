@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar o empréstimo do acervo da Biblioteca do INT</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Empréstimo entre Bibliotecas</item>
+	</nomes-populares>
+	<descricao>O usuário externo deverá estar vinculado a uma biblioteca conveniada à Biblioteca do INT para solicitar o documento de interesse ao bibliotecário responsável de sua instituição. A Biblioteca do INT emprestará o documento à biblioteca solicitante, que disponibilizará o material ao usuário</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Agendar atendimento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>carta de empréstimo assinada pelo Bibliotecário Chefe da instituição solicitada</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Instituto Nacional de Tecnologia</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Controlar a devolução da publicação solicitada.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carta com a baixa do empréstimo  solicitado.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Instituto Nacional de Tecnologia</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1988"/>
+	<areas-de-interesse>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

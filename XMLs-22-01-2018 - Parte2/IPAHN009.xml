@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Autorização para Saída de Obras de Arte do País</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>não</item>
+	</nomes-populares>
+	<descricao>O cidadão interessado em retirar obra de arte do país para fins de mudança domiciliar, exposição, doação ou comércio, deverá pedir autorização ao IPHAN, a fim de que se verifique se o bem integra o patrimônio cultural brasileiro, conforme Decreto-Lei nº 25/1937 (http://www.planalto.gov.br/ccivil_03/decreto-lei/del0025.htm), Lei nº 3.924/1961 (http://www.planalto.gov.br/ccivil_03/leis/1950-1969/L3924.htm), Lei nº 4.845/1965 (http://www.planalto.gov.br/ccivil_03/leis/L4845.htm) e Lei nº5.471/1968 (http://www.planalto.gov.br/ccivil_03/leis/L5471.htm).
+Requisitos para o acesso
+> Formulário para solicitação de autorização para saída de obras de arte do país preenchido;
+> Cópia do RG e CPF do solicitante (proprietário ou seu procurador);
+> Cópia da procuração (quando for o caso);
+> Dados técnicos do objeto: tipo do objeto, título (se for o caso), datação, autoria, materiais, dimensões, técnicas de confecção e fotografias coloridas (mínimo de dois ângulos).
+Como acessar o serviço
+Por ofício: Dirigido à Superintendência do IPHAN em seu estado.
+Tempo para a prestação do serviço: Até quinze dias úteis.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>solicitação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+					<item>dados técnicos do objeto e formulário preenchido</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2045"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+		<item>Relações Internacionais</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

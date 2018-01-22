@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar participação do processo seletivo para o Curso de Extensão em Propriedade Industrial.</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Destina-se à pessoa física que já tenha concluído o Curso Básico de Propriedade Industrial, na modalidade presencial, promovido pelo INPI, ou do Curso Geral de Propriedade Intelectual (DL 101P BR), na modalidade à distância, promovido pelo INPI e pela OMPI, e que pretenda ingressar no Curso de Extensão em Propriedade Industrial, para obter uma visão sobre a classificação de documentos de patentes de acordo com a Classificação Internacional, aprofundar os conhecimentos relativos a patentes e desenvolver o uso e a busca em documentos de patentes de informação tecnológica. O curso é gratuito, com aulas na cidade do Rio de Janeiro, na Academia de Propriedade Intelectual, Inovação e Desenvolvimento do INPI, e tem carga horária de 32 horas.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentar o formulário eletrônico de inscrição.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.inpi.gov.br/links-destaques/sobre/agenda-de-cursos</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/ 382"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Socialização de Informações - Coletivo</nome>
+	<sigla/>
+	<contato/>
+	<descricao>A Socialização das informações Previdenciárias e Assistenciais consiste em um processo democrático e pedagógico que se desenvolve entre o Assistente Social e os cidadãos usuários da Previdência Social. 
+	Essa ação possibilita uma informação de qualidade e diferenciada, pois é desenvolvida sob a ótica do acesso ao direito e da ampliação do exercício da cidadania. 
+	A Socialização de Informações Previdenciárias e Assistenciais é concretizada por meio de atendimentos técnicos individuais e em grupos, efetuados em níveis intra e extrainstitucional. 
+	Os atendimentos em nível intrainstitucional são realizados no âmbito do INSS e envolvem a articulação entre os setores nas Agências da Previdência Social. Em nível extrainstitucional, os atendimentos são realizados no âmbito externo do INSS, em articulação com as organizações da sociedade civil, entidades públicas e privadas.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Realizar atendimento presencial.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Agências do Instituto Nacional do Seguro Social - INSS.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1934"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

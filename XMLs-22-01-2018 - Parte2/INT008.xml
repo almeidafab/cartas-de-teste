@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar serviços de certificação para avaliação da conformidade de produtos.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>DICER , OCP0023</item>
+	</nomes-populares>
+	<descricao>O INT atua como Organismo de Certificação de Produto (OCP023) desde 2001, tendo sido o primeiro órgão público federal acreditado pela Coordenação Geral de Acreditação – CGCRE do INMETRO e pelo MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO-MAPA.  As ações do OCP são exercidas respeitando os princípios de competência, responsabilidade, transparência, confidencialidade, objetividade, imparcialidade e independência.  A OCP INT certifica os seguintes produtos: Cachaça; Fósforos de Segurança; Luvas Cirúrgicas e Luvas para procedimentos Não Cirúrgicos; Implantes Mamários; Produtos Orgânicos e Preservativos Masculinos.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitação do Serviço</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidões de cartório</item>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>ocp@int.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1988"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Agropecuária</item>
+		<item>Comércio e Serviços</item>
+		<item>Educação</item>
+		<item>Indústria</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Relações Internacionais</item>
+		<item>Saneamento</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
