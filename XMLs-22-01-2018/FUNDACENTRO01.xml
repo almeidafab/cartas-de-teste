@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Serviços de biblioteca</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Biblioteca em SST</item>
+	</nomes-populares>
+	<descricao>Em colaboração ao cumprimento da missão da Instituição, a Biblioteca Dr. Eduardo Gabriel Saad é um setor dentro da Fundacentro que gerencia, armazena, compra, processa e dissemina todo o conhecimento em diversos suportes, na área de segurança e saúde no trabalho, inclusive a produção científica de seus pesquisadores.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Pesquisar no site da biblioteca</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Setor de Documentação e Biblioteca</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>30666036</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>biblioteca@fundacentro.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Rua - Capote Valente, nº 710 - CEP: 05409-002 - São Paulo-SP - Brasil</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/221"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+		<item>Comércio e Serviços</item>
+		<item>Cidadania</item>
+		<item>Indústria</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Saúde</item>
+		<item>Trabalho</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

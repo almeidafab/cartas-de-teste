@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter anuência para importação de substâncias controladas pela Convenção de Estocolmo</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Anuir a importação de poluentes orgânicos persistentes listados nos anexos da Convenção de Estocolmo. Público alvo: Pessoa física e jurídica</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Enviar e-mail informando a inclusão da Licença de Importação no Siscomex.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>lic.cgasq.sede@ibama.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1812"/>
+	<areas-de-interesse>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

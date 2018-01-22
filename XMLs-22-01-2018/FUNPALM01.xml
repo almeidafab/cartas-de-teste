@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>RECEBER ASSISTÊNCIA JURÍDICA PARA A GARANTIA DE DIREITOS DE COMUNIDADES REMANESCENTES DE QUILOMBOS</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Trata-se de atuação nos processos judiciais e administrativos com o intuito de garantir os direitos das comunidades remanescentes dos quilombos.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Narrar a situação de gravidade enfrentada.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Setor Comercial Sul - SCS Quadra 02, Bloco C, nº 256 - Ed. Toufic - CEP 70.302-000 - Brasília - DF - Telefones: (61) 3424-0100</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1782"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Cultura</item>
+		<item>Cidadania</item>
+		<item>Educação</item>
+		<item>Habitação</item>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

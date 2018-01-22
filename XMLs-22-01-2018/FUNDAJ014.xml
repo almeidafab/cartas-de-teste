@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa Institucional de Bolsa de Iniciação Científica - PIBIC</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>PIBIC/FUNDAJ</item>
+	</nomes-populares>
+	<descricao>A Fundação Joaquim Nabuco, através da Diretoria de Pesquisas Sociais , por meio do apoio concedido através de Chamada Pública do CNPq, oferece anualmente 27 bolsas de iniciação científica a estudades de nível superior. O edital de seleção é disponibilizado no site institucional (www.fundaj.gov.br) entre os meses de maio e junho e o programa tem sua vigência no período de agosto a julho do ano seguinte. Os estudantes selecionados são inseridos nos grupos de pesquisa e são orientados por pesquisadores da Fundaj.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>O estudante tem acesso ao edital do PIBIC no site da Fundaj e se inscreve, anexando seu curriculum lattes e histórico escolar. Após o envio de sua documentação, o estudante recebe aviso de recepção.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+					<item>Curriculum Lattes e histórico escolar</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Secretaria do PIBIC/FUNDAJ/CNPq</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>8130736608</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>O estudante é entrevistado pelo pesquisador (possível orientador).</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>A sala de trabalho do pesquisador (orientador), nas unidades da Fundaj.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>O estudante selecionado para o Programa Institucional de Bolsas de Iniciação Científica inicia seus trabalhos com o orientador no mês de agosto até o mês de julho do ano seguintes.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Dados bancários do estudante para recebimento da bolsa</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>De acordo com as atividades planejadas na pesquisa, o estudante realizará suas atividades na sala do pesquisador, na universidade e também pesquisa de campo.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/257"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Administração </item>
+		<item>Agropecuária</item>
+		<item>Comunicações</item>
+		<item>Cultura</item>
+		<item>Cidadania</item>
+		<item>Economia e Finanças</item>
+		<item>Educação</item>
+		<item>Esporte e Lazer</item>
+		<item>Segurança e Ordem Pública</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Saúde</item>
+		<item>Trabalho</item>
+		<item>Urbanismo</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

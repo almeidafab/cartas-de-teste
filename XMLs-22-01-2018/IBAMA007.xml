@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter Licença de Operação (LO)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Licença de Operação (LO)</item>
+	</nomes-populares>
+	<descricao>Autorizar a operação da atividade ou empreendimento, com as medidas de controle
+ambiental e as condições determinadas para a operação. A regularização de
+empreendimentos que entraram em operação sem passar por processo de licenciamento
+ambiental é feita por esse instrumento.
+Para as atividades de exploração de petróleo e gás pode ser emitida autorização
+para inclusão da unidade marítima de perfuração na licença de operação</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Vistoriar a área de influência do empreendimento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>relatório de acompanhamento de programas e condicionantes ambientais</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Área de Influência do Empreendimento</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1812"/>
+	<areas-de-interesse>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

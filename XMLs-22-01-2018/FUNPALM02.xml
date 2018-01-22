@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>CERTIDÃO DE AUTO-DEFINIÇÃO DE COMUNIDADE REMANESCENTE DE QUILOMBO</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>CERTIFICAÇÃO DE COMUNIDADES QUILOMBOLAS</item>
+	</nomes-populares>
+	<descricao>Reconhece a Auto-Definição de uma comunidade como remanescente de quilombo e a possibilita a ter assistência da FCP e acessar outras políticas do Governo Federal.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentar documentos exigidos para a certificação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Histórico da Comunidade; Ata de Assembléia Específica para Auto-definição da Comunidade, assinado. pela maioria absoluta</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Representações e Sede da Fundação Cultural Palmares</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>34240110</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>fcpcert@palmares.gov.br; quilombo@palmares.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1782"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Administração </item>
+		<item>Cultura</item>
+		<item>Cidadania</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

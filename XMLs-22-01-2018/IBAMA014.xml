@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter Licença para Porte e Uso de Motosserra -  LPU</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>LPU</item>
+	</nomes-populares>
+	<descricao>Emitir Licença para Porte e Uso de motosserra pelos adquirentes, portadores ou usuários do equipamento. Público alvo: Pessoa física e jurídica</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Entrega de relatório de vendas por parte dos vendedores de motosserras.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Relatório com informações sobre vendas de motosserras.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1812"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

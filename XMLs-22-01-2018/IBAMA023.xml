@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter registro de agrotóxicos</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Registrar os agrotóxicos, seus componentes e afins, para efeito de produção, importação, exportação, comercialização e utilização no território nacional, destinados a uso em ambientes hídricos e à proteção de florestas nativas e outros ecossistemas. Público alvo: Pessoa física e jurídica</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Conferência da documentação apresentada</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certidões de cartório</item>
+					<item>Comprovante de pagamento</item>
+					<item>Contrato Social</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1812"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

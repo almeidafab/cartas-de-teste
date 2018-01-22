@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>CERTIDÃO DE PERTENCIMENTO À COMUNIDADE REMANESCENTE DE QUILOMBO PARA FINS DA BOLSA PERMANÊNCIA</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>DECLARAÇÃO PARA O BOLSA PERMANÊNCIA</item>
+	</nomes-populares>
+	<descricao>Emite certidão para cidadãos pertencentes e residentes em Comunidades Remanescentes de Quilombos que estejam matriculados em Universidades e Institutos Federais para fins da concessão da Bolsa Permanência pelo MEC.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentação, via e-mail a documentação exigida</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+					<item>Autodeclaração do candidato; Declaração da comunidade quilombola que o aluno é residente da comunidade, assinada por três testemunhas</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>SEDE E REPRESENTAÇÕES DA PALMARES</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>34240145</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>QUILOMBO@PALMARES.GOV.BR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1782"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Administração </item>
+		<item>Cultura</item>
+		<item>Cidadania</item>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

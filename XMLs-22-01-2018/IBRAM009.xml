@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar acesso ao Programa Pontos de Memória</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Pontos de Memória</item>
+	</nomes-populares>
+	<descricao>O Programa Pontos de Memória tem como objetivo apoiar ações e iniciativas de reconhecimento e valorização da memória social. Com metodologia participativa e dialógica, os Pontos trabalham a memória de forma viva e dinâmica, como resultado de interações sociais e processos comunicacionais, os quais elegem aspectos do passado de acordo com as identidades e interesses dos componentes do grupo. Os Pontos de Memória valorizam o protagonismo comunitário e concebem o museu como instrumento de mudança social e desenvolvimento sustentável. Em estágio pleno de desenvolvimento, são capazes de promover a melhoria da qualidade de vida da população e fortalecer as tradições locais e os laços de pertencimento, além de impulsionar o turismo e a economia local, contribuindo positivamente na redução da pobreza e violência. O Instituto vem trabalhando na consolidação de uma política pública de direito à memória, pautada no diálogo e participação com diferentes grupos e movimentos sociais, governos locais e militantes, com o intuito de garantir que esse direito seja exercido por indígenas, quilombolas, povos de terreiro, mestres, praticantes, brincantes e grupos das culturas populares, urbanas, rurais, de fronteira, artistas e grupos artísticos independentes, como também segmentos populacionais etários específicos, de gênero, e/ou que requerem maior reconhecimento de seus direitos humanos, sociais e culturais.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1. Inscrição pela plataforma do MinC - SalicWeb</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>salic.cultura.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Receber recurso financeiro do prêmio</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Setor Bancário Norte quadra 2 lote 8 bloco N - Edifício CNC III
+Cep 70 040 - 020</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/100584"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

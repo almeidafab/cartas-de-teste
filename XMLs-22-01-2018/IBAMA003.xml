@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter autorização para captura, coleta e transporte de material biológico (ABIO)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Autorização para captura, coleta e transporte de material biológico (ABIO)</item>
+	</nomes-populares>
+	<descricao>Autorizar a coleta de material biológico, captura ou marcação de animais silvestres
+in situ e o transporte de material biológico para a realização de estudos ambientais
+dos processos de licenciamento ambiental federal.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentar e discutir plano de manejo de fauna.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Plano de Manejo de Fauna</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Diretoria de Licenciamento Ambiental, na sede ou no Rio de Janeiro, e nos Núcleos de Licenciamento Ambiental nos estados.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1812"/>
+	<areas-de-interesse>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

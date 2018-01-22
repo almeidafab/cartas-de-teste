@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar apoio em Eventos em Segurança e Saúde no Trabalho</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>FUNDACENTRO</item>
+	</nomes-populares>
+	<descricao>Apoio logístico às Atividades de Eventos da Fundacentro.
+Planejamento e organização de evento técnico-cientifico (concepção e estudo de viabilidade);
+Realização (trans-evento: produção e montagem;
+Pós-evento (avaliação, emissão de certificados, avaliação, relatório do evento e marketing pós-evento).
+Organização e monitoramento de visitas técnicas nacionais e delegações internacionais aos laboratórios da Fundacentro;
+Atendimento aos públicos interno e externos, referente às informações quanto ao um determinado evento.
+Ferramentas utilizadas:
+internet;
+intranet;
+e-mail;
+formulários eletrônicos;
+planilhas;
+fotos;
+filmagens;
+whatsapp e;
+videoconferência.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrição no site</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>1130666116</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>sev@fundacentro.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Presencial, ou seja no dia do evento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Credenciamento no local do evento.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo></titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/221"/>
+	<areas-de-interesse>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

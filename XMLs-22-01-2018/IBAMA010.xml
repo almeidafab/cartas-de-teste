@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Autorização para Utilização de Matéria-Prima Florestal - AUMPF</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Autorizar a utilização de matéria-prima florestal. Público alvo:Empresas e Governo</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentar documentação para análise da solicitação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Registro em Cartório</item>
+					<item>Para o aproveitamento da matéria-prima florestal o empreendedor detentor da ASV deverá solicitar a AUMPF junto à Superintendência do Ibama, mediante a apresentação da seguinte documentação: (Referência IN Ibama 06/2099 I - Requerimento conforme Anexo I II - Romaneio da referida matéria-prima, conforme Anexo II III - Anotação de Responsabilidade Técnica emitida pelo CREA do Engenheiro Responsável pelas informações IV - Informações sobre o local em que se encontra a matériaprima florestal: nome, endereço (se for o caso) e Coordenadas Geográficas da sua localização</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Superintendências do Ibama nos Estados</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1812"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

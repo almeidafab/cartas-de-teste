@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter acesso à RBMC-IP (Rede Brasileira de Monitoramento Contínuo dos Sistemas GNSS em tempo real)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>RBMC-IP</item>
+	</nomes-populares>
+	<descricao>Consiste em receber acesso ao serviço para posicionamento em tempo real a partir das estações da RBMC, para usuários que fazem uso da técnica RTK (posicionamento relativo cinemático em tempo real). Os dados são disponibilizados via protocolo Internet conhecido por Networked Transport of RTCM via Internet Protocol (NTRIP), em formato RTCM.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrever-se no cadastro</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://186.228.51.52:2101</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/3"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Comunicações</item>
+		<item>Educação</item>
+		<item>Meio ambiente</item>
+		<item>Saneamento</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

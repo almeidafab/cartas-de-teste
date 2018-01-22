@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>INSCREVER-SE EM PROCESSO SELETIVO DE CURSOS DE PÓS-GRADUAÇÃO LATO SENSU, NÍVEL ESPECIALIZAÇÃO</nome>
+	<sigla/>
+	<contato/>
+	<descricao>A Escola de Inovação e Políticas Públicas (EIPP) oferece cursos lato sensu na modalidade presencial, com a proposta de ser um espaço de conexão entre diferentes atores sociais que buscam discutir e construir soluções para desafios públicos. Os cursos apresentam metodologias inovadoras desde a sua concepção pedagógica, privilegiando um ensino focado no aprender a fazer, fazendo e, uma proposta pedagógica diferenciada com a proposição de desenvolvimento de um projeto de intervenção, que gere impacto social na ponta. Público: professores, gestores, terceiro setor, servidores públicos.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Envio de candidatura a especialização</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>Diploma</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.fundaj.gov.br/index.php?option=com_content&view=article&id=982&Itemid=273</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Entrevista</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/257"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar acesso ao Arquivo Central do Ibram</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>CENEDOM - Centro Nacional de Estudos e Documentação da Museologia</item>
+	</nomes-populares>
+	<descricao>O Arquivo Central recebe a documentação arquivística da Administração Central do Ibram. Nele são armazenados os documentos transferidos ao arquivo intermediário e os documentos recolhidos ao arquivo permanente.  Fundos e coleções históricas adquiridas pelo Ibram que tenham relevância para a história da Museologia Brasileira também poderão compor o Arquivo Central. A consulta ao acervo arquivístico é realizada estritamente por intermédio de um técnico da Coordenação de Arquivos e Bibliotecas de Museus que deverá avaliar as condições de acesso ao documento. No momento as consultas só podem ser feitas no local.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Agendar atendimento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>35214201</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>cab@museus.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>comparecer ao local para atendimento à solicitação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Passaporte</item>
+					<item>Documento oficial com foto</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Instituto Brasileiro de Museus – IBRAM
+SBN, quadra 2, lote 8, bloco N, Edifício CNC III - 1º Subsolo 
+Brasília - DF - CEP 70040-020</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Realizar a pesquisa / Coletar a informação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Instituto Brasileiro de Museus – IBRAM
+SBN, quadra 2, lote 8, bloco N, Edifício CNC III - 1º subsolo
+Brasília - DF - CEP 70040-020</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Reprodução de conteúdo caso necessário</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Comprovante de pagamento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Instituto Brasileiro de Museus – IBRAM
+SBN, quadra 2, lote 8, bloco N, Edifício CNC III - 1º subsolo
+Brasília - DF - CEP 70040-020</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Avaliar o serviço</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Instituto Brasileiro de Museus – IBRAM
+SBN, quadra 2, lote 8, bloco N, Edifício CNC III - 1º subsolo
+Brasília - DF - CEP 70040-020</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/100584"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

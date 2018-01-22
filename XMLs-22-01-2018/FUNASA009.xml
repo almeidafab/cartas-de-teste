@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>IMPLANTAR SANEAMENTO EM ÁREAS RURAIS E COMUNIDADES TRADICIONAIS</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Saneamento Rural</item>
+	</nomes-populares>
+	<descricao>Financiamento para execução de ações de saneamento básico em áreas rurais de todos os municípios brasileiros e em comunidades tradicionais (comunidades quilombolas certificadas pela Fundação Cultural Palmares, assentamentos da reforma agrária, reservas extrativistas, comunidades ribeirinhas, dentre outras), tais como: Implantação/ampliação de sistema de abastecimento de água; implantação/ampliação de sistema de esgotamento sanitário; Implantação de melhorias sanitárias domiciliares e/ou coletivas de pequeno porte, incluindo a implantação de sistemas de captação e armazenamento de água de chuva – cisternas.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Caso o usuário seja o "proponente" (governos municipais ou estaduais) deve cadastar proposta no sistema SICONV, anexar documentos técnicos relativos à proposta, aguardar análise e complementar as informações quando solicitado.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>documentos técnicos, projetos, licenças, outros.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Funasa - presidência e superintendências estaduais.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>0</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.funasa.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>densp.gab@funasa.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2207"/>
+	<areas-de-interesse>
+		<item>Cidadania</item>
+		<item>Habitação</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Saneamento</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

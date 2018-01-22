@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Não há sigla</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Os topógrafos ou profissionais que precisam de informações de georereferenciamento para desenvolver as suas atividades profissionais, solicitam a inclusão de seus levantamentos ao Sistema Geodésico Brasileiro, através deste serviço de homologação de marcos geodésicos. 
+O IBGE é o gestor do Sistema Geodésico no Brasil e somente ele poderá fazer esta inclusão que posteriormente será de acesso a toda sociedade, através do Banco de Dados Geodésicos (http://www.bdg.ibge.gov.br/appbdg/)</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Receber os resultados</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Av. Brasil, 15671, Parada de Lucas, Rio de Janeiro, RJ, IBGE, Coordenação de Geodésia</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/3"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+		<item>Energia</item>
+		<item>Habitação</item>
+		<item>Indústria</item>
+		<item>Meio ambiente</item>
+		<item>Saneamento</item>
+		<item>Transportes</item>
+		<item>Urbanismo</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

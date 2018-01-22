@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Cursos</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Natureza do serviço: Oferecimento de ações educativas na área de segurança e saúde no trabalho. Usuários: O público predominante deste serviço é formado por engenheiros e técnicos de segurança do trabalho, entre 18 e 59 anos. Produto ou benefício recebido: Realização de cursos e/ou eventos na área de segurança e saúde no trabalho.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrição</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de nascimento</item>
+					<item>Certificado de conclusão de curso</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>Diploma</item>
+					<item>Registro em Cartório</item>
+					<item>O usuário precisa apresentar somente as informações, não pedimos o codumento em si.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.fundacentro.gov.br/cursos-e-eventos/proximos-cursos</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Confirmação de inscrição</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>sae@fundacentro.gov.br; cursos@fundacentro.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>recepção dos alunos</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Centro Técnico Nacional - Fundacentro</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/221"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+		<item>Educação</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Saúde</item>
+		<item>Trabalho</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

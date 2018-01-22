@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Revista Ciência & Trópico - C&Trópico</nome>
+	<sigla/>
+	<contato/>
+	<descricao>A Revista Ciência & Trópico é uma publicação semestral, interdisciplinar, que publica matérias especializadas em Ciências Humanas e Ciências Sociais. É publicada pela Editora Massangana da FUNDAJ e tem distribuição nacional e internacional. Pesquisadores de diferentes áreas podem submeter trabalho para seleção e publicação na revista.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>O pesquisador submete o seu artigo por meio de link eletrônico disponível no Portal de Periódicos da Fundaj e recebe mensagem de retorno confirmando a submissão.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Dados pessoais e endereço eletrônico</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>8130736460</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://periodicos.fundaj.gov.br/CIC</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>cienciaetropico@gmail.com</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>O pesquisador recebe por e-mail o resultado da análise do artigo que submeteu à revista.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>8130736460</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://periodicos.fundaj.gov.br/CIC</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>cienciaetropico@gmail.com</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>O artigo é publicado e o pesquisador recebe a revista por meio eletrônico e impresso.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://periodicos.fundaj.gov.br/CIC</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>cienciaetropico@gmail.com</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>O endereço fornecido pelo pesquisador no momento do cadastro no Portal.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/257"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Cultura</item>
+		<item>Economia e Finanças</item>
+		<item>Educação</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Relações Internacionais</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

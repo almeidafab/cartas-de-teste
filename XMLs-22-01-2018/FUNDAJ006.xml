@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Agendar acesso a acervos histórico-culturais para fins educativos e de fruição (Engenho Massangana)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>NÃO SE APLICA</item>
+	</nomes-populares>
+	<descricao>Consiste em agendamento ao acesso, por meio de exposições, ao patrimônio cultural e histórico materializado no conjunto arquitetônico (casa-grande e capela) que compõe o engenho. Oferecimento de serviços de atividades educativas e de lazer cultural para escolas e público em geral. Oferecimento de exposições histórico-culturais e artísticas.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>aGENDAR ATENDIMENTO</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>MUSEU DO HOMEM DO NORDESTE E ENGENHO MASSANGANA</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>8130736331</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/257"/>
+	<areas-de-interesse>
+		<item>Comunicações</item>
+		<item>Cultura</item>
+		<item>Educação</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

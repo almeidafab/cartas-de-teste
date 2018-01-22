@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter acesso ao ProGriD (aplicação desktop Windows) para realizar a transformação de coordenadas entre os sistemas de referência oficiais em uso no Brasil</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>ProGriD</item>
+	</nomes-populares>
+	<descricao>Consiste em ter acesso ao ProGriD disponível para download através de uma aplicação para ambiente Windows que realiza a transformação de coordenadas entre os sistemas de referência oficiais em uso no Brasil: Córrego Alegre, SAD69 e SIRGAS2000.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Download do software no portal do IBGE</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>ftp://geoftp.ibge.gov.br/informacoes_sobre_posicionamento_geodesico/sirgas/aplicativos/transformacao_coordenadas/</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/3"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+		<item>Comunicações</item>
+		<item>Energia</item>
+		<item>Habitação</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Saneamento</item>
+		<item>Transportes</item>
+		<item>Urbanismo</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

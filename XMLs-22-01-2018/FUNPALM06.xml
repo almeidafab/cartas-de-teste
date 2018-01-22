@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>PARTICIPAR DE EDITAIS DE FOMENTO A PROJETOS DE PROMOÇÃO DA CULTURA AFRO-BRASILEIRA E PRESERVAÇÃO DO PATRIMÔNIO CULTURAL MATERIAL E IMATERIAL DE MATRIZ AFRICANA.</nome>
+	<sigla/>
+	<contato/>
+	<descricao>A partir de editais e chamamentos públicos, interessados podem submeter projetos para participarem de processo seletivo, com vistas a receber apoio financeiro da Fundação Cultural Palmares.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>inscrever-se no cadastro, enviar a proposta com documentos anexos, receber o resultado, impetrar recursos e obter o resultado final.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Registro em Cartório</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Setor Comercial Sul, Quadra 02, Bloco C n° 256, Edifício Toufic
+Brasília - DF
+CEP 70.302-000</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1782"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

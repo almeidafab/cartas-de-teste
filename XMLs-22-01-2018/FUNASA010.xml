@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>SOLICITAR INSCRIÇÃO EM PROCESSO SELETIVO/EDITAL DE FOMENTO À PESQUISA</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>FUNASA</item>
+	</nomes-populares>
+	<descricao>Destina-se anualmente recursos para pesquisas e desenvolvimento tecnológico em Saúde Ambiental e Saneamento Básico, visando, além da melhoria da qualidade de vida das populações atendidas, a produção e intercâmbio técnico-científico com organismos de ensinos e pesquisas, nacionais e internacionais. As áreas temáticas para estudos e pesquisas são: Qualidade da Água para Consumo Humano: pesquisas sobre o desenvolvimento de sistemas simplificados e unificados de baixo custo para tratamento de águas; Poluentes Ambientais: projetos de pesquisas que visam determinar o tipo de contaminantes existentes no solo; Promoção a Saúde: pesquisas que visam a melhoria das condições de saúde de uma população; e Saneamento: pesquisas referentes ao desenvolvimento de tecnologias para melhorar as ações de saneamento.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Não se aplica</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2207"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Saneamento</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

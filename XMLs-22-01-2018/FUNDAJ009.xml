@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Firmar convênios para atividades de conservação preventiva e de restauração de documentos e obras de arte</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Realização de atividades de conservação e restauração de documentos, livros e obras de arte dos acervos da Fundaj e de instituições públicas ou privadas mediante parcerias e convênios.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitação do serviço por meio de comunicação formal</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Fundação Joaquim Nabuco - Laboratório de Pesquisas, Conservação e Restauração de Documentos e Obras de Arte</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Formulação e formalização de um Termo de Colaboração Técnica entre o solicitante e a Fundaj.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Contrato Social</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Fundação Joaquim Nabuco</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Execução dos serviços: consultoria no planejamento  e implantasção de atividades de conservação de acervos; execução de atividades de conservação de acervo; execução de serviços de restauração.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Termo de Cooperação Técnica</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Fundação Joaquim Nabuco
+Instituição solicitante</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/257"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter autorização para Supressão de Vegetação (ASV)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Autorização de Supressão de Vegetação (ASV)</item>
+	</nomes-populares>
+	<descricao>Autorizar supressão de vegetação nativa em empreendimentos de interesse público
+ou social submetidos a licenciamento ambiental federal, controlando a exploração
+da matéria-prima florestal suprimida para a implantação dos empreendimentos
+licenciados pelo Ibama e a exploração e o transporte no resgate de espécimes da
+flora. No período de estudos de viabilidade ambiental, pode ser emitida ASV para
+autorização abertura de picada para trilhas na área estudada.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentar e Discutir os estudos ambientais necessários para requerer esse tipo de autorização.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Caracterização qualitativa dos tipos de vegetação a serem suprimidos</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Diretoria de Licenciamento Ambiental, na sede ou no Rio de Janeiro, e nos Núcleos de Licenciamento Ambiental nos estados.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1812"/>
+	<areas-de-interesse>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

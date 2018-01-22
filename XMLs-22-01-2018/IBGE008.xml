@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>BDG</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Banco de Dados Geodésicos - BDG</item>
+	</nomes-populares>
+	<descricao>Saiba mais
+   
+
+O que é
+
+
+Conjunto de informações sobre as estações de referência, que constituem o Sistema Geodésico Brasileiro (SGB), implantadas desde 1939. Estas estações geodésicas são materializadas, em sua grande maioria, como monumentos de concreto que recebem uma chapa de metal no seu topo identificando a respectiva matrícula, o IBGE e o tipo de estação. As coordenadas, altitudes e/ou gravidade destas estações são determinadas por meio da aplicação de procedimentos e modelos geodésicos de alta precisão, compatíveis com as finalidades a que se destinam, e estão disponíveis através do Relatório de Estação Geodésica (REG) gerado pela aplicação.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Usuário realiza solicita uma pesquisa e recebe a resposta do sistema</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.bdg.ibge.gov.br/appbdg/</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/3"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+		<item>Comunicações</item>
+		<item>Defesa Nacional</item>
+		<item>Energia</item>
+		<item>Habitação</item>
+		<item>Indústria</item>
+		<item>Meio ambiente</item>
+		<item>Saneamento</item>
+		<item>Transportes</item>
+		<item>Urbanismo</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

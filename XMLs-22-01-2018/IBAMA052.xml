@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter licença para o uso da configuração de veículos pesados</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>PROCONVE</item>
+	</nomes-populares>
+	<descricao>Emitir licença para o uso da configuração de veículos pesados (caminhões e ônibus) Público alvo: Pessoa física e jurídica</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Preenchimento de formulários com as informações necessárias via INFOSERV. Emissão, via INFOSERV, do boleto para pagamento. Impressão da LCVM via INFOSERV.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Upload de documentos necessários via INFOSERV</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://servicos.ibama.gov.br/ctf/sistema.php?modulo=aplicacao/modulo&moduloId=360</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>proconve.sede@ibama.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1812"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Indústria</item>
+		<item>Meio ambiente</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

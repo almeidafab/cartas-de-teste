@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>SOLICITAR FINANCIAMENTO E APOIO TÉCNICO PEDAGÓGICO PARA IMPLEMENTAÇÃO DE PROJETOS DE EDUCAÇÃO EM SAÚDE AMBIENTAL</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Fomento as ações de educação em saúde ambiental</item>
+	</nomes-populares>
+	<descricao>Ações de educação em saúde ambiental, visando a promoção da saúde, em consonância com os princípios do SUS: Fomento as ações de Educação em Saúde Ambiental a serem desenvolvidas pelos Estados, municípios e Distrito Federal como política institucional. Atuação transversal de forma interna e externa visando a aproximação de instituições e entidades afins, objetivando o desenvolvimento e fortalecimento de ações estratégicas para a redução das condições de riscos e vulnerabilidade sócio ambiental e de saúde.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>encaminhamento da proposta  via siconv</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>projeto  basico</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>SICONV - Portal.convenios.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>Portal.convenios.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>TRAMITAR DOCUMENTAÇÃO PARA CONVENIO</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CPF</item>
+					<item>cnpj</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>Portal de convênios.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Acompanhamento/MONITORAMENTO DO PROJETO</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Relatorios de execução</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>Portal Siconv</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2207"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Educação</item>
+		<item>Saneamento</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

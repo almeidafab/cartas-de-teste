@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter Licença para o transporte e o armazenamento de produtos e subprodutos florestais – Documento de Origem Florestal (DOF)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>DOF</item>
+		<item>Sistema DOF</item>
+		<item>Módulo DOF</item>
+		<item></item>
+	</nomes-populares>
+	<descricao>Autorizar ao cidadão e às empresas o transporte e o armazenamento de produtos e subprodutos florestais de espécies nativas sujeitas a controle, oriundas de importação ou destinadas à exportação e os casos de licenciamento ambiental federal, incluindo-se as concessões de florestas públicas federais. </descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Cadastro de Veículo de Transporte</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>dodos do veículo;carteira de motorista</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1812"/>
+	<areas-de-interesse>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

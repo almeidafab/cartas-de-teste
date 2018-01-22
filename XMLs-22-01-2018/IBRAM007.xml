@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Registro de Museus - RM</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Registro</item>
+	</nomes-populares>
+	<descricao>O Registro de Museus – RM é um instrumento previsto pelo Estatuto de Museus (Lei nº 11.904/2009) que objetiva estimular a formalização dos museus, a partir do acompanhamento das dinâmicas de criação, fusão, incorporação, cisão ou extinção de museus, visando criar mecanismos de coleta, análise e compartilhamento de informações sobre os museus brasileiros, com o propósito de aprimorar a qualidade de suas gestões e fortalecer as políticas públicas setoriais. O Registro de Museus é uma importante ferramenta da Política Nacional de Museus e foi construído de maneira colaborativa junto aos Estados, no intuito de espelhar a realidade museológica brasileira da melhor forma possível. Sua implementação trará benefícios como a maior confiabilidade das informações compartilhadas com a sociedade e maior visibilidade dos museus devido ao compartilhamento com outras plataformas nacionais e internacionais. Vale ressaltar que o Registro de Museus é de caráter obrigatório e será pré-requisito para participação em editais do Ibram, para adesão ao Sistema Brasileiro de Museus e ao direito de preferência em casos de Declaração de Interesse Público. Portanto, a participação de todos os museus é imprescindível para essa nova configuração da Política Nacional de Museus.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1. Acesso e download do Formulário de Solicitação de Registro de Museus.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://renim.museus.gov.br/como-solicitar-o-registro-de-museus/</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>2.  Assinatura do Aviso de Recebimento (AR - Correios).</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SBN Quadra 2, Edifício CNC III, Bloco N, Asa Norte - Brasília/DF CEP: 70040-020</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>3. Resultado da análise da solicitação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://museus.cultura.gov.br/</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>registro@museus.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>4. Solicitação de Propriedade da página do Museu na plataforma Museusbr.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>Informações de cadastro para acesso à plataforma Museusbr.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://museus.cultura.gov.br/</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>5. Impressão do Certificado de Registro de Museus</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>Login na plataforma Museusbr</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://museus.cultura.gov.br/</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/100584"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Cultura</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
