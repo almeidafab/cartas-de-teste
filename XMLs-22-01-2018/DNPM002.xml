@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Requerer Permissão de Lavra Garimpeira</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>não</item>
+	</nomes-populares>
+	<descricao>Requerimento, por meio de formulário padronizado de pré-requerimento eletrônico, a ser preenchido no sítio do DNPM na internet, impresso e protocolizado no DNPM.O pré-requerimento deve ser protocolizado em até 30 dias, contados do seu preenchimento. Para acessar o formulário do pré-requerimento, faz-se necessário o prévio cadastro no CTDM - cadastro de titulares de direito minerário. Requerimento que pleiteia a permissão de aproveitamento mineral pelo regime de permissão de lavra garimpeira, voltado para substâncias minerais com aproveitamento imediato do jazimento mineral que, por sua natureza, dimensão, localização e utilização econômica, possa ser lavrado, independentemente de prévios trabalhos de pesquisa. A permissão de lavra garimpeira pode ser requerida por brasileiros, pessoa física, cooperativa de garimpeiros ou firma individual. Decreto-Lei nº 227/1967 (Código Mineração) Lei nº 7.805/1989 Decreto nº 98.812/1990 Portaria DNPM nº 155/2016</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Cooperativas de Garimpeiros</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrever no Cadastro de Titulares de direitos Minerários.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de casamento</item>
+					<item>Certidões da Receita Federal</item>
+					<item>Certificado de antecedentes criminais</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de pagamento</item>
+					<item>Comprovante de quitação eleitoral</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+					<item>Registro da Junta Comercial</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.dnpm.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1918"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Comércio e Serviços</item>
+		<item>Indústria</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

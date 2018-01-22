@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Requerer Habilitação - Disponibilidade para Lavra Mineral</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Licitação de Áreas</item>
+	</nomes-populares>
+	<descricao>Requerimento, por meio de formulário padronizado de pré-requerimento eletrônico, a ser preenchido no sítio do DNPM na internet, impresso e protocolizado no DNPM, admitido encaminhamento pelo correio com aviso de recebimento (AR). O pré-requerimento deve ser protocolizado em até 30 dias, contados do seu preenchimento.Requerimento de habilitação aplicado para áreas desoneradas colocadas em disponibilidade pelo DNPM, para fins de pesquisa ou lavra, conforme o caso, nos regimes de autorização de pesquisa, concessão de lavra e permissão de lavra garimpeira. A habilitação serve para a totalidade ou parte da área colocada em disponibilidade para pesquisa ou lavra, e pode objetivar qualquer substância mineral com o ambiente geológico quando se tratar de disponibilidade para pesquisa. A existência de débito com o DNPM inscrito em dívida ativa ou no Cadastro Informativo de Créditos não Quitados do Setor Público Federal - Cadin, que não se encontre com a exigibilidade suspensa impede, até a regularização da situação, da participação em procedimento de disponibilidade de área, quando o devedor for o proponente no procedimento de disponibilidade. Decreto-Lei nº 227/1967 (Código Mineração) Portaria DNPM nº 155/2016</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Cadastramento. protocolização de documentos.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de casamento</item>
+					<item>Certidões de cartório</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de pagamento</item>
+					<item>Contrato Social</item>
+					<item>Diário Oficial</item>
+					<item>Procuração do representante legal</item>
+					<item>Registro da Junta Comercial</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>setor de Protocolo</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.dnpm.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1918"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Indústria</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

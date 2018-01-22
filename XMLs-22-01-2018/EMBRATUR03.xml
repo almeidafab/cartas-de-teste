@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Agenda de Promoção Comercial da Embratur (participação em feiras internacionais de turismo)</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Promoção/Exposição de produtos e destinos turísticos  do Brasil em feiras internacionais de turismo, por meio da participação de interessados em participar como coexpositor do estande da Embratur nas feiras que compõem Agenda de Promoção Comercial do Instituto. Podem solicitar a participação os seguintes interessados: órgãos ou entidades da administração pública direta e indireta, bem como pessoas jurídicas de direito privado nacionais e estrangeiras que atuem na comercialização de produtos e destinos turísticos, conforme estabelecido na Portaria Embratur nº 76/2017, que regulamenta o procedimento de inscrição de interessados em participar das feiras da Agenda de Promoção Comercial da Embratur.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentar recurso</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Recurso</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://scie.embratur.gov.br/scie/inicio.jsf</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>inscricao.feiras@embratur.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SCN, Quadra 02, Brasília, DF, 70740-610</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/241"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

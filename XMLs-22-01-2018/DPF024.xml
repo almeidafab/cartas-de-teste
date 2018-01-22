@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar a Prorrogação de Estada</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Imigração</item>
+		<item>Estrangeiros ou "Marítima"</item>
+	</nomes-populares>
+	<descricao>O serviço consiste em avaliar os requisitos legais, concedendo ou não a prorrogação de prazo de estada de um estrangeiro em território nacional.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Comparecimento, avaliação e entrevista.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Comprovante de pagamento</item>
+					<item>Passaporte</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>NUMIGs</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/316"/>
+	<areas-de-interesse>
+		<item>Segurança e Ordem Pública</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

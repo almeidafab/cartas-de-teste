@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Requerer Concessão de Lavra Mineral</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Concessão de Portaria de Lavra</item>
+	</nomes-populares>
+	<descricao>Requerimento, por meio de formulário padronizado de pré-requerimento eletrônico, a ser preenchido no sítio do DNPM na internet, impresso e protocolizado no DNPM. O pré-requerimento deve ser protocolizado em até 30 dias, contados do seu preenchimento.Requerimento que pleiteia a concessão de aproveitamento mineral por meio do regime de concessão de lavra, voltado para a extração, beneficiamento e comercialização do bem mineral identificado na etapa anterior, de autorização de pesquisa. Decreto-Lei nº 227/1967 (Código Mineração) Decreto nº 62.934/1968 (Regulamento do Código) Portaria DNPM nº 155/2016</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>protocolização de documentos.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Preenchimento de Formulário. Requerimento de concessão de Lavra. protocolização de Licença Ambiental</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Setor de protocolo e página da WEB</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.dnpm.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Preencher formulário de requerimento.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Formulário de Requerimento de concessão de Lavra.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>protocolização de Licenciamento Ambiental.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Licença Ambiental de Instalação.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1918"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Indústria</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

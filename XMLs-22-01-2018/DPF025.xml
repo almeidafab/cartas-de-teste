@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar a Naturalização</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>naturalização</item>
+	</nomes-populares>
+	<descricao>Naturalização é o ato pelo qual uma pessoa adquire voluntariamente uma nacionalidade diferente da sua de origem. Trata-se de ato unilateral e discricionário do Estado, da exclusiva competência da do Poder Executivo, na pessoa do Ministro da Justiça, no qual se expressa a soberania do Estado, uma vez que o mesmo satisfaça todas as condições legais.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Agendar atendimento, comparecer na unidade para entrega de documentos e receber o certificado de naturalização.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Passaporte</item>
+					<item>De acordo com a solicitação</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Local de Agendamento eletronico</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/316"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

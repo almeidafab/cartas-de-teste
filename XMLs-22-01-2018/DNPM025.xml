@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Requerer Desmembramento de Limite da Jazida em Profundidade</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Desmembramento de Limite da Jazida em Profundidade</item>
+		<item>Desmembramento Jazida em Profundidade</item>
+		<item>Desmembramento de Limite 
+em Profundidade</item>
+	</nomes-populares>
+	<descricao>Requerimento visa a fixação de limite da jazida ou mina em profundidade por superfície horizontal quando, a critério do DNPM, o(s) desmembramento(s) objetivado(s) não comprometer(em) o racional aproveitamento da jazida ou mina preexistente. A fixação de limites em profundidade por superfície horizontal da concessão de lavra poderá ser da iniciativa do titular dos direitos minerários; em caráter excepcional, por requerimento de parte interessada ou ex oficio pelo DNPM.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo></titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Procuração do representante legal</item>
+					<item>O próprio interessado</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.dnpm.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>www.dnpm.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>www.dnpm.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1918"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Requerer o Certificado do Processo Kimberley - CPK</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>CPK</item>
+	</nomes-populares>
+	<descricao>Análise e emissão do Certificado do Processo Kimberley-CPK e vistorias de áreas produtoras de Diamantes Brutos.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Protocolização de documentos no requerimento do CPK, apresentação dos diamantes brutos a serem exportados nos momentos de pré-lacre e por fim no lacre final.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidões de cartório</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de pagamento</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+					<item>Registro da Junta Comercial</item>
+					<item>Registro em Cartório</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Protocolos das Unidades regionais da autarquia.  Por troca de correspondência eletrônica.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>cncd@dnpm.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Apresentação do produto a ser exportado para realização de pesagem e pré-lacre.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Mercadoria a ser exportada.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Na Superintendência regional do DNPM ou em empresa de segurança de valores.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>cncd@dnpm.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Apresentação do material a ser exportado para realização de lacre final e recebimento do CPK, após assinatura de compromisso de registro da mercadoria no SISCOMEX.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Mercadoria a ser exportada.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Superintendência do DNPM ou sede de empresa de segurança de valores.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1918"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Comércio e Serviços</item>
+		<item>Indústria</item>
+		<item>Relações Internacionais</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

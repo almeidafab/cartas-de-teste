@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitação de vistas e cópias</nome>
+	<sigla/>
+	<contato/>
+	<descricao>A solicitação de cópias de processos sancionadores pode ser realizada através de diferentes canais de atendimento, são eles: e-SIC, SAC, mensagem eletrônica e solicitação presencial. Realizado o pedido, os servidores identificam que o solicitante é parte ou não no processo. 
+
+Em sendo parte, são extraídos os arquivos do SEI - Sistema Eletrônico de Informações, em caso de processo eletrônico, ou compilados no caso dos processos físicos previamente digitalizados arquivados em diretórios específicos.  Os arquivos com o inteiro teor do processo são gravados em disco e disponibilizados aos demandantes na sede da CVM no Rio de Janeiro ou na CVM de São Paulo ou Brasília. Também é possível o envio via Correios das cópias caso seja de interesse da parte. Nesse caso são cobradas as custas de envio.
+
+No caso do solicitante não ser parte no processo, o pedido é direcionado às áreas técnicas responsáveis pela instauração para que seja feita análise  dos documentos que podem ser disponibilizados. Feito isso, a Coordenação de Controle de Processos prepara os arquivos e disponibiliza aos demandantes da mesma forma descrita anteriormente.
+
+Vale destacar que as comunicações entre a Administração e os administrados nos casos em questão se dá por meio de correio eletrônico ou pelas ferramentas de acesso à informção.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Captar o pedido, passar informações e entregar o pedido.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Coordenação de Controle de Processos</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Rua Sete de Setembro, 111, 24º anadar - Centro - Rio de Janeiro</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/478"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Economia e Finanças</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

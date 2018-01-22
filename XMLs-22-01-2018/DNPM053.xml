@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Requerer autorização para a importação de água mineral</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Análise de laudos emitidos pelo laboratório oficial LAMIN/CPRM, de análises de laboratório oficial do país de origem do produto e outros documentos relacionados.
+O produto final consiste na emissão de autorização para importação de água mineral ou em despacho de vedação à importação, com base em critérios técnicos e legais,</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Protocolização de petição para obtenção de autorização à importação de água mineral, acompanhada dos laudos laboratoriais e documentos exigidos pela Portaria DNPM n° 159/1996.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>Certificado de conclusão de curso</item>
+					<item>CNPJ</item>
+					<item>Procuração do representante legal</item>
+					<item>Registro da Junta Comercial</item>
+					<item>Registro em Cartório</item>
+					<item>Laudos laboratoriais do LAMIN/CPRM, laudos do laboratório oficial do país de origem da água mineral,  comprovante de registro da fonte no país de origem, rótulo original, rótulo traduzido à língua vernácula</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Protocolo das Superintendências Regionais ou da Sede da Autarquia</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1918"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Indústria</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

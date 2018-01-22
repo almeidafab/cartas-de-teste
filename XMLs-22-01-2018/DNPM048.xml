@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Não há sigla para este serviço público.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Anuência para exportação de fósseis</item>
+	</nomes-populares>
+	<descricao>O DNPM é órgão anuente na exportação de coleções e espécimes para coleções “de interesse paleontológico” (classificado na NCM 9705.00.00, com o destaque 04)  junto ao Sistema Integrado de Comércio Exterior - SISCOMEX do Departamento de Operações de Comércio Exterior-DECEX/Ministério do Desenvolvimento, Indústria e Comércio Exterior – MDIC. 
+A solicitação ao DNPM de anuência no envio de fósseis ao exterior (exportação) deve ser encaminhada, por meio de Oficio/carta,  com as seguintes informações: 
+a) identificação do interessado e sua instituição cientifica;
+b) relação do material fóssil (informar o nº tombo na coleção da instituição, se houver);
+c) local (instituição, laboratório, etc.) de destino no exterior;
+d) finalidade: I) exposição/evento científico, II)estudo científico: tipo e caracterização do estudo no exterior (se destrutivo ou não) e III) outros (descrever);
+e) justificativa e projeto de pesquisa relacionado (anexar);
+f) período de permanência no exterior: saída temporária (período/prazo) ou permanente;
+g) meio de saída (aeroporto, porto e correio).</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitação de anuência na exportação de material de interesse paleontológico.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>Relação do material fóssil (com o nº tombo , se houver);  Projeto de pesquisa relacionado aos estudos do material no exterior (se for o caso).</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>paleontologia@dnpm.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Departamento Nacional de Produção Mineral/DNPM
+SAN Quadra 1, Bloco B, Brasília - DF
+CEP: 70041-903</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Obter o Registro de Exportação - RE no SISCOMEX.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Uma repartição da Receita Federal do Brasil.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Apresentar o número do Registro de Exportação no SISCOMEX.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Número do Registro de Exportação no SISCOMEX.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>paleontologia@dnpm.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1918"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+		<item>Educação</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

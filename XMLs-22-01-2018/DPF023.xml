@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar o Visto de Permanência Definitiva</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Carteirinha do estrangeiro</item>
+	</nomes-populares>
+	<descricao>Visto permanente é concedido ao estrangeiro que pretenda se fixar definitivamente no território nacional, desde que satisfaça as exigências de caráter especial, previstas na seleção de imigrantes, estabelecidas pelo Conselho Nacional de Imigração</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Agendar atendimento/preenchimento de formulário</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Passaporte</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.pf.gov.br/servicos-pf/estrangeiro/pedido-de-permanencia</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Atendimento presencial.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Certidão de casamento</item>
+					<item>Certidão de nascimento</item>
+					<item>Certidões de cartório</item>
+					<item>Certificado de antecedentes criminais</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Diário Oficial</item>
+					<item>Passaporte</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Unidade descentralizadas da Polícia Federal.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Recebimento da Cédula de Identidade de Estrangeiro (CIE).</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Procolo de atendimento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Unidades descentralizadas da Polícia Federal.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/316"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

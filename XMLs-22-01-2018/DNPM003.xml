@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Requerer Licenciamento Mineral</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>DNPM</item>
+	</nomes-populares>
+	<descricao>Requerimento, por meio de formulário padronizado de pré-requerimento eletrônico, a ser preenchido no sítio do DNPM na internet, impresso e protocolizado no DNPM. O pré-requerimento deve ser protocolizado em até 30 dias, contados do seu preenchimento. Requerimento que pleiteia a licença de aproveitamento mineral pelo regime de licenciamento, voltado para substâncias minerais destinadas ao emprego imediato na construção civil, no preparo de agregados e argamassas, desde que não sejam submetidos a processo industrial de beneficiamento, nem se destinem como matéria-prima à indústria de transformação.O licenciamento pode ser requerido por brasileiros, pessoa natural, firma individual ou empresas legalmente habilitadas. Decreto-Lei nº 227/1967 (Código Mineração) Lei nº 6.567/1978 Portaria DNPM nº 155/2016</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Cadastramento no Sistema CTDM</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certidões de cartório</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de pagamento</item>
+					<item>Comprovante de quitação eleitoral</item>
+					<item>Contrato Social</item>
+					<item>Procuração do representante legal</item>
+					<item>Registro da Junta Comercial</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>preenchimento de Formulário Eletrônico de Requerimento.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>dados Técnicos e informações sobre a atividade e localidade</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>entrega de documentos no Setor de Protocolo.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Formulário Eletrônico preenchido</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1918"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Comércio e Serviços</item>
+		<item>Indústria</item>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

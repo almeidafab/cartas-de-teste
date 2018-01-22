@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar o Cadastramento, Renovação ou Alteração de Entidades de Adoção Internacional</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>DPAS/ADOÇÃO</item>
+	</nomes-populares>
+	<descricao>O Estatuto da Criança e do Adolescente estabelece com rigor os processos de adoção internacional, condicionando-os a processo prévio de habilitação dos adotantes perante o governo de seu país, chancela desse processo no consulado brasileiro local e saída da criança somente depois de concluída a adoção definitiva, eliminando-se, assim, a figura da adoção simples e do termo de guarda.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>CADASTRO,  REPRESENTAÇÃO, DILIGENCIA</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidões de cartório</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de pagamento</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>Passaporte</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>DELEGACIA DE EMIGRAÇÃO DA POLICIA FEDERAL  NOS ESTADOS DA FEDERAÇÃO.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/316"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Cidadania</item>
+		<item>Segurança e Ordem Pública</item>
+		<item>Relações Internacionais</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Requerer a aprovação do Plano de Aproveitamento Econômico - PAE modificado</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Análise técnica de documentação e relatórios apresentados pelo usuário com o intuito de obter a aprovação da modificação do Plano de Aproveitamento Econômico da jazida.
+O produto final consiste em um despacho, publicado no Diário Oficial da União, no qual consta se a autoridade competente decidiu pela aprovação ou ou não aprovação do plano modificado, com base em critérios técnicos e legais.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Protocolizar o novo Plano de Aproveitamento Econômico</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>Procuração do representante legal</item>
+					<item>Registro em Cartório</item>
+					<item>Petição à autoridade competente, Novo Plano de Aproveitamento Econômico e Anotação de Responsabilidade Técnica emitida pelo CREA</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Protocolo das Superintendências Regionais ou da Sede da Autarquia.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1918"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+		<item>Indústria</item>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
