@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar autorização de trânsito.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>AUTORIZAÇÃO DE TRÂNSITO  DO TRIC</item>
+	</nomes-populares>
+	<descricao>Encaminhar o pedido formal à ANTT, via correios, ou com protocolo nas Sede ou Unidades da ANTT. Para solicitação de autorização de trânsito, deverá ser apresentado à ANTT requerimento da empresa, ou procurador cadastrado na Agência. Solicitei alteração da descrição para o ponto focal do órgão.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>SOLICITAÇÃO VIA CORREIO OU POR REPRESENTANTE DA EMPRESA ESTRANGEIRA DIRETAMENTE NO PROTOCOLO DA ANTT.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>ANTT SEDE.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Setor de Clubes Esportivos Sul - SCES, Lote 10, Trecho 3, Projeto Orla Polo 8, Bloco A, Térreo
+Brasília / DF - CEP: 70.200-003ORDENAÇÃO DE TRANSPORTE RODOVIÁRIO NACIONAL DE CARGAS</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>RECEBER A AUTORIZAÇÃO POR E-MAIL.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>ENDEREÇO ELETRÔNICO</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>ENDEREÇO ELETRÔNICO INFORMADO PELO INTERESSADO NO ATO DE CADASTRAMENTO DA EMPRESA.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/54793"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Relações Internacionais</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

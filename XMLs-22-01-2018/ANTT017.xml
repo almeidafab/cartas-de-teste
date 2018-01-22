@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar autorização de viagem de Caráter Ocasional - Empresa Brasileira.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>VIAGEM OCASIONAL - EMPRESA BRASILEIRA</item>
+	</nomes-populares>
+	<descricao>Encaminhar o pedido formal à ANTT, via correios, ou com protocolo nas Sede ou Unidades da ANTT. A empresa que solicitar Autorização de Caráter Ocasional deverá apresentar as seguintes informações: 1) requerimento da empresa ou procurador, este último mediante apresentação do respectivo instrumento de mandato, com as seguintes informações: 1.1 – nome ou razão social da empresa responsável pela viagem ocasional; 1.2 – origem e destino da viagem; 1.3 – pontos de fronteira a serem utilizados durante o percurso; 1.4 – tipo de carga a ser transportada, tanto na ida quanto no regresso; 1.5 - vigência pretendida para a autorização. 2) Comprovante de pagamento de emolumentos (conforme arts. 22 a 24 e anexo III da Resolução nº 1.474/2006); 3) relação dos veículos a serem utilizados e cópia autenticada dos respectivos Certificados de Registro e Licenciamento de Veículo (CRLV) e da Apólice de Seguros de Responsabilidade Civil por lesões ou danos a terceiros; 4) cópia autenticada do Certificado de Inspeção Técnica Veicular Periódica (CITV); 5) número de inscrição do transportador no RNTRC, nos termos da Resolução nº 4.799/2015 (no caso de transporte de carga própria, este item não é exigido). Solicitei alteração da descrição para o ponto focal do órgão.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>DAR ENTRADA NOS DOCUMENTOS VIA CORREIO OU NO PROTOCOLO DA ANTT SEDE</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de pagamento</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+					<item>Registro da Junta Comercial</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Setor de Clubes Esportivos Sul - SCES, Lote 10, Trecho 3, Projeto Orla Polo 8, Bloco A, Térreo
+Brasília / DF - CEP: 70.200-003</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Setor de Clubes Esportivos Sul - SCES, Lote 10, Trecho 3, Projeto Orla Polo 8, Bloco A, Térreo
+Brasília / DF - CEP: 70.200-003</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>RETIRADA DO DOCUMENTO OU RECEPÇÃO VIA CORREIO CONFORME ESCOLHA DO INTERESSADO.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Comprovante de endereço/residência</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>NA SEDE DA ANTT OU POR CORREIO NO ENDEREÇO INFORMADO PELO INTERESSADO.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>INFORMADO PELO INTERESSADO.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/54793"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Relações Internacionais</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

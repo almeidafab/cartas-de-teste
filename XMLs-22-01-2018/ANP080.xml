@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter enquadramento de beneficiário para fins de participações governamentais do petróleo e gás natural</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Enquadramento de municípios para fins de royalties</item>
+	</nomes-populares>
+	<descricao>Um beneficiário (estado ou município) pode solicitar análise à ANP/SPG para verificação do seu enquadramento (técnico e legal) para fins de recebimento das participações governamentais do petróleo e gás natural.
+O pedido é endereçado à Superintendência  de Participações Governamentais da ANP (SPG), a qual irá instaurar e instrui o competente processo administrativo. Posteriormente, haverá a possibilidade de vistoria no local, a fim de confirmar todas as informações constantes do processo, será elaborado relatório técnico, o qual concluirá pelo enquadramento ou não do beneficiário, através Ofício a Superintendência informa ao beneficiário seu enquadramento.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Encaminhar à ANP/SPG a solicitação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Diploma</item>
+					<item>Procuração do representante legal</item>
+					<item>Ofício do município ou do estado, com dados e documentos de suporte</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Av. Rio Branco, nº 65. 13º andar.
+Rio de Janeiro/RJ
+CEP: 20.090-004</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Receber a resposta</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Endereço do requerente</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/25281"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Economia e Finanças</item>
+		<item>Energia</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

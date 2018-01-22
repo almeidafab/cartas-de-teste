@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Termo de Autorização do Serviço realizado em regime de Fretamento – TAF.</nome>
+	<sigla/>
+	<contato/>
+	<descricao>A empresa legalmente constituída que pretender atuar na prestação do serviço de transporte rodoviário coletivo interestadual e internacional de passageiros realizado em regime de fretamento deve se cadastrar na ANTT. Para tal, deve enviar a documentação exigida pela Resolução ANTT nº 4.777/2015. O envio da documentação deve ser realizado por meio do Sistema de Habilitação de Transporte de Passageiros - SisHAB, disponível no site da ANTT. Após análise da documentação, se atendidos os requisitos regulamentares, a Diretoria da ANTT concede um Termo de Autorização, por meio de uma Resolução, publicada em Diário Oficial da União - DOU.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Realizar cadastro.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>FGTS</item>
+					<item>Registro da Junta Comercial</item>
+					<item>Certidões da Justiça do Trabalho e Fazendas Estadual e Municipal.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://sishab.antt.gov.br/Site/Login/Login.aspx</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/54793"/>
+	<areas-de-interesse>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

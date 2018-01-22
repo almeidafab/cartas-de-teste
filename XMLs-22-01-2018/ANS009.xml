@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Autorização para aplicação de reajuste de mensalidade de plano de saúde individual/familiar</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>GEAR - Gestão Eletrônica de Autorização de Reajuste</item>
+	</nomes-populares>
+	<descricao>Natureza: Serviço público propriamente estatal. É competência da ANS autorizar reajustes e revisões das contraprestações pecuniárias dos planos privados de assistência à saúde, conforme o inciso XVII, do artigo 4º, da Lei nº 9961 de 28 de janeiro de 2000 (Cria a Agência Nacional de Saúde Suplementar – ANS e dá outras providências)
+Portanto, os usuários são as operadoras de planos privados de saúde que atuam na segmentação “Assistência Médica”, tipo de contratação “individual” que precisam solicitar autorização a ANS para aplicar reajuste nas mensalidades. 
+A partir de março de 2017, esse processo de autorização passou a ser realizado de forma eletrônica, com o desenvolvimento do sistema de Gestão Eletrônica de Autorização de Reajuste – GEAR, regulamentado pela Instrução Normativa nº 51, de 27 de janeiro de 2017, da Diretoria de Normas e Habilitação dos Produtos.
+Interação com usuário: O GEAR é uma interface interativa com o usuário, totalmente integrada aos demais sistemas da ANS e, ao SEI – Sistema Eletrônico de Informações. Todas as etapas são realizadas em meio digital, desde a solicitação de autorização e encaminhamento de documentos, por parte das operadoras, até a comunicação da decisão administrativa, por parte da ANS.
+As operadoras acessam o GEAR, no site da ANS, mediante senha individualizada e o procedimento de solicitação de autorização é realizado em pouquíssimos minutos.
+A confirmação da solicitação é enviada para o e-mail indicado pela operadora e as informações sobre o andamento do processo são disponibilizadas e atualizadas no site da ANS, acessíveis a operadoras, beneficiários e sociedade em geral.
+Após a análise da área técnica da ANS, a decisão é formalizada em ofício, disponibilizado à operadora, digitalmente, via Programa de Transmissão de Arquivos – PTA, programa utilizado para comunicação eletrônica entre a Agência e as operadoras de planos privados de saúde. Portanto, a comunicação é totalmente eletrônica, sendo tempestiva, célere e eficaz.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitação de Autorização no GEAR</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Comprovante de pagamento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.ans.gov.br
+http://www.ans.gov.br/planos-de-saude-e-operadoras/espaco-da-operadora/aplicativos-ans</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="aplicativo-movel">
+						<descricao>O GEAR permite acesso por qualquer dispositivo com acesso à internet.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Acompanhar andamento do processo</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.ans.gov.br
+http://www.ans.gov.br/planos-de-saude-e-operadoras/espaco-da-operadora/compromissos-e-interacoes-com-ans/solicitacoes-e-consultas/solicitacao-de-autorizacao-de-reajuste/processos-de-reajustes-de-precos-de-planos-de-saude</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="aplicativo-movel">
+						<descricao>Qualquer dispositivo com acesso à internet.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Fazer download do ofício</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.ans.gov.br/planos-de-saude-e-operadoras/espaco-da-operadora/aplicativos-ans</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/45013"/>
+	<areas-de-interesse>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

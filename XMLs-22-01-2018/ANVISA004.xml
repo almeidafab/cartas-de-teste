@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Autorização para uso Compassivo, Acesso Expandido e Fornecimento de Medicamento pós-estudo</nome>
+	<sigla/>
+	<contato/>
+	<descricao>A Anvisa regulamentou o direito de acesso aos medicamentos inovadores que ainda não estão disponíveis no mercado. A medida alcança os pacientes portadores de doenças debilitantes e graves para as quais não exista medicação ou cujo tratamento disponível é insuficiente. A medida está na resolução RDC 38/2013, publicada no Diário Oficial da União (DOU) desta terça-feira (13/8). Ao todo, foram regulamentados três programas que podem beneficiar pacientes nesta condição. Os programas de Uso Compassivo, de Acesso Expandido e de Fornecimento de Medicamento Pós Estudos são as três formas da indústria oferecer os produtos aos pacientes vítimas de patologias até então sem tratamento no país.
+O primeiro é o Programa de Uso Compassivo, que trata de uma autorização emitida pela Anvisa para que a indústria execute determinado programa assistencial no Brasil, fornecendo medicamento novo, promissor e ainda sem registro na Agência. O programa também permite que a empresa seja autorizada a importar medicamentos não registrados no país, que tratam doenças raras e graves.
+
+A segunda forma de participação é o Acesso Expandido. Este é um programa de disponibilização de medicamento novo, promissor, ainda sem registro na Anvisa ou não disponível comercialmente no país, que esteja em estudo clínico em fase III, em desenvolvimento ou concluído. Esta modalidade é voltada para o grupo de pacientes portadores de doenças debilitantes graves  que ameacem a vida e sem alternativa terapêutica satisfatória.
+A última modalidade é o Programa de Fornecimento de Medicamento Pós-Estudo. A nova resolução define a disponibilização gratuita de medicamentos pela indústria aos voluntários que participaram da pesquisa e que se beneficiaram do medicamento durante o desenvolvimento clinico. A medida se aplica nos casos de encerramento do estudo ou quando finalizada a participação do voluntário no programa de uso compassivo.
+As solicitações de anuência da Anvisa para os programas de acesso expandido e de uso compassivo serão analisadas de acordo com os critérios de gravidade e estágio da doença e da ausência de alternativa terapêutica satisfatória no país para a condição clínica e seus estágios.
+Um dos grandes avanços da RDC 38/2013 é garantir o fornecimento do medicamento autorizado nos programas de acesso expandido, uso compassivo e fornecimento de medicamento pós-estudo nos casos de doenças graves  e crônicas enquanto houver benefício ao paciente, a critério médico.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Não há interação presencial com o usuário.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://portal.anvisa.gov.br/web/guest/contato</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/36687"/>
+	<areas-de-interesse>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

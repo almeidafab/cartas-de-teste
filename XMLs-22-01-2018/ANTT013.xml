@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>SOLICITAR LICENCA COMPLEMENTAR.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>PERMISSO COMPLEMENTAR PARA O TRANSPORTE INTERNACIONAL DE PASSAGEIROS</item>
+	</nomes-populares>
+	<descricao>País estrangeiro encaminha a licença originária ao Brasil, com prazo de vigência e a relação de frota e horários das linhas. Inicia o porcesso para expedição da licença complementar. 1. reuniões, 2. análise, 3. publicação no DOU. Serviço disponível para pessoa jurídica. Solicitei alteração da descrição para o ponto focal do órgão.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Receber pessoalmente a licença complementar original para apresentar no país estrangeiro.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Procuração do representante legal</item>
+					<item>apresentar a licença originária, frota utilizada, documentos traduzidos no vernáculo  e identificação da empresa e serviço objeto da licença complementar</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>ANTT</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>34101448</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>getau.internacional@antt.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Agência Nacional de Transportes Terrestres – ANTT
+End: Setor de Clubes Esportivos Sul - SCES, trecho 03, lote 10, Projeto Orla Polo 8 - Cep: 70200-003 - Brasília - DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/54793"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Relações Internacionais</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

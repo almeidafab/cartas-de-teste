@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter homologação de Contrato entre produtor e distribuidor de Aquisição de Gasolina, Diesel, Combustível de Aviação e Óleo Combustível em Turbinas Geradoras de Energia Elétrica</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Homologação de Contrato de aquisição de combustiveis</item>
+	</nomes-populares>
+	<descricao>Consiste em receber e analisar pedidos, extratos e/ou contratos para averiguar a adequação dos mesmos face às normas da ANP e para, posteriormente, conceder homologação desses documentos. Conclusão: envio de ofício</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Envia contrato e recebe ofício com homologação ou pendências.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>contrato</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2121128723</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/25281"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

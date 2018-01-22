@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter ato administrativo que inclua a pessoa jurídica interessada no Regime Especial de Incentivos para o desenvolvimento da Infraestrutura REIDI, que concede benefício fiscal a determinados investimentos no âmbito dos portos organizados (portos públicos)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>REIDI</item>
+	</nomes-populares>
+	<descricao>As pessoas jurídicas arrendatárias de instalações portuárias localizadas na área de porto organizado , que decidam realizar investimentos nas respectivas instalações ou nas áreas de uso comum, poderão requerer sua adesão ao Regime Especial de Incentivos para o desenvolvimento da Infraestrutura - REIDI, instituído pela Lei nº 11.488, de 2007, nos termos da Lei nº 12.815, de 2013.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>As pessoas jurídicas de direito privado interessadas na adesão ao Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura - REIDI, instituído pela Lei nº 11.488, de 15 de junho de 2007, alcançando os portos organizados e as instalações portuárias autorizadas, nos termos da Lei nº 12.815, de 05 de junho de 2013, deverão apresentar à ANTAQ o respectivo requerimento para análise de projetos do setor de infraestrutura portuária.
+§ 1º Somente serão analisados os projetos que se referirem à obra ou ao conjunto de obras relacionadas a um mesmo empreendimento que visem à sua implantação, ampliação, manutenção, recuperação, adequação ou modernização, e que atendam a pelo menos uma das seguintes diretrizes:
+I - promoção da racionalização, otimização e expansão da infraestrutura e superestrutura que integram as instalações portuárias;
+II - promoção do desenvolvimento sustentável das atividades portuárias considerando o meio ambiente que as abriga;
+III - adequação da infraestrutura e da superestrutura à atualidade das embarcações;
+IV - promoção da revitalização de instalações portuárias não operacionais.
+Art. 3º A apresentação do projeto pela pessoa jurídica de direito privado, que deverá ser individual para cada empreendimento, será instruída com os seguintes documentos:
+I - nome empresarial e inscrição no Cadastro Nacional de Pessoas Jurídicas - CNPJ;
+II - nome e número de inscrição no Cadastro de Pessoa Física - CPF do responsável legal pelo empreendimento e do Contador da empresa, com respectivo registro de classe; indicação do titular da empresa ou relação dos sócios, pessoas físicas, bem assim dos diretores, gerentes, administradores e procuradores, bem como dos respectivos instrumentos de mandato ou instrumentos societários de delegação de poderes de representação empresarial, conforme o caso;
+III - nome do empreendimento a que o projeto está associado;
+IV - nome do projeto;
+V - número do contrato de concessão, do arrendamento, do ato de autorização ou da obra direta;
+VI - localização, município e UF;
+VII - planta geral do empreendimento;
+VIII - descrição do projeto, contendo o cronograma físicofinanceiro sintético estimado para o empreendimento, apresentado com a respectiva Anotação de Responsabilidade Técnica - ART ou Registro de Responsabilidade Técnica - RRT, conforme o caso, contendo o nome do responsável técnico, sua assinatura e número de registro no CREA/CAU e a indicação da modalidade em que se enquadra, na forma da Lei nº 12.815, de 05 de junho de 2013;
+IX - justificativa do projeto, contemplando benefícios esperados do empreendimento para o desenvolvimento econômico e social da região onde está situado e também para o país, se for o caso;
+X - estimativas dos investimentos, com e sem suspensão dos impostos e contribuições pelo REIDI:
+a) dos investimentos em bens (máquinas, equipamentos e materiais de construção), serviços de terceiros e outros a serem adquiridos com e sem a suspensão de PIS/PASEP e COFINS durante o período de fruição do Regime Especial, tendo como base o mês anterior à data de apresentação do requerimento referido no art. 1º; e
+b) dos correspondentes valores de impostos e contribuições suspensos a título de REIDI sobre os bens (máquinas, equipamentos e materiais de construção), serviços de terceiros e outros, a serem adquiridos sem incidência de PIS/PASEP e COFINS durante o período de fruição do Regime Especial, inclusive decorrente de cohabilitados; e
+XI - tabela resumo do projeto, conforme Anexo I, assinada pelo responsável legal e pelo Contador da pessoa jurídica titular do projeto, inclusive em arquivo digital.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Em um dos protocolos da ANTAQ</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/54843"/>
+	<areas-de-interesse>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

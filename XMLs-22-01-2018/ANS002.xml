@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Central de Relacionamento da Agência Nacional de Saúde Suplementar.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Disque ANS</item>
+	</nomes-populares>
+	<descricao>Atendimento receptivo e ativo, eletrônico e humano para a central de relacionamento da Agência nacional de saúde Suplementar. Os serviços de atendimento englobam o tratamento de todas as solicitações de informações, reclamações, denúncias, críticas, elogios e sugestões recebidas através da unidade de resposta audível (URA), atendimento telefônico (PABX) e formulário eletrônico (WEB).</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Registrar reclamação referente a questões relacionadas à área de  saúde suplementar.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>CPF</item>
+					<item>Dados do plano de saúde contratado</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Núcleos da ANS:
+Av. Augusto Severo, nº 84, Edifício Barão de Mauá - Bairro Glória - Rio de Janeiro - RJ - CEP: 20021-04;
+Rua Dom Romualdo de Seixas, nº 1.560, Edifício Connext Office, 7º pavimento, espaços corporativos 4 e 5 - Bairro Umarizal - Belém - PA - CEP 66055-200;
+Rua Paraíba, nº 330 - 11º andar - Sala 1104 - Edifício Seculus - Bairro Funcionários Belo Horizonte - MG - CEP: 30130-917;
+SAS Quadra 1, lote 2, Bloco N, 1º andar - Edifício Terra Brasilis . Bairro - Brasília - DF - CEP: 70070-941;
+Av Historiador Rubens de Mendonça, nº 1894, Salas 102,103 e 104 Av do CPA - Centro Empresarial Maruanã - Bairro Bosque da Saúde - Cuiabá - MT - CEP: 78050-000;
+Alameda Dr. Carlos de Carvalho, nº 373, Conjunto 902 - Bairro Centro - Curitiba - PR - CEP: 80410-180;
+Av. Dom Luis, 807/ 23º andar - Ed. Etevaldo Business - Bairro Meireles - Fortaleza - Ceará - CEP: 60160-230;
+Rua dos Andradas, n.º 1001 - 19º andar - conjunto nº 1902 - Edifício GBOEX
+Bairro Centro - Porto Alegre - Rio Grande do Sul - CEP 90020-015;
+Rua General Joaquim Inácio, 830 – 10° andar – Empresarial The Plaza – Bairro Paissandu – Recife – Pernambuco – CEP: 50070-495;
+Av. Presidente Vargas, nº 2121 - 2º Andar - Sala 203 - Edifício Times Square - Ribeirão Preto - SP CEP:14020-525;
+Av. Augusto Severo, nº84 - Térreo - Edifício Barão de Mauá - Bairro Glória -Rio de Janeiro-Rio de Janeiro- CEP: 20021-040;
+Av. Antonio Carlos Magalhães, nº 771 - Salas 1601-1604 e 1607-1610 - Bairro Itaigara -Salvador -Bahia - CEP: 41.825-000;
+Av. Bela Cintra, nº 986 - 9º andar - Edifício Rachid Saliba - Bairro Jardim Paulista -São Paulo-São Paulo-CEP: 01415-000.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>8007019656</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.ans.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Av. Augusto Severo, nº 84, Edifício Barão de Mauá - Bairro Glória - Rio de Janeiro - RJ - CEP: 20021-04;
+Rua Dom Romualdo de Seixas, nº 1.560, Edifício Connext Office, 7º pavimento, espaços corporativos 4 e 5 - Bairro Umarizal - Belém - PA - CEP 66055-200;
+Rua Paraíba, nº 330 - 11º andar - Sala 1104 - Edifício Seculus - Bairro Funcionários Belo Horizonte - MG - CEP: 30130-917;
+SAS Quadra 1, lote 2, Bloco N, 1º andar - Edifício Terra Brasilis . Bairro - Brasília - DF - CEP: 70070-941;
+Av Historiador Rubens de Mendonça, nº 1894, Salas 102,103 e 104 Av do CPA - Centro Empresarial Maruanã - Bairro Bosque da Saúde - Cuiabá - MT - CEP: 78050-000;
+Alameda Dr. Carlos de Carvalho, nº 373, Conjunto 902 - Bairro Centro - Curitiba - PR - CEP: 80410-180;
+Av. Dom Luis, 807/ 23º andar - Ed. Etevaldo Business - Bairro Meireles - Fortaleza - Ceará - CEP: 60160-230;
+Rua dos Andradas, n.º 1001 - 19º andar - conjunto nº 1902 - Edifício GBOEX
+Bairro Centro - Porto Alegre - Rio Grande do Sul - CEP 90020-015;
+Rua General Joaquim Inácio, 830 – 10° andar – Empresarial The Plaza – Bairro Paissandu – Recife – Pernambuco – CEP: 50070-495;
+Av. Presidente Vargas, nº 2121 - 2º Andar - Sala 203 - Edifício Times Square - Ribeirão Preto - SP CEP:14020-525;
+Av. Augusto Severo, nº84 - Térreo - Edifício Barão de Mauá - Bairro Glória -Rio de Janeiro-Rio de Janeiro- CEP: 20021-040;
+Av. Antonio Carlos Magalhães, nº 771 - Salas 1601-1604 e 1607-1610 - Bairro Itaigara -Salvador -Bahia - CEP: 41.825-000;
+Av. Bela Cintra, nº 986 - 9º andar - Edifício Rachid Saliba - Bairro Jardim Paulista -São Paulo-São Paulo-CEP: 01415-000.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Verificar o conteúdo da reclamação referente a questões relacionadas à área da saúde suplementar; retificar de dados;cientificar o usuário sobre o curso da reclamação registrada.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/45013"/>
+	<areas-de-interesse>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

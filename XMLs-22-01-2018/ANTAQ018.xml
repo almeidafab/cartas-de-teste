@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter autorização da Antaq para a revisão e reajuste das tarifas portuárias praticadas pelas administrações portuárias</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Obter autorização da Antaq para aque s autoridades portuárias - pessoas jurídicas que administram os portos públicos - possam promover reajustes e/ou revisões das tarifas cobradas pelo porto das empresas arrendatárias e usuários em geral, nos termos do art. 27, da Lei 10.233/2001.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Autoridades Portuárias dos Portos Organizados</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Reunião presencial ou a distância com as considerações iniciais do pedido de reajuste ou revisão tarifária ou para apresentar complementação/ajuste do pedido.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Demonstrativos contábeis</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Agência Nacional de Transportes Aquaviários - sede</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>20296974</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>grp@antaq.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/54843"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

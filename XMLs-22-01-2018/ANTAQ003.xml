@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter Autorização para Construção, Exploração e Ampliação de Instalação Portuária de Turismo (IPT)</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Receber o requerimento de autorização da interessada em obter Autorização para Construção, Exploração e Ampliação de Instalação Portuária de Turismo (IPT) e juntar toda a documentação exigida pelo Decreto 8.033/2013 Normativa 13/2106-Antaq. Fazer a publicação do requerimento na página eletrônica da ANTAQ na internet e quando a documentação estiver em conformidade com a legislação, colocar a disposição para no prazo de 10 dias para identificar interessados na mesma região geográfica e com características semelhantes. Na próxima fase a GAP/ANTAQ faz a análise de viabilidade para conferir a possibilidade da implantação de uma ou mais instalações na mesma região geográfica que não gere impedimento operacional. Dentro de um processo normal, após a aprovação da viabilidade locacional a GAP/ANTAQ finaliza a instrução processual emitindo nota técnica opinando pelo deferimento do requerimento. A partir desse momento o processo segue para a Superintendência de Outorgas e demais instâncias superiores. Após deliberação da Diretoria Colegiada a ANTAQ envia o processo para a Secretaria Nacional de Portos do Ministério dos Transportes, Portos e Aviação Civil - MTPA.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo></titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/54843"/>
+	<areas-de-interesse>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Pagamento ou Parcelamento de débitos</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>NÃO</item>
+	</nomes-populares>
+	<descricao>A operadora ou ex-operadora (representante legal) deverá solicitar o parcelamento de débitos existentes junto a ANS conforme orientação definida no site da ANS. Os débitos podem ser relativos a: Taxa de Saúde Suplementar, Multas Pecuniárias, Ressarcimento ao SUS. A operadora ou ex-operadora (representante legal) deverá Efetuar o pagamento de Taxas ou débitos de ressarcimento ao SUS conforme definido no site da ANS. Os documentos necessários e orientações são encontrados no link (http://www.ans.gov.br/planos-de-saude-e-operadoras/espaco-da-operadora/compromissos-e-interacoes-com-ans/pagamentos-e-parcelamentos-e-taxas) A operadora ou ex-operadora (representante legal) deverá solicitar o parcelamento de débitos existentes junto a ANS conforme orientação definida no site da ANS. Os débitos podem ser relativos a: Taxa de Saúde Suplementar, Multas Pecuniárias, Ressarcimento ao SUS. A operadora ou ex-operadora (representante legal) deverá Efetuar o pagamento de Taxas ou débitos de ressarcimento ao SUS conforme definido no site da ANS. Os documentos necessários e orientações são encontrados no link (http://www.ans.gov.br/planos-de-saude-e-operadoras/espaco-da-operadora/compromissos-e-interacoes-com-ans/pagamentos-e-parcelamentos-e-taxas)</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Acessar o site da ANS e escolher o tipo de ação a ser efetuada, pagamento ou parcelamento de debito ou encaminhar e-mails.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Comprovante de pagamento</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.ans.gov.br/planos-de-saude-e-operadoras/espaco-da-operadora/compromissos-e-interacoes-com-ans/pagamentos-e-parcelamentos-e-taxas</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>gefin.ans@ans.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Av Augusto Severo, 84 -7º andar Glória
+Cep 20021040 - RJ - RJ</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/45013"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Economia e Finanças</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

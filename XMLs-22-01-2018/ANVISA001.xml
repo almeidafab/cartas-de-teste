@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Autorização para dispensação, em caráter excepcional, de medicamento à base de Talidomida</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O uso do medicamento Talidomida está sujeito a normas especiais de controle e fiscalização dispostas nas Portarias SVS/MS nº 344/98 e a RDC n° 11/2011. 
+Para a prescrição do medicamento à base dessa substância em indicações não contempladas no Anexo III da RDC n° 11/2011, como última alternativa terapêutica, e sendo indispensável a utilização do medicamento, o prescritor deverá solicitar autorização prévia da Anvisa, em caráter excepcional.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Encaminhamento da solicitação à Anvisa.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>A primeira solicitação deve ser realizada por meio de Formulário de Justificativa de Uso do Medicamento à Base de Talidomida (Anexo VII desta Resolução), acompanhado de cópias da Notificação de Receita de Talidomida e da literatura que comprove a eficácia e segurança, por meio de estudos publicados em revistas indexadas. Caso necessária a continuidade do tratamento, o prescritor deverá preencher, a cada nova solicitação de autorização, o Relatório de Evolução do Caso (Anexo VIII desta Resolução), acompanhado de cópia da Notificação de Receita de Talidomida.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Protocolo da Anvisa sede</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.anvisa.gov.br/canais/</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>med.controlados@anvisa.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Sia trecho 5, área especial 57 - Guará - Brasília/ DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/36687"/>
+	<areas-de-interesse>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

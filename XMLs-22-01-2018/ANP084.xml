@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter informações e dados técnicos</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Concessionários de blocos exploratórios e campos em produção, empresas de aquisição de dados, instituições acadêmicas, entre outros, podem solicitar, mediante cadastramento e pagamento prévios, acesso a informações e dados técnicos públicos sobre as bacias sedimentares brasileiras que compõem o acervo da ANP.
+Os critérios e procedimentos para obtenção de informações e dados técnicos, bem como os preços praticados, são estabelecidos pela Resolução ANP nº 01/2015.
+A ANP poderá disponibilizar gratuitamente dados públicos às instituições acadêmicas, os quais deverão ser utilizados com fins acadêmicos ou de pesquisa, não podendo direta ou indiretamente servir para fins comerciais.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitar dados técnicos</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Formulário para solicitação de dados técnicos</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Setor de Protocolo da ANP: Av. Rio Branco, 65, térreo, Centro, Rio de Janeiro, RJ</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Av. Rio Branco, 65, 18º andar, Centro, Rio de Janeiro, RJ, CEP 20090-004</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Aprovar Solicitação de Dados Técnicos (no caso do usuário associado); 
+Enviar Comprovante de Pagamento (no caso do usuário eventual); 
+Agendar Retirada dos Dados Técnicos disponibilizados (no caso de universidade)</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Aprovação da solicitação (no caso do usuário associado), Comprovante de pagamento (no caso do usuário eventual), Confirmação do agendamento (no caso de universidade)</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>dados_tecnicos@anp.gov.br (universidade e usuário eventual); helpdesk@anp.gov.br (usuário associado)</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Agendar Retirada dos Dados Técnicos Disponibilizados (no caso dos usuários associado e eventual);
+Enviar Trabalho Acadêmico (no caso de universidade)</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Confirmação do agendamento (no caso dos usuários associado e eventual); Trabalho acadêmico (no caso de universidade)</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Setor de Protocolo da ANP: Av. Rio Branco, 65, térreo, Centro, Rio de Janeiro, RJ (no caso de universidade)</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>dados_tecnicos@anp.gov.br (no caso de usuários associado e eventual)</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Av. Rio Branco, 65, 18º andar, Centro, Rio de Janeiro, RJ, CEP 20090-004 (no caso de universidade)</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/25281"/>
+	<areas-de-interesse>
+		<item>Energia</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar parcelamento GEAUT (Gerência de Processamento de Autos) de Infração e Apoio à Jari Parcelamento concedido nos termos da Res. ANTT 3.561/2010.</nome>
+	<sigla/>
+	<contato/>
+	<descricao>PARCELAMENTO CONCEDIDO NOS TERMOS DA RES. ANTT 3.561/2010.
+Principais Etapas do Serviço
+1.  RECEBER REQUERIMENTO;
+2. ANÁLISE DA DOCUMENTAÇÃO;
+3. SE OS VALORES FOREM SUPERIORES AOS DISPOSTOS NO ART. 3º , SERÃO ENCAMINHADOS À DIRETORIA PARA AUTORIZAÇÃO;
+4. APÓS OS PROCEDIMENTOS CITADOS, O PARCELAMENTO É CONCEDIDO;
+5. DISPONIBILIZAÇÃO DOS BOLETOS NA ÁREA DO AUTUADO;
+6. ENVIO DO OFÍCIO DE CONCESSÃO, VIA E-MAIL, INFORMANDO AS ESPECIFICAÇÕES DO PARCELAMENTO.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentação de requerimento de parcelamento, o qual pode ser encaminhado via correios, dispensando a apresentação presencial.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Contrato Social</item>
+					<item>Procuração do representante legal</item>
+					<item>Requerimento de Parcelamento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>GEAUT</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Setor de Clubes Esportivos Sul -SCES - Lote 10, Trecho 03 - Projeto Orla 8
+Brasilia-DF
+70.200-003</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/54793"/>
+	<areas-de-interesse>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Cancelamento de registro de operadora de planos privados de saúde</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Trata-se do cancelamento do registro de operadora e da autorização de funcionamento na ANS por solicitação da própria operadora. O requerimento deve ser assinado pelo representante legal da operadora anexando os seguintes documentos: cópia autenticada do ato societário que deliberou pelo encerramento das operações de planos de saúde, declaração de inexistência de beneficiários de planos de saúde, declaração de inexistência de obrigações para com a rede de prestadores de serviços de saúde e declaração de inexistência de contratos de assistência à saúde como operadora. Eventualmente, pedimos documentos complementares para comprovar as aludidas declarações.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="90" max="120" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Enviar requerimento para o cancelamento do registro com os documentos exigidos no art. 26 da Resolução Normativa 85</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/45013"/>
+	<areas-de-interesse>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

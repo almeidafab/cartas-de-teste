@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar a autorização de funcionamento de operadoras de planos privados de saúde</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Também conhecido como Registro de Operadora</item>
+	</nomes-populares>
+	<descricao>A autorização de funcionamento é o processo que habilita uma empresa a atuar como operadora de planos privados de saúde. A ANS, após análise e aprovação da documentação encaminhada, concede o registro da operadora, o registro dos produtos a serem comercializados e, após a regularização desses dois itens, publica a Autorização de Funcionamento no Diário Oficial da União. Somente após a publicação da Autorização de Funcionamento no Diário Oficial da União é que a empresa está habilitada a iniciar suas atividades no mercado de planos privados de saúde.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Encaminhar pedido de registro de operadora conforme estabelecido em regulamentação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>Registro da Junta Comercial</item>
+					<item>Registro em Cartório</item>
+					<item>Registros em CRMs e CROs conforme o caso</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Rua Augusto Severo 84. Glória. Rio de Janeiro. Devem ser seguidas as orientações previstas na regulamentação vigente - RN nº 85, de 2004, da ANS</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Após registro de produto, a ANS verifica se foi mantida a regularidade de requisitos para concessão de autorização.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Informações Contábeis atualizadas por meio eletrônico e conforme regulamentação</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.ans.gov.br para envio do Documento de Informações Periódicas - DIOPS - XML, com informações financeiras.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/45013"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Comércio e Serviços</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

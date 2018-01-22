@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter autorização da Antaq para que o transporte privativo de embarcações brasileiras seja realizado por embarcação estrangeira mediante a "Liberação de Carga Prescrita à Bandeira Brasileira"</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>CLCP- Certificado de liberação de Carga Prescrita</item>
+	</nomes-populares>
+	<descricao>O serviço permite que pessoas jurídicas, previamente autorizada pela Antaq a explorar o serviço de transporte aquaviário de cargas em águas jurisdicionadas possam utilizar embarcações estrangeiras para o transporte de cargas prescritas à bandeira brasileira na navegação de longo curso.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1. Solicitação inicial para liberação de carga.
+2. Comunicação final da liberação .</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.antaq.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/54843"/>
+	<areas-de-interesse>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

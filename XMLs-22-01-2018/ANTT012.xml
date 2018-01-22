@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Licença Originária para transporte rodoviário internacional de cargas a ser solicitada por empresa transportadora brasileira que deseje operar no transporte para outros países da América do Sul.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>PERMISSO PARA O TRANSPORTE INTERNACIONAL</item>
+	</nomes-populares>
+	<descricao>PROTOCOLO PELO REPRESENTANTE LEGAL solicitando atendimento do mercado e frequência máxima já acordados entre o Brasil/ outros países. Aprovação da LOP. O representante legal da autorizatária brasileira apresenta a licença originária no outro país. Cumprimento da Res. 4.770/2015, Dec nº 99.704/1990 e o Dec 2975/1999 - Específico para Venezuela. 1. reuniões, 2. análise, 3. publicação no DOU. Serviço disponível para pessoa jurídica.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>RETIRADA DE DOCUMENTO</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>ANTT SEDE.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Endereço: Setor de Clubes Esportivos Sul - SCES, Lote 10, Trecho 3, Projeto Orla Polo 8, Bloco A, Térreo
+Brasília / DF - CEP: 70.200-003</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/54793"/>
+	<areas-de-interesse>
+		<item>Relações Internacionais</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

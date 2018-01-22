@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter ato administrativo que inclua a pessoa jurídica interessada no Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura-REIDI, que concede benefício fiscal aqueles que promovam determinados investimentos no âmbito terminais de uso privado</nome>
+	<sigla/>
+	<contato/>
+	<descricao>As pessoas jurídicas já previamente autorizadas (TUP, ETC, IP4, IPT) que decidam realizar investimentos nas instalações portuárias localizadas fora da área de porto organizado poderão requerer sua adesão ao Regime Especial de Incentivos para o desenvolvimento da Infraestrutura - REIDI, instituído pela Lei nº 11.488, de 2007, nos termos da Lei nº 12.815, de 2013.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo></titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/54843"/>
+	<areas-de-interesse>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
