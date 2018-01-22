@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Verificar o cumprimento do compromisso assumido nos Atos Concessórios de Drawback Suspensão.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não</item>
+	</nomes-populares>
+	<descricao>Competem ao DECEX, além da concessão do regime de drawback, os procedimentos que tenham por finalidade sua formalização, bem como o acompanhamento e a verificação do adimplemento do compromisso de exportar.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1)	Envio para baixa: Após o vencimento do Ato Concessório de drawback (AC), a empresa tem até 60 dias para enviar o AC para baixa.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.mdic.gov.br/AcessoALinksExternos/siscomex/siscmx.html</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>2)	Resposta de exigência: Trata-se de resposta da empresa em função de informações adicionais solicitadas pele órgão responsável.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Dependendo do caso, podem ser pedidos os documentos mencionados no artigo 94 da Portaria SECEX 23/11: Laudo Técnico, Documento que demonstre alteração de preço, Auto de Infração ou documento de natureza análoga emitido por autoridade fiscal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.mdic.gov.br/AcessoALinksExternos/siscomex/siscmx.html</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/3162"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

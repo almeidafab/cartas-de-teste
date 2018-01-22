@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Ouvidoria SPM Secretária de Políticas para mulheres</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Recebimento de denúncias de violência contra a mulher,  orientar e informar sobre ações e políticas da SPM, legislação, direitos, serviços da rede de atendimento à mulher vítima de violência, dentre outros, além de receber e encaminhar aos órgãos competentes as manifestações sobre a temática de gênero, denúncias de crimes contra a mulher, sugestões para implantação e melhoria das políticas e ações da Secretaria, elogios das ações e/ou prestação de serviços, assim como reclamações a respeito da falta ou atendimento inadequado de um serviço.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Denuncia, acolhimento, passada informação e reposta a demanda</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>E-mail ou telefone</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>SCES Trecho 2 lote 22 Ed. Tancredo Neves 1º andar</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6133137367.0000000000</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Resposta a demanda</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>e-mail, telefone</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>33137367.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SCES trecho 2 lote 22 edifício Tancredo Neves - CCBB</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/42673"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Cidadania</item>
+		<item>Segurança e Ordem Pública</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

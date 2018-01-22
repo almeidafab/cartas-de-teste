@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Autorização para funcionamento de Organização Estrangeira no Brasil (OE).</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>ONG estrangeira, Autorização de organização estrangeira sem fins lucrativos, Atualização cadastral de Organização Estrangeira</item>
+	</nomes-populares>
+	<descricao>Autorização de funcionamento no território brasileiro de organizações civis estrangeiras, sem fins lucrativos, que tenham sido regularmente constituídas de acordo com a legislação do seu país de origem e que pretendam funcionar no Brasil.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitação dos serviços e recebimento  do resultado da anáise.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>Procuração do representante legal</item>
+					<item>a) Estatuto registrado em cartório, no idioma de origem devidamente legalizado pelo consulado brasileiro e tradução juramentada; b) Certidão do serviço notarial e de registro no exterior, que comprove estar a organização constituída conforme a legislação do país de origem; c) Ata de deliberação que autorizou o funcionamento da organização estrangeira no Brasil; d) Procuração que demonstre que a entidade possui representante permanente no Brasil, que este possui poderes expressos para resolver quaisquer questões, receber citação judicial e poderes especiais para atuar no Brasil; e) Documentação do representante legal da organização no Brasil (brasileiro) ou documentação de regularidade do estrangeiro em território brasileiro; f) Relatório com descrição das atividades que pretende desenvolver e o local em que atuará no território brasileiro, com especificação qualitativa das finalidades; g) Lista com qualificação completa (nome, nacionalidade, profissão e domicílio) dos diretores, administradores e representantes legais no exterior.; h) Relatório com indicação das fontes de recursos para a sua manutenção e dos respectivos bens a ela destinados.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Protocolo Geral do Ministério da Justiça e Cidadania, Esplanada dos Ministérios, Bloco T, Anexo II, CEP: 70.064-900 - Brasília – DF.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://protocoloeletronico.mj.gov.br/protocolo_eletronico/pages/externo/login_externo.jsf</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Ministério da Justiça e Cidadania, Secretaria Nacional de Justiça e Cidadania, Departamento de Políticas de Justiça, Divisão de Administração, Esplanada dos Ministérios, Bloco T, Anexo II, CEP: 70.064-900 – Brasília – DF.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/316"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

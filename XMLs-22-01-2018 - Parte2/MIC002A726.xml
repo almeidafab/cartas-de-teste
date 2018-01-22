@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Modificação Permanente da Tarifa Externa Comum (TEC) ou da Nomenclatura Comum do Mercosul (NCM)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Alteração definitiva da TEC</item>
+	</nomes-populares>
+	<descricao>Recebimento e análise dos pedidos de alteração da Tarifa Externa Comum (TEC) ou da Nomenclatura Comum do Mercosul (NCM), em sintonia com sua estrutura atual. Entendendo que há conveniência no pedido, o governo brasileiro o encaminha ao Comitê de Tarifas, Nomenclatura e Classificação de Mercadorias do Mercosul (CT-1), no qual será deliberada a alteração pleiteada em conjunto com delegações dos demais Estados-Parte do bloco. Internamente a posição brasileira é deliberada na Seção Nacional do CT-1, da qual participam os Ministérios integrantes da Câmara de Comércio Exterior (CAMEX) e eventualmente outros Ministérios interessados. Caso aprovado, o pleito segue para ratificação da Comissão de Comércio do Mercosul (CCM) e do Grupo Mercado Comum (GMC). Após apreciação pelo Comitê Executivo de Gestão da Câmara de Comércio Exterior (Gecex), a proposta é incorporada à tarifa aplicada pelo Brasil por meio de Resolução CAMEX.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentação de documentos adicionais, apresentação de procurações, apresentação de informações técnicas, esclarecimento de dúvidas, atualização de dados estatísticos.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Contrato Social</item>
+					<item>Carta de Apresentação, Contrato Social, Formulário de Alteração da TEC/NCM preenchido e catálogos/documentos técnicos acerca do produto objeto da análise, além de cópia em meio digital de todo o material apresentado.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Esplanada dos Ministérios, Bloco J, sala 400 - Brasília DF, CEP 70053-900</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Atendimento a solicitações de informação adicional para análise do pleito (atualização de estatísticas, fornecimento de dados técnicos, apresentação de documentos adicionais)</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Dados de produção, vendas, importação, exportação, comprovantes de produção/vendas, arrazoados técnicos, catálogos/manuais</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Sede do Ministério da Indústria, Comércio Exterior e Serviços (Esplanada dos Ministérios, Bloco J)</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/3162"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

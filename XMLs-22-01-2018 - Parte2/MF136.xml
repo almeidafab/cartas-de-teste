@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Habilitação de Recinto em Regimes Especiais</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Para alguns Regimes Especiais é necessária a habilitação prévia de recinto por onde poderão ser realizados os despachos de mercadorias ao amparo dos Regimes Especiais. Dessa forma, o interessado apresenta requerimento de habilitação ao regime juntamente com os documentos exigidos em legislação específica. Após a análise do requerimento, em regra, a Receita Federal edita um Ato Declaratório Executivo para a concessão da habilitação.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentação do requerimento para habilitação do recinto juntamente com documentação instrutiva.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>NIT / PIS / PASEP</item>
+					<item>planta de locação, baixa e de corte da área, delimitação do recinto, documentação técnica relativa a sistema informatizado</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Unidade de Atendimento ao Contribuinte - CAC da Receita Federal do Brasil</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://idg.receita.fazenda.gov.br/interface/atendimento-virtual</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Relações Internacionais</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

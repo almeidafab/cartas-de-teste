@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Perda da Nacionalidade Brasileira.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Perda da Nacionalidade Brasileira</item>
+	</nomes-populares>
+	<descricao>É o ato pelo qual uma pessoa perde voluntariamente a sua nacionalidade brasileira. Só é possível perder a nacionalidade brasileira caso a pessoa já tenha adquirido outra nacionalidade.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentar requerimento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certidão de nascimento</item>
+					<item>Cópia do certificado de naturalização da outra nacionalidade, legalizado junto às autoridades consulares brasileiras no exterior e traduzido oficialmente. E, no caso de brasileiro naturalizado, apresentar o Certificado de naturalização brasileira.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Endereço: Ministério da Justiça e Cidadania – Departamento de Migrações Esplanada dos Ministérios, Bloco T, anexo II, sala T3, Brasília - DF.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://protocoloeletronico.mj.gov.br/protocolo_eletronico/pages/externo/login_externo.jsf</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Ministério da Justiça e Cidadania – Departamento de Migrações Esplanada dos Ministérios, Bloco T, anexo II, sala T3, Brasília - DF, CEP: 70.064-900.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/316"/>
+	<areas-de-interesse>
+		<item>Segurança e Ordem Pública</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

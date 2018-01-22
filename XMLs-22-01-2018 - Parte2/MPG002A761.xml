@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Requerimento de Isenção de Pagamento.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Pedido de Isenção</item>
+	</nomes-populares>
+	<descricao>Este serviço permite a solicitação de isenção do pagamento de foros, taxas de ocupação e laudêmios para pessoas físicas cuja renda familiar mensal seja igual ou inferior ao valor correspondente a 5 (cinco) salários mínimos, ou para pessoas jurídicas enquadradas como entidades beneficentes ou de salvaguarda para bens culturais, conforme Lei nº 13.139, de 2015.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>usuário registra nº de Registro Imobiliário Patrimonial - RIP e CPF para prosseguir com as informações solicitadas no requerimento.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Comprovante de endereço/residência</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.patrimoniodetodos.gov.br/#/requerimentoIsencao?servico=13</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2981"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Consultar Documentos do Acervo do Arquivo Nacional</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>“Pesquisar Documentos do Arquivo Nacional” e “Cópias Documentos do Arquivo Nacional”</item>
+	</nomes-populares>
+	<descricao>Acesso à informação contida em documentos públicos e privados guardados pelo Arquivo Nacional. O usuário procura o Arquivo Nacional em busca de informação contida no acervo sob sua guarda, solicita acesso aos documentos e, em alguns casos, também solicita cópias autenticadas, certidões ou transcrições dos documentos. O serviço de consultas aos documentos do acervo do Arquivo Nacional existe para prover o acesso às informações necessárias ao cidadão na defesa de seus direitos, ao governo para a tomada de decisões político-administrativas, além de contribuir para a produção de conhecimento científico e cultural.O atendimento é realizado mediante comparecimento do usuário às Salas de Consultas do Arquivo Nacional ou contato com o serviço de Atendimento a Distância a partir do qual é realizado o agendamento do acesso ao documento ou solicitada a reprodução do original ou do representante digital.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Governo Federal</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Acesso presencial a documento digitalizado ou microfilmado (1 vez)Acesso presencial a documento original não digitalizado  (2 vezes - agendamento e consulta)Acesso a distância (no mínimo 2 vezes para envio da solicitação por correspondência ou telefonema e envio do comprovante de pagamento da GRU).Cópia de documento digitalizado  presencial (2 vezes - consulta e busca da cópia após GRU)Cópia de documento não digitalizado (3 vezes - agendamento, consulta e busca da cópia)</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CPF</item>
+					<item>Passaporte</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>- Sala de Consultas Arquivo Nacional - Sede Praça da República, 173 – Centro – CEP 20211-350 – Rio de Janeiro – RJ- Sala de Consultas da Coordenação Regional do Arquivo Nacional Setor de Indústrias Gráficas, Quadra 6, Lote 800 - Prédio Anexo da Imprensa Nacional - CEP 70610-460 – Brasília – DF</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://sian.an.gov.br/sianex/consulta/login.asp</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>consultas@arquivonacional.gov.br; consultasdf@arquivonacional.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>- Atendimento à distância do Arquivo Nacional: Praça da República, 173 – Centro – CEP 20211-350 – Rio de Janeiro – RJ- Atendimento à distância da Coordenação Regional do Arquivo Nacional: Setor de Indústrias Gráficas, Quadra 6, Lote 800 – Prédio Anexo da Imprensa Nacional – CEP 70</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/316"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Administração </item>
+		<item>Comunicações</item>
+		<item>Cultura</item>
+		<item>Cidadania</item>
+		<item>Economia e Finanças</item>
+		<item>Educação</item>
+		<item>Habitação</item>
+		<item>Segurança e Ordem Pública</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Urbanismo</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

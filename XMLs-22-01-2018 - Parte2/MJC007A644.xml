@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Expedição de Plano de Segurança Bancário</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>não possui</item>
+	</nomes-populares>
+	<descricao>Após a realização de vistoria nas instalações físicas, a instituição financeira recebe uma Portaria aprovando o plano de segurança. O plano de segurança é a garantia de que as instalações das instituições financeiras estão de acordo com as regras da legislação vigente, com relação aos elementos de segurança obrigatórios, proporcionando assim uma maior segurança aos usuários e funcionários dos estabelecimentos bancários.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1- Apresentação do requerimento pela instituição financeira2- Receber a vistoria no local pela PF.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Proposta de plano de segurança e comprovante de pagamento da taxa de vistoria, com certificação digital</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://servicos.dpf.gov.br/gesp</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/316"/>
+	<areas-de-interesse>
+		<item>Segurança e Ordem Pública</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>NÃO SE APLICA</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>PROMOÇÃO COMERCIAL</item>
+	</nomes-populares>
+	<descricao>Emitir autorizações e fiscalizar — salvo hipótese de atribuição legal de competência atribuída a outro órgão ou entidade — as atividades de distribuição gratuita de prêmios, a título de propaganda (mediante sorteio, vale-brinde, concurso ou operação assemelhada) e de captação de poupança popular, nos termos da Lei nº 5.768, de 20 de dezembro de 1971, do Decreto nº 70.951, de 9 de agosto de 1972, da Portaria MF nº 41, de 19 de fevereiro de 2008, da Portaria SEAE nº 88, de 28 de setembro de 2000, da Portaria MF nº 54, de 22 de julho de 2008 e da Portaria nº 422, de 18 de julho de 2013.   Escreva um resumo com a natureza do serviço, os(as) usuários(as) e o produto ou benefício recebido. O foco aqui são as interações com o(a) usuário(a).Interações são entendidas como os momentos de contato entre o Poder Público (ou seus intermediários) e os (as) usuários (as) na prestação do serviço, como agendamento, apresentação da demanda, entrega de documentos, etc.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Protocolar solicitação de autorização de Promoção Comercial ou Captação Antecipada de Poupança.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>Certidões de cartório</item>
+					<item>Certidões da Receita Federal</item>
+					<item>Certificado de antecedentes criminais</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de pagamento</item>
+					<item>Comprovante de renda</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+					<item>Registro da Junta Comercial</item>
+					<item>Registro em Cartório</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Secretaria de Acompanhamento Economico do Ministerio da Fazenda (SEAE)</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Endereço - SedeEsplanada dos Ministérios - Bloco P - Sala 309 – CEP 70048-900 - Brasília - DFTelefones(55) (61) 3412-2360 - Fax: (55) (61) 3412-1798Horário de Funcionamento do ProtocoloPúblico Externo - das 8h às 18hPúblico Interno - das 8h às 21h</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo></titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Economia e Finanças</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

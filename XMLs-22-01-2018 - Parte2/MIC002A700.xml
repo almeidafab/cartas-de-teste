@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Conduzir investigações de subsídio.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>investigação de subsídios</item>
+		<item>aplicação de medida compensatória</item>
+	</nomes-populares>
+	<descricao>A investigação consiste na apuração da existência da prática de subsídio acionável por parte dos países exportadores, de dano à indústria doméstica brasileira e de nexo de causalidade entre esses dois elementos. Caso haja uma determinação positiva a respeito da existência de subsídio acionável, do dano e do nexo de causalidade, propõe-se à Câmara de Comércio Exterior (CAMEX) a aplicação de medida compensatória a fim de contornar os efeitos negativos à indústria doméstica, na forma de alíquotas ad valorem ou específicas, fixas ou variáveis, ou pela combinação de ambas. Dessa forma, cabe ressaltar que a entrega do resultado da investigação, ou seja, a aplicação de medida compensatória, não é realizada pelo DECOM diretamente ao usuário, uma vez que a atividade do DECOM se restringe a conduzir a investigação e a recomendar a aplicação à CAMEX.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1 – Apresentação da petiçãoO usuário do serviço protocola, em meio físico, a petição de início de investigação de subsídio. A petição escrita é apresentada pela indústria doméstica ou em seu nome, conforme o disposto na Circular SECEX nº 20/1996.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Petição com informações detalhadas da(s) empresa(s), conforme o disposto na Circular SECEX nº 20/1996.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Departamento de Defesa Comercial - Ministério da Indústria, Comércio Exterior e Serviços – Esplanada dos Ministérios, Bloco J – Sala 408 - Brasília – DF - CEP 70053-900.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>2 – Pedido de informações complementares à petiçãoO usuário é demandado a apresentar informações complementares à sua petição de início de investigação de subsídio. Cabe a ele responder a perguntas encaminhadas pelo DECOM e apresentar dados adicionais àqueles constantes da petição. A petição é analisada em 20 dias contados do protocolo. O prazo para fornecimento das informações complementares ou das novas informações solicitadas será determinado pela SECEX, de acordo com a sua natureza, e comunicado ao peticionário. O DECOM analisa as informações complementares em 20 dias, a contar da data do recebimento dos dados. Os prazos de cada etapa da investigação estão dispostos no Decreto nº 1.751, d</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; o usuário deve protocolar as respostas às solicitações do DECOM, as quais variam de caso a caso.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Departamento de Defesa Comercial - Ministério da Indústria, Comércio Exterior e Serviços – Esplanada dos Ministérios, Bloco J – Sala 408 - Brasília – DF - CEP 70053-900.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>3 – Edição de parecer de início, publicação de Circular SECEX de início e emissão de notificaçõesO DECOM emite seu parecer para iniciar a investigação e publica a Circular SECEX de início do processo no Diário Oficial da União (DOU). Após a publicação da Circular são emitidas as notificações comunicando o usuário (peticionário) e as demais partes interessadas no processo do início da investigação.O usuário não precisa realizar nenhuma atividade nessa etapa, cabendo-lhe apenas receber os documentos emitidos pelo DECOM.O usuário será notificado em 20 dias a partir da data de entrega das novas informações se a petição está devidamente instruída ou se foi considerada definitivamente inepta; e, tendo em vista a necessidade de realizar consultas com os governos cujos produtos possam vir a ser objeto de investigação, será notificado da determinação, positiva ou negativa, quanto à abertura da investigação no prazo de 50 dias contados da data de expedição da comunica</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; o usuário pode acessar o parecer de início nos autos do processo e a Circular SECEX de início no DOU. As notificações de início são encaminhadas por ofício, via correspondência, para o usuário e demais partes interessadas.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>4 – Verificação in loco no usuárioO DECOM solicita anuência para realizar visita de verificação in loco nas empresas usuárias do serviço (peticionárias). A visita consiste em checar a acurácia dos dados apresentados na petição de início da investigação e produzir um relatório dos trabalhos desenvolvidos.Iniciada a investigação, o DECOM comunicará ao usuário a intenção de realizar verificação in loco. O usuário deve manifestar sua anuência expressa à realização da verificação. Em regra, o procedimento de verificação in loco dura 5 dias; após a visita, o relatório de verificação será disponibilizado ao usuário nos autos do processo.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>N</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Departamento de Defesa Comercial - Ministério da Indústria, Comércio Exterior e Serviços – Esplanada dos Ministérios, Bloco J – Sala 408 - Brasília – DF - CEP 70053-900 (para que usuário protocole o documento</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>5</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; o usuário pode acessar o parecer de determinação preliminar nos autos do processo e a Circular SECEX de determinação preliminar no DOU. As notificações são encaminhadas por ofício, via correspondência, para o usuário e demais partes interessadas.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>6 – Instrução do processoEm várias fases do processo o usuário tem a oportunidade de se manifestar, protocolando documentos com suas alegações e com as informações que julgar necessárias à sua participação na investigação.O usuário pode protocolar elementos de prova durante toda a fase probatória da investigação, que será encerrada em 15 dias contados da realização da audiência final do processo.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; o usuário pode protocolar os documentos e informações que desejar, respeitando os prazos das diferentes fases da investigação. Esses prazos e fases variam de caso a caso, estando todos previstos no Decreto nº 1.751, de 1995.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Departamento de Defesa Comercial - Ministério da Indústria, Comércio Exterior e Serviços – Esplanada dos Ministérios, Bloco J – Sala 408 - Brasília – DF - CE</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>7 – Disponibilização de nota técnica contendo fatos essenciais e realização de audiência finalO DECOM divulga para as partes interessadas a nota técnica contendo os fatos essenciais que se encontram em análise e que serão considerados na determinação final da investigação, e realiza audiência final para apresentação desses fatos.A audiência será realizada antes de ser formulado o parecer com vistas à determinação final, mas não há prazo estabelecido no Decreto nº 1.751, de 1995, para conclusão dessa etapa. O prazo é estabelecido pelo DECOM, conforme as peculiaridades da investigação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; a nota técnica é disponibilizada ao usuário nos autos do processo. Para participar da audiência, o usuário deve indicar seus representantes legais até 5 dias antes de sua realização.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Departamento de Defesa Comercial - Ministério da Indústria, Comércio Exterior e Serviços – Esplanada dos Ministérios, Bloco J – Sala 408 - Brasília – DF - CE</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>8 - Edição de parecer de determinação final e emissão de notificaçõesO DECOM emite seu parecer de determinação final e encaminha para análise da Câmara de Comércio Exterior – CAMEX (órgão responsável pela aplicação de medidas compensatórias). Quando a CAMEX publica sua Resolução de encerramento da investigação, o DECOM emite as notificações comunicando o usuário (peticionário) e as demais partes interessadas no processo da aplicação da medida compensatória.O usuário não precisa realizar nenhuma atividade nessa etapa, cabendo-lhe apenas receber os documentos emitidos pelo DECOM.As investigações serão concluídas no prazo de um ano após abertura, exceto em circunstâncias excepcionais, quando o prazo poderá ser de até dezoito me</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>N</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/3162"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

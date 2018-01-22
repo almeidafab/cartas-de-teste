@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Cálculo e revisão da garantia física de energia de empreendimentos de geração de energia elétrica.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não</item>
+	</nomes-populares>
+	<descricao>O Decreto nº 5.163, de 30 de julho de 2004, estabeleceu para o Ministério de Minas e Energia – MME a responsabilidade de definir a garantia física de energia de um empreendimento de geração, que corresponde a quantidade máxima de energia elétrica associada ao empreendimento que poderá ser utilizada para comprovação de atendimento a carga ou comercialização por meio de contratos. O processo de cálculo/revisão é concluído por meio de publicação de portaria deste Ministério definindo o montante de garantia física do empreendimento. O atendimento ao público externo para tratar do assunto é feito e por telefone e email. As demandas por email são recebidas por meio do correio eletrônico garantia.fisica@mme.gov , vindas principalmente de agentes do setor elétrico, solicitando esclarecimento de dúvidas relacionadas aos procedimentos e metodologias de cálculo e revisão da garantia física de energia, assim como informações sobre o andamento dos seus processos.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Se a ANEEL nos enviar os dados do empreendimento devidamente homologados e completos não há necessidade de interagirmos com o interessado.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>garantia.fisica@mme.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2852"/>
+	<areas-de-interesse>
+		<item>Energia</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

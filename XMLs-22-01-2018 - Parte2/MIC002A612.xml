@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Examinar pleitos de fixação de novos Processos Produtivos Básicos (PPB) ou alteração dos já existentes.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não</item>
+	</nomes-populares>
+	<descricao>Consiste no estabelecimento do conjunto mínimo de etapas fabris que as empresas devem realizar para fazer jus aos benefícios fiscais estabelecidos na Lei de Informática e no Decreto-Lei n. 288/67 (Zona Franca de Manaus) na produção de determinado produto.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentação de formulário de solicitação de fixação ou alteração de PPB (atualmente, o MDIC tem aceitado solicitações via e-mail para agilizar o processo).</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Outro: ficha constante no anexo da Portaria Interministerial MDCI/MCTIC nº 170/2010, disponível no endereço eletrônico http://www.mct.gov/index.php/content/view/322656.html</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>cgel.ppb@mdic.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Ao usuário é facultado manifestar-se quanto à Consulta Pública divulgada pelo MDIC ou agendar reuniões presenciais.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Ministério da Indústria, Comercio Exterior e Serviços (MDIC), Superintendência da Zona Franca de Manaus (SUFRAMA) ou Ministério da Ciência, Tecnologia, Inovações e Comunicaçõe</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6120277300.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>cgel.ppb@mdic.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/3162"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Cultura</item>
+		<item>Economia e Finanças</item>
+		<item>Educação</item>
+		<item>Indústria</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Trabalho</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

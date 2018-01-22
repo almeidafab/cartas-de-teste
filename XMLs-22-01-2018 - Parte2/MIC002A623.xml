@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Iniciar investigação de origem não preferencial</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Procedimento por meio do qual este DEINT afere a veracidade da origem declarada do produto, de forma a coibir a burla a medidas de defesa comercial aplicadas contra determinadas origens.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentar denúncias de falsa declaração de origem: os interessados, atendendo as disposições do art. 6o da Portaria SECEX no 38/2015, apresentarão denúncia de falsa declaração de origem contra determinados países.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>Procuração do representante legal</item>
+					<item>As informações necessárias constam do art. 6o da Portaria SECEX no 38/2015, quais sejam:   I - nome, endereço comercial e representação do interessado; II - nome e contato dos funcionários responsáveis pelo acompanhamento do pleito; III - classificação do bem na Nomenclatura Comum do Mercosul (NCM); IV - descrição pormenorizada do bem, contendo suas características principais e destinação de uso, acompanhada de catálogos, quando for o caso; V - descrição pormenorizada dos fatos que fundamentam a denúncia, indicando os países de origem envolvidos; VI - descrição pormenorizada dos processos produtivos para a fabricação do bem, com destaque para os insumos utilizados e sua classificação na NCM; VII - alterações nos fluxos de importação brasileira do bem por país de origem, especialmente aquelas ocorridas após o início do procedimento que deu origem à implementação de instrumentos não preferenciais de política comercial, incluindo a aplicação ou a última prorrogação da medida de defesa comercial; VIII - informação sobre a produção mundial, os canais de distribuição e os importadores brasileiros do bem, sempre que possível; e IX - informação sobre os produtores conhecidos, a existência de capacidade instalada e de volume de produção do bem no país de origem declarada, sempre que possível. CPF Carteira de identidade Comprovante de endereço Certidão de nascimento Certidão de casamento Carteira de trabalho Certidões de cartório Certidões da Receita Federal Comprovante de quitação eleitoral Passaporte Outro</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Esplanada dos Ministérios J - Zona Cívico-Administrativa, Brasília - DF, 70053-900.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Responder ao Pedido de Informações Complementares</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Os documentos solicitados variarão conforme as deficiências da denúncia, por exemplo: contrato social, catálogo comercial do produto, entre outros.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Esplanada dos Ministérios J - Zona Cívico-Administrativa, Brasília - DF, 70053-900</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/3162"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Indústria</item>
+		<item>Relações Internacionais</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

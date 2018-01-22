@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Habilitação ao Programa de Incentivo à Inovação Tecnológica e Adensamento da Cadeia Produtiva de Veículos Automotores (Inovar-Auto)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Inovar-Auto</item>
+	</nomes-populares>
+	<descricao>Habilitar empresas para usufruírem os benefícios do Programa Inovar-Auto de que trata a lei nº 12.715, de 2012, e Decreto nº 7.819, de 2012, para permitir às empresas habilitadas o usofruto da redução de Imposto sobre Produtos Industrializados – IPI – no montante de até 30 pontos percentuais na saída dos automóveis, veículos comerciais leves, caminhões e chassis com motor, dentre outros benefícios previstos na legislação.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentação do pedido de habilitação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Requerimento de Habilitação ao Inovar-Auto, Contrato Social da Empresa, Procuração do representante legal da empresa, comprovante de regularidade em relação aos tributos federais e declaração da empresa em assumir níveis mínimos de eficiência energética</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/3162"/>
+	<areas-de-interesse>
+		<item>Indústria</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

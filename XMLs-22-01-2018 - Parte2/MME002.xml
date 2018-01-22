@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Acesso ao Serviço Público de Transmissão de Energia Elétrica e Conexão à Rede Básica do Sistema Interligado Nacional</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Acesso à Rede Básica</item>
+	</nomes-populares>
+	<descricao>O Decreto nº 5.597, de 28 de novembro de 2005, estabeleceu para o Ministério de Minas e Energia – MME a responsabilidade de conduzir, instrumentar, analisar e emitir Portaria reconhecendo enquadramento, pelo disposto no referido Decreto, de consumidores potencialmente, parcialmente, ou totalmente livres interessados em acessar o Serviço Público de Transmissão de Energia Elétrica e conectar-se à Rede Básica do Sistema Interligado Nacional. O processo administrativo junto à Secretaria de Planejamento e Desenvolvimento Energético – SPE compreende a realização dos estudos técnicos pela unidade interessada, para fins de subsidiar elaboração do parecer técnico do MME que fundamentará a emissão da portaria para a sua conexão à Rede Básica, se for o caso. Ao longo do processo, as interações entre a equipe técnica da SPE e o ente privado são constantes, seja de forma presencial ou via contato telefônico e e-mail.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="90" max="120" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentação do projeto e dados para abertura do processo.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Demanda Energética do projeto, dados do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Ministério de Minas e Energia</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>thiago.prado@mme.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Esplanada dos ministérios, bloco U, sala 552</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Apresentação do estudo técnico de mínimo custo global indicando o ponto ótimo de conexão à rede Básica do SIN.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Estudo de Mínimo Custo Global</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Ministério de Minas e Energia</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>thiago.prado@mme.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Esplanada dos Ministérios, Bloco U, sala 552</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2852"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Energia</item>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

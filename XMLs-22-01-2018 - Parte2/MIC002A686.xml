@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Conduzir investigações de salvaguarda.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Salvaguarda</item>
+	</nomes-populares>
+	<descricao>A investigação consiste na apuração de aumento de importações do produto investigado, de prejuízo grave à indústria doméstica e de nexo de causalidade entre esses dois elementos. Caso haja uma determinação positiva a respeito da existência de prejuízo grave, propõe-se à Câmara de Comércio Exterior (CAMEX) a aplicação de salvaguarda às importações, independentemente da sua origem, na forma de elevação da Tarifa Externa Comum (TEC) ou de restrição quantitativa. Dessa forma, cabe ressaltar que a entrega do resultado da investigação, ou seja, a aplicação de medidas de salvaguarda, não é realizada pelo DECOM diretamente ao usuário, uma vez que a atividade do DECOM se restringe a conduzir a investigação e a recomendar a aplicação à CAMEX.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1 – Apresentação da petiçãoO usuário do serviço protocola a petição de início de investigação de salvaguarda. A petição escrita é apresentada pela indústria doméstica ou em seu nome, conforme o disposto na Portaria SECEX nº 19/1996.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Petição com informações detalhadas da(s) empresa(s), conforme o disposto na Portaria SECEX nº 19/1996.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Departamento de Defesa Comercial - Ministério da Indústria, Comércio Exterior e Serviços – Esplanada dos Ministérios, Bloco J – Sala 408 - Brasília – DF - CEP 70053-900.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>2 – Pedido de informações complementares à petiçãoO usuário é demandado a apresentar informações complementares à sua petição de início de investigação de salvaguarda. Cabe a ele responder a perguntas encaminhadas pelo DECOM e apresentar dados adicionais àqueles constantes da petição. Não há prazos estabelecidos no Decreto nº 1.488, de 1995, para análise da petição e solicitação de informações complementares. O prazo é estabelecido pelo DECOM, conforme as peculiaridades da investigação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; o usuário deve protocolar as respostas às solicitações do DECOM, as quais variam de caso a caso.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Departamento de Defesa Comercial - Ministério da Indústria, Comércio Exterior e Serviços – Esplanada dos Ministérios, Bloco J – Sala 408 - Brasília – DF - CEP 70053-900.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>3 – Edição de parecer de início, publicação de Circular SECEX de início e emissão de notificaçõesO DECOM emite seu parecer para iniciar a investigação e publica a Circular SECEX de início do processo no Diário Oficial da União (DOU). Após a publicação da Circular são emitidas as notificações comunicando o usuário (peticionário) e as demais partes interessadas no processo do início da investigação.O usuário não precisa realizar nenhuma atividade nessa etapa, cabendo-lhe apenas receber os documentos emitidos pelo DECOM.Não há prazos estabelecidos no Decreto nº 1.488, de 1995, para conclusão dessa etapa. O prazo é estabelecido pelo DECOM, conforme as peculiaridades da investigação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; o usuário pode acessar o parecer de início nos autos do processo e a Circular SECEX de início no DOU. As notificações de início são encaminhadas por ofício, via correspondência, para o usuário e demais partes interessadas.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>4 – Verificação in loco no usuárioO DECOM solicita anuência para realizar visita de verificação in loco nas empresas usuárias do serviço (peticionárias). A visita consiste em checar a acurácia dos dados apresentados na petição de início da investigação e produzir um relatório dos trabalhos desenvolvidos.Não há prazos estabelecidos no Decreto nº 1.488, de 1995, para realização de verificação in loco e emissão do relatório da visita. O prazo é estabelecido pelo DECOM, conforme as peculiaridades da investigação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>N</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Departamento de Defesa Comercial - Ministério da Indústria, Comércio Exterior e Serviços – Esplanada dos Ministérios, Bloco J – Sala 408 - Brasília – DF - CEP 70053-900 (para que usuário protocole o documento</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>5</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; o usuário pode protocolar os documentos e informações que desejar, respeitando o prazo para conclusão da investigação.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Departamento de Defesa Comercial - Ministério da Indústria, Comércio Exterior e Serviços – Esplanada dos Ministérios, Bloco J – Sala 408 - Brasília – DF - CEP 70053-900</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>6 - Edição de parecer de determinação final e emissão de notificaçõesO DECOM emite seu parecer de determinação final e encaminha para análise da Câmara de Comércio Exterior - CAMEX (órgão responsável pela aplicação de medidas de salvaguarda). Quando a CAMEX publica sua Resolução de encerramento da investigação, o DECOM emite as notificações comunicando o usuário (peticionário) e as demais partes interessadas no processo da aplicação de medidas de salvaguarda.O usuário não precisa realizar nenhuma atividade nessa etapa, cabendo-lhe apenas receber os documentos emitidos pelo DECOM.Não há prazos estabelecidos no Decreto nº 1.488, de 1995, para conclusão dessa etapa. O prazo é estabelecido pelo DECOM, conforme as pecu</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; o usuário pode acessar o parecer de determinação final nos autos do processo e a Resolução CAMEX de aplicação de medidas de salvaguarda no DOU. As notificações são encaminhadas por ofício, via correspondência, para o usuário e demais partes interessadas.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/3162"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

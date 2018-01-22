@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Conduzir revisão de direito antidumping ao final do período de sua aplicação</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Revisão de dumping</item>
+		<item>revisão antidumping</item>
+		<item>prorrogação de medida antidumping</item>
+	</nomes-populares>
+	<descricao>A revisão consiste no exame da necessidade de continuar a aplicar o direito antidumping após o período originalmente fixado para sua vigência. Caso haja uma determinação positiva a respeito, propõe-se à Câmara de Comércio Exterior (CAMEX) a continuação da aplicação de direito antidumping a fim de contornar prováveis efeitos negativos à indústria doméstica que poderiam decorrer de sua extinção, na forma de alíquotas ad valorem ou específicas, fixas ou variáveis, ou pela conjugação de ambas. Dessa forma, cabe ressaltar que a entrega do resultado da revisão, ou seja, a prorrogação de direito antidumping, não é realizada pelo DECOM diretamente ao usuário, uma vez que a atividade do DECOM se restringe a conduzir a revisão e a recomendar a prorrogação da aplicação à CAMEX.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1 – Apresentação da petiçãoO usuário do serviço protocola, em meio eletrônico, a petição de revisão de direito antidumping ao final do período de sua aplicação. A petição escrita é apresentada pela indústria doméstica ou em seu nome, conforme o disposto na Portaria SECEX nº 44/2013; e protocolada no Sistema DECOM Digital – SDD, em conformidade com o disposto na Portaria SECEX nº 28, de 29 de julho de 2013. O endereço do SDD é http://decomdigital.mdic.gov.br .</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Petição com informações detalhadas da(s) empresa(s), conforme o disposto na Portaria SECEX nº 44/2013. O protocolo no Sistema DECOM Digital – SDD exige a utilização de Certificado digital de pessoa física em conformidade com o disposto na Portaria SECEX nº 28, de 29 de julho de 2013.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://decomdigital.mdic.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>2 – Pedido de informações complementares à petiçãoO usuário é demandado a apresentar informações complementares à sua petição de revisão de direito antidumping ao final do período de sua aplicação. Cabe a ele responder a perguntas encaminhadas pelo DECOM e apresentar dados adicionais àqueles constantes da petição. A petição é analisada em 15 dias. O usuário tem o prazo de 5 dias para fornecer as informações solicitadas pelo DECOM, contados da data de ciência da comunicação, que é de 5 dias da data de expedição do ofício. O DECOM analisa as informações complementares em 10 dias, a contar da data do recebimento dos dados. Os prazos de cada etapa da revisão estão dispostos no Decreto nº 8.058</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; o usuário deve protocolar as respostas às solicitações do DECOM, as quais variam de caso a caso.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://decomdigital.mdic.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>3 – Verificação in loco no usuárioO DECOM solicita anuência para realizar visita de verificação in loco nas empresas usuárias do serviço (peticionárias). A visita consiste em checar a acurácia dos dados apresentados na petição de início da revisão e produzir um relatório dos trabalhos desenvolvidos.Antes de iniciada a revisão, o DECOM comunicará ao usuário a intenção de realizar verificação in loco. A comunicação será formalizada por escrito, com uma antecedência mínima da data sugerida para a verificação de 20 dias. No prazo de dois dias, contado da data de ciência da comunicação - que no caso de parte interessada nacional é de 5 dias -, o usuário deve manifestar, por escrito, sua anuência expressa à realização da verificação. Em regra, o procedimento de verificação in loco dura 5 dias. Finalmente, o relatório de verificação será disponibilizado ao usuário no prazo de quinze dias. Dessa forma, a etapa leva no mínimo 47 dias para ser finalizada.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; o usuário deve protocolar a concordância com a visita e estar disponível para atender aos técnicos do DECOM durante a verificação.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>h</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>4 – Edição de parecer de início, publicação de Circular SECEX de início e emissão de notificaçõesO DECOM emite seu parecer para iniciar a revisão e publica a Circular SECEX de início do processo no Diário Oficial da União (DOU). Após a publicação da Circular são emitidas as notificações comunicando o usuário (peticionário) e as demais partes interessadas no processo do início da revisão.O usuário não precisa realizar nenhuma atividade nessa etapa, cabendo-lhe apenas receber os documentos emitidos pelo DECOM.O usuário será notificado em 15 dias a respeito do início da revisão, a contar do final do prazo de análise das informações complementares.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>N</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>5</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; o usuário pode acessar a Circular SECEX com os prazos da revisão no DOU. As notificações são encaminhadas por ofício, via correspondência, para o usuário e demais partes interessadas.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>6 – Instrução do processoEm várias fases do processo o usuário tem a oportunidade de se manifestar, protocolando documentos com suas alegações e com as informações que julgar necessárias à sua participação na revisão.O usuário pode protocolar elementos de prova durante toda a fase probatória da revisão, que será encerrada em prazo não superior a 120 dias, contado da data de publicação da determinação preliminar. A fase de manifestações sobre os dados e as informações constantes do processo, por sua vez, será encerrada em 20 dias contados da data de encerramento da fase probatória da revisão. Além disso, o usuário tem o prazo de 20 dias, contado da data de divulgação da nota técnica, para apresentar suas manifest</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; o usuário pode protocolar os documentos e informações que desejar, respeitando os prazos das diferentes fases da revisão. Esses prazos e fases variam de caso a caso, estando todos previstos no Decreto nº 8.058, de 2013.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://decomdigital.mdic.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>7 – Disponibilização de nota técnica contendo fatos essenciaisO DECOM divulga para as partes interessadas a nota técnica contendo os fatos essenciais que se encontram em análise e que serão considerados na determinação final da revisão. O usuário não precisa realizar nenhuma atividade nessa etapa, cabendo-lhe apenas receber os documentos emitidos pelo DECOM.A nota técnica é divulgada no prazo de trinta dias, contado da data de encerramento da fase de manifestações.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; a nota técnica é disponibilizada ao usuário nos autos eletrônicos do processo.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>8 - Edição de parecer de determinação final e emissão de notificaçõesO DECOM emite seu parecer de determinação final e encaminha para análise da Câmara de Comércio Exterior - CAMEX (órgão responsável pela prorrogação da aplicação de direito antidumping). Quando a CAMEX publica sua Resolução de encerramento da revisão, o DECOM emite as notificações comunicando o usuário (peticionário) e as demais partes interessadas no processo da prorrogação da aplicação do direito.O usuário não precisa realizar nenhuma atividade nessa etapa, cabendo-lhe apenas receber os documentos emitidos pelo DECOM.A revisão será concluída no prazo de 10 meses, contado da data do início da investigação, exceto em circunstâncias excepcionais, quando o prazo</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>N</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/3162"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

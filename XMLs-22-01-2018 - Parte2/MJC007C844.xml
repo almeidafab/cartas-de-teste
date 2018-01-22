@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Registro para executar serviço de microfilmagem.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Microfilmagem</item>
+	</nomes-populares>
+	<descricao>Registro das empresas interessadas em atuar com serviços de microfilmagem. Todas as entidades, antes de microfilmar documentos, devem solicitar ao Ministério da Justiça e Cidadania sua autorização.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Encaminhamento da documentação para análise do Orgão.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>Cópia autenticada do contrato social; Cartão de CNPJ; Cópia autenticada do ato de nomeação do titular, e substituto, responsável pelo serviço notarial ou de registro; Qualificação completa dos dirigentes da empresa ou do titular do serviço notarial ou de registro e do responsável pela execução da microfilmagem; Comprovante de endereço da sede da empresa ou do serviço notarial ou de registro e do local da execução da microfilmagem; Descrição do equipamento a ser utilizado na microfilmagem e prova da sua titularidade; Declaração expressa do interessado na inscrição de que informará ao Ministério da Justiça e Cidadania eventuais alterações com relação à denominação, mudança de endereço ou substituição do responsável pela da microfilmagem.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Protocolo Geral do Ministério da Justiça e Cidadania, Esplanada dos Ministérios, Bloco T, Anexo II, CEP: 70.064-900 - Brasília – DF.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://protocoloeletronico.mj.gov.br/protocolo_eletronico/pages/externo/login_externo.jsf</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Ministério da Justiça e Cidadania, Secretaria Nacional de Justiça e Cidadania, Departamento de Políticas de Justiça, Divisão de Administração, Esplanada dos Ministérios, Bloco T, Anexo II, CEP: 70.064-900 – Brasília – DF.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/316"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

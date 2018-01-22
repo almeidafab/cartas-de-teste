@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Desenvolver ações, em conjunto com instituições parceiras, para auxiliar empresas durante o processo de exportação.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Plano Nacional da Cultura Exportadora – PNCE</item>
+	</nomes-populares>
+	<descricao>O objetivo do PNCE é aumentar a base exportadora do Brasil. E o Plano se estrutura da seguinte maneira: no âmbito federal, o MDIC conta com interlocutores estaduais e mantém um sistema informatizado de cadastramento, planejamento, execução e monitoramento de ações que serão realizadas junto às empresas em sua esfera de atuação; no plano estadual, existem os comitês estaduais, dos quais fazem parte as instituições parceiras do PNCE, a exemplo do governo do estado, Sebrae, federação estadual das indústrias, etc. São os membros desse comitê que estabelecem contato mais estreito com as empresas. Aos interlocutores do MDIC, cabe o contato permanente com os comitês estaduais, a fim de poder oferecer auxílio no enfrentamento de questões relativas a órgãos federais ou no sentido de apresentar soluções a problemas específicos.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Realizar cadastro.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/3162"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Economia e Finanças</item>
+		<item>Indústria</item>
+		<item>Relações Internacionais</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

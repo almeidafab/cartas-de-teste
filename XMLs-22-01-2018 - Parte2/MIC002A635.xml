@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Vitrine do Exportador</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Vitrine do Exportador</item>
+	</nomes-populares>
+	<descricao>A Vitrine do Exportador (VE) é uma iniciativa do Governo Federal com o objetivo de divulgar na web as empresas brasileiras e seus produtos e serviços no mercado internacional. Atualmente participam da VE cerca de 27 mil exportadores de bens e cerca de 9 mil exportadores de serviços, cuja base de dados é atualizada mensalmente por meio da inclusão automática de novos exportadores que realizaram operações no Sistema Integrado de Comércio Exterior (Siscomex) ou Sistema Integrado de Comércio Exterior de Serviços (Siscoserv). As empresas já integrantes também têm as suas operações atualizadas mensalmente, pelo acréscimo de novos produtos e mercados. De modo a conferir dinamismo às informações da Vitrine do Exportador, são mantidas na VE as empresas que exportaram nos dois últimos exercícios – ano anterior e corrente.A VE oferece o serviço “Vitrine Virtual”, que possibilita à empresa participante customizar sua página nos idiomas português, inglês e espanhol, mediante inserção de texto de apresentação, além de informações comerciais, imagens, vídeo, geolocalização, principais produtos e regiões de destino. Importadores estrangeiros interessados em fazer negócios podem acessar a Vitrine do Exportador e enviar propostas diretamente às empresas participantes por meio de formulário existente na vitrine virtual.As empresas que ainda não exportam, mas possuem potencial exportador, podem solicitar adesão à VE acessando o site e enviando o formulário disponível em “Potencial Exportador - solicite adesão”, localizado na página principal.Empresas que eventualmente não tenham interesse em participar da VE devem enviar mensagem pelo “Comex Responde”, disponível na página principal, solicitando o descadastramento. É importante destacar que todos os serviços oferecidos pela Vitrine do Exportador são gratuitos.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrever-se no cadastro preenchendo os campos necessários.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>CPF</item>
+					<item>CNPJ e dados comerciais</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6120279295.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.vitrinedoexportador.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>vitrinedoexportador@mdic.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/3162"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Economia e Finanças</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Controle de Segurança Privada</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Controle de Segurança Privada</item>
+	</nomes-populares>
+	<descricao>A empresa que pretende prestar serviços de segurança privada precisa ser autorizada pela PF a funcionar. Após seu funcionamento deve ainda obter autorização para outras atividades e serviços específicos que pretender executar, na forma da legislação e regulamentos vigentes. Ela só pode empregar profissionais capacitados a prestar tais atividades, os quais deverão ser habilitados e cadastrados também pela PF.O Controle de Segurança Privada compreende:1- Carteira Nacional de Vigilante (CNV);2 - Registro de Certificado de Formação do Vigilante;3 - Guia de Transporte de produtos controlados (armas, munições, petrechos de recarga e coletes balísticos);5 - Certificado de Vistoria de Carro-Forte;6 - Credenciamento de instrutor para escola de formação de vigilante;7 - Autorização de Funcionamento de Empresa;8 - Revisão de Autorização de Funcionamento de Empresa;9 - Autorização para Aquisição de Armas/Munições/Petrechos;10 - Autorização para Aquisição de Coletes Balísticos;11 - Autorização para Alteração de Atos Constitutivos e uniforme;12 - Cancelamento de Atividade a Pedido;13 - Cancelamento de Autorização de Funcionamento a Pedido.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1- Apresentação do requerimento pelo interessado, com os documentos necessários2- Receber a vistoria no local pela PF, se for ocaso.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certificado de antecedentes criminais</item>
+					<item>Certificado de conclusão de curso</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de quitação eleitoral</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>Diploma</item>
+					<item>Os documentos variam conforme o caso, podendo ser necessário ainda: comprovante de escolaridade, certificado de formação, CNPJ, contrato social, apólice de seguro, sistema de telecomunicação, CRLV e contratos de prestação de serviço.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Nas sedes das delegacias de Polícia Federal em todo o país (endereços no site www.pf.gov.br)</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://servicos.dpf.gov.br/gesp/</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>cgcsp@dpf.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/316"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Segurança e Ordem Pública</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

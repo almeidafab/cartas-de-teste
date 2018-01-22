@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Certificado de Registro Especial de Empresas Comerciais Exportadoras (Trading Companies)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não</item>
+	</nomes-populares>
+	<descricao>Serviço de exame e análise de solicitações de inscrição, atualização e cancelamento do Registro de Empresas Comerciais Exportadoras (Trading Companies), de acordo com o Decreto-Lei nº 1.248, de 1972, que dispõe sobre o tratamento tributário das operações de compra de mercadorias no mercado interno, para o fim específico de exportação. A concessão do registro especial dar-se-á mediante a emissão de certificado de registro especial pelo Departamento de Competitividade no Comércio Exterior e pela Receita Federal do Brasil. As solicitações de Certificado de Registro Especial deverão ser efetuadas por meio de correspondência, em papel timbrado, para o Departamento de Competitividade no Comércio Exterior, no endereço Ministério da Indústria, Comércio Exterior e Serviços, Bloco J, sala 418, Esplanada dos Ministérios, CEP: 70.053-900 , informando a denominação social da empresa, número de inscrição no CNPJ, endereço, telefone e fax, indicando, também, os estabelecimentos que irão operar como empresa comercial exportadora, devidamente acompanhada, para cada estabelecimento, de 2 (duas) vias dos documentos descritos no art. 250 da Portaria SECEX nº 23, de 2011. A concessão do registro especial dar-se-á mediante a emissão de certificado de registro especial pelo Departamento de Competitividade no Comércio Exterior e pela Receita Federal do Brasil.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Envio da documentação  para análise exigida pela legislação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>As solicitações de Certificado de Registro Especial deverão ser efetuadas por meio de correspondência, em papel timbrado, à Coordenação de Competitividade Exportadora –COPEX, do Departamento de Competitividade no Comércio Exterior, no endereço Ministério da Indústria, Comércio Exterior e Serviços, Bloco J, sala 418, Esplanada dos Ministérios, CEP: 70.053-900 , informando a denominação social da empresa, número de inscrição no CNPJ, endereço, telefone e fax, indicando, também, os estabelecimentos que irão operar como empresa comercial exportadora, devidamente acompanhada, para cada estabelecimento, de 2 (duas) vias dos documentos descritos no art. 250 da Portaria SECEX nº 23, de 2011. A concessão do registro especial dar-se-á mediante a emissão de certificado de registro especial pelo Departamento de Competitividade no Comércio Exterior e pela Receita Federal do Brasil.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Esplanada dos Ministérios, bloco J</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/3162"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Economia e Finanças</item>
+		<item>Indústria</item>
+		<item>Relações Internacionais</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Conduzir revisão anticircunvenção.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Revisão de circunvenção</item>
+		<item>investigação de circunvenção, extensão de medida antidumping</item>
+	</nomes-populares>
+	<descricao>A revisão consiste no exame de prática comercial que vise a frustrar a eficácia de medida antidumping vigente (circunvenção) por meio de i) importação de partes/peças originárias de país sujeito à medida antidumping destinadas à montagem no Brasil do produto sujeito à medida em questão; ii) importação de produto originário de terceiros países cuja industrialização com partes/peças de país sujeito à medida antidumping vigente resulte no produto sujeito a tal medida; e iii) importação originária do país sujeito à medida antidumping vigente de produto que apresente modificações marginais em relação ao produto sujeito à referida medida.  Caso seja constatada a circunvenção, os direitos antidumping serão estendidos aos produtos e/ou países que deram origem à prática, por meio de decisão da Câmara de Comércio Exterior – CAMEX. Dessa forma, cabe ressaltar que a entrega do resultado da revisão, ou seja, a extensão de direito antidumping, não é realizada pelo DECOM diretamente ao usuário, uma vez que a atividade do DECOM se restringe a conduzir a revisão e a recomendar a extensão à CAMEX.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1 – Apresentação da petiçãoO usuário do serviço protocola, em meio eletrônico, a petição de revisão anticircunvenção. A petição escrita é apresentada conforme o disposto na Portaria SECEX nº 42/2013; e protocolada no Sistema DECOM Digital – SDD, em conformidade com o disposto na Portaria SECEX nº 28, de 29 de julho de 2013. O endereço do SDD é http://decomdigital.mdic.gov.br .</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Petição com informações detalhadas da(s) prática(s), conforme o disposto na Portaria SECEX nº 42/2013. O protocolo no Sistema DECOM Digital – SDD exige a utilização de Certificado digital de pessoa física em conformidade com o disposto na Portaria SECEX nº 28, de 29 de julho de 2013.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://decomdigital.mdic.gov.br.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>2 – Pedido de informações complementares à petiçãoO usuário é demandado a apresentar informações complementares à sua petição de revisão anticircunvenção. Cabe a ele responder a perguntas encaminhadas pelo DECOM e apresentar dados adicionais àqueles constantes da petição. A petição é analisada em 15 dias. O usuário tem o prazo de 5 dias para fornecer as informações solicitadas pelo DECOM, contados da data de ciência da comunicação, que é de 5 dias da data de expedição do ofício. O DECOM analisa as informações complementares em 10 dias, a contar da data do recebimento dos dados.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>NNão há necessidade de apresentar documentos de identificação; o usuário deve protocolar as respostas às solicitações do DECOM, as quais variam de caso a caso.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://decomdigital.mdic.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>3 – Edição de parecer de início, publicação de Circular SECEX de início e emissão de notificaçõesO DECOM emite seu parecer para iniciar a revisão e publica a Circular SECEX de início do processo no Diário Oficial da União (DOU). Após a publicação da Circular são emitidas as notificações comunicando o usuário (peticionário) e as demais partes interessadas no processo do início da revisão.O usuário não precisa realizar nenhuma atividade nessa etapa, cabendo-lhe apenas receber os documentos emitidos pelo DECOM.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; o usuário pode acessar o parecer de início nos autos eletrônicos do processo e a Circular SECEX de início no DOU. As notificações de início são encaminhadas por ofício, via correspondência, para o usuário e demais partes interessadas.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>4 – Instrução do processoEm várias fases do processo o usuário tem a oportunidade de se manifestar, protocolando documentos com suas alegações e com as informações que julgar necessárias à sua participação na revisão.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>N</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://decomdigital.mdic.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>5</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Não há necessidade de apresentar documentos de identificação; o usuário pode acessar o parecer de determinação final nos autos eletrônicos do processo e a Resolução CAMEX de extensão do direito no DOU. As notificações são encaminhadas por ofício, via correspondência, para o usuário e demais partes interessadas.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/3162"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

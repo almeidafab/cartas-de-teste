@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Qualificação como Organização da Sociedade Civil de Interesse Público (OSCIP)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Certificado de qualificação como OSCIP, Lei nº 9.790/99, Atualização cadastral, certidão de qualificação, OSCIP, cancelamento da qualificação c</item>
+	</nomes-populares>
+	<descricao>Qualificar entidade, sem finalidade lucrativa e de natureza privada, como OSCIP - Organização da Sociedade Civil de Interesse Público, com a finalidade, única e exclusiva, de celebrar Termo de Parceria com o Poder Público, desde que constituída no Brasil e se encontre em funcionamento regular há, no mínimo, 3 anos, conforme objetivos sociais e normas estatutárias que atendam aos requisitos instituídos pela Lei nº 9.790/99 e Decreto nº 3.100/99. Obtida a qualificação, a entidade deverá manter atualizados os seus dados perante o Ministério da Justiça e Cidadania (MJC), relativamente ao seu endereço de sede, razão social, bem como alterações estatutárias que impliquem em mudança do seu regime de funcionamento, sob pena de cancelamento de sua qualificação. Além disso, poderá solicitar a certidão de qualificação exclusivamente para firmar Termo de Parceria. Por fim, a entidade poderá solicitar o cancelamento de sua qualificação como OSCIP.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1 - Requerimento de qualificação como OSCIP: A entidade deve apresentar requerimento, assinado pelo representante legal, endereçado ao Ministério da Justiça e Cidadania, solicitando a qualificação como OSCIP e apresentando toda a documentação necessária, conforme explicitado abaixo. Não é necessária a intermediação por advogados, contadores, etc. ATENÇÃO: informar um endereço de e-mail válido no requerimento, pois ele será utilizado para contatá-lo(a) no curso do processo, se for o caso. DOCUMENTAÇÃO: I - estatuto autenticado e registrado em cartório, que deverá obedecer ao disposto nos arts. 1º, 2º, 3º e 4º da Lei nº 9.790/99; II- ata de eleição da atual diretoria autenticada e registrada em cartório; III - declaração de estar em regular funcionamento há, no mínimo, 3 anos, de acordo com as respectivas finalidades estatutárias; IV - balanço patrimonial e demonstração do resultado do exercício, assinado pelo contador e pelo representante legal, referente ao ano anterior ao pedido de qualificação e em conformidade com as normas brasileiras de contabilidade; V - declaração afirmando que possui isenção do imposto de renda, assinada por seu representante legal; VI - inscrição atualizada no Cadastro Nacional da Pessoa Jurídica. Obs: A entidade que tiver como finalidade a promoção da educação ou da saúde, na forma complementar, prevista em Lei, deverá fazer, no estatuto social, men</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>I - estatuto autenticado e registrado em cartório, que deverá obedecer ao disposto nos arts. 1º, 2º, 3º e 4º da Lei nº 9.790/99; II- ata de eleição da atual diretoria autenticada e registrada em cartório; III - declaração de estar em regular funcionamento há, no mínimo, 3 anos, de acordo com as respectivas finalidades estatutárias; IV - balanço patrimonial e demonstração do resultado do exercício, assinado pelo contador e pelo representante legal, referente ao ano anterior ao pedido de qualificação e em conformidade com as normas brasileiras de contabilidade; V - declaração afirmando que possui isenção do imposto de renda, assinada por seu representante legal; VI - inscrição atualizada no Cadastro Nacional da Pessoa Jurídica.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Protocolo Geral do Ministério da Justiça e Cidadania, Esplanada dos Ministérios, Bloco T, Anexo II, CEP: 70.064-900 - Brasília – DF.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://protocoloeletronico.mj.gov.br/protocolo_eletronico/pages/externo/login_externo.jsf</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Divisão de AdministraçãoDepartamento de Políticas de JustiçaSecretaria Nacional de Justiça e CidadaniaMinistério da Justiça e Segurança PúblicaAnexo II, sala 427 – CEP: 70.064-900 - Brasília, DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/316"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Cultura</item>
+		<item>Educação</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

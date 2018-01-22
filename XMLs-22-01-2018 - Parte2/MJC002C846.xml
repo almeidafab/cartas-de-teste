@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Disque 180 - Central de Atendimento à Mulher</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Ligue 180</item>
+	</nomes-populares>
+	<descricao>A Central de Atendimento à Mulher – Ligue 180 é um serviço essencial estabelecido pela Lei 10.714/2003, e alterado pela Lei 13.025/2014, que autoriza o poder Executivo a disponibilizar, em âmbito nacional, número telefônico destinado a atender denúncias de violências contra as mulheres.O Ligue 180 objetiva prestar uma escuta e acolhida qualificada às mulheres em situação de violência, o serviço também fornece informações sobre os direitos da mulher, sobre onde encontrar o serviço mais próximo e apropriado para o seu caso concreto, direciona a mulher à Casa da Mulher Brasileira, Centros de Referências, Delegacias de Atendimento à Mulher (DEAMs), Defensorias Públicas, Núcleos Integrados de Atendimento às Mulheres, entre outros. Além disso, registra e encaminha denúncias de violência contra a mulher aos órgão competentes, reclamações sobre o funcionamento inadequado dos serviços de atendimento, sugestões e elogios sobre esses mesmos serviços. A ligação é gratuita e o serviço funciona 24 horas por dia, todos os dias da semana. São atendidas todas as pessoas que ligam relatando eventos de violência contra a mulher. O Ligue 180 atende todo território nacional, e também, brasileiras que se encontram em 16 (dezesseis) países.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Mulheres em situação de violência</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Telefonema</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>Não são solicitados documentos</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>180.0000000000</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/42673"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Cidadania</item>
+		<item>Segurança e Ordem Pública</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>S2ID - Sistema Integrado de Informações sobre Desastres</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>NÃO</item>
+	</nomes-populares>
+	<descricao>Sistema criado para que as Defesas Civis Municipais e Estaduais pudessem solicitar Reconhecimento Federal de Situação de Emergência e Estado de Calamidade Pública em suas respectivas regiões. Por meio do pedido do Reconhecimento Federal, o Governo Federal analisa a documentação encaminhada pelo ente federado e autoriza, ou não, o Reconhecimento Federal seja por Situação de Emergência, ou por Estado de Calamidade Pública.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Enviar toda documentação necessária para a Solicitação de Reconhecimento Federal, seja por Situação de Emergência e/ou Estado de Calamidade Pública, pelo ente federado.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ofício, Parecer e Decreto de Solicitação de Reconhecimento Federal emitido pelo ente federado</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>s2id.mi.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/42670"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
