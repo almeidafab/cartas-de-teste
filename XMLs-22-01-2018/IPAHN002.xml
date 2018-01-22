@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Valoração do Patrimônio Cultural Ferroviário</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Qualquer cidadão, organização da sociedade civil ou instituição é competente para requerer a instauração do processo de reconhecimento de um bem móvel ou imóvel, oriundo da extinta Rede Ferroviária Federal – RFFSA, como bem cultural, conforme disposto na Lei nº 11.483/2007 (http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11483.htm) e na Portaria IPHAN nº 407/2010 (http://portal.iphan.gov.br/portal/baixaFcdAnexo.do?id=2933)
+Requisitos para o acesso
+Solicitação formal para inscrição do bem na Lista do Patrimônio Cultural Ferroviário, na qual esteja expressa a necessidade de proteção e a relevância do bem, contendo:
+> Identificação completa do solicitante (nome, endereço, CPF ou CNPJ);
+> Foto atual que permita a identificação do bem;
+> Endereço do bem, quando couber.
+Recebida a solicitação, o IPHAN dará início à instrução processual a fim de identificar os valores pertinentes e estabelecer articulação com vistas à gestão do bem. Após a devida análise técnica, caberá à Comissão de Avaliação do Patrimônio Cultural Ferroviário decidir sobre a inscrição do bem
+na Lista do Patrimônio Cultural Ferroviário.
+Como acessar o serviço
+Por ofício: Dirigido à Superintendência do IPHAN no estado em que o bem se localiza, ou à Presidência do IPHAN.
+Tempo para a prestação do serviço: Até trinta dias, para informar a abertura de processo administrativo.
+De um a cinco anos, para informar o deferimento ou indeferimento do pedido</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>solicitação formal expressando a relevância do bem</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>identificação do bem</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>órgão</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>informação sobre deferimento ou indeferimento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>órgão</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2045"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Cultura</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

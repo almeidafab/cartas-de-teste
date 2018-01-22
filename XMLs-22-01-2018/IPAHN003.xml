@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Chancela da Paisagem Cultural</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>NÃO</item>
+	</nomes-populares>
+	<descricao>Qualquer cidadão, organização da sociedade civil ou instituição é competente para requerer a instauração do processo de Chancela de uma paisagem como bem cultural, conforme disposto na Portaria IPHAN nº 127/2009 (http://portal.iphan.gov.br/portal/baixaFcdAnexo.do?id=1236).
+Podem ser reconhecidas como Paisagem Cultural Brasileira porções peculiares do território nacional, representativas do processo de interação do homem com o meio natural, às quais a vida e a ciência humana imprimiram marcas ou atribuíram valores.
+Requisitos para o acesso
+Solicitação formal expressando a relevância do bem, contendo:
+> Identificação completa do solicitante (nome, endereço, CPF ou CNPJ);
+> Foto atual que permita a identificação do bem;
+> Localização do bem.
+Recebida a solicitação, o IPHAN dará início à instrução processual a fim de identificar os valores pertinentes e elaborar pacto com vistas à gestão do bem. Após a devida análise técnica, caberá ao Conselho Consultivo do Patrimônio Cultural decidir sobre a declaração de chancela.
+SERVIÇOS
+Como acessar o serviço
+Por ofício dirigido à Superintendência do IPHAN no estado em que o bem se localiza, ou à Presidência do IPHAN.
+Tempo para a prestação do serviço: 
+Até trinta dias, para informar a abertura de processo administrativo.
+De um a cinco anos, para informar o deferimento ou indeferimento do pedido.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>SOLICITAÇÃO</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>IDENTIFICAÇÃO DO BEM</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Orgão</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Orgão</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>RECEBIMENTO DA RESPOSTA</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Orgão</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2045"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

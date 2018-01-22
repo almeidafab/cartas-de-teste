@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Realizar acadastro de Bens Arqueológicos</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>NÃO</item>
+	</nomes-populares>
+	<descricao>Qualquer cidadão, organização da sociedade civil ou instituição pública ou privada pode solicitar o reconhecimento de um bem de natureza arqueológica – objetos isolados ou sítios arqueológicos, em razão de descoberta fortuita (ao acaso), conforme disposto na Lei nº 3.924/1961 (http://www.planalto.gov.br/ccivil_03/leis/1950-1969/L3924.htm). 
+Requisito para o acesso
+Solicitação formal expressando a relevância do bem, contendo:
+> Identificação completa do solicitante (nome, endereço, CPF ou CNPJ);
+> Foto atual que permita a identificação do bem, quando couber;
+> Localização do bem, quando couber.
+Recebida a solicitação, o Centro Nacional de Arqueologia – CNA dará início à instrução processual
+objetivando a identificação do bem, a elaboração da ficha de registro e a inserção no Cadastro
+Nacional de Sítios Arqueológicos – CNSA.
+Como acessar o serviço
+Por ofício: Dirigido à Superintendência do IPHAN no estado em que o bem se localiza, ou ao CNA, em Brasília.
+Por e-mail: cna@iphan.gov.br
+Tempo para a prestação do serviço: Noventa dias.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>solicitação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>localização do bem</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2045"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

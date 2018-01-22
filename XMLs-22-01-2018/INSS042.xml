@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Requerer Antecipação de Pagamento da Revisão do Art. 29</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não há</item>
+	</nomes-populares>
+	<descricao>A “Revisão do artigo 29” teve origem a partir de decisão judicial tomada na Ação Civil Pública (ACP) nº. 0002320-59.2012.4.03.6183/SP, que determinou que fosse recalculado o valor de determinados benefícios aplicando-se o percentual inicialmente fixado pela Lei nº 9.876/99, ou seja, 80% dos maiores salários-de-contribuição dentro do período básico de cálculo. À época, entre 17/4/2002 até 29/10/2009, estes benefícios foram calculados com base em 100% dos salários-de-contribuição.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Disponibilização do enquadramento ou não no serviço.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>unidade de atendimento do INSS</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>meu.inss.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="aplicativo-movel">
+						<descricao>meu inss (android)</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1934"/>
+	<areas-de-interesse>
+		<item>Previdência Social</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

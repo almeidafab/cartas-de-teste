@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar participação do processo seletivo para o curso stricto sensu, em nível de Doutorado Acadêmico, no campo da Propriedade Intelectual e Inovação.</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Destina-se à pessoa física que pretenda ingressar no curso stricto sensu, em nível de Doutorado Acadêmico, no campo da Propriedade Intelectual e Inovação, para aprimorar sua competência científica e tecnológica e obter uma visão sobre a utilização estratégica dos ativos de propriedade intelectual como força propulsora do sistema de inovação e desenvolvimento, seja no âmbito local, regional, nacional ou global. O curso é gratuito e credenciado pela Coordenação de Aperfeiçoamento de Pessoal de Ensino Superior do Ministério da Educação (CAPES/MEC), na área de concentração Inovação e Desenvolvimento, com aulas ministradas de acordo com o calendário próprio, na cidade do Rio de Janeiro, na Academia de Propriedade Intelectual, Inovação e Desenvolvimento do INPI, e tem duração de 48 meses.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentar o formulário eletrônico de inscrição.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.inpi.gov.br/links-destaques/sobre/agenda-de-cursos</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/ 382"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
