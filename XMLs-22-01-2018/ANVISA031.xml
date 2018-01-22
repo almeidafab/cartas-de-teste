@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Registro de Produtos para a Saúde</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Registro de produto para saúde  e Registro de dispositivo médico</item>
+	</nomes-populares>
+	<descricao>Produtos para saúde são equipamentos, materiais e produtos para diagnóstico in vitro destinados à prevenção, diagnóstico, tratamento, reabilitação ou anticoncepção, não enquadrados como medicamentos. A Gerência Geral de Tecnologia de Produtos para Saúde da ANVISA é a unidade organizacional responsável pela concessão dos registros desses produtos para acesso à população e aos serviços de saúde, bem como pela anuência para realização de pesquisas clínicas envolvendo tais produtos em território brasileiro.
+Todo produto enquadrado como produto para saúde quando regularizado recebe um número de registro que deve estar disponível em sua rotulagem, de forma que o usuário pode usar esta referência para consultar sua regularidade.
+As empresas que solicitam as autorizações para o mercado de produtos para saúde devem seguir as orientações previstas nos regulamentos, manuais e guias disponíveis no Portal da ANVISA. Os principais regulamentos relativos à autorização para o mercado de produtos para saúde que devem ser atendidos por empresas fabricantes ou importadoras são a RDC 185/2001, a RDC 40/2015 e a RDC 36/2015.
+No Portal da Anvisa estão apresentados os serviços necessários à regularização de empresas e de produtos para saúde junto à Anvisa, tais como: procedimentos para solicitação de Autorização de Funcionamento e de Certificado de Boas Práticas de Fabricação (menu Empresas); registro e cadastro de materiais, implantes ortopédicos, equipamentos médicos e produtos para diagnóstico in vitro, informações sobre pesquisa clínica e certificados (menu Produtos), entre outros.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitação de registro</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certificado de Livre venda do produto</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Sede ANVISA</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SIA tr. 5 (Sia, Área Especial 57), Brasília, DF, 71205-050
+
+0800 642-9782</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Cumprimento de Exigência</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>ANVISA Sede</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SIA tr. 5 (Sia, Área Especial 57), Brasília, DF, 71205-050
+
+0800 642-9782</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/36687"/>
+	<areas-de-interesse>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

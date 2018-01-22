@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Curso de Formação de Multiplicadores da Série "Eu e meu dinheiro".</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Nao</item>
+	</nomes-populares>
+	<descricao>O curso destina-se a sensibilizar os participantes para a gestão das finanças pessoais e a capacitá-los para conduzir grupos de discussão sobre os vídeos da Série "Eu e meu dinheiro". A série Eu e meu dinheiro faz parte do programa Cidadania Financeira do Banco Central do Brasil. Abrange cinco vídeos educativos de curta duração que buscam sensibilizar o espectador para temas de gestão de finanças pessoais. Por meio de estórias ficcionais, os episódios da série estimulam a reflexão sobre conceitos importantes de educação financeira, como necessidades e desejos; orçamento familiar; uso de crédito; a importância de poupar; riscos e imprevistos; consumo consciente.Para cada um dos vídeo da série, o curso possui um vídeo de perguntas para reflexão, um debate de especialistas sobre os temas abordados no vídeo e um guia para apresentação e discussão do vídeo em grupo. O curso é gratuito e foi construído na modalidade de educação a distância. Voltado para toda a Sociedade, o curso tem carga horária estimada em oito horas. Para inscrever-se, o interessado deve se cadastrar no portal do Cidadania Financeira.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>O simples cadastramento no Portal Cidadania Financeira, selecionando o curso de seu interesse, que é imediatamente disponibilizado.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>São requeridas informações pessoais, tais como nome, CPF, endereço eletrônico, mas nenhum documento precisa ser apresentado.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://cidadaniafinanceira.bcb.gov.br/</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Espera-se que, após realizar o Curso de Formação de Multiplicadores da Série "Eu e meu dinheiro", o usuário utilize os demais cursos e informações disponíveis no portal.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://cidadaniafinanceira.bcb.gov.br/</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/89"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Comércio e Serviços</item>
+		<item>Economia e Finanças</item>
+		<item>Educação</item>
+		<item>Trabalho</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

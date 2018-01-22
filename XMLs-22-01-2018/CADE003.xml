@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Negociar termo do compromisso de cessação de prática anticompetitiva</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Negociar TCC</item>
+	</nomes-populares>
+	<descricao>O serviço refere-se à negociação de termo de compromisso de cessação de prática por infração à ordem econômica (TCC) entre o Cade e a parte investigada por suposta conduta anticompetitiva. Durante a negociação do acordo, o investigado deverá cessar a prática, reconhecer os fatos investigados, trazer evidências para colaborar com a investigação e recolher uma contribuição pecuniária ao Fundo de Direitos Difusos. Caso o TCC seja aprovado, o prosseguimento das investigações ficará suspenso, durante o cumprimento do acordo, em relação aos signatários do TCC. O requerimento pode ser feito eletronicamente por meio do ambiente de Usuário Externo do Sistema Eletrônico de Informações (SEI) do Cade, disponível em www.cade.gov.br > Usuário Externo. Alternativamente, o requerimento pode ser entregue fisicamente no Protocolo do Cade. A decisão do Tribunal Administrativo do Cade sobre o TCC será publicada no Diário Oficial da União por meio da Ata da Sessão de Julgamento.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="90" max="120" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Entrega do requerimento de termo do compromisso de cessação de prática anticompetitiva, assim como de documentos necessários.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Sede do Conselho Administrativo de Defesa Econômica. Endereço: Setor de Edifícios de Utilidade Pública Norte – SEPN, Entrequadra 515, Conjunto D, Lote 4, Edifício Carlos Taurisano</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://sei.cade.gov.br/sei/institucional/usuarioexterno/controlador_externo.php?acao=usuario_externo_logar&id_orgao_acesso_externo=0</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>protocolo@cade.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Negociar termo do compromisso de cessação de prática anticompetitiva com a comissão-técnica (“Comissão de Negociação”)</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Comprovante de renda</item>
+					<item>Documentos contábeis</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Sede do Conselho Administrativo de Defesa Econômica. Endereço: Setor de Edifícios de Utilidade Pública Norte – SEPN, Entrequadra 515, Conjunto D, Lote 4, Edifício Carlos Taurisano</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>protocolo@cade.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Assinar o  termo do compromisso de cessação de prática anticompetitiva</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/322"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

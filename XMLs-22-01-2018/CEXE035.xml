@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Utilizar Produtos Controlados pelo Exército</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>DFPC</item>
+	</nomes-populares>
+	<descricao>Visa incluir uma ou mais atividade ao Título de Registro da empresa para a utilização de Produtos Controlados pelo Exército</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentação do Requerimento e documentação necessária.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Requerimento, Ato de constituição da Pessoa Jurídica, CNPJ, Endereço da empresa (e endereço do depósito quando for o caso), Idoneidade do representante legal e do substituto imediato, Responsabilidade técnica, Autorização para exploração mineral, para o caso de explosivos, Recibo da taxa de fiscalização (Lei nº 10.834, de 29 DEZ 03)</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Diretoria de Fiscalização de Produtos Controlados</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Quartel-General do Exército, Bloco H, 4º Andar, Setor Militar Urbano, Brasília-DF, CEP 70630- 901</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/41066"/>
+	<areas-de-interesse>
+		<item>Indústria</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

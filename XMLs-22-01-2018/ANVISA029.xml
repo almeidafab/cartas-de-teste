@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar regularização de produtos saneantes de risco 2 por meio de registro</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Registro de Saneantes</item>
+	</nomes-populares>
+	<descricao>Estão sujeitos ao procedimento de registro os produtos saneantes de maior risco sanitário. As empresas podem solicitar alterações de seus registros (modificação de fórmula, alteração de rotulagem ou embalagem, etc.), seguindo o mesmo fluxo.  Nesse serviço a empresa previamente cadastrada protocola uma petição de registro com as informações técnicas previstas nos regulamentos específicos, gera uma Guia de Recolhimento – GRU, paga essa guia, após a internalização do pagamento as informações do produto são analisadas pela equipe técnica da Anvisa. Se as informações estiverem de acordo com as normas vigentes o registro é publicada em DOU e a partir desse momento o produto pode ser comercializado.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Protocolo da petição de Registro.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Comprovante de pagamento</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Sia, trecho 5,  Área Especial 57,  Brasília, DF, 71205-050</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/36687"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Indústria</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

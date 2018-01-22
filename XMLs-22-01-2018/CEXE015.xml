@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Realizar a inscrição para o ingresso nas escolas militares - Escola Preparatória de Cadetes do Exército (EsPCEx) e Academia Militar das Agulhas - Negras (AMAN)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>"Concurso da EsCPEx", "Concurso para Oficial Combatente do Exército", "Concurso para AMAN."</item>
+	</nomes-populares>
+	<descricao>O serviço de inscrição possibilita ao candidato, atendido todos os requisitos do edital e paga a taxa de inscrição (ou isento, se for o caso), participar das diversas fases do Concurso de Admissão  destinado à matrícula, no ano subsequente, no Curso de Formação e Graduação de Oficiais de Carreira da Linha de Ensino Militar Bélico, realizado em âmbito nacional. O candidato se inscreve, obtém cartão de confirmação para realização da prova, certificado de presença e acompanha o desempenho (notas e espelhos dos cartões e da redação), obtém listas de resultados parciais e final. Por fim acompanha as convocações para participação na 2ª fase (comprovação biográfica, testes médicos e físicos), em Campinas-SP.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Esclarecimentos sobre o concurso</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Inscrição no Concurso</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+					<item>NIS</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/41066"/>
+	<areas-de-interesse>
+		<item>Defesa Nacional</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

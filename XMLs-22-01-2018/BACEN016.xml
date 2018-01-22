@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Curso on-line de Gestão de Finanças Pessoais (GFP)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Curso de Gestão de Finanças Pessoais (GFP)</item>
+	</nomes-populares>
+	<descricao>Curso de finanças pessoais por meio do qual os participantes adquirirem conhecimentos para gerir suas finanças, além de conhecer a divertida história da famíliade Tarsílio e seus amigos, que buscam utilizar o dinheiro de modo consciente e otimizar os gastos. Curso on-line, gratuito e com todo o conteúdo apresentado pormeio de vídeos animados. Aborda os seguintes módulos/temas:– Nossa relação com o dinheiro;– Orçamento pessoal ou familiar;– Crédito e endividamento;– Consumo planejado e consciente;– Poupança e investimento;– Prevenção e proteção;– Consumindo serviços financeiros.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>O usuário não interage diretamente com o Poder Público pois se trata de um curso on-line realizado sem contato direto com o prestador do curso.Se houver necessidade, o usuário contacta a empresa contratada (kaptiva) para prestar suporte a sua demanda.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://cidadaniafinanceira.bcb.gov.br/treinamento</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>monitoria@kaptiva.com.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/89"/>
+	<areas-de-interesse>
+		<item>Economia e Finanças</item>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

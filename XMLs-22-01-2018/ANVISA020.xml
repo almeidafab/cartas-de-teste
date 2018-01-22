@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Certificado Internacional de Vacinação e Profilaxia;  Certificado Sanitário de Embarcação; Certificado de Livre Pratica; Autorização de Funcionamento de Empresas</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>CIVP</item>
+		<item>CSE, CLP E AFE</item>
+	</nomes-populares>
+	<descricao>O CIVP É EMITIDO PARA VIAJANTES QUE SE DESLOCAM A PAISES QUE COBRAM A COMPROVAÇÃO DE VACINAÇÃO CONTRA A DOENÇA PARA INGRESSO EM SEU TERITORIO.  O CSE É UM DOCUMENTO PREVISTO NO REGULAMENTO SANITARIO INTERNACIONAL QUE ESTABELECE A CONDIÇÃO SANITARIA DA EMBARCAÇÃO; O CLP É O DOCUMENTO OBRIGATORIO PARA A ATRACAÇÃO DE TODOS OS NAVIOS ONDE A AUTORIDADE SANITARIA AVALIA A SITUAÇÃO DE SAUDE  DA EMBARCAÇÃO; A AFE É O DOCUMENTO QUE AUTORIZA A PRESTAÇÃO DE SERVIÇOS DE INTERESSE EM SAUDE PUBLICA A OPERAREM EM PORTOS, AEROPORTOS, FRONTERIAS E RECINTOS ALFANDEGADOS</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>PRECADASTRO NO SITE E PRESENCIAL NA EMISSÃO DO CIVP; CLP E CSE TODO VIA SISTEMA, AFE TODO VIA SISTEMA</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de casamento</item>
+					<item>Certidão de nascimento</item>
+					<item>CNPJ</item>
+					<item>Comprovante de pagamento</item>
+					<item>CPF</item>
+					<item>Diário Oficial</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>WWW.ANVISA.GOV.BR/VIAJANTE; PARA PSP SOMENTE USUARIOS CADASTRADOS (https://concentrador.portosempapel.gov.br/PSP-CDP/private/comum/pages/home.jsf) AFE POR MEIO DO DATAVISA (USUARIOS CADASTRADOS TAMBEM</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/36687"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Meio ambiente</item>
+		<item>Relações Internacionais</item>
+		<item>Saneamento</item>
+		<item>Saúde</item>
+		<item>Trabalho</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

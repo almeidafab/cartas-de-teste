@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar regularização de produtos de higiene pessoal, perfumes e cosméticos isentos de registro por meio de notificação</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Notificação de produtos de higiene pessoal, perfumes e cosméticos</item>
+	</nomes-populares>
+	<descricao>O detentor de um produto de higiene pessoal, perfume ou cosmético isento de registro pode comercializá-lo no País após sua notificação no sistema eletrônico SGAS da Anvisa.
+Nesse serviço a empresa previamente cadastrada na Anvisa acessa o Sistema SGAS, gera uma petição de notificação, submete as informações técnicas previstas nos regulamentos específicos, gera uma Guia de Recolhimento – GRU, paga essa guia, após a internalização do pagamento as informações do produto são disponibilizadas no portal eletrônico da Anvisa e a partir desse momento o mesmo pode ser comercializado.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Notificação do produto.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Comprovante de pagamento</item>
+					<item>Procuração do representante legal</item>
+					<item>Informações sobre o produto previstas em regulamentos específicos</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.anvisa.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/36687"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Indústria</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

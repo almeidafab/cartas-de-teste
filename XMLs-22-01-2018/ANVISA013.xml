@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Autorização de Importação de Substância / Medicamento (AI)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>AI</item>
+	</nomes-populares>
+	<descricao>Documento necessário para realizar a Importação de Substâncias/ Medicamentos das listas A1, A2, A3, B1, B2, C3, D1, E, F1, F2, F3, F4 da Portaria 344/1998.
+No sistema da Anvisa, deve ser selecionada a opção “Peticionamento Eletrônico e Pagamento de Taxas” e escolhido o código de Assunto adequado:
+
+7656 PRODUTOS CONTROLADOS - Autorização de Importação de Substância/Medicamento.
+7657 PRODUTOS CONTROLADOS - Autorização de Importação de Substância/Medicamentos, destinados exclusivamente para fins de ensino ou pesquisa, análise e utilizados como padrão de referência.
+7690 PRODUTOS CONTROLADOS - Autorização de Importação Específica de Substância/Medicamento para órgãos de repressão a drogas, entidade importadora de controle de dopagem, laboratório de referência analítica, instituição de ensino ou pesquisa.
+7694 PRODUTOS CONTROLADOS – LBCD – Autorização de importação específica de substância sujeita a controle especial (Portaria 344/98).
+Posteriormente ao peticionamento eletrônico a empresa deverá solicitar a AI por meio do sistema NDS.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>PETICIONAMENTO ELETRÔNICO NO SITE DA ANVISA, SOLICITAÇÃO DA AI NO NDS</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://portal.anvisa.gov.br/sistema-de-peticionamento</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>SOLICITAÇÃO DA AI POR MEIO DO SISTEMA NDS.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>I - justificativa técnica detalhada assinada pelo responsável técnico, para o caso de importação de amostras para fins de análise ou fabricação de lotes-piloto; II - declaração do importador prevista no §2º do art. 17 da RDC nº 11/2013; e III - declaração do destinatário final, prevista no §3º do art. 16 da RDC nº 11/2013.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>NDS.ANVISA.GOV.BR</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>O endereço da empresa solicitante para o qual é enviado a Autorização.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/36687"/>
+	<areas-de-interesse>
+		<item>Indústria</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

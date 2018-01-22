@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar aprovação para ato de concentração econômica sob o procedimento sumário</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Solicitar aprovação para AC sumário</item>
+	</nomes-populares>
+	<descricao>O Cade tem como competência analisar os aspectos concorrenciais de atos de concentração econômica entre empresas (como, por exemplo, fusões, aquisições, joint ventures etc) cuja notificação à autarquia é obrigatória. Após a assinatura do instrumento formal que vincule as partes envolvidas, os interessados devem solicitar ao Cade a aprovação do ato. O procedimento sumário será aplicado pelo Cade aos casos que, em virtude da simplicidade das operações, tenham menor potencial ofensivo à concorrência. A decisão de enquadramento em procedimento sumário é discricionária e será adotada pelo Cade conforme os critérios de conveniência e oportunidade. Link no portal de serviços: http://www.servicos.gov.br/servico/analisar-e-julgar-atos-de-concentracao?pk_campaign=orgao</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Entrega da solicitação de aprovação de ato de concentração econômica, assim como dos documentos necessários.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>Comprovante de pagamento</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Sede do Conselho Administrativo de Defesa Econômica. Endereço: Setor de Edifícios de Utilidade Pública Norte – SEPN, Entrequadra 515, Conjunto D, Lote 4, Edifício Carlos Taurisano</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://sei.cade.gov.br/sei/institucional/usuarioexterno/controlador_externo.php?acao=usuario_externo_logar&id_orgao_acesso_externo=0</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>protocolo@cade.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Setor de Edifícios de Utilidade Pública Norte – SEPN, Entrequadra 515, Conjunto D, Lote 4, Edifício Carlos Taurisano. Cep: 70770-504 - Brasília/DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/322"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

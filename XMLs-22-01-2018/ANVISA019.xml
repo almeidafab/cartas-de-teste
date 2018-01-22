@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Certificado de Boas Práticas de Distribuição e/ou Armazenagem</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>CBPDA</item>
+	</nomes-populares>
+	<descricao>O Certificado de Boas Práticas de Distribuição e/ou Armazenagem (CBPDA) é o documento emitido pela Anvisa atestando que determinado estabelecimento cumpre com as Boas Práticas de Distribuição e Armazenagem ou Boas Práticas de Armazenagem dispostas na legislação em vigor.
+A norma que regulamenta a Certificação de Boas Práticas de Fabricação e de Distribuição e/ou Armazenagem é a RDC nº 39/2013. A inobservância ou desobediência ao disposto nesta Resolução configura infração de natureza sanitária, na forma da Lei n° 6.437/1977, sujeitando o infrator às penalidades previstas nesse diploma legal.
+A validade do Certificado de Boas Práticas de Distribuição e/ou Armazenagem (CPDA) será de dois anos, contados a partir da data de sua publicação no Diário Oficial da União (DOU).</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>O usuário deve solicitar o CBPDA, por meio do portal da Anvisa, apresentar toda documentação requerida e protocolar o pedido presencialmente na Anvisa ou por meio dos serviços dos Correios. Posteriormente, o usuário deverá aguardar a análise do pedido. A manifestação da Agência é publicada no Diário Oficial da União.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>formulário de  petição; comprovante de pagamento de taxa e documentos específicos técnicos</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>site da Anvisa e protocolo de documentos presencial ou pelos Correios.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>Portal da Anvisa</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SIA Trecho 5 , área especial 57, Brasilia-DF
+CEP: 71205-050</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/36687"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Indústria</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

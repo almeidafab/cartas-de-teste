@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>CÂMBIO LEGAL</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O aplicativo indica pontos de compra e venda de moeda estrangeira de acordo com a localização do usuário. É possível consultar taxas de câmbio e recuperar históricos de taxas, além de fazer a conversão de mais de 160 moedas estrangeiras. A consulta do Valor Efetivo Total (VET) também está disponível, bastando informar se a operação é de compra ou venda, qual moeda se pretende pesquisar, se o dinheiro será comprado em espécie ou em cartão pré-pago e a quantia pretendida. O aplicativo apresenta os valores médios de VET praticados pelas instituições no mês anterior.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitação da informação por meio do aplicativo para dispositivos móveis</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="aplicativo-movel">
+						<descricao>Câmbio legal para Android e Iphone</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/89"/>
+	<areas-de-interesse>
+		<item>Economia e Finanças</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

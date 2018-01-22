@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Anuência na importação de produtos sujeitos a vigilância sanitária</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Licença de Importação - LI da Anvisa</item>
+	</nomes-populares>
+	<descricao>A empresa necessita selecionar a NCM do produto que deseja importar e registrar o processo no Portal do Comércio Exterior (http://portal.siscomex.gov.br/). Caso o NCM seja sujeito a anuência da Anvisa, a empresa deverá preencher a licença de importação e peticionar um
+processo de importação no sistema da Anvisa (http://portal.anvisa.gov.br/registros-e-autorizacoes/produtos/importacao/pei), gerar a guia e pagar a
+Taxa de Fiscalização e Vigilância Sanitária correspondente. Esse processo será analisado por um servidor da Anvisa que irá autorizar a importação
+caso a empresa, produtos e processo de importação atendam aos requisitos normativos. Exigências de certificações, laudos e outras informações
+podem ser requeridas, bem como a carga poderá passar por inspeção ou análise laboratorial de forma a garantir a sua segurança e qualidade para
+consumo da população. Os produtos importados podem ser interditados ou impedidos de entrar no países caso não atendam as normas de vigilância sanitária.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>peticionar o processo de importação junto a Anvisa anexando a documentação de instrução no Siscomex</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Petição com informações dos produtos importados, Declaração do Detentor do Registro para importações terceirizadas, Licença de funcionamento de importadores de alimentos, Invoice, AWB, Certificados de regularidade dos produtos, certificados de analises de lotes de medicamentos</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://portal.siscomex.gov.br/ e http://portal.anvisa.gov.br/registros-e-autorizacoes/produtos/importacao/pei</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/36687"/>
+	<areas-de-interesse>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

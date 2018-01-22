@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar elaboração de Projetos de PD&I / prestação de serviços tecnológicos especializados em rochas ornamentais e minerais industriais.</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O CETEM realiza projetos de PD&I e prestação de serviços tecnológicos em sua unidade de tecnologia de rochas ornamentais e minerais industriais do Espírito Santo e no Rio de Janeiro envolvendo as seguintes atividades: Apoio tecnológico para a melhoria da lavra; P,D&I em beneficiamento de mármores, granitos e quartzitos comerciais; desenvolvimento de insumos ecológicos e protótipos;  Caracterização tecnológica e estudos de alterabilidade; Caracterização de agregados; Caracterização ambiental e aproveitamento de resíduos; Monitoramento de emissão de materiais particulados; Laudos técnicos e avaliação de consumo de insumos para drawback; Estudos de alterabilidade de bens minerais em monumentos e edificações do patrimônio histórico.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Realizar entrevista e negociar o serviço a ser executado</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>Am</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Núcleo Regional do Espírito Santo
+Centro de Tecnologia Mineral - CETEM
+Ministério da Ciência, Tecnologia, Inovações e Comunicações - MCTIC
+Rodovia Cachoeiro - Alegre, km 5 - Morro Grande
+Campus do IFES
+Caixa Postal 737
+29311-970 - Cachoeiro de Itapemirim - ES - Brasil</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2835118937</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>cetem_es@cetem.gov.br / labro@cetem.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Núcleo Regional do Espírito Santo
+Centro de Tecnologia Mineral - CETEM
+Ministério da Ciência, Tecnologia, Inovações e Comunicações - MCTIC
+Rodovia Cachoeiro - Alegre, km 5 - Morro Grande
+Campus do IFES
+Caixa Postal 737
+29311-970 - Cachoeiro de Itapemirim - ES - Brasil</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Após acordo entre as partes é iniciada a prestação do serviço.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Núcleo Regional do Espírito Santo
+Centro de Tecnologia Mineral - CETEM
+Ministério da Ciência, Tecnologia, Inovações e Comunicações - MCTIC
+Rodovia Cachoeiro - Alegre, km 5 - Morro Grande
+Campus do IFES
+Caixa Postal 737
+29311-970 - Cachoeiro de Itapemirim - ES - Brasil</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2835118937</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>cetem_es@cetem.gov.br / labro@cetem.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Núcleo Regional do Espírito Santo
+Centro de Tecnologia Mineral - CETEM
+Ministério da Ciência, Tecnologia, Inovações e Comunicações - MCTIC
+Rodovia Cachoeiro - Alegre, km 5 - Morro Grande
+Campus do IFES
+Caixa Postal 737
+29311-970 - Cachoeiro de Itapemirim - ES - Brasil</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1988"/>
+	<areas-de-interesse>
+		<item>Habitação</item>
+		<item>Indústria</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Urbanismo</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Autorização de Fabricação para fim Exclusivo de Exportação</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>AFFEE, AFEX</item>
+	</nomes-populares>
+	<descricao>A Autorização de Fabricação para Fim Exclusivo de Exportação (AFFEE) é um Documento que autoriza a empresa solicitante a fabricar medicamentos sujeitos ao controle especial que não possuem registro no Brasil, com a finalidade exclusiva de exportação para o país onde possui registro. Deverá ser realizado o peticionamento manual através do sistema padrão de peticionamento disponível no portal da Anvisa. Esta petição é isenta de taxas, mas deverá ser gerada a Guia de Isenção de Pagamento.
+A Anvisa não emite AFFEE para medicamentos que possuem registro no Brasil.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>PETICIONAMENTO DA SOLICITAÇÃO NO SITE DA ANVISA.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>a) Formulário de petição preenchido, no que couber, (ANEXO I); b) Cópia do Certificado de Registro do Medicamento ou documento similar emitido pela Autoridade Sanitária do país importador no qual devem constar as apresentações comercializadas e que a empresa brasileira é a fabricante do medicamento; c) Declaração assinada pelo responsável técnico constando à fórmula completa do medicamento; d) Via original do comprovante de isenção do pagamento da taxa de fiscalização de vigilância sanitária.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://portal.anvisa.gov.br/sistema-de-peticionamento</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SIA Trecho 5/Área especial 57 - Guará, Brasília - DF, 71205-050</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/36687"/>
+	<areas-de-interesse>
+		<item>Indústria</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

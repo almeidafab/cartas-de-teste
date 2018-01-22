@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Negociar Acordo de Leniência Antitruste</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O serviço refere-se à negociação de Acordo de Leniência entre o Cade e empresas ou indivíduos que participam ou que participaram de um cartel ou de outra prática anticoncorrencial. Este instrumento está disponível apenas ao primeiro agente infrator a reportar a conduta anticompetitiva ao Cade. O signatário do Acordo de Leniência deve se comprometer a cessar a conduta ilegal, a denunciar e confessar a participação na prática da infração à ordem econômica, bem como a cooperar com as investigações, em troca de benefícios na esfera administrativa e criminal. Na esfera administrativa o signatário será beneficiado com a extinção da ação punitiva da administração pública ou com a redução de um a dois terços das penas administrativas aplicáveis. Já na esfera criminal, a celebração de Acordo de Leniência determina a suspensão do prazo prescricional e impede o oferecimento da denúncia com relação ao signatário no que tange aos crimes contra a ordem econômica tipificados na Lei de Crimes Contra a Ordem Econômica (Lei nº 8.137/1990), e nos demais crimes diretamente relacionados à prática de cartel. Cumprido o Acordo de Leniência, extingue-se automaticamente a punibilidade desses crimes.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Comunicar o interesse em propor Acordo de Leniência Antitruste</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Apresentar informações e documentos que comprovem a infração noticiada para negociação do Acordo de Leniência Antitruste</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Assinar o Acordo de Leniência Antitruste</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/322"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

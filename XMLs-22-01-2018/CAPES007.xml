@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>SOLICITAR BOLSAS DE INICIAÇÃO À DOCÊNCIA.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Programa Institucional de Bolsas de Iniciação à Docência (Pibid)</item>
+	</nomes-populares>
+	<descricao>Concessão de bolsas para que alunos de licenciatura exerçam atividades pedagógicas em escolas públicas de educação básica, contribuindo para a integração entre teoria e prática, para a aproximação entre universidades e escolas e para a melhoria de qualidade da educação brasileira.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="90" max="120" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrição no sistema SAC (Sistema de Acompanhamento de Concessões)</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>CPF</item>
+					<item>Dados bancários</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://sac.capes.gov.br/</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>pibid@capes.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/250"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Realizar a inscrição para o ingresso nas escolas militares - Escola de Saúde do Exército (EsSEx)</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Realizar a inscrição para o Processo Seletivo para o cidadão que deseja ingressar no Exército Brasileiro como militar de carreira. É possível a inscrição de ambos os sexos (masculino ou feminino), que possuam, no máximo, 36 anos no dia 31 de dezembro e  que tenham curso superior nas seguintes áreas: Medicina, Farmácia ou Odontologia.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>A licenciada apresenta o requerimento para a obtenção da autorização junto à Agência Espacial Brasileira.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Requerimento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Agência Espacial Brasileira</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6134115159</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SPO - Setor Policial, Área 5, Quadra 3, Bloco A
+CEP 70610 200 - Brasília - DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/41066"/>
+	<areas-de-interesse>
+		<item>Defesa Nacional</item>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

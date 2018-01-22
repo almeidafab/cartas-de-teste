@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Credenciamento no Sisbacen (Sistema de Informações Banco Central) – Pessoa natural</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Permite o acesso por parte de pessoas naturais a determinados recursos do Sisbacen. Além das informações de caráter geral (normativos do Banco Central, taxas diversas, cotações de moedas, indicadores econômico-financeiros, resultados de leilões de câmbio, etc), os credenciados podem acessar outras transações, tais como RDE, SCR e Cadin.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>No caso de atendimento presencial, a apresentação de documento de identificação original (RG, carteira de motorista, carteira de trabalho, passaporte, etc.), acompanhado de cópia, ou cópia autenticada em cartório do documento de identificação original, e o seu número de inscrição no CPF.  No caso de atendimento por correspondência, devem ser enviados cópias autenticadas em cartório dos documentos listados acima e formulário próprio preenchido, assinado pelo detentor dos dados ou por terceiro solicitante, com firma (assinatura) reconhecida, para que o Banco Central do Brasil realize a pesquisa e envie o relatório, indicando o e-mail ou o endereço completo para resposta.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+					<item>Passaporte</item>
+					<item>Registro em Cartório</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Central de atendimento ao público, na sede e nas representações regionais do Banco Central do Brasil.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Banco Central do BrasilDivisão de Atendimento ao CidadãoSBS Q. 3 Bloco B – Ed. Sede – 1º SSCEP 70074-900 Brasília (DF)</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/89"/>
+	<areas-de-interesse>
+		<item>Economia e Finanças</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Registro de Produtos Fumígenos Derivados do Tabaco</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Registro de produtos fumígenos</item>
+	</nomes-populares>
+	<descricao>A solicitação de registro  de produtos fumígenos derivados do tabaco, consiste na apresentação à GGTAB de petição com a documentação exigida na legislação vigente, por uma determinada empresa à ANVISA, para que seja analisada e concedido ou não o registro de um produto fumígeno derivado do tabaco. Após a conclusão da análise, é feita a publicação da decisão, que pode ser de indeferimento, nesse caso o produto não é registrado ou de deferimento, quando há o registro do produto, possibilitando sua fabricação, comercialização, exportação ou importação.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="90" max="120" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Protocolo presencial ou por via postal da petição de registro de marca de produtos fumígenos derivados do tabaco junto à Anvisa.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Comprovante de pagamento</item>
+					<item>Contrato Social</item>
+					<item>Diário Oficial</item>
+					<item>Procuração do representante legal</item>
+					<item>Documentos exigidos pela RDC 90/2007</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Anvisa Brasília  (presencial e postal)</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>Portal.anvisa.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SIA Trecho 5/Área especial 57 - Brasília/DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Quando houver exigência técnica à petição de registro, a empresa deverá realizar o protocolo da petição de cumprimento de exigência</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>documentos necessários para cumprimento de exigência</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Anvisa Brasília (presencial ou via postal)</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>portal.anvisa.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SIA Trecho 5/Área especial 57  - Brasília/DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Quando ocorre o indeferimento da petição de registro, a empresa poderá protocolar o Recurso Administrativo ao indeferimento.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Diário Oficial</item>
+					<item>Documentos necessários para o recurso administrativo ao indeferimento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Anvisa Brasília (presencial e via postal)</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>portal.anvisa.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SIA Trecho 5/Área especial 57  - Brasília/DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/36687"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Indústria</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

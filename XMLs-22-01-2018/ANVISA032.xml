@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Certificado de Livre Prática (CLP).</nome>
+	<sigla/>
+	<contato/>
+	<descricao>A livre prática é a permissão emitida pela Anvisa para uma embarcação operar embarque e desembarque de viajantes, cargas ou suprimentos, de acordo com a RDC nº 72/2009 e está prevista no Regulamento Sanitário Internacional 2005 (RSI).
+O Certificado de Livre Prática (CLP) é um documento de caráter intransferível, emitido mediante análise das condições operacionais e higiênico-sanitárias da embarcação e do estado de saúde dos seus viajantes, a partir da análise documental das informações apresentadas quando da sua solicitação e/ou de uma inspeção sanitária realizada a bordo da embarcação. 
+Devem solicitar Certificado de Livre Prática (CLP) as embarcações que se destinam a um porto de controle sanitário.  A embarcação deve solicitar Livre Prática à autoridade sanitária em exercício no porto de controle sanitário ao qual se destina, quando não estiver portando CLP válido, por meio da Solicitação de Certificado.
+O Certificado de Livre Prática (CLP) deve ser solicitado com antecedência máxima de 48 horas e mínima de 24 horas do horário estimado de chegada da embarcação ao Porto. Nos portos onde os postos da Anvisa têm atendimento somente em dias úteis o CLP pode ser solicitado com antecedência máxima de 72 horas.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Entrega dos documentos para solicitação do certificado.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Declaração Marítima de saúde assinada por representante da embarcação, lista de viajantes e Certificado de Controle Sanitário de Bordo válido.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Importante destacar que no item 25, a melhor opção seria um sistema de atendimento híbrido, ou seja, a locais em que a interação ocorre por meio de sistema e outros que a demanda ainda é recebida via formulário impresso em papel. A variação existe por se tratar de um sistema do Governo Federal, sob gestão do Ministério do Transporte que ainda não está instalado nos mais diversos portos brasileiros.  
+Assim, a resposta seria: quando do processo físico, o local seria nos Postos de Vigilância Sanitária e; quando do processo eletrônico, na página da web (concentrador.portosempapel.gov.br)</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>concentrador.portosempapel.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Retorno da avaliação do pleito de certificação que pode ser: Emissão do  Certificado de Livre Prática via rádio, indeferimento do pleito ou decisão de emissão do Certificado a bordo após inspeção sanitária.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Posto de vigilância sanitária localizada nos Estados.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>concentrador.portosempapel.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Inspeção sanitária para emissão de Certificado de Livre Prática.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Lista de documentos conforme RDC 72/09, Art. 8º</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Inspeção dentro da embarcação e emissão do Certificado no Posto de Vigilância sanitária após a inspeção.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/36687"/>
+	<areas-de-interesse>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

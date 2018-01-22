@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar regularização de produtos de higiene pessoal, perfumes e cosméticos por meio de registro.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Registro de produtos de higiene pessoal, perfumes e cosméticos</item>
+	</nomes-populares>
+	<descricao>O detentor de um produto de higiene pessoal, perfume ou cosmético sujeito a registro pode comercializá-lo no País concessão do registro no DOU.
+Nesse serviço a empresa previamente cadastrada na Anvisa acessa o sistema de protocolo da Anvisa, gera uma petição de registro, submete as informações técnicas previstas nos regulamentos específicos, gera uma Guia de Recolhimento – GRU, paga essa guia, após a internalização do pagamento as informações do produto são analisadas pela equipe técnica da Anvisa e se atenderam às normas vigentes o registro é publicado em DOU. A partir desse momento o produto pode ser comercializado no país.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="90" max="120" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Protocolo da petição de registro.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Comprovante de pagamento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Sede da Anvisa - Brasília</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Sia, trecho 5,  Área Especial 57, Brasília, DF, 71205-050</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/36687"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Indústria</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

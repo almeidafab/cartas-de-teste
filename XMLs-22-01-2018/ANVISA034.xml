@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Certificado de Venda Livre (CVL) de Produtos de Higiene Pessoal, Perfumes e Cosméticos</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O Certificado de Venda Livre é um documento outorgado pela autoridade sanitária competente ou por organismos oficialmente reconhecidos no país de origem  para atestar que o produto é livremente comercializado no mesmo. Para o certificado, o interessado deverá clicar no assunto “Emissão de Certificado”, no menu esquerdo do sistema (colocar link). Após o recebimento do pedido, a área técnica irá analisar o documento e providenciar a assinatura do  responsável. Quando a documentação estiver pronta, a empresa será diretamente comunicada por e-mail. O Certificado deverá ser retirado na sede da Anvisa, em Brasília, na área de Protocolo. Após a protocolização do pedido, o interessado poderá acompanhar o andamento de seu pedido, por meio do sistema de Consulta à Situação de Documentos.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitar certificado pelo portal eletrônico da Anvisa.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.anvisa.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Retirar o certificado emitido.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Sia, trecho 5,  Área Especial 57), Brasília, DF, 71205-050</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/36687"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Indústria</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

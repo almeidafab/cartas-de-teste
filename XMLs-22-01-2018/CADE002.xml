@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar aprovação para ato de concentração econômica sob o procedimento ordinário</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Solicitar aprovação para AC ordinário</item>
+	</nomes-populares>
+	<descricao>O serviço refere-se à análise do Cade dos aspectos concorrenciais de atos de concentração econômica (AC) entre empresas (como fusões, aquisições, joint ventures etc) cuja notificação à autarquia é obrigatória. Após a assinatura do instrumento formal que vincule as partes envolvidas, os interessados devem solicitar ao Cade a aprovação do AC. A solicitação pode ser feita eletronicamente por meio do ambiente de Usuário Externo do Sistema Eletrônico de Informações (SEI) do Cade, disponível em www.cade.gov.br > Usuário Externo. Alternativamente, a solicitação pode ser entregue fisicamente no Protocolo do Cade ou enviada pelos Correios ou por e-mail para protocolo@cade.gov.br. A decisão do Cade sobre a operação será publicada no Diário Oficial da União por meio de Despacho da Superintendência-Geral ou por meio da Ata da Sessão de Julgamento, conforme o caso.
+
+O procedimento ordinário é aplicado a operações complexas com potencial impacto ofensivo à concorrência. A solicitação de aprovação para ato de concentração econômica sob o procedimento ordinário deverá conter mais informações do que aquela referente ao procedimento sumário. A decisão de enquadramento em procedimento ordinário é discricionária e será adotada pelo Cade conforme os critérios de conveniência e oportunidade.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Entrega de solicitação de aprovação de ato de concentração econômica, assim como de documentos necessários.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/322"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

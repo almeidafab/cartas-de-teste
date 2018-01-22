@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar material institucional / Agendar visita ao CETEM</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O CETEM oferece à sociedade um serviço de divulgação institucional que envolve: i) Solicitação por e-mail de material institucional (folders, folhetos, tabelas periódicas etc.); ii) Recepção de instituições de ensino e pesquisa em visita às dependências do CETEM (Visitas Guiadas). Nota: O agendamento de visitas deve ser realizado com o mínimo de 15 dias de antecedência. Por questões de segurança, ingressam nos laboratórios grupos de no mínimo 15 e no máximo 20 pessoas simultaneamente. Portanto, grupos superiores a este quantitativo serão divididos. Para melhor aproveitamento da visita, recepcionamos grupos a partir do 8º ano do ensino fundamental.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitar o agendamento e/ou o material institucional.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>visitacao@cetem.gov.br e biblioteca@cetem.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Realizar a visita técnica e/ou receber o material solicitado.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>Crachá de identificação no caso da visita técnica.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>A visita técnica ocorrerá no CETEM, e o recebimento do material no endereço informado pelo usuário.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Av. Pedro Calmon, 900 - Cidade Universitária - Rio de Janeiro - Brasil - CEP: 21941-908</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1988"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

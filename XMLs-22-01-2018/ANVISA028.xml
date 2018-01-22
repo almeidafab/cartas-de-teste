@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Notificação de Produtos Saneantes</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Notificação de Saneantes</item>
+	</nomes-populares>
+	<descricao>Estão sujeitos ao procedimento de Notificação os produtos saneantes de menor risco sanitário. A GESAN faz uma verificação contínua da regularidade das notificações, por amostragem. A GESAN disponibiliza ainda para as empresas, no site da Anvisa, manuais que orientam os peticionamentos de notificação e registro de produtos saneantes, bem como a legislação aplicada e informes técnicos que esclarecem pontos específicos das normas. O peticionamento, tanto para a notificação de produto novo, como para alterações de proumdutos já notificados, é totalmente eletrônica e não requer pagamento de taxas. As publicações são feitas de forma automática no próprio site da Anvisa, no dia posterior ao peticionamento.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Notificação do Produto Sanenate</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.anvisa.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/36687"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Indústria</item>
+		<item>Saúde</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

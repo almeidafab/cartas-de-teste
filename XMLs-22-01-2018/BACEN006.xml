@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Extrato do Registro de Informações no Banco Central (Registrato).</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Registrato</item>
+		<item>Sistema de Informações de Crédito do Banco Central (SCR)</item>
+		<item>Cadastro de Clientes do Sistema Financeiro Nacional (CCS)</item>
+	</nomes-populares>
+	<descricao>Sistema que permite o usuário acessar gratuitamente pela internet, em ambiente seguro, informações disponíveis em dois cadastros:- Cadastro de Clientes do Sistema Financeiro - CCS: mostra todos os bancos com as quais o cliente possui algum relacionamento (como conta corrente e poupança). - Sistema de Informações de Crédito - SCR: contém informações do conjunto dos empréstimos, financiamentos e outras modalidades de crédito que o cliente tiver obtido em cada instituição financeira, acima de R$ 200,00 (duzentos reais).</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Credenciamento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.bcb.gov.br/?REGISTRATO</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Acesso aos relatórios.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.bcb.gov.br/?REGISTRATO</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/89"/>
+	<areas-de-interesse>
+		<item>Economia e Finanças</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

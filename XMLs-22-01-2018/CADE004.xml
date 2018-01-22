@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Requerer posicionamento do Tribunal Administrativo sobre questão concorrencial</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Formular consulta ao Tribunal Administrativo do Cade</item>
+	</nomes-populares>
+	<descricao>O serviço refere-se ao encaminhamento, por qualquer interessado, de consulta ao Tribunal Administrativo do Cade sobre a aplicação da legislação concorrencial. O requerimento pode ser feito eletronicamente por meio do ambiente de Usuário Externo do Sistema Eletrônico de Informações (SEI) do Cade, disponível em www.cade.gov.br > Usuário Externo. Alternativamente, o requerimento pode ser entregue fisicamente no Protocolo do Cade ou enviada pelos Correios ou por e-mail para protocolo@cade.gov.br. A decisão do Tribunal Administrativo do Cade sobre a consulta proposta será publicada no Diário Oficial da União por meio da Ata da Sessão de Julgamento.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Entrega do requerimento de consulta sobre questão concorrencial ao Tribunal Administrativo do Cade, assim como de documentos necessários.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Sede do Conselho Administrativo de Defesa Econômica. Endereço: Setor de Edifícios de Utilidade Pública Norte – SEPN, Entrequadra 515, Conjunto D, Lote 4, Edifício Carlos Taurisano</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://sei.cade.gov.br/sei/institucional/usuarioexterno/controlador_externo.php?acao=usuario_externo_logar&id_orgao_acesso_externo=0</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>protocolo@cade.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Setor de Edifícios de Utilidade Pública Norte – SEPN, Entrequadra 515, Conjunto D, Lote 4, Edifício Carlos Taurisano. Cep: 70770-504 - Brasília/DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/322"/>
+	<areas-de-interesse>
+		<item>Urbanismo</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

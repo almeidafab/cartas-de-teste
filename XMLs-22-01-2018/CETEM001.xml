@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar elaboração de Projetos de PD&I / prestação de serviços tecnológicos especializados na área mineral</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O CETEM realiza parcerias na elaboração de Projetos de PD&I e Prestação de Serviços Tecnológicos no setor mineral envolvendo as atividades de:  Caracterização química, mineralógica e tecnológica de minérios e materiais; Produção de materiais de referência certificados; Caracterização de gemas e metais preciosos; Modelagem Molecular; Processamento mineral - flotação, cominuição e escalonamento de processos; Processamento metalúrgico – metalurgia extrativa; Processos biotecnológicos e ecotoxicologia;  Recuperação de metais, reciclagem de materiais e aproveitamento de resíduos; Tratamento de efluentes industriais; Apoio às micro e pequenas emprtesas do setor mineral; Recuperação ambiental de áreas mineradas; e, Estudos prospectivos dos impactos socioeconômicos e ambientais da mineração.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Realizar entrevista</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Av. Pedro Calmon, 900 - Cidade Universitária - Rio de Janeiro - Brasil - CEP: 21941-908</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2138657203</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Av. Pedro Calmon, 900 - Cidade Universitária - Rio de Janeiro - Brasil - CEP: 21941-908</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1988"/>
+	<areas-de-interesse>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

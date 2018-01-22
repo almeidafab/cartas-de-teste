@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Certidão e Certificado de Cadastro/Registro de produtos para saúde</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Certificado de livre Comercialização</item>
+	</nomes-populares>
+	<descricao>O Certificado de Livre Comercialização (CLC) ou Certificado de Venda Livre (CVL) é um documento outorgado pela autoridade sanitária competente ou por organismos oficialmente reconhecidos no país de origem e se aplica aos produtos importados que serão comercializados no território nacional. Esse documento serve para atestar que o produto é livremente comercializado no país de origem. Para o CVL, o interessado deverá clicar no assunto “Emissão de Certificado”, no menu esquerdo do sistema. Após o recebimento do CVL, a área técnica irá analisar o documento e providenciar a assinatura do gerente responsável. Quando a documentação estiver pronta, a empresa será diretamente comunicada por e-mail. O CVL deverá ser retirado na sede da Anvisa, em Brasília, na área de Protocolo. Após a protocolização do pedido, o interessado poderá acompanhar o andamento de seu pedido, por meio do sistema de Consulta à Situação de Documentos.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Sistema de autoatendimento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.anvisa.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/36687"/>
+	<areas-de-interesse>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

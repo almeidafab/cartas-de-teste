@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Dinheiro Brasileiro - Serviços do Meio Circulante</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Dinheiro - Cédulas e Moedas</item>
+	</nomes-populares>
+	<descricao>Ao Banco Central do Brasil, segundo o artigo 10 da Lei 4.595, de 31 de dezembro de 1964, cabe a responsabilidade pela execução dos serviços do meio circulante.Na estrutura organizacional, essas atribuições são exercidas pelo Departamento do Meio Circulante (MECIR), sediado na cidade do Rio de Janeiro ( Av. Rio Branco, 30 - Centro - mecir@bcb.gov.br), com Gerências Técnicas em nove capitais do País: Belém, Belo Horizonte, Brasília, Curitiba, Fortaleza, Porto Alegre, Recife, Salvador e São Paulo.Os serviços compreendem:•Pesquisa tecnológica e desenvolvimento das características de cédulas e moedas, que compreende as atividades de design, seleção de insumos, conhecimento dos processos utilizados para falsificação de cédulas e moedas e análise pericial.•Provimento do meio circulante, que compreende as atividades de aquisição de cédulas e moedas  e da organização da logística de sua distribuição para as Gerências Técnicas e para a instituição custodiante Banco do Brasil S.A., em praças selecionadas.•Saneamento do meio circulante, que compreende as atividades de recebimento, conferências, seleção e troca, às quais deve ser acrescentada a organização da logística de recolhimento, pelo Mecir, de cédulas e moedas danificadas para sua destruição.•Supervisão do meio circulante, que compreende as atividades de fiscalização direta e o monitoramento da custódia de numerário à ordem do Banco Central do Brasil, sob responsabilidade da instituição custodiante, além da formulação de normativos.•Relacionamento com a sociedade para dar publicidade aos elementos de segurança do Real, incentivar o uso da moeda metálica e conservar o meio circulante.•Fornecimento de informações e apoio às entidades responsáveis pelo combate à falsificação de cédulas e moedas.•Execução de atividades acessórias, que compreendem as atividades de guarda de valores para o Poder Judiciário e órgãos policiais.A Missão do serviço: assegurar o provimento de cédulas e moedas metálicas com qualidade e em quantidade adequadas em todo o território nacional.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Toda a população brasileira</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Não se aplica</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/89"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Economia e Finanças</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa Nacional de Documentação da Trabalhadora Rural- PNDTR</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>PNDTR</item>
+	</nomes-populares>
+	<descricao>O principal objetivo do Programa é promover a cidadania e autonomia das mulheres trabalhadoras rurais, e por meio dos mutirões itinerantes garantir o acesso aos documentos civis, trabalhistas e previdenciários de forma gratuita, visando efetivar sua condição de cidadã, proporcionar ações educativas participativas sobre a importância da documentação e ingresso às políticas públicas, principalmente aquelas destinadas às mulheres rurais.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitar documentos.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de casamento</item>
+					<item>Certidão de nascimento</item>
+					<item>CPF</item>
+					<item>NIS</item>
+					<item>NIT / PIS / PASEP</item>
+					<item>Nenhum, quando for a emissão de 1ª via do 1º documento da beneficiária.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Através dos mutirões itinerantes que são realizados nos municípios.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2837"/>
+	<areas-de-interesse>
+		<item>Segurança e Ordem Pública</item>
+		<item>Previdência Social</item>
+		<item>Trabalho</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

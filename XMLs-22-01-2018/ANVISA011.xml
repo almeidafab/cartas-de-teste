@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Cota Suplementar de importação</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Cota Suplementar de Importação é a quantidade de substância constante das listas "A1" e "A2" (entorpecentes), "A3", "B1" e "B2" (psicotrópicos) e "D1" (precursores) da Portaria SVS/MS nº 344/1998 e de suas atualizações que a empresa poderá importar, em caráter suplementar à cota anual, mediante solicitação de Autorização de Importação.
+Para realizar a solicitação de Cota Suplementar de Importação, o interessado deve realizar o procedimento de peticionamento.
+É necessário que o estabelecimento/instituição esteja cadastrado para ter acesso ao peticionamento eletrônico.
+Após realizar o cadastro, a empresa deverá acessar o peticionamento eletrônico com o login e senha cadastrados. Em seguida selecionar a opção “Petição manual e pagamento de taxa”.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Peticionamento da solicitação no site da Anvisa.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>1 - Formulário de Petição - Anexo II da Portaria SVS/MS nº 6, de 29 de janeiro de 1999 devidamente preenchido    2 - Via original do comprovante de pagamento da Taxa de Fiscalização de Vigilância Sanitária (GRU)    3 - Quadro demonstrativo da utilização/distribuição da substância até a data da petição    4 - Justificativa técnica do pedido</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://portal.anvisa.gov.br/sistema-de-peticionamento</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SIA Trecho 5/Área especial 57 - Guará, Brasília - DF, 71205-050</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/36687"/>
+	<areas-de-interesse>
+		<item>Indústria</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
