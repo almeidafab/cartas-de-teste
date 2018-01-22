@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Acreditação de Organismos de Certificação</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>ACREDITAÇÃO</item>
+	</nomes-populares>
+	<descricao>Atividades para reconhecer a competência técnica dos organismos de avaliação da conformidade que executam certificações de produtos, sistemas de gestão, pessoas, processos ou serviços, para isto, utiliza programas de acreditação, estabelecidos em Normas, cujos requisitos devem ser atendidos, plenamente, pelos solicitantes. Esta acreditação engloba as modalidades: produtos, pessoas e sistemas de gestão. A Dicor acredita organismos de certificação baseada no cumprimento dos requisitos estabelecidos nas seguintes Normas Internacionais para os diferentes tipos de avaliação da conformidade, além de critérios adicionais previstos nos procedimentos específicos de acreditação: - ABNT NBR ISO/IEC 17065 para Organismos de Certificação de Produtos; - ABNT NBR ISO/IEC 17021 para Organismos de Certificação de Sistemas de Gestão; - ABNT NBR ISO /IEC 17024 para Organismos de Certificação de Pessoas. Para o cadastro do organismo de certificação, deve ser solicitado à Dicor, através do e-mail dicor@inmetro.gov.br, um login e uma senha para acesso ao sistema “ORQUESTRA”. Por meio desse sistema, o Organismo envia a documentação e acompanha as etapas do processo.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>SOLICITAÇÃO DO SERVIÇO</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>Informação biométrica</item>
+					<item>Registro da Junta Comercial</item>
+					<item>DOCUMENTOS TÉCNICOS</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2125632778</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>WWW.INMETRO.GOV.BR</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>DICOR@INMETRO.GOV.BR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>AGENDAR VISITAS TÉCNICAS</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>Registro em Cartório</item>
+					<item>DOCUMENTOS TÉCNICOS</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>25632870</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>WWW.INMETRO.GOV.BR</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>DICOR@INMETRO.GOV.BR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>AGENDAR VISITAS TÉCNICAS</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>Registro em Cartório</item>
+					<item>DOCUMENTOS TÉCNICOS</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2125632870</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>WWW.INMETRO.GOV.BR</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>DICOR@INMETRO.GOV.BR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/240"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Agropecuária</item>
+		<item>Comércio e Serviços</item>
+		<item>Economia e Finanças</item>
+		<item>Energia</item>
+		<item>Habitação</item>
+		<item>Indústria</item>
+		<item>Meio ambiente</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

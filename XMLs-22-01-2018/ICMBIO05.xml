@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter autorização para pesquisa nas unidades de conservação federais ou obter licença permanente para pesquisa</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>É mais conhecido pela sua sigla: SISBIO</item>
+	</nomes-populares>
+	<descricao>Para obter autorização para a realização de pesquisas e atividades didáticas do ensino superior, inseridas em unidades de conservação federais, bem como obter a licença permante para pesquisas no entorno ou fora de UC, que envolvam fauna silvestre, é necessário preencher o requerimento online no SISBIO. Após análise técnica, em caso de deferimento, é emitida i) a licença de autorização para pesquisa, ii) a licença de autorização para atividades didáticas ou iii) a licença permanente de pesquisa fora de UC. Estes documentos devem permancer na posse do pesquisador durante toda a atividade.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Fazer correções pedidas pelos analistas conforme legislação, questões técnicas do sistema ou da situação das espécies na unidade de conservação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Depende do erro encontrado pelo analista, assim, pode ser apenas correções no formulário digital ou anexação de documentos comprobatórios de vinculo etc.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>atendimento.sisbio@gmail.com</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/91842"/>
+	<areas-de-interesse>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

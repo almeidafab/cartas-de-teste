@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Requisitar Registro de Objeto</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Registro de Objeto</item>
+	</nomes-populares>
+	<descricao>Registro é o ato pelo qual o Inmetro, na condição de órgão regulamentador ou em decorrência de competência que lhe seja delegada, autoriza, condicionado à existência do Atestado de Conformidade, a utilização do Selo de Identificação da Conformidade e a comercialização do objeto, conforme previsto na Resolução Conmetro nº 05, de 06 de maio de 2008, que dispõe sobre a aprovação do Regulamento para o Registro de Objeto com Conformidade Avaliada Compulsória.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitar análise para concessão do registro</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>Registro da Junta Comercial</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://orquestra.inmetro.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>regobjeto@inmetro.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/240"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Indústria</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

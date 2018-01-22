@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>solicitar acesso ao Censo da Educação Superior</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O Censo da Educação Superior, realizado anualmente pelo Inep, é o instrumento de pesquisa mais completo do Brasil sobre as instituições de educação superior (IES) que ofertam cursos de graduação e sequencias de formação específica, além de seus alunos e docentes. Essa coleta tem como objetivo de oferecer à comunidade acadêmica e à sociedade em geral informações detalhadas sobre a situação e as grandes tendências do setor.
+O Censo da Educação Superior reúne informações sobre as instituições de ensino superior, seus cursos de graduação presencial ou a distância, cursos sequenciais, vagas oferecidas, inscrições, matrículas, ingressantes e concluintes e informações sobre docentes nas diferentes formas de organização acadêmica e categoria administrativa.
+As estatísticas educacionais produzidas oferecem aos usuários informações sobre ingressos, matrículas, concluintes, vagas, dados de financiamento estudantil, recursos de tecnologia assistiva disponíveis às pessoas com deficiência, entre outros.
+Além do Resumo Técnico as informações obtidas no Censo são divulgadas pelo InepData em forma de Sinopse Estatísticas e Microdados, possibilitando transparência dos dados coletados a cada edição do Censo e acessibilidade à população.
+Ressalta-se, ainda, que atendemos as demandas oriundas do Sistema de Informação ao Cidadão (SIC) e do Serviço de Acesso a Dados Protegidos, produzidos pelo Inep. Por meio dele é possível a realização de estudos, garantindo o desenvolvimento de pesquisas de interesse público e a manutenção do sigilo e da identidade dos indivíduos e instituições, conforme a legislação vigente.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Depende de cada atendimento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http//:www.inep.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>censup@inep.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/249"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Educação</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

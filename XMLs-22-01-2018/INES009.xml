@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Cadastrar interessados em prestar serviço voluntário</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Serviço voluntário</item>
+	</nomes-populares>
+	<descricao>Apresentação de proposta de atividade voluntária, presencial ou por e-mail, acompanhada de documentos de identificação pessoal do requerente (qualquer cidadão); formalização de processo administrativo; aprovação pelas instâncias do Instituto; assinatura do Termo de adesão do serviço voluntário.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1. Apresentação da demanda;</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>currículo, plano de trabalho e fotos</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Divisão de Formação e Capacitação de Recursos Humanos do Instituto Nacional de Educação de Surdos
+Rua das Laranjeiras, 232 - sala 308 - Laranjeiras - Rio de Janeiro - RJ - 22240-003</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>convenio@ines.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Assinatura do Termo de adesão, após aprovação da demanda.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Divisão de Formação e Capacitação de Recursos Humanos do Instituto Nacional de Educação de Surdos
+Rua das Laranjeiras, 232 - sala 308 - Laranjeiras - Rio de Janeiro - RJ - 22240-003</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/252"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Administração </item>
+		<item>Comunicações</item>
+		<item>Cultura</item>
+		<item>Cidadania</item>
+		<item>Educação</item>
+		<item>Esporte e Lazer</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Saúde</item>
+		<item>Trabalho</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

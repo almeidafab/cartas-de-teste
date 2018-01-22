@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Serviço de terminologia em Educação do CIBEC</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Serviço de terminologia do CIBEC</item>
+	</nomes-populares>
+	<descricao>Serviço de terminologia em Educação: o serviço compreende o gerenciamento de termos utilizados na área de Educação, incluindo:
+1. O Thesaurus Brasileiro da Educação (Brased), visa a produção de um vocabulário controlado que reúne termos e conceitos relacionados entre si a partir de uma estrutura conceitual da área estabelecida na área de Educação. Estes termos são destinados à indexação e à recuperação de informações nos seus mais diferentes formatos (livros, teses, dissertações, filmes, slides, etc.) garantindo assim que documentalistas e pesquisadores realizem buscas sobre informações na área de Educação
+2. Banco de dados terminológico do MERCOSUL (BDT): o serviço compreende o gerenciamento da equivalência de termos português/espanhol incluindo as várias acepções de termos utilizados na área de Educação. Esse banco de dados permite buscas e consultas a documentalistas e pesquisadores na área de Educação.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitação para incluir/excluir/alterar termos</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>cibec@inep.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/249"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

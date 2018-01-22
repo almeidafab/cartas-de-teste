@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Reconhecimento de perfil de beneficiários de unidades de conservação federais de uso sustentável (categorias Reserva Extrativista, Floresta Nacional e Reserva de Desenvolvimento Sustentável)</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Após realização do cadastro de famílias em unidades de conservação federais de uso sustentável (Resex, Flona e RDS), é realizada ampla discussão sobre o perfil da família beneficiária no âmbito do Conselho Gestor da UC. Após a definição dos critérios, o ICMBio publica uma Portaria com o Perfil das famílias beneficiárias da UC. O Conselho Gestor da UC publica a lista dos beneficiários da unidade, por meio da qual a instituição reconhece os direitos e deveres destas famílias residentes no interior ou entorno das unidades de conservação federais.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Participar de entrevista</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+					<item>NIS</item>
+					<item>NIT / PIS / PASEP</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Na residência da pessoa</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/91842"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Administração </item>
+		<item>Agropecuária</item>
+		<item>Cultura</item>
+		<item>Educação</item>
+		<item>Energia</item>
+		<item>Esporte e Lazer</item>
+		<item>Habitação</item>
+		<item>Meio ambiente</item>
+		<item>Saneamento</item>
+		<item>Saúde</item>
+		<item>Trabalho</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

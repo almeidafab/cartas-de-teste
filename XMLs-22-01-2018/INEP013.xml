@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Aplicar Avaliação Nacional Seriada dos Estudantes de Medicina (Anasem)</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituições de Educação Superior Estrangeira (Revalida) foi criado em 2011, em uma ação articulada dos Ministérios da Educação e da Saúde, para ampliar a revalidação de diplomas médicos obtidos no exterior. Antes do Exame, a revalidação era restrita às Instituições de Ensino Superior (IES). Como instrumento unificado de avaliação, o Revalida tornou a revalidação mais acessível e permitiu atender ao grande fluxo de graduados em escolas médicas no exterior.
+
+O Revalida é realizado pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) em colaboração com a Subcomissão de Revalidação de Diplomas Médicos. O Exame é aplicado pelo Inep, mas a revalidação é de responsabilidade de Instituições de Educação Superior públicas que aderem ao instrumento unificado de avaliação.
+
+O Revalida é compatível com as exigências de formação das universidades brasileiras. Para aferição de equivalência curricular e definição da correspondente aptidão para o exercício profissional da medicina no Brasil, os parâmetros e critérios isonômicos seguem as Diretrizes Curriculares Nacionais do Curso de Graduação em Medicina. 
+
+O Exame é orientado pela Matriz de Correspondência Curricular para Fins de Revalidação de Diplomas de Médico Expedidos por Universidades Estrangeiras, que define os conteúdos, as competências e as habilidades das cinco grandes áreas de exercício profissional: Cirurgia, Medicina de Família e Comunidade, Pediatria, Ginecologia-Obstetrícia e Clínica Médica.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrição</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://portal.inep.gov.br/anasem</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Realizar a prova</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>No local de aplicação da prova.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Resultados</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://portal.inep.gov.br/anasem</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/249"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+		<item>Saúde</item>
+		<item>Trabalho</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

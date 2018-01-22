@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Revista Brasileira de Estudos Pedagógicos (Rbep) e “Em aberto”</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Revista RBEP e Em Aberto</item>
+	</nomes-populares>
+	<descricao>1. Revista Brasileira de Estudos Pedagógicos (RBEP) é um periódico quadrimestral, publicado em formato impresso e eletrônico.
+Publica artigos inéditos, resultante de "estudos" pesquisas empíricas e teóricas, "relatos de experiência" teoricamente
+fundamentados e "resenhas" seção voltada a análises críticas de publicações que apresentem consistencia, rigor e
+originalidadade na abordagem do tema e contribuam para a construção do conhecimento na área de educaação.
+2. Em Aberto é uma publicação periódica monotemática, com periodicidade quadrimestral, cuja finalidade é estimular e promover
+a discussão de questões atuais e relevantes da educação brasileira, trazendo opiniões divergentes ou confrontos de pontos de
+vista, publica artigos, resenhas e bibliografias seletivas.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>professores, pesquisadores e estudantes de graduação e pós-graduação, técnicos e gestores da área educacional.</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Acessar a página do Inep.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.inep.gov.br/publicacoes</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>rbep.inep.gov.br e emaberto.inep.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/249"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

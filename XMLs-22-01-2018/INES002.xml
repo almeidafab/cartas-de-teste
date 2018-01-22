@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>RECEBER PROJETOS DE PESQUISAS</nome>
+	<sigla/>
+	<contato/>
+	<descricao>ACOLHER PESQUISADORES QUE DESEJAM REALIZAR PESQUISAS NO ÂMBITO INTERNO DO INES, MEDIANTE PREENCHIMENTO DE FORMULÁRIO DE CADASTRO PRÓPRIO, TERMO DE COMPROMISSO E APROVAÇÃO DE DOCUMENTAÇÃO ESPECÍFICA (CARTA DE APRESENTAÇÃO E PROJETO DE PESQUISA). ESSE SERVIÇO INCLUI O ENCAMINHAMENTO DO PESQUISADOR AO(S) SETOR(ES)ONDE SERÁ REALIZADA A PESQUISA E O DIRECIONAMENTO DOS RESULTADOS DA PESQUISA, EM FORMATO DE ARTIGO PARA PERIÓDICOS DO INES.  O CADASTRO PODE SER REALIZADO FISICAMENTE OU MEDIANTE ENVIO DOS DOCUMENTOS DIGITALIZADOS PELO E-MAIL DA DIVISÃO.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>RESPONDER AS INFORMAÇÕES</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>PAPEL DE ORIENTAÇÃO</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>DIESP - 3 ANDAR DO INES</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2122050224</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>DIESP@INES.GOV.BR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>ORIENTAR OS PROCEDIMENTOS</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>PAPEL DE PROCEDIMENTO</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>DIESP - 3 ANDAR DO INES</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2122050224</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>DIESP@INES.GOV.BR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>DAR FORMULÁRIOS</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>FORMULÁRIO</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>DIESP - 3 ANDAR DO INES</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2122050224</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>DIESP@INES.GOV.BR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>RECEBER PROJETOS DE PESQUISA</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>PROJETO DE PESQUISA</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>DIESP - 3 ANDAR DO INES</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2122050224</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>DIESP@INES.GOV.BR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>ANALISAR PROJETOS DE PESQUISA</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>PROJETO DE PESQUISA</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>DIESP - 3 ANDAR DO INES</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2122050224</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>DIESP@INES.GOV.BR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>SE HOUVER ERROS OU FALHAS NO PROJETO DE PESQUISA, ESTE É DEVOLVIDO</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>PROJETO DE PESQUISA</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>DIESP - 3 ANDAR DO INES</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2122050224</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>DIESP@INES.GOV.BR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>RECEBER O PROJETO DE PESQUISA CORRIGIDA</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>PROJETO DE PESQUISA</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>DIESP - 3 ANDAR DO INES</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2122050224</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>DIESP@INES.GOV.BR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>ENCAMINHAR CARTA DE ANUÊNCIA</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CARTA DE ANUÊNCIA</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>DIESP - 3 ANDAR DO INES</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>DIESP@INES.GOV.BR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>RECEBER OUTROS DOCUMENTOS (CARTA DE APRESENTAÇÃO, TERMO DE COMPROMISSO E CARTA DO CEP)</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CARTA DE APRESENTAÇÃO, TERMO DE COMPROMISSO E CARTA DO CEP</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>DIESP - 3 ANDAR DO INES</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>DIESP@INES.GOV.BR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>ENCAMINHAR AUTORIZAÇÃO E ANUÊNCIA AOS SETORES</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>MEMORANDO</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>DIESP - 3 ANDAR DO INES</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>DIESP@INES.GOV.BR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>RECEBER APROVAÇÃO DO SETOR</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>MEMORANDO</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>DIESP - 3 ANDAR DO INES</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2122050224</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>DIESP@INES.GOV.BR</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/252"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+		<item>Educação</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

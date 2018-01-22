@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Cadastro como Posto de selagem de Cronotacógrafos</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Cadastramento do Postos de Selagem</item>
+	</nomes-populares>
+	<descricao>Processo de cadastro de empresas que realizam a selagem dos cronotacógrafos já instalados nos veículos. A selagem consiste na colocação de mecanismos de proteção no cronotacógrafo, denominadas marcas de selagem, para que determinados elementos sejam mantidos em condição regulamentar de uso. Cabe aos órgãos delegados e às superintendências da Rede Brasileira de Metrologia Legal e Qualidade (RBMLQ-I) avaliar as condições e os requisitos para as empresas se credenciarem para realizar selagem de cronotacógrafos. Deve-se encaminhar solicitação ao orgão delegado do seu Estado para dar início ao cadastro. A solicitação será analisada e, se estiver completa, será aberto processo administrativo e será marcada a avaliação nas instalações da empresa. O candidato deve possuir instalações físicas e equipamentos compatíveis com a atividade objeto do credenciamento.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitar cadastramento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certificado de conclusão de curso</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Contrato Social</item>
+					<item>Registro da Junta Comercial</item>
+					<item>Certificado de Calibração</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>cronotacografo@inmetro.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Av. Nossa Senhora, 50 - Xerém - Duque de Caxias - RJ - CEP:25250-020</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/240"/>
+	<areas-de-interesse>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

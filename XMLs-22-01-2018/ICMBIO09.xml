@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa Bolsa Verde - PBV</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Bolsa Verde</item>
+	</nomes-populares>
+	<descricao>O Programa Bolsa Verde (PBV) foi instituído pela  Lei nº 12.512 de 14 de outubro de 2011, regulamentada pelo Decreto n°7.572, de 28 de setembro de 2011. Assim, a União ficou autorizada a transferir recursos financeiros a indivíduos e famílias em situação de extrema pobreza e que desenvolvam atividades de conservação de recursos naturais em áreas relevantes no meio rural, além de promover a inclusão produtiva destas populações. Para aderir ao PBV o beneficiário da Unidade de Conservação deverá preencher alguns critérios, tais como: ser beneficiário do bolsa família e possuir renda per capita até o valor de R$ 85,00.Inicialmente, o benefíciário da Unidade de Conservação deverá passar pelo cruzamento do Cadúnico, onde será verificado se, de fato, preenche os requisitos para ser considerado apto. Uma vez considerado apto, ele será inserido na base de dados do Programa. Após essa inserção o gestor da UC poderá imprimir o termo de adesão nominal do beneficiário e coletar sua assinatura. Em seguida, o gestor da Unidade de Conservação encaminha o referido termo à COPCT que, por sua vez, encaminhará ao MMA que encaminhará o nome do beneficiário à Caixa Econômica  para pagamento.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Assinar o termo de adesão ao Programa Bolsa Verde</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CPF</item>
+					<item>NIS</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Escritório do ICMBio na Unidade de Conservação Federal.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/91842"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

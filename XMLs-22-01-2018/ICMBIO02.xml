@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Concessão de Direito Real de Uso para populações tradicionais</nome>
+	<sigla/>
+	<contato/>
+	<descricao>A Concessão de Direito Real de Uso trata-se  de um contrato administrativo pelo qual o Poder Publico atribui um bem de seu domínio a particular, para que explore segundo a sua destinação específica. É um título de uso dos recursos naturais repassado pelo Governo,  no caso o Federal, para as organizações representativas e famílias de comunidades tradicionais residentes em uma Unidade de Conservação de uso sustentável-Reservas Extrativistas, Reservas de Desenvolvimento Sustentável e Florestas Nacionais.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Participação da Associação Concessionária, representada pelo seu presidente, em  reunião do Conselho da Unidade de Conservação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>CPF</item>
+					<item>Estatuto da Associação Concessionária</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6120289330</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/91842"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Agropecuária</item>
+		<item>Habitação</item>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

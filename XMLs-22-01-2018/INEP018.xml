@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar acesso ao Sistema de Acreditação Regional de Cursos de Graduação do Mercosul (ARCU-SUL)</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O Sistema de acreditação regional de cursos de graduação do MERCOSUL e Estados Associados (ARCU-SUL) foi criado em 1991 e possui como países membros a Argentina, o Brasil, o Paraguai e o Uruguai e como associados o Chile, a Bolívia, o Peru, a Colômbia e o Equador. O ARCU-SUL visa verificar a qualidade, mediante critérios regionais de qualidade, de cursos de graduação para a melhoria permanente da formação em nível superior, necessária para a promoção do desenvolvimento educacional, econômico, social, político e cultural dos países da região. O sistema ARCU-SUL dá garantia pública do nível acadêmico e científico dos cursos. Foram avaliadas as áreas: Agronomia, Arquitetura, Enfermagem, Veterinária, Engenharia, Medicina, Odontologia, Farmácia, Economia, Geologia. Mais informações disponíveis no Portal do Inep. http://portal.inep.gov.br/redes-de-certificacao-ou-acreditacao</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Acesso a resoluções.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>arcusul.mec.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/249"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+		<item>Relações Internacionais</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

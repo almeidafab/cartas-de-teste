@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa de Voluntariado do ICMBio</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Para o ICMBio, o trabalho dos voluntários é uma importante estratégia de gestão, de integração da sociedade ao trabalho de conservar e proteger a sociobiodiversdade. Nacionalmente, a coordenação do Programa Voluntariado ICMBio encontra-se na sede do ICMBio em Brasília. Em nível local, cada Unidade Organizacional pode desenvolver seu programa conforme suas necessidades, além de indicar uma pessoa responsável para orientá-lo e acompanhar o seu trabalho como voluntário.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Obter informações gerais sobre voluntariado no site do ICMBio</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.icmbio.gov.br/portal/sejaumvoluntario</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Solicitar informações à Unidade escolhida, por e-mail.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>O endereço de e-mail é específico para a Unidade escolhida pelo interessado e está disponibilizado no Site do ICMBio</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Receber orientação sobre as oportunidades de voluntariado na Unidade escolhida (meios eletrônicos)</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>O endereço de e-mail é específico para a Unidade escolhida pelo interessado e está disponibilizado no Site do ICMBio</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Candidatar-se à vaga de voluntário na Unidade escolhida (meios eletrônicos)</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>Termo de Adesão ao Serviço Voluntário e Plano de Trabalho Indivdual ou Coletivo</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>O endereço de e-mail é específico para a Unidade escolhida pelo interessado e está disponibilizado no Site do ICMBio</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/91842"/>
+	<areas-de-interesse>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

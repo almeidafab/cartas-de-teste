@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>SOLICITAR ASSESSORIA TÉCNICA</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Curso de Extensão</item>
+		<item>Curso de Aperfeiçoamento</item>
+		<item>Curso de Capacitação</item>
+	</nomes-populares>
+	<descricao>A inscrição para recebimento pode ser feita por qualquer Secretaria de Educação (estadual ou municipal), em processo de seleção regido por edital, lançado anualmente no primeiro trimestre, pra contemplação no ano corrente. Ao INES, compete enviar os profissionais e arcar com as custas destes (passagens, traslado aéreo e hospedagem). À instituição solicitante compete a infraestrutura do evento.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Efetuar a inscrição no processo de seleção</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.ines.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Enviar a documentação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Formulário próprio</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>cooperacaotecnica@ines.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Sediar a Assessoria Técnica</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Local disponibilizado pelo solicitante para recebimento da Assessoria. Pode ser a sede do próprio órgão requerente ou outro local a ele cedido para esta capacitação.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/252"/>
+	<areas-de-interesse>
+		<item>Cidadania</item>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

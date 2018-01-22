@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Serviço de Acesso a Dados Protegidos - SEDAP do CIBEC/DIRED</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>SEDAP</item>
+	</nomes-populares>
+	<descricao>O Serviço de Acesso a Dados Protegidos (Sedap) atende solicitações de acesso a bases de dados protegidos produzidos pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep). Por meio dele, pesquisadores podem acessar, para fins institucionais e científicos, a bases de dados produzidas pelo Instituto. 
+O objetivo do Sedap é viabilizar a realização de estudos, garantindo o desenvolvimento de pesquisas de interesse público e a manutenção do sigilo e da identidade dos indivíduos e instituições, conforme a legislação vigente</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>apresentar documentação e agendar serviços</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Centro de Informação e Biblioteca em Educação
+Diretoria de Estudos Educacionais
+Instituto Nacional de Estudos e Pesquisas Educacionais Anisio Teixeira
+Setor de Indústrias Gráficas - SIG Quadra 04 lote 327 
+Brasília - DF CEP: 70610-908</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6120223918</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>sedap@inep.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/249"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

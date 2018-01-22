@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Autorização para emitir Declaração de Conformidade de Instrumentos de Medição Regulamentados</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Processo de Concessão e manutenção de autorização de empresas que estejam interessadas em emitir Declaração de Conformidade de instrumentos de medição regulamentados, sob a supervisão metrológica da Diretoria de Metrologia Legal do Inmetro, como alternativa às verificações iniciais e após reparos. A empresa interessada em obter a concessão de autorização deve atender aos requisitos estabelecidos na Portaria Inmetro n° 400/2013. A solicitação deve ser feita por meio do preenchimento do formulário FOR-Dimel-202, disponível no sitio do Inmetro ou obtido através da Disme. Para a manutenção da autorização a empresa autorizada fica submetida a visitas de supervisão periódica conforme requisitos estabelecidos na Portaria Inmetro 400/2013. A Dimel disponibiliza também os documentos DOQ-Dimel-002 e 004 que orientam às empresas sobre o processo de concessão e de manutenção da autorização, assim como apresenta os custos relacionados. A Portaria Inmetro n° 400/13 pode ser consultada no seguinte endereço: http://inmetro.gov.br/legislacao/, enquanto que o formulário e os documentos no endereço www.inmetro.gov.br/metlegal/docDisponiveis.asp</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="90" max="120" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>- Envio de formulário de solicitação
+- Correção de não conformidades na documentação (se houver)
+- Recebimento e aceite de plano de auditoria
+- Recebimento da auditoria
+- Elaboração e envio do plano de ações
+- Envio de evidências para encerramento de não conformidades (se houver)
+- Recebimento e aceite dos custos de autorização de concessão
+- Pagamento
+- Recebimento da Portaria de autorização</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>Procuração do representante legal</item>
+					<item>Registro da Junta Comercial</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2126799156</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>dicol@inmetro.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/240"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Indústria</item>
+		<item>Meio ambiente</item>
+		<item>Saneamento</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

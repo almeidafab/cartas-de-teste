@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter Autorização Direta</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Autorização para o Licenciamento Ambiental - ALA</item>
+		<item>Autorização Direta - AD</item>
+		<item>Autorização ou Anuência para Supressão de Vegetação - ASV</item>
+		<item>Autorização para Coleta, Captura e Transporte de Material Biológico - ABio</item>
+	</nomes-populares>
+	<descricao>Para a obtenção de autorização direta é necessário encaminhar um requerimento para o ICMBio (entrega em qualquer unidade organizacional), com a descrição da atividade e da área afetada. Após análise técnica, é emitida uma comunicação oficial ao interessado informando o deferimento ou o indeferimento do pleito.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Envio do termo de referencia ou Estudo de impacto ambiental oriundo do órgão licenciador.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>EIA RIMA; Termo de Referencia; FCA; Documentação do Interessado.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>DIRETORIA DE PESQUISA, AVALIAÇÃO E MONITORAMENTO DA BIODIVERSIDADE
+Instituto Chico Mendes de Conservação da Biodiversidade
+Caixa Postal: 7993 CEP: 70673-970</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/91842"/>
+	<areas-de-interesse>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Séries: PNE em Movimento, Textos para Discussão e Relatos de Pesquisa</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>1. PNE em Movimento</item>
+		<item>2. TD</item>
+		<item>3. RP</item>
+	</nomes-populares>
+	<descricao>1. PNE em Movimento: nasce com o intutito de divulgar estudos e pesquisas sobre as metas, as estratégias, os programas e as
+políticas públicas relacionadas ao Plano Nacional de Educação (PNE), objetivando maximizar o alcance de sua discussão, bem
+como atender aos requisitos do artigo 5º da Lei nº 13.005, de 25 de junho de 2014, que prevê que o Inep publicará estudos para
+aferir a evolução no cumprimento das metas do PNE;
+2. Textos para Discussão (TD): divulga pontos de vista devidamente fundamentados que contribuam para a reflexão sobre
+determinado tema em educação, principalmente textos que discutam inovações no campo da política educacional e suscitem
+debates;
+3. Relatos de Pesquisa (RP): apresenta relatos de pesquisas e estudos coordenados pelo Inep e/ou elabarados a partir de sua
+base de dados.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>professores, pesquisadores e estudantes de graduação e pós-graduação, técnicos e gestores da áreaeducacional.</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Acessar pagina do Inep.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>CIBEC</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.inep.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>www.inep.gov.br/publicacoes</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/249"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

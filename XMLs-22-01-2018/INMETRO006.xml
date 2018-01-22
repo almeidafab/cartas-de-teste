@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Pedir Anuência para Importação</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Anuência para Licença de Importação</item>
+	</nomes-populares>
+	<descricao>A Lei n.º 9.933/99, que dispõe sobre as competências do Inmetro, teve alguns de seus artigos alterados pela Lei nº. 12.545/2011. Dentre as alterações, foi estabelecido que o Inmetro é o responsável pela anuência das mercadorias sujeitas ao licenciamento não automático por ele regulamentadas compulsoriamente. Ao registrar uma Licença de Importação no Sistema Integrado de Comércio Exterior (Siscomex), o importador deve solicitar ao Inmetro a análise da Licença de Importação. através do sistema Orquestra, cujos procedimentos e prazos estão descritos na Portaria Inmetro nº 18/2016. O importador deve cadastrar login e senha no Orquestra; Preencher os dados no formulário do sistema e anexar o extrato da Licença de Importação registrada no Sistema Integrado de Comércio Exterior (Siscomex) e catálogo com foto da mercadoria; Clicar em “Enviar Requisição”, ao final do processo; Após enviar requisição, será gerada, automaticamente, a tarefa de Imprimir e pagar GRU; Dois dias após o reconhecimento do pagamento da GRU, o processo segue para análise da equipe de anuência.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitar análise de licença de importação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Licença de importação</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>orquestra.inmetro.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/240"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Indústria</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

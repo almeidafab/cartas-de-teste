@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar acesso ao Censo da Educação Básica</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Censo Escolar</item>
+	</nomes-populares>
+	<descricao>O Censo Escolar é o principal instrumento de coleta de informações da educação básica e o mais importante levantamento estatístico educacional brasileiro nessa área. É coordenado pelo Inep, órgão vinculado ao Ministério da Educação, e realizado em regime de colaboração entre as secretarias estaduais e municipais de educação e com a participação de todas as escolas públicas e privadas do país.
+Ele abrange as diferentes etapas e modalidades da educação básica e profissional:
+- Ensino regular (educação infantil, ensino fundamental e médio);
+- Educação especial – modalidade substitutiva;
+- Educação de Jovens e Adultos (EJA);
+- Educação profissional (cursos técnicos e cursos de formação inicial continuada ou qualificação profissional).
+A coleta de dados das escolas tem caráter declaratório e é dividida em duas etapas. A primeira etapa consiste no preenchimento da Matrícula Inicial, quando ocorre a coleta de informações sobre os estabelecimentos de ensino, turmas, alunos e profissionais escolares em sala de aula. A segunda etapa ocorre com o preenchimento de informações sobre a Situação do Aluno, e considera os dados sobre o movimento e rendimento escolar dos alunos, ao final do ano letivo.
+O Censo Escolar é uma ferramenta indispensável para que os atores educacionais possam compreender a situação educacional do país, das unidades federativas, dos municípios e do Distrito Federal, bem como das escolas e, com isso, acompanhar a efetividade das políticas públicas.
+Os dados do Censo Escolar podem ser acessados por meio do próprio sistema Educacenso, pelo Consulta Matrícula, pelo Data Escola Brasil, pelas Sinopses Estatísticas, pelos Microdados ou pelo Inepdata.  Por meio dos microdados, disponibilizados em mídia eletrônica, os usuários têm acesso a todo o acervo de dados coletados, com exceção dos dados individuais dos alunos e profissionais escolares e dos dados de endereço das escolas.
+Ressalta-se, ainda, que atendemos demandas dos usuários por meio do Sistema de Informação ao Cidadão (SIC) e também pelo Serviço de Acesso  a Dados Protegidos (Sedap)  produzidos pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep). Por meio dele,  é possível acessar, para fins institucionais e científicos, a bases de dados protegidos do Instituto. O objetivo do Sedap é viabilizar a realização de estudos, garantindo o desenvolvimento de pesquisas de interesse público e a manutenção do sigilo e da identidade dos indivíduos e instituições, conforme a legislação vigente.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Depende de cada atendimento.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>Depende do tipo de atendimento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.inep.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>censoescolar@inep.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/249"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

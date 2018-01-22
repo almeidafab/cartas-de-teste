@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Publicações Institucionais e Publicações Diversas</nome>
+	<sigla/>
+	<contato/>
+	<descricao>1. Publicações Institucionais: são publicações oficiais elaboradas por uma equipe sob a organização/coordenação de uma Diretoria do Inep, segundo o princípio da impessoalidade (Constituição Federal, art.37), tem caráter técnico, científico ou pedagógico sobre temas ligados às áreas de atuação do Inep, que têm como objetivo divulgar o resultado de estudos, pesquisas e outras atividades realizadas pelo Instituto.
+2. Publicações Diversas: publicações autorais de temas relacionados às ações do Inep. Lancamentos e/ou reedições de estudos e trabalhos realizados por pesquisadores da área educacional. Títulos pluritemáticos de diversas linhas de pesquisas. Estudos e pesquisas de natureza técnico-científica, que contribuam para o desenvolvimento do conhecimento educacional e que sejam de interesse do Inep em publicá-los.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>professores, pesquisadores e estudantes de graduação e pós-graduação, técnicos e gestores da área educacional.</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>acessar página do Inep</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.inep.gov.br/publicações</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/249"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Agendar visitação em Unidades de Conservação Federais</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não há</item>
+	</nomes-populares>
+	<descricao>A visitação em unidades de conservação federais não está necessáriamente vinculada a um agendamento ou pagamento de ingresso. Entretanto, para aquelas UC em que é necessário o agendamento, o visitante deve indicar em formulário próprio a data do período da visita e o quantitativo de pessoas. O agendamento é realizado por meio de formulário online. É necessário observar se há previsão de pagamento de ingresso para aquela UC e modalidade de visitação, que deverá ocorrer no momento do agendamento. Após o agendamento, é emitido documento de comprovação, o qual deve ser apresentado quando da visita na UC.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Cada unidade de conservação possui procedimento próprio e níveis de intera</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Depende do serviço ou da unidade de conservação. Em alguns casos, como no Parque Nacional do Itatiaia, o usuário recebe por email uma confirmação de reserva e pode se dirigir ao Parque Nacional no dia de sua reserva. Em outros casos, onde há cobrança de ingresso via GRU, o usuário pode ser solicitado a apresentar o comprovante de quitação da GRU.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/91842"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Cultura</item>
+		<item>Educação</item>
+		<item>Esporte e Lazer</item>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Requerer Sequencial de Selos para Produtos com Conformidade Avaliada</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Nao</item>
+	</nomes-populares>
+	<descricao>Os selos dos produtos com conformidade avaliada são destinados às empresas fabricantes, importadoras e/ou prestadoras de serviço que obtém a certificação e/ou registro dos seguintes produtos: extintores de incêndio, capacetes para motociclistas, acessibilidade, cilindros de GNV, panelas de pressão, cachaça, isqueiros, cabo de aço, aparelhos para melhoria da qualidade da água, certificado de inspeção veicular - CIV, pó para extinção de incêndio, sistema não metrológico de trânsito, inspeção de gás veicular (para-brisa), cédula para uso de Gás Natural – Mercosul. Os organismos acreditados e os órgãos da RBMLQ-I enviam o FOR-DCONF-001, devidamente preenchido para a Assessoria de Controle Pré-Mercado – Ascop, via e-mail selo.dconf@inmetro.gov.br. O formulário encontra-se disponível no site do Inmetro. Cabe a Ascop informar aos fornecedores, quando solicitado, as gráficas autorizadas a confeccionarem os selos de identificação da conformidade, nos casos em que houver mais de uma gráfica apta a realizar o serviço. É de responsabilidade do fornecedor: escolher a gráfica e efetuar o pagamento referente à confecção dos selos diretamente à gráfica. É de responsabilidade da Ascop: definir e enviar o sequencial dos selos à gráfica escolhida pelo fornecedor, bem como assegurar a rastreabilidade dos mesmos.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Atendimento Telefônico e via e-mail</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Comprovante de pagamento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>25632832</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>selos.dconf@inmetro.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Atendimento telefônico e via e-mail</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Comprovante de pagamento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>25632832</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/240"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Comércio e Serviços</item>
+		<item>Indústria</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

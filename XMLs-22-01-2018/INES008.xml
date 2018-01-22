@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar convênio para realização de estágio obrigatório</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Convênio para estágio</item>
+	</nomes-populares>
+	<descricao>A instituição de ensino interessada em encaminhar alunos para realização de estágio obrigatório no Instituto Nacional de Educação de Surdos - INES - deve encaminhar ofício solicitando a formalização de convênio, por meio de processo administrativo, observada a lista de documentos constante no site www.ines.gov.br, nos temos da Lei nº 11.788/2008 e da Orientação Normativa MPOG  nº 02/2016. Concluída a instrução do processo, o convênio é formalizado, normalmente, com vigência de cinco anos. A partir daí, a instituição de ensino pode encaminhar seus alunos para realização de estágio obrigatório no INES.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Encaminhar documentação para formalização do processo de convênio para concessão, pelo INES, de estágio obrigatório a seus alunos regularmente matriculados.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+					<item>estatuto, regimento interno, projetos pedagógicos dos cursos, declaração de inexistência de fatos impeditivos</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>convenio@ines.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Instituto Nacional de Educação de Surdos
+Rua das Laranjeiras, 232 - Laranjeiras - Rio de Janeiro - RJ - 22460-000
+Direção Geral</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Receber duas vias dos documentos (Plano de trabalho e Convênio) assinados pelo INES, providenciar a assinatura pelo representante legal da instituição de ensino e restituir uma via assinada ao INES.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Convênio e Plano de Trabalho assinados</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Instituto Nacional de Educação de Surdos
+Rua das Laranjeiras, 232 - Laranjeiras - Direção Geral - Rio de Janeiro - RJ - 22240-003</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/252"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

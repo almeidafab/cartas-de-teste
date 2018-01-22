@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Acreditação de Organismos de Inspeção</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Credenciamento</item>
+	</nomes-populares>
+	<descricao>Processo de reconhecimento da competência técnica de organismos de inspeção segundo os requisitos estabelecidos na norma ABNT NBR ISO/ IEC 17020:2012 e aplicável a organismos públicos e privados, sendo voltado para os seguintes tipos de inspeções: segurança veicular, inspeção de equipamentos e veículos para o transporte de produtos perigosos; ensaios não destrutivos, instalações de gás residenciais e comerciais, e Eficiência Energética em Edificações. Deve ser solicitado à Diois, pelo e-mail oi@inmetro.gov.br, um login e uma senha para acesso ao sistema “ORQUESTRA”. O organismo solicitante deve anexar ao sistema Orquestra toda documentação pertinente ao tipo de acreditação solicitado. É realizada uma análise crítica para assegurar que a Cgcre dispõe dos recursos necessários para o início imediato do processo de avaliação. É definida uma equipe de avaliação em função do escopo solicitado e da disponibilidade do avaliador/especialista para realizar o trabalho. É submetida à aprovação do organismo que tem o direito de contestar a indicação de avaliadores/especialistas, mediante justificativa inserida no campo “mensagens” do Sistema ORQUESTRA. A avaliação inicial consiste de uma visita da equipe de avaliação às instalações objeto da solicitação da acreditação e às instalações associadas, a qual o organismo pertence, com o objetivo de verificar o cumprimento de todos os requisitos. A decisão sobre a concessão da acreditação é tomada pelo Coordenador da Cgcre, com base nas recomendações da equipe de avaliação, do GA, do Chefe de Núcleo e da Comissão da Acreditação.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitar acreditação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>Registro da Junta Comercial</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>25635564</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>oi@inmetro.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Avaliação no local</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Procedimentos de trabalho</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Tratamento de pendências</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Documentos comprovatórios de atendimento das pendências levantadas</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/240"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Energia</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
