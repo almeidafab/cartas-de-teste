@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>AUTORIZAÇÃO DE CONSTRUÇÃO E OPERAÇÃO DE OLEODUTOS E GASODUTOS</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Previamente, o interessado deverá enviar documentação para formação de cadastro de agente regulado. Após, o interessado irá solicitar autorização para: a) construção e ampliação de gasoduto e oleoduto. Procedimento: análise de documentação específica; publicação de Sumário do Projeto no D.O.U.; publicação no D.O.U.  b) operação de gasoduto e oleoduto: análise de documentação específica; possibilidade de vistoria; publicação no D.O.U.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>ENVIO DE DOCUMENTAÇÃO NECESSÁRIA</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Contrato Social</item>
+					<item>Procuração do representante legal</item>
+					<item>Registro da Junta Comercial</item>
+					<item>Registro em Cartório</item>
+					<item>LICENÇA AMBIENTAL, INSCRIÇÃO NAS FAZENDAS FEDERAL E  ESTADUAL</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Avenida Rio Branco, 65. 17 ° andar
+Rio de Janeiro</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/25281"/>
+	<areas-de-interesse>
+		<item>Energia</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

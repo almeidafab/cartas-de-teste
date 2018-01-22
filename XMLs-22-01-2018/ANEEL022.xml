@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Certificado de Adimplemento, Certificado Positivo com Efeito Negativo e Certificado de Inadimplemento.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Certificado de Adimplemento</item>
+	</nomes-populares>
+	<descricao>Conceder aos agentes setoriais, mediante requerimento de login e senha, autorização para solicitar e acessar online o Certificado de Adimplemento, Certificado Positivo com Efeito Negativo e Certificado de Inadimplemento com relação às obrigações intrassetoriais previstas na Resolução Normativa ANEEL nº 538/2013.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Enviar documentação e requerimento para liberação de login e senha.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Contrato Social</item>
+					<item>Procuração do representante legal</item>
+					<item>requerimento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>inadimplentes.saf@aneel.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Agência Nacional de Energia Elétrica – ANEEL
+SGAN 603 módulos I e J - Brasília/DF 
+CEP: 70830-110</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Acessar a página da ANEEL para emissão do certificado.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>login e senha</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://sistemas.aneel.gov.br/certificado</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/21089"/>
+	<areas-de-interesse>
+		<item>Energia</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

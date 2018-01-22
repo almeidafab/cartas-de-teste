@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Certificado de Produto Brasileiro - CPB</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O requerimento para emissão do CPB inicia-se por meio eletrônico, através do Portal Ancine;
+Em seguida, o requerente deve encaminhar à ANCINE a documentação pertinente, de acordo a legislação vigente, no prazo máximo de 30 dias.
+A análise da documentação pelo setor responsável se dá em até 30 dias corridos, contados a partir da data do recebimento da documentação exigida.
+Após a análise pela área competente, o requerimento pode ser indeferido, se verificado o não envio dos documentos dentro do prazo ou o não atendimento aos requisitos normativos, ou deferido, em caso de envio de todos os documentos e cumprimento de todas as obrigações normativas.
+O certificado emitido é encaminhado de forma automática ao endereço eletrônico do requerente.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Requerimento eletrônico no sistema do órgão</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>contratos diversos relacionados à produção e aos direitos sobre a obra audiovisual</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.ancine.gov.br - Sistema ANCINE digital (http://sad.ancine.gov.br/controleacesso/menuSistema/menuSistema.seam)</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Envio da cópia da obra audiovisual em DVD para a ANCINE</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Cópia da obra em DVD</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Entrega da cópia da obra, pessoalmente ou por via postal, nos escritórios da ANCINE, localizados no Rio de Janeiro, São Paulo e Brasília.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Escritório Central - Rio de Janeiro - Avenida Graça Aranha, 35 – Centro - 20030-002 - Rio de Janeiro/RJ
+Escritório Regional - São Paulo - Rua Formosa 367, conjunto 2160, Centro, Vale do Anhangabaú - 01049-911 - São Paulo/SP
+Escritório Regional - Brasília – Sede - SRTV Sul Conjunto E, Edifício Palácio do Rádio, Bloco I, Cobertura - 70340-901 – Brasília/DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/57682"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

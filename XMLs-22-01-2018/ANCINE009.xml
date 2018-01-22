@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Participar do Programa de Apoio à Participação de Produtores Brasileiros em Eventos de Mercado e Rodadas de Negócios Internacionais</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Concessão de apoio financeiro à participação de representantes de empresas produtoras brasileiras de audiovisual em eventos de mercado ou rodadas de negócio internacional. 
+O apoio deve ser solicitado por meio do Sistema de Apoio Internacional da ANCINE e o montante só é liberado após a assinatura do Termo de Concessão de Apoio Financeiro por Adesão.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrição por meio do Sistema de Apoio Internacional da ANCINE</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Números de CPB ou de registros de SALIC, acompanhados dos títulos das obras equivalentes a cada um deles;  No caso do solicitante (pessoa física) não ser um dos sócios da empresa vinculada, deve ser obrigatoriamente anexada à inscrição uma carta de autorização desta empresa para sua representação no evento, assinada por pelo menos um dos sócios;  Apresentação de um plano simplificado de ação para sua participação no evento pleiteado; cópias dos demais documentos comprobatórios referentes aos critérios de pontuação (constantes do item 1.3 do Regulamento do Programa.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2130376023</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>Página do Sistema de Apoio Internacional da ANCINE - https://apoiointernacional.ancine.gov.br/</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>programa.mercados@ancine.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Concessão do apoio</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Declaração de não ser servidor público</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>programa.mercados@ancine.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/57682"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

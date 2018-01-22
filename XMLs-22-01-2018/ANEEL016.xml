@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Aprovação do Plano de Universalização do Serviço Público de Energia Elétrica.</nome>
+	<sigla/>
+	<contato/>
+	<descricao>A distribuidora envia correspondência solicitando a revisão do plano de universalização. A ANEEL analisa a solicitação e realiza audiência pública sobre a proposta podendo a própria distribuidora contribuir. As contribuições recebidas são analisadas e então a Diretoria aprova o Plano de Universalização por meio de uma resolução homologatória.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Envio de correspondência oficial assinada, digitalmente ou não, solicitando a alteração do Plano de Universalização de Energia Elétrica, observando o que dispõe a Resolução Normativa (REN) nº  488/2012 (http://www2.aneel.gov.br/cedoc/ren2012488.pdf)</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Agência Nacional de Energia Elétrica – ANEEL 
+SGAN 603 Módulo J
+Brasília – DF
+CEP 70830-110</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.aneel.gov.br/protocolo-digital</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Ao Senhor Carlos Alberto Calixto Mattar
+Superintendente de Regulação dos Serviços de Distribuição – SRD
+Agência Nacional de Energia Elétrica – ANEEL 
+SGAN 603 Módulo J
+Brasília – DF
+CEP 70830-110</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/21089"/>
+	<areas-de-interesse>
+		<item>Energia</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter Autorização para atividade de Organismo de Certificação de Conteúdo Local</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Certificação de Conteúdo Local</item>
+	</nomes-populares>
+	<descricao>Consiste em receber solicitação por parte dos interessados para autorizar empresas a serem Organismos de Certificação, acreditados pela ANP, para conduzirem processos de certificação e emissão de certificados de conteúdo local com base no regulamento de certificação de conteúdo local. O solicitante após o pagamento das custas por GRU e o cumprimento de todos os requisitos terá sua autorização publicada no DOU.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1 - Preenchimento de Formulário de Solicitação com envio de documentos exigidos;
+2 - Pagamento de GRU pela análise da completeza da documentação;
+3 - Pagamento de GRU pela análise da documentação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de pagamento</item>
+					<item>Contrato Social</item>
+					<item>FGTS</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>auditoria_CCL@anp.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/25281"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Comércio e Serviços</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

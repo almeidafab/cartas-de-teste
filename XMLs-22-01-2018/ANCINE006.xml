@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Registro de Agente Econômico</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Registro de empresa</item>
+	</nomes-populares>
+	<descricao>O requerimento de registro de agentes econômicos inicia-se por meio eletrônico, através do Portal Ancine;
+Em seguida, o requerente deve encaminhar à ANCINE a documentação pertinente, de acordo a legislação vigente, no prazo máximo de 30 dias.
+A análise da documentação pelo setor responsável se dá em até 30 dias corridos, contados a partir da data do recebimento da documentação exigida.
+Após a análise pela área competente, o requerimento pode ser indeferido, se verificado o não envio dos documentos dentro do prazo ou o não atendimento aos requisitos normativos, ou deferido, em caso de envio de todos os documentos e cumprimento de todas as obrigações normativas.
+O usuário é informado sobre o resultado de seu requerimento de registro, deferimento ou indeferimento,  no endereço eletrônico informado.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Requerimento eletrônico no sistema do órgão</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Contrato Social</item>
+					<item>Registro da Junta Comercial</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.ancine.gov.br - Sistema ANCINE digital (http://sad.ancine.gov.br/controleacesso/menuSistema/menuSistema.seam)</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Envio da documentação exigida para a ANCINE</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Contrato Social</item>
+					<item>Registro da Junta Comercial</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Envio de cópia dos documentos por e-mail, para o endereço eletrônico específico da Coordenação de Registro e Classificação de Agentes Econômicos , ou entrega das cópias, pessoalmente ou por via postal, nos escritórios da ANCINE, localizados no Rio de Janeiro, São Paulo e Brasília.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>registro.documentos@ancine.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Escritório Central - Rio de Janeiro - Avenida Graça Aranha, 35 – Centro - 20030-002 - Rio de Janeiro/RJ
+Escritório Regional - São Paulo - Rua Formosa 367, conjunto 2160, Centro, Vale do Anhangabaú - 01049-911 - São Paulo/SP
+Escritório Regional - Brasília – Sede - SRTV Sul Conjunto E, Edifício Palácio do Rádio, Bloco I, Cobertura - 70340-901 – Brasília/DF</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/57682"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

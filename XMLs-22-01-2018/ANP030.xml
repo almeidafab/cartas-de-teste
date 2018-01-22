@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter a aprovação da Documentação de Segurança Operacional de instalações terrestres de produção, armazenamento e transferência de petróleo e gás.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>DSO</item>
+	</nomes-populares>
+	<descricao>Consiste em receber dos operadores de contrato de concessão a documentação de Segurança Operacional (DSO) das instalações terrestres de produção, armazenamento e transferência de petróleo e gás, após a análise da Documentação de Segurança Operacional (DSO) é emitida a ficha de delegação de competência e emissão de ofício de aprovação da documentação de segurança operacional.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Responder aos questionamentos realizados pelo servidor que avalia a documentação através de carta a ser protocolada na ANP.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>a DSO prevista na Resolução ANP n° 2/2010</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Na Superintendência de Segurança Operacional e Meio Ambiente</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Av. Rio Branco 65 18° Andar</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/25281"/>
+	<areas-de-interesse>
+		<item>Energia</item>
+		<item>Indústria</item>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

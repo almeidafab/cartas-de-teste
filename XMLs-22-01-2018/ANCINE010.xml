@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Participar do Programa Encontros com o Cinema Brasileiro</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O programa traz ao Brasil os curadores dos principais festivais internacionais de cinema do mundo, a fim de que possam conhecer os filmes brasileiros de produção independente que têm a possibilidade de fazer suas estreias internacionais dentro do período de realização desses festivais.
+Produtores brasileiros de cinema podem inscrever seus filmes brasileiros de longa-metragem, de produção independente, que já se encontrem finalizados e ainda não tenham feito sua estreia internacional, ou que ainda não estejam plenamente finalizados, mas já possuam um corte provisório de imagem/som. Os festivais selecionam os filmes que serão vistos por seus curadores. Por fim, os filmes selecionados são assistidos pelos curadores dos festivais.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Envio da ficha de inscrição</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Formulário específico disponível no portal da Ancine; Link de internet para o teaser/trailer do filme inscrito</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://boletim.ancine.gov.br/encontros/</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Envio de cópias legendadas (em DVD ou Blu-Ray) para a Assessoria Internacional da Ancine</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>Apenas a cópia do filme</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Agência Nacional do Cinema
+Assessoria Internacional
+Avenida Graça Aranha, 35, sala 305 – Centro
+20030-002 - Rio de Janeiro - RJ</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/57682"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

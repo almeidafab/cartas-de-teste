@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Alteração no tempo de faturamento da iluminação pública.</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O consumidor (Prefeitura Municipal) pode solicitar à ANEEL com base em estudo realizado junto a distribuidora e ao Observatório Nacional a alteração do tempo de faturamento da iluminação pública. A ANEEL analisa a solicitação e, caso os requisitos estejam atendidos, aprova a alteração por meio de uma resolução autorizativa.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>A Prefeitura Municipal deve encaminhar correspondência com a solicitação de alteração do tempo de faturamento da iluminação pública.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA
+Endereço: SGAN 603 módulos I e J - Brasília/DF CEP: 70830-110</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.aneel.gov.br/protocolo-digital</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Ao Senhor 
+Carlos Alberto Calixto Mattar
+Superintendência de Regulação dos Serviços de Distribuição 
+AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA
+Endereço: SGAN 603 módulos I e J - Brasília/DF CEP: 70830-110</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/21089"/>
+	<areas-de-interesse>
+		<item>Energia</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

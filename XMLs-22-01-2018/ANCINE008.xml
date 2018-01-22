@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Participar do Programa de Apoio à participação de filmes brasileiros em Festivais Internacionais e de Projetos de Obras Audiovisuais Brasileiras em Laboratórios e Workshop</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Este programa tem como objetivo a promoção da participação de obras cinematográficas brasileiras em festivais internacionais de cinema e de projetos de obras em laboratórios e workshops internacionais. 
+Os apoios a serem concedidos pela ANCINE a cada filme se diferenciam em função da categoria em que se encontra a mostra para a qual o filme for convidado:
+Apoio A – Concessão de cópia legendada, envio de cópia e apoio financeiro para promoção do filme 
+Apoio B – Envio de cópia e apoio financeiro 
+Apoio C – Envio de cópia 
+
+As solicitações de apoio devem ser realizadas pelo Sistema de Apoio Internacional da própria ANCINE. A concessão do apoio financeiro destina-se à efetiva participação do representante do filme ou projeto no evento internacional para o qual o mesmo foi selecionado, e seu montante só é liberado após a assinatura do Termo de Concessão de Apoio Financeiro por Adesão.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrição por meio do Sistema de Apoio Internacional da ANCINE</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+					<item>Comprovante de conta bancária, Certificado de Produto Brasileiro do filme, convite do evento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2130376206</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>Página do Sistema de Apoio Internacional da ANCINE - https://apoiointernacional.ancine.gov.br/</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>programa.apoio@ancine.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Concessão do apoio</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Declaração de não ser servidor público</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2130376206</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>programa.apoio@ancine.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/57682"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

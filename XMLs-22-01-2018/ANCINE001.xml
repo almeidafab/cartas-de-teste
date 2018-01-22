@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>solicitar aprovação de projetos (de produção de obras audiovisuais) para captação de recursos incentivados</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Aprovação Inicial</item>
+	</nomes-populares>
+	<descricao>A natureza do serviço é autorização dada ao usuário pela ANCINE para captar recursos incentivados federais. Os usuários são empresas produtoras audiovisuais previamente cadastradas na ANCINE e classificadas como aptas para a solicitação. 
+Tanto o cadastro dos usuários quanto a solicitação de aprovação são realizadas pelo Sistema ANCINE Digital - SAD, principal meio de interação com os usuários. Pelo sistema são encaminhados os documentos necessários pelo usuário e realizadas as diligências pelo setor responsável pelas análises (Coordenação de Análise de Direitos). 
+Os usuários também utilizam o sistema para acompanhar as fases de análise, até a publicação no DOU, sendo esta a principal forma de interação. O setor responsável também esclarece dúvidas por telefone, e-mail e em reuniões com os usuários previamente agendadas.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>inclusão da solicitação de aprovação de captação de recursos incentivados, com preenchimento de formulário digital e upload de cópias de todos os documentos necessários.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>são encaminhados Argumento da obra e cópias de Registro na FBN e  Contrato de Cessão de Direitos</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://sad.ancine.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/57682"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+		<item>Indústria</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Padrão rural e kit de instalação interna.</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Trimestralmente  as distribuidoras, nos termos do Decreto nº 7520/2011 e da Resolução Normativa n º 488/2012, devem encaminhar a ANEEL relatório com a relação e valores dos padrões de entrada e/ou kits de instalação interna que foram instalados a cada trimestre. A Agência analisa os dados encaminhados e emite um Despacho a ser publicado no Diário Oficial da União homologando os valores solicitados e o montante de recursos da Conta de Desenvolvimento Energético - CDE que deve ser repassado pela Câmara de Comercialização de Energia Elétrica - CCEE a cada distribuidora.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Trimestralmente  as distribuidoras, nos termos do Decreto nº 7520/2011 e da Resolução Normativa n º 488/2012, devem encaminhar a ANEEL relatório com a relação e valores dos padrões de entrada e/ou kits de instalação interna que foram instalados no trimestre anterior.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://duto.aneel.gov.br/dutonet/DutoNet.aspx</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/21089"/>
+	<areas-de-interesse>
+		<item>Energia</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

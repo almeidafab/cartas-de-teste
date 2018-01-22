@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Apresentar Projetos para o Fundo Setorial do Audiovisual – Suporte Seletivo a projetos de Desenvolvimento, Produção e Difusão</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>A apresentação dos projetos é realizada para Chamadas Públicas específicas, de acordo com o perfil do proponente e do projeto. São diversas as Chamadas Públicas, cujas edições são lançadas ano a ano: PRODAV 01, PRODAV 02, PRODAV 03, PRODAV 04 (...) PRODAV 14  - Exceto PRODAV 06 e PRODAV 07</item>
+		<item>PRODECINE 01, PRODECINE 02 (...) PRODECINE 10</item>
+	</nomes-populares>
+	<descricao>Há duas modalidades de operação: Concurso e Fluxo Contínuo.
+Nas linhas de investimento que operam na modalidade de Concurso, há pontos de interação bem específicos, conforme estabelecido em cada edital. Em geral, os principais pontos de interação são: abertura de fase recursal após o resultado preliminar da habilitação; abertura de fase recursal após o resultado preliminar da classificação; defesa oral dos projetos selecionados, no qual os proponentes apresentam seus projetos para uma banca de seleção (Comitê de Investimento); esclarecimento de dúvidas via e-mail durante todo o processo seletivo. 
+Nas linhas de investimento que operam na modalidade Fluxo Contínuo, os pontos de interação acontecem de maneira mais contínua, uma vez que cada projeto tem o seu trâmite de aprovação próprio. Os principais pontos de interação são: diligências de triagem documental; diligências decorrentes da análise preliminar dos contratos (análise de elegibilidade); abertura de período recursal após a análise de mérito; defesa oral, caso seja convocada pelo Comitê de Investimentos;esclarecimento de dúvidas via e-mail durante todo o processo seletivo.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Interpor recurso ao processo seletivo - fase de habilitação, utilizando o sistema.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://ancine.brde.com.br/ancine/login.asp</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Interpor recurso ao processo seletivo - fase de classificação, utilizando o sistema.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>https://ancine.brde.com.br/ancine/login.asp</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Reunião presencial de Defesa Oral do projeto para o Comitê de Investimentos.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Procuração do representante legal</item>
+					<item>Contratos específicos</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Local disponibilizado pelo Agente Financeiro. Não há local pré-definido.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/57682"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

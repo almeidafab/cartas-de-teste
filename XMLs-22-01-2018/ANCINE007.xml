@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar apoio financeiro a projetos de coprodução internacional por intermédio de chamada pública BRDE/FSA</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Editais internacionais</item>
+	</nomes-populares>
+	<descricao>Investimento do Fundo Setorial do Audiovisual (FSA) em projetos de obras cinematográficas de longa-metragem, nos gêneros ficção, documentário e animação, em regime de coprodução internacional com países da América Latina ou Portugal.
+Os usuários são produtores de cinema.
+Interações: inscrição eletrônica por meio do Sistema FSA, disponível na página do Banco Regional de Desenvolvimento do Extremo Sul - BRDE, apresentando os documentos previstos no edital publicado no site do BRDE; assinatura de contrato de investimento entre a empresa proponente, o BRDE e a distribuidora, quando houver.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrever projeto na chamada pública de seu interesse.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Formulário de Proposta Audiovisual, contrato de coprodução, ficha técnica e artística, roteiro, registro do roteiro, contrato de cessão de direitos de realização do roteiro, última alteração do contrato social da proponente</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>Sistema FSA na página do BRDE</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Contratação do projeto selecionado</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ficha Cadastral Pessoa Jurídica, Declaração sobre Condição de Pessoa Politicamente Exposta, Reconhecimento Provisório de Coprodução Internacional, contratos com o diretor e o roteirista, outros contratos, orçamento, certificado de registro do roteiro, contrato de cessão de direitos de realização de roteiro,</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>Sistema FSA na página do BRDE (http://ancine.brde.com.br/ancine/login.asp)</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Banco Regional de Desenvolvimento do Extremo Sul
+Rua Uruguai 155, 8º andar - Centro
+CEP: 90.010-140 - Porto Alegre - RS</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/57682"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
