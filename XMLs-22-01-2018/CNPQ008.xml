@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Credenciar pesquisadores e instituições para receberem isenção de taxas de importação para bens destinados à pesquisa Científica e Tecnológica previstas na Lei n. 8.010/1990.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Credenciamento para Importação</item>
+		<item>Ciência Importa Fácil</item>
+		<item>Importa Fácil</item>
+	</nomes-populares>
+	<descricao>Credenciar pesquisadores e instituições no CNPq a fim de facilitar o processo de importação na área de C&T. São isentas dos impostos de importação e sobre produtos industrializados e do adicional ao frete para renovação da marinha mercante as importações de máquinas, equipamentos, aparelhos e instrumentos, bem como suas partes e peças de reposição, acessórios, matérias-primas e produtos intermediários, destinados à pesquisa científica e tecnológica, conforme Lei 8.010/1990. Tendo em vista que há um valor limite anual para o montante global das importações realizadas sob a Lei 8.010/1990, cabe ao CNPq distribuir e controlar a quota estabelecida pelo Ministério da Fazenda.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Encaminhamento de documentos para o credenciamento.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>Diário Oficial</item>
+					<item>Procuração do representante legal</item>
+					<item>Formulário próprio do serviço que pretende, conforme modelo do CNPq</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6132119438</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.cnpq.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>credenciamento@cnpq.br; importafacil@cnpq.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SHIS QI 01, Conj. B -Bloco B - 1º Andar, Sl. 104
+Edifício Santos Dumont
+Lago Sul, Brasília - DF 71.605-160</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/8"/>
+	<areas-de-interesse>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Relações Internacionais</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

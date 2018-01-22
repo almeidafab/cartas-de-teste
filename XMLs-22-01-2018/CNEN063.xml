@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter Licença ou Renovação da Licença de Operador de reator/Opreador Sênior de Reator de instalação nuclear de pesquisa</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Realizar avaliação oral, escrita e simulador pela Banca de Licenciamento de Operadores , após a avaliação e aprovação do dossiê do candidato à Operador Licenciado. Se aprovado, emitir um diploma de Operador de Reator/Operador Seniôr de Reator de instalação nuclear de pesquisa.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>ENVIAR A DOCUMENTAÇÃO NECESSÁRIA PARA A CNEN</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>DOCUMENTOS REQUISITADOS EM NORMA PRÓPRIPIA</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>SEDE DA CNEN - RUA GENERAL SEVERIANO, 90, 4o ANDAR</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>CGRC@CNEN.GOV.BR</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>RUA GENERAL SEVERIANO 90, 4o ANDAR
+CEP: 22.290-901
+RIO DE JANEIRO - RJ</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>REALIZAR AS PROVAS</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>NA SEDE DA CNEN E NOS CENTROS DE PESQUISA</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/223"/>
+	<areas-de-interesse>
+		<item>Energia</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

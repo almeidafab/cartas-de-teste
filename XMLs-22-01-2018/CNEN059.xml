@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter a Licença de Construção da Instalação Nuclear de Pesquisa</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Emitir Parecer Técnico após avaliação do Relatório Preliminar de Análise de Segurança enviado pelo requerente da instalação nuclear. Se aprovado publicado ato no Diário Oficial da União (DOU) e a Licença de Construção da Instalação Pesquisa.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>ENVIAR DOCUMENTAÇÃO PARA A CNEN</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>DOCUMENTOS REQUISITADOS EM NORMAS DA CNEN</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>SEDE DA CNEN - RUA GENERAL SEVERIANO, 90, 4o ANDAR</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>cgrc@cnen.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Rua General Severiano 90, 4o Andar
+CEP: 22.290-901
+Rio de Janeiro - RJ</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>PARTICIPAR DE INSPEÇÃO REGULATÓRIA</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>INSPEÇÃO REGULATÓRIA NO LOCAL ONDE SERÁ REALIZADA A CONSTRUÇÃO DO REATOR DE POTÊNCIA</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/223"/>
+	<areas-de-interesse>
+		<item>Energia</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

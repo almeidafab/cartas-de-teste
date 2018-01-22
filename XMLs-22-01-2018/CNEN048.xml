@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Obter quantificação de concentração de radionuclídeos em amostras</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Certificado de radioatividade</item>
+	</nomes-populares>
+	<descricao>Realizar a análise radiométrica, análise por espectrofotometria, análise por fluorimetria e outras análises visando quantificar a concentração de radionuclídeos. O serviço deve ser solicitado pelo interessado. É fornecido um Certificado de Análise para cada amostra analisada</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitação de orçamento, envio de proposta de serviço, aprovação de proposta de serviço, envio da amostra, análise da amostra, emissão de certificado, emissão da GRU e retirada do certificado.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>ausencias de débito com o Governo</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Setor de atendimento ao Cliente da DIRAD.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>5502121732770</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>marciapx@ird.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>solicitação de orçamento, envio de proposta, aprovação de proposta, entrega da amostra, análise, emissão de certicicado, elaboração de GRU e retirada de certificado.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>quitação de debitos com o Governo</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>5502121732770</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Solicitação de orçamento, envio da proposta, aprovação de proposta, envio da amostra, análise, emissão de certificado, emissão de GRU e retirada da amostra.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>quitação de débitos com o governo</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>5502121732770</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>solicitação de orçamento, envio da proposta, aprovação da proposta, envio da amostra, análise, emissão de certificado, emissão de GRU e retirada de certificado.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>quitação de débito com o Governo</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>5502121732770</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/223"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Meio ambiente</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
