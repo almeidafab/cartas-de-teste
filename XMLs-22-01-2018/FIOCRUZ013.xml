@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>REALIZAR VACINAÇÃO EM ADULTOS E CRIANÇAS PORTADORAS DE DOENÇA CRÔNICA NO CENTRO DE REFERÊNCIA PARA IMUNOBIOLÓGICOS ESPECIAIS (CRIE)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>NÃO</item>
+	</nomes-populares>
+	<descricao>Vacinação a adultos e crianças portadores de doença crônica em parceria com a Secretaria Municipal de Saúde do Rio de Janeiro. O atendimento é realizado mediante encaminhamento de outros serviços de saúde. No atendimento é realizada avaliação por profissional de saúde e, após esta avaliação, aplicação das vacinas indicadas. As consultas devem ser marcadas por demanda espontânea ou por telefone, pelo número (21) 3865-9124 ou 3865-9125. O interessado deverá levar encaminhamento médico, documento de identidade com foto e carteira de vacinação.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Ao comparecer ao CRIE por demanda espontânea, realizará o atendimento para avaliação da indicação (doença de base, situação a exposição de risco, evento adverso a vacinas/alergias) e receberá o(s) imunobiológico(s) seguindo as indicações previstas pelo Ministério da Saúde no Manual dos Centros de Referência para Imunobiológicos Especiais – 2014.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Cartão do SUS</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CARTEIRA DE VACINAÇÃO E ENCAMINHAMENTO MÉDICO</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>CRIE</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Quando necessário retornar a unidade para dar continuidade à vacinação até completar o calendário previsto nas normas oficiais, o Programa Nacional de Imunização (PNI).</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Cartão do SUS</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CARTEIRA DE VACINAÇÃO</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>CRIE</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/315"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

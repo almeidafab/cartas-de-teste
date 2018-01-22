@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Fornecer Material Biológico</nome>
+	<sigla/>
+	<contato/>
+	<descricao>A coleção fornece linhagens para instituições públicas, sejam de pesquisa, serviços, ensino ou indústrias. Por razões de segurança e saúde pública, linhagens não são enviadas para endereços particulares. Todos os pedidos deverão ser formalizados por carta ou fax, com uma explanação breve da utilização pretendida para o material, devidamente assinados por um profissional qualificado e autorizado a manipular a amostra requerida. A coleção pode, em acordo com o depositante ou não, não disponibilizar todo o acervo de acesso público. Isso acontecerá quando as amostras fizerem parte de projetos de pesquisa desenvolvidos pela própria Coleção. As cepas só são distribuídas como culturas ativas. A distribuição das culturas obedece às normas de transporte de material biológico em vigor.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitar serviço de fornecimento de material biológico</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Formulário de Solicitação de Cepas</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2138851063</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://clioc.fiocruz.br/index?services</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>clioc@fiocruz.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Preencher Pesquisa de Satisfação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>clioc@fiocruz.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/315"/>
+	<areas-de-interesse>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

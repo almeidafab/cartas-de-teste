@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Agendar visita monitorada às exposições temáticas de documentos de arquivo da FCRB.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Mostra de documentos</item>
+	</nomes-populares>
+	<descricao>As exposições têm como proposta a disponibilização de documentos originais de arquivos ou de coleções pessoais criando a oportunidade para que o público possa ter acesso a forma de viver, de falar e de registrarem períodos históricos distintos. São expostos documentos, suas legendas e transcrições paleográficas de trechos dos documentos, incentivando assim, uma maior aproximação do público e os arquivos.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Agendamento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/261"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+		<item>Cidadania</item>
+		<item>Educação</item>
+		<item>Esporte e Lazer</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Transportes</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

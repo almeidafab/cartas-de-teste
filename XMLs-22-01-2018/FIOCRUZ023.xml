@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar Estudo de Equivalência Farmacêutica</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Obter certificado e relatório final de estudo de equivalência farmacêutica de medicamentos novos, genéricos ou similares para submissão de processos de registro ou pós-registro perante a Agência Nacional de Vigilância Sanitária (Anvisa). 
+
+Em que consiste o estudo de equivalência farmacêutica? 
+É um conjunto de ensaios físico-químicos e, quando aplicáveis, microbiológicos e biológicos, que comprovam que dois medicamentos são equivalentes farmacêuticos. 
+Equivalentes farmacêuticos são medicamentos que possuem mesma forma farmacêutica, mesma via de administração e mesma quantidade da mesma substância ativa, isto é, mesmo sal ou éster da molécula terapêutica, podendo ou não conter excipientes idênticos, desde que bem estabelecidos para a função destinada. Devem cumprir com os mesmos requisitos da monografia individual da Farmacopéia Brasileira, preferencialmente, ou com os de outros compêndios oficiais, normas ou regulamentos específicos aprovados/referendados pela Anvisa ou, na ausência desses, com outros padrões de qualidade e desempenho.
+
+Quem pode solicitar o estudo de equivalência farmacêu tica?
+Pessoas jurídicas legalmente constituídas no Brasil, e cadastradas na Anvisa para peticionar assuntos da área de medicamentos.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="90" max="120" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitar orçamento para realização do estudo de equivalência farmacêutica</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Informações sobre o medicamento</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>No próprio Sefar/EQF</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2139772547</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Av. Brasil, nº 4.365 - Manguinhos
+Rio de Janeiro - RJ
+CEP 21040-360</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Acompanhar a realização do estudo de equivalência farmacêutica.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Os documentos solicitados por ocasião da assinatura do contrato</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>No próprio Sefar/EQF.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2139772547</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Av. Brasil, nº 4.365 - Manguinhos
+Rio de Janeiro - RJ
+CEP 21040-360</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Receber o certificado e o relatório final de estudo de equivalência farmacêutica.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>No próprio Sefar/EQF.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2139772547</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Av. Brasil, nº 4.365 - Manguinhos
+Rio de Janeiro - RJ
+CEP 21040-360</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/315"/>
+	<areas-de-interesse>
+		<item>Indústria</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

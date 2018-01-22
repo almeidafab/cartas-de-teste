@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Realizar consulta ao acervo arquivístico da Casa de Oswaldo Cruz.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Sala de Consulta</item>
+		<item>Arquivo</item>
+		<item>Arquivo histórico</item>
+	</nomes-populares>
+	<descricao>Atender às demandas de usuários presenciais e remotos, para acesso ao acervo arquivístico histórico permanente, sob a guarda do Departamento de Arquivo e Documentação da Casa de Oswaldo Cruz, Fiocruz.  O acervo é composto por mais de 100 fundos e coleções de documentos institucionais e pessoais dos gêneros textual, iconográfico (fotografias em diversos suportes), cartográfico (plantas e mapas), sonoro e filmográfico, que remontam a 1900 e constituem repositório singular da memória e da história da saúde no Brasil. Tal Arquivo Histórico, disponível para consulta, abriga conjuntos documentais produzidos e acumulados pelos institutos que em 1970 passaram a integrar a Fundação Oswaldo Cruz, como também arquivos e coleções de cientistas, sanitaristas, médicos e técnicos que participaram da formulação e execução de políticas públicas de saúde, além de parcelas de arquivos de instituições da área da saúde. A consulta ao acervo é feita por meio de agendamento prévio. Os documentos textuais podem ser reproduzidos por qualquer dispositivo, sem utilização de flash.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Agendar de consulta ao acervo</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Sala de Consulta do Departamento de Arquivo e Documentação.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2138829124</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>consulta@fiocruz.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Confirmar o agendamento solicitado.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Sala de Consulta do Departamento de Arquivo e Documentação</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2138829124</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>consulta@fiocruz.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Consultar presencial ou remota aos documentos do acervo histórico arquivístico permanente.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Sala de Consulta do Departamento de Arquivo e Documentação</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>consulta@fiocruz.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Av. Brasil, 4036, sala 614, Manguinhos, Rio de Janeiro/RJ, CEP 21040-361</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/315"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

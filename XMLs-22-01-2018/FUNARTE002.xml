@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa Rede Nacional de Artes Visuais</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Rede Nacional</item>
+	</nomes-populares>
+	<descricao>Aporte financeiro a projetos que promovam o intercâmbio inter-regional por meio de oficinas artísticas, oficinas de qualificação, palestras, intervenções, atividades pedagógicas e outras atividades voltadas para as artes visuais. O processo inicia através da divulgação no site da Funarte (http://www.funarte.gov.br/) do edital de seleção pública, nesta página eletrônica o interessado encontrará um link com o formulário de inscrição que deverá ser baixado e preenchido manualmente, obedecendo aos ditames do edital; depois o interessado enviará, através dos correios (postal), sua ficha de inscrição anexada a sua proposta de projeto artístico; posteriormente, será divulgado o resultado da seleção pública no D.O.U e no site da Funarte; a Funarte entrará em contato(por telefone ou e-mail) com o vencedor a fim de receber a documentação complementar para dar andamento no aporte financeiro ao projeto; e, após executar o projeto, o processo é encerrado com a aprovação pela Funarte do relatório final de execução do projeto (que é enviado, por correios(postal), pelo contemplado).</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrever-se no processo de seleção pública</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Enviar documentos complementares</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Enviar relatório final de prestação de contas</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2330"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

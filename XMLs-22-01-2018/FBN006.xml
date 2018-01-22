@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar apoio à Tradução e Publicação de Autores Brasileiros no Exterior</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O Programa de Apoio à Tradução e à Publicação de Autores Brasileiros consiste em editais voltados para editoras, instituições e tradutores estrangeiros com o objetivo de promover livros e autores brasileiros no exterior. O Programa é organizado em diferentes modalidades:
+
+1/ Edital de  Apoio à Tradução e à Publicação de Autores Brasileiros no Exterior, oferecido a editoras estrangeiras que desejam publicar títulos brasileiros;
+2/Edital de Intercâmbio de Autores Brasileiros no Exterior,  oferecido a editoras e instituições culturais estrangeiras que desejam convidar escritores brasileiros para participar de eventos literários no exterior;
+3/ Edital de Residência de Tradutores Estrangeiros no Brasil oferecido a tradutores que queiram permanecer um período no Brasil pesquisando e trabalhando em seu projeto de tradução.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoa jurídica estrangeira</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="90" max="120" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrição</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Registro da Junta Comercial</item>
+					<item>Registro legal da editora estrangeira</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>translation@bn.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Conhecer resultado da fase de habilitação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.bn.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>translation@bn.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Conhecer o resultado da seleção.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.bn.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>translation@bn.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Formalizar o apoio por meio da assinatura de um termo de compromisso.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Termo de compromisso</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>translation@bn.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Avenida Rio Branco, 219.
+Rio de Janeiro - RJ
+CEP 20040-008</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Receber a primeira parcela do apoio (no caso do Edital de Apoio à Tradução e à Publicação de Autores Brasileiros no Exterior*)
+
+* O apoio oferecido pelos editais de Intercâmbio e de Residência é pago em apenas uma parcela.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>translation@bn.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Apresentar livro publicado e receber a segunda parcela do apoio.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Livro publicado com o apoio.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>translation@bn.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Avenida Rio Branco, 219. 
+Rio de Janreiro - RJ
+CEP 20040-008</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/984"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+		<item>Relações Internacionais</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

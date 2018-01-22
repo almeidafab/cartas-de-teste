@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Concorrer ao Prêmio Funarte de Apoio a Orquestras</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Destinação de recursos financeiros a projetos apresentados por orquestras brasileiras que se enquadrem nas classificações tradicionais de “orquestra sinfônica”, “orquestra de cordas” e “orquestra de câmara”, com a finalidade de propiciar aquisição e/ou reparação de instrumentos musicais; aquisição de peças de reposição e/ou materiais de consumo para instrumentos musicais; aquisição de estantes nacionais para orquestra. Uma Comissão indicada pela Funarte seleciona as propostas que atendam os seguintes critérios: nível artístico, repertório, presença de música brasileira, clareza dos objetivos e viabilidade de execução da proposta, número de concertos propostos.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1) Inscrição e envio do projeto;
+2) Envio de documentação complementar;
+3) Envio do relatório de prestação de contas</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>FGTS</item>
+					<item>Dados bancários e declaração de funcionamento da orquestra há pelo menos um ano</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Centro da Música da Fundação Nacional de Artes</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2122798105</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>flavia.peralva.funarte@gmail.com</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Fundação Nacional de Artes (Funarte)
+Coordenação de Música de Concerto
+Centro Empresarial Cidade Nova – Teleporto
+Av. Presidente Vargas, nº 3131 / sala 1804
+Cidade Nova – Rio de Janeiro – RJ
+CEP: 20.210-911</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2330"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Administração </item>
+		<item>Comércio e Serviços</item>
+		<item>Comunicações</item>
+		<item>Cultura</item>
+		<item>Cidadania</item>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

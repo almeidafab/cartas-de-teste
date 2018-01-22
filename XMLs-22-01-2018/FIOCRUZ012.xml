@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Realizar vacinação contra Formas graves da Tuberculose. BCG (atenuada)</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O setor de imunização oferece a população em geral vacina de BCG (atenuada) que consta no calendário vacinal estabelecido pelo Ministério da Saúde. O requisito para tomar a vacina e acessar o serviço o cidadão deve passar pela triagem do próprio serviço.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>As ações: 1-  Realizar entrevista; 2-Receber a vacina; 3-Receber orientações sobre a vacina.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Cartão do SUS</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Carteira estudantil</item>
+					<item>Certidão de casamento</item>
+					<item>Certidão de nascimento</item>
+					<item>CPF</item>
+					<item>caderneta de vacinação</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Centro de Saúde Escola Germano Sinval Faria-CSEGSF
+R. Leopoldo Bulhões, 1480 - Bonsucesso, Rio de Janeiro - RJ, 21041-210</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2125982520</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/315"/>
+	<areas-de-interesse>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

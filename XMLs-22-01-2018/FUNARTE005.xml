@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Capacitação técnica promovida pelo Centro de Conservação e Preservação Fotográfica da Funarte</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Oficinas do CCPF</item>
+	</nomes-populares>
+	<descricao>Capacitação técnica através de oficinas nas áreas da fotografia: conservação, curadoria, produção e fotografia digital. As atividades são realizadas pela equipe técnica de servidores e de colaboradores do CCPF, que mantém uma estreita colaboração com a maioria dos profissionais atuantes no país, alguns dos quais integram sua equipe de professores. Quando as inscrições nas oficinas estiverem abertas, o interessado deverá entrar em contato através do e-mail institucional do CCPF para enviar solicitação de participação e currículo (em caso de oficina com seleção dos candidatos).
+Obs.: Geralmente as inscrições das oficinas são abertas ao público em geral, no entanto, em alguns casos algumas delas exigem que o aluno possua formação prévia e/ou que esteja vinculado a alguma instituição que possua acervo fotográfico.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>inscrever-se nos cursos de capacitação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Participar da capacitação técnica</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Receber o certificado de conclusão do curso de capacitação técnica realizado</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2330"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

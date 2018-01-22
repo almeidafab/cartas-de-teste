@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa de Apoio àPesquisa / Biblioteca Nacional
+Programa de Residência em Pesquisa na Biblioteca Nacional</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O Programa, criado em 2004, concede bolsas de pesquisa a doutores, doutorandos e graduandos nas áreas de Ciências Humanas, Linguística, Letras e Artes, mediantes editais públicos. As bolsas abrangem período de 12 meses, ao final dos quais o bolsista apresenta relatório final e um estudo  com 15 a 30 laudas.
+O Programa de Residência em Pesquisa na Biblioteca Nacional concede bolsa a doutores titulados há, no mínimo, oitos anos, nas áreas de Ciências Humanas, Linguística, Letras e Artes. A bolsas abrangem um período de 13 meses, ao final dos quais o bolsista apresente relatório final e um texto original d 150 a 300 laudas.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Pesquisadores (doutores e doutorandos nacionais e estrangeiros, além de graduandos  nacionais</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrição</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Curiculum Lattes; projeto de pesquisa; preenchimento de formulários</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>pesquisa@bn.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Avenida Rio Branco, 219, 5º andar
+Centro - Rio de Janeiro, RJ
+CEP 20.040-008</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Entrega de novos documentos</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidões da Receita Federal</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de quitação eleitoral</item>
+					<item>CPF</item>
+					<item>Diploma</item>
+					<item>Declaração matrícula; cópia do  Currículo Lattes; declarações</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>pesquisa@bn.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Av. Rio Branco, 219, 5º and.
+Centro - Rio de Janeiro RJ
+CEP 20040-008</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Assinar contrato</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Plano de trabalho.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Núcleo de Pesquisa/Centro de Pesquisa e Editoração/FBN</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>pesquisa@bn.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/984"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+		<item>Pesquisa e Desenvolvimento</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

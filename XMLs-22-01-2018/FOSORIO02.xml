@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Efetivar matrícula de candidato selecionado à vaga na Fundação Osorio.</nome>
+	<sigla/>
+	<contato/>
+	<descricao>A efetivação da matrícula do candidato é feita através do formulário de matrícula disponível no sistema interno da secretaria escolar, acompanhado dos documentos descritos nas Instruções Reguladoras da Fundação Osorio.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Efetivação da matrícula.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Cartão do SUS</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de casamento</item>
+					<item>Certidão de nascimento</item>
+					<item>Certidões de cartório</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+					<item>Declaração de transfrência, foto, histórico escolar, exames médicos, declaração de beneficiário do militar bem como, outras documentações que comprovem vínculo militar de acordo com as Instruções Reguladoras.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Secretaria Escolar</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Conferir e arquivar a documentação na Pasta do Aluno.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Cartão do SUS</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidão de casamento</item>
+					<item>Certidão de nascimento</item>
+					<item>Certidões de cartório</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>Procuração do representante legal</item>
+					<item>Declaração de transferência, histórico escolar, exames médicos e documentações que comprovem vínculo militar de acordo com as Instruções Reguladoras.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Secretaria Escolar</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/8406"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

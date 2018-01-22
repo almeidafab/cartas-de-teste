@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Serviço de Atendimento ao usuário</nome>
+	<sigla/>
+	<contato/>
+	<descricao>1 - Empréstimo domiciliar, renovação e reserva de publicações: serviço oferecido pela Biblioteca a usuários cadastrados. O usuário poderá retirar, por empréstimo, até cinco publicações simultaneamente, pelo prazo máximo de 10 dias úteis. As publicações podem ser renovadas por igual período, desde que não haja pedido de reserva por outro usuário. A reserva de publicações pode ser feita diretamente pelo usuário no setor de empréstimo, via e-mail ou pela base de dados, por meio de senha pessoal, desde que a obra não esteja disponível no acervo. 2 – Empréstimo entre Bibliotecas: permite às bibliotecas cooperantes, sediadas no Distrito Federal, cadastradas na Biblioteca Graciliano Ramos, obter empréstimos de obras constantes do acervo da Biblioteca e permitir o acesso dessas obras aos seus próprios usuários. 3 - Atendimento à Distância: permite que qualquer usuário, cadastrado ou não, tenha acesso a partes de documentos (artigos de periódicos ou capítulos de livros) através de solicitação de cópia impressa ou digital, além de auxílio referente à pesquisa documental realizada no acervo e bases de dados disponibilizados e gerenciados pela Biblioteca. 4 – Pesquisa Bibliográfica: pesquisas bibliográficas e legislativas necessárias ao desempenho das atividades dos técnicos, professores e colaboradores da Enap.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitação da demanda.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Biblioteca da Enap</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6120203139</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>biblioteca@enap.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Recebimento da demanda</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Biblioteca da Enap</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>biblioteca@enap.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/956"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

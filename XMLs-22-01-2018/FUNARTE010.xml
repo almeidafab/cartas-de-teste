@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Concorrer ao Prêmio Funarte de Produção Crítica em Música</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O objetivo do PRÊMIO FUNARTE DE PRODUÇÃO CRÍTICA EM MÚSICA é fomentar a publicação de trabalhos de pesquisa inéditos (monografias, dissertações, teses ou investigações jornalísticas) de excelência, que abordem aspectos relativos à música brasileira nos campos erudito e/ou popular.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Envio de documentos para a submissão de projeto ao edital.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Fundação Nacional de Artes
+Centro da Música 
+Av. Pres. Vargas, 3131, sala 1804
+Cidade Nova
+Rio de Janeiro - RJ
+CEP: 20210-030</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Encaminhamento de documentos complementares para verificação de regularidade tributária e trabalhista, no caso de o projeto do proponente ter sido selecionado pela Comissão de Seleção do edital.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certidões da Receita Federal</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>FGTS</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>cemus@funarte.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Fundação Nacional de Artes
+Centro da Música 
+Av. Pres. Vargas, 3131, sala 1804
+Cidade Nova
+Rio de Janeiro - RJ
+CEP: 20210-030</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2330"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

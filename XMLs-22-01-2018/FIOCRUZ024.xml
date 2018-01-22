@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar  visita ao Museu da Vida - Casa de Oswaldo Cruz - Fiocruz</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Museu da Vida</item>
+	</nomes-populares>
+	<descricao>Jogos, publicações, exposições permanentes, temporárias e itinerantes são as principais atividades do Museu da Vida, que também apresenta peças teatrais, publica informações em sites e blogs e conduz visitas em espaços temáticos do campus de Manguinhos. O visitante se depara com conceitos da física, química, matemática, biologia e ainda descobre a história da Fiocruz e da saúde nacional. Buscando despertar o interesse de crianças, jovens e adultos por temas e atividades voltadas para a saúde, ciência e tecnologia é uma das metas da Casa de Oswaldo Cruz, que abriga o Museu da Vida e o mais expressivo acervo sobre a história da saúde brasileira.
+
+Para realizar a visita durante a semana os grupos e escolas  necessitam prévio agendamento,  por telefone. Visitantes que não estejam em grupos agendados, serão alocados nos grupos agendados conforme disponibilidade. No sábado  a visita é livre sem necessidade de agendamento.   
+
+O Museu da Vida  funciona de terça a sexta-feira, das 9h às 16h30, e, aos sábados, das 10h às 16h. Todas as visitas e atividades são gratuitas. O Museu fica no campus da Fundação Oswaldo Cruz, Av. Brasil, 4365, Manguinhos, Rio de Janeiro</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Agendar a visita</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Centro de Recepção do Museu da Vida - Fiocruz</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2125906747</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Realizar Visita</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Centro de Recepção do Museu da Vida - Fiocruz</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/315"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+		<item>Educação</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

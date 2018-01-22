@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Concorrer ao Prêmio Funarte de Arte Contemporânea</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>PAC</item>
+	</nomes-populares>
+	<descricao>Aporte financeiro para a realização de exposições, ações, intervenções, performances e outras atividades voltadas para as artes visuais nos espaços da Funarte. O processo inicia com a divulgação no site da Funarte (http://www.funarte.gov.br/) do edital de seleção pública; nesta página eletrônica o interessado encontrará um link com o formulário de inscrição que deverá ser baixado e preenchido manualmente, obedecendo aos ditames do edital; depois o interessado enviará, pelos correios (postal), sua ficha de inscrição anexada a sua proposta de projeto artístico; posteriormente, será divulgado o resultado da seleção pública no D.O.U e no site da Funarte; a Funarte entrará em contato (por telefone ou e-mail) com o vencedor, a fim de receber a documentação complementar para dar andamento no aporte financeiro ao projeto; e, após executar o projeto, o processo é encerrado com a aprovação pela Funarte do relatório final de execução do projeto (que é enviado, por correios (postal), pelo contemplado).</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrever-se no processo de seleção pública</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>CNPJ</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2122798090</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.funarte.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>Email temporário: pac2015@funarte.gov.br (Observação: é criado um novo email para cada novo edital de seleção pública).</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Funarte: 
+Av. Presidente Vargas Nº 3.131 – 18º andar – sala 1804 / Cidade Nova – Rio de Janeiro – RJ / CEP: 20.210-911</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Enviar documentos complementares</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>FGTS</item>
+					<item>NIT / PIS / PASEP</item>
+					<item>Procuração do representante legal</item>
+					<item>Comprovante de dados bancários</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2122798090</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.funarte.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>Email temporário: pac2015@funarte.gov.br (Observação: é criado um novo email para cada novo edital de seleção pública).</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Funarte: 
+Av. Presidente Vargas Nº 3.131 – 18º andar – sala 1804 / Cidade Nova – Rio de Janeiro – RJ / CEP: 20.210-911</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Enviar relatório final de prestação de contas</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2122798090</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.funarte.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>Email temporário: pac2015@funarte.gov.br (Observação: é criado um novo email para cada novo edital de seleção pública).</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Funarte: 
+Av. Presidente Vargas Nº 3.131 – 18º andar – sala 1804 / Cidade Nova – Rio de Janeiro – RJ / CEP: 20.210-911</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2330"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

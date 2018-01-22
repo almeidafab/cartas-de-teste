@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Realizar Diagnóstico de Referencia em Poliomielite e outras Enteroviroses.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Laboratório de Enterovírus</item>
+	</nomes-populares>
+	<descricao>Realizar diagnóstico laboratorial de casos de:
+-  Paralisia Flácida Aguda (PFA) - exame de isolamento viral em amostras de fezes para Pesquisa de Poliovírus;
+- Meningites Virais - exame de isolamento viral para a Pesquisa de Enterovírus;
+-Outras Enteroviroses (conjuntivite hemorrágica, doença exantemática, miocardite, doença de pé, mão e boca) - exames de isolamento viral e identificação molecular (Reação em cadeia da Polimerase -PCR) para a Pesquisa de Enterovírus;
+- Outras viroses neurotrópicas (Citomegalovírus e Herpesvírus) - exame de identificação molecular (Reação em cadeia da Polimerase -PCR) para a Pesquisa de Citomegalovírus e Herpesvírus</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Cadastro da solicitação do exame no sistema  GAL (sistema Gerenciador de Ambiente Laboratorial)</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ficha de notificação SINAN ou requisição médica</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>enterolb@ioc.fiocruz.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="aplicativo-movel">
+						<descricao>Cadastro da solicitação do exame no sistema GAL (sistema Gerenciador de Ambiente Laboratorial)</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/315"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

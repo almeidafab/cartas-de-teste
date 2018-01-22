@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Solicitar empréstimo de livros na Biblioteca de Manguinhos</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não</item>
+	</nomes-populares>
+	<descricao>Empréstimo de livros do acervo da Biblioteca de Manguinhos. O acervo da Biblioteca de Manguinhos é composto por livros, teses e dissertações, periódicos, fitas de vídeo, CDs e DVDs na área de Biomedicina e Informação e Comunicação em Saúde. O empréstimo domiciliar pode ser feito por servidores da Fiocruz e funcionários terceirizados, assim como os alunos, bolsistas e estagiários após credenciamento das respectivas Secretarias de Ensino ou Coordenações. Obras raras e especiais, periódicos e obras de referência não poderão ser objeto de empréstimo. Os prazos de empréstimo são quatorze dias para livros, dissertações e teses e o usuário terá direito a retirar até cinco publicações; quatorze dias para outros itens como fitas de vídeo, CDs e DVDs, podendo o usuário retirar até três itens. Obras com a classificação de Empréstimo Proibido (EP) não podem ser emprestadas. No caso de classificação Overnight (ON), só podem ser emprestadas na sexta-feira e deverão ser devolvidas na segunda-feira pela manhã. Os usuários ainda podem reservar obras que já estejam emprestadas, efetuando a reserva diretamente no Balcão de Atendimento da Biblioteca, por telefone ou pela Internet através do site https://acervos.icict.fiocruz.br no link “Usuário”. A reserva só poderá ser feita para até três itens e obedecerá a ordem cronológica dos pedidos, ficando a publicação reservada à disposição do usuário por até 48 horas, a contar da data de disponibilidade do item na Biblioteca. O empréstimo pode ser renovado, desde que esteja dentro do prazo estipulado e não haja solicitação de reserva feita por outro usuário. A renovação de empréstimo pode ser feita no Balcão de Atendimento da Biblioteca, por telefone ou pela Internet, podendo ser efetuada até duas vezes consecutivas por publicação. É vedada a utilização do serviço de empréstimo ao usuário em débito com a Biblioteca. Para cada dia de atraso na devolução do item emprestado, a penalidade será de 2 dias úteis de suspensão.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Solicitar empréstimo, mediante cadastro prévio do usuário na Biblioteca e devolver livro. Dentro do serviço ainda podem acontecer as ações de renovar empréstimo de livro e reservar livro para empréstimo.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>documento do programa de pós graduação, escola técnica ou laboratório, ou demais vínculos institucionais</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Biblioteca de Manguinhos/Fiocruz</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/315"/>
+	<areas-de-interesse>
+		<item>Comunicações</item>
+		<item>Educação</item>
+		<item>Meio ambiente</item>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Saneamento</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa de Aperfeiçoamento para Carreiras</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Consiste em oferecer aos servidores públicos federais integrantes de carreiras estratégicas e transversais cursos de curta duração (entre 30 e 40 horas) em temas relacionados aos processos de gestão de políticas públicas. Carreiras atendidas: - Especialistas em Políticas Públicas e Gestão Governamental (EPPGG); - Analistas de Planejamento e Orçamento (APO); - Analistas de Comércio Exterior (ACE); - Auditor Federal de Finanças e Controle (AFFC); - Analistas e Especialistas em Infraestrutura (AIE/EIE); - Analistas Técnicos de Políticas Sociais (ATPS); - Analistas em Tecnologia da Informação (ATI); - Especialistas em Regulação (ER). Para os EPPGG, a realização dos cursos constitui pré-requisito para a promoção na carreira, conforme Decreto nº 5.176, de 10 de agosto de 2004. A coordenação é responsável pelos processos de desenho, implementação e avaliação dos cursos.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrição no curso</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.enap.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Realizar o curso de capacitação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Escola Nacional de Administração Pública</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/956"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

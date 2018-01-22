@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Participar do Programa Funarte de Oficinas de Capacitação Técnica e Artística em Artes Cênicas</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Oficinas de Capacitação da Funarte ou Cena em Construção</item>
+	</nomes-populares>
+	<descricao>O Programa de Oficinas tem como objetivo capacitar técnicos e artistas, proporcionando o refinamento e aprimoramento de suas percepções sobre os ofícios da criação do espetáculo, criando oportunidades de reconhecimento e desenvolvimento profissional, inserção no mercado de trabalho e geração de emprego e renda. O programa é realizado em todas as regiões do país atendendo demandas específicas de cada localidade nas diversas áreas da criação cênica nas linguagens: circo, dança, teatro e área técnica. São oferecidas oficinas com carga horária entre 20, 30 ou 40 horas/aula.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrição nas oficinas</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Na unidade informada pelo parceiro local.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Realizar a oficina.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Assinar lista de frequência nas aulas</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Na unidade designada pelo parceiro institucional.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Preencher formulário de pesquisa de satisfação e considerações sobre as oficinas.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Formulário elaborado pela Funarte</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Na unidade designada pelo parceiro institucional.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2330"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

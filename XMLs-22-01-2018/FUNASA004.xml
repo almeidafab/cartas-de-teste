@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>SOLICITAR APOIO FINANCEIRO PARA IMPLEMENTAÇÃO DE PROJETOS DE MELHORIAS SANITÁRIAS DOMICILIARES - MSD</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Financiamento para execução dos projetos relacionados às necessidades básicas de saneamento para as famílias em suas casas, tais como: Ligação de água encanada; Perfuração de poços rasos; Sistema de armazenamento e captação de água da chuva; Construção de banheiros, pias, tanques, cisternas, lixeiras; Ligação de esgoto entre domicílios; Dentre outros. Repasse de recursos para realização de melhorias sanitárias e saneamento individual em residências, com objetivo de reduzir o índice de doenças relacionadas à falta de saneamento.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Caso o usuário seja o "proponente" (governos municipais ou estaduais) deve cadastrar proposta no sistema SICONV, anexar documentos técnicos relativos à proposta, aguardar análise e complementar as informações quando solicitado.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>documentos técnicos, projetos, licenças e outros.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Superintendências Estaduais da Funasa</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6133146121</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://www.funasa.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>sic@funasa.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Superintendência Estadual da Funasa no Rio Grande do Sul (Suest - RS) Av. Borges de Medeiros, nº 536, 11º andar - sala 1102 - Centro - Porto Alegre/RS CEP: 90020-022 
+Superintendência Estadual da Funasa em Rondônia (Suest - RO) Rua Festejo 167 - Costa e Silva - Porto Velho/RO CEP: 78903-843 
+Superintendência Estadual da Funasa em Roraima (Suest - RR) Av. Capitão Enê Gacês, nº 1636 - S. Francisco - Boa Vista/RR CEP: 69304-000 
+Superintendência Estadual da Funasa em Santa Catarina (Suest - SC) Av. Max Schramm, nº 2179 - Estreito - Florianópolis/SC CEP: 88095-001 
+Superintendência Estadual da Funasa em São Paulo (Suest - SP) Rua Bento Freitas, nº 46 - Vila Buarque - São Paulo/SP CEP: 01220-000 
+Superintendência Estadual da Funasa em Sergipe (Suest - SE) Av. Tancredo Neves, nº 5425 - Jabotiana - Aracaju/SE CEP:49095-000 
+Superintendência Estadual da Funasa em Tocantins (Suest - TO) Avenida Teotônio Segurado ACSU - SO 10 Conjunto 01 Lote 03, Edifício Carpe Diem, Centro - Palmas/TO CEP: 77015-002</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo></titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2207"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Habitação</item>
+		<item>Meio ambiente</item>
+		<item>Saneamento</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

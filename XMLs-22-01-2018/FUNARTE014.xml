@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Concorrer ao Prêmio Funarte Carequinha de Estímulo ao Circo</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Prêmio Carequinha</item>
+	</nomes-populares>
+	<descricao>O Prêmio Funarte Carequinha de Estímulo ao Circo tem por objetivo resgatar a importância da atividade circense na formação cultural do cidadão brasileiro. Para que isso aconteça, atua nos diversos segmentos do circo: itinerantes, trupes e grupos, escolas, projetos sociais e pesquisadores; além de contribuir financeiramente para a realização de eventos e reconhecer a contribuição de grandes mestres da área.
+Assim, ao mesmo tempo em que financia a troca de lonas e equipamentos, para que o circo itinerante seja mais atraente ao público e tenha maiores possibilidades de sucesso na busca de praças mais centrais e de fácil acesso para a sua montagem, o Prêmio Carequinha financia também a montagem e a circulação de espetáculos de trupes e grupos que apostam na experimentação, na troca de experiências com grupos de outros países, fazendo com que a linguagem se desenvolva e se atualize. Ao apoiar e incentivar financeiramente as escolas de circo e os projetos sociais que utilizam a linguagem circense como instrumento pedagógico para transformação social, aposta no poder criativo, lúdico e aglutinador do circo, além de incentivar a pesquisa dessa linguagem que, por trazer em sua tradição a transmissão do conhecimento de forma oral, de pai para filho, pouco registro tem sobre suas histórias e saberes.
+As categorias contempladas no referido prêmio, bem como a divisão em módulos financeiros garantem aos circenses uma equilibrada distribuição dos recursos financeiros aplicados ao fomento de suas atividades.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo></titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>NIT / PIS / PASEP</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>2122798034</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>circo.funarte@gmail.com</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2330"/>
+	<areas-de-interesse>
+		<item>Cultura</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

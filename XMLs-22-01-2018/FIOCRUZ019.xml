@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Realizar diagnóstico de Referência em Filarioses (SRNF) - Instituto Aggeu Magalhães</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Filariose</item>
+		<item>elefantíase</item>
+		<item>linfedema</item>
+	</nomes-populares>
+	<descricao>O serviço oferece atendimento clínico, urológico, ultrassonográfico, fisioterapêutico, nutricional e psicológico para pacientes com suspeita de Filariose. Realiza diagnóstico diferencial utilizando as ferramentas parasitológicas, sorológicas e moleculares, bem como o desenvolvimento de novas ferramentas laboratoriais e epidemiológicas para a investigação do agravo. Oferece a formação de recursos humanos no âmbito nacional (estadual e municipal) e internacional (OPAS). Realiza a confecção de material didático (panfletos, manuais, livros, trabalhos científicos) e  áudio visual, além de assessorias e consultorias.
+O pré-requisito para que o usuário possa obter este serviço é através de encaminhado da rede pública de saúde municipal e estadual, porém também poderá ser encaminhado pela rede privada</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Agendar consulta</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>Encaminhamento médico</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Ambulatório do Serviço de Filariose, no IAM-Fiocruz/PE</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>8121012546</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Realizar atendimento médico</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+					<item>Encaminhamento médico</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Ambulatório do serviço de filariose - IAM - Fiocruz/PE</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Realizar exames laboratoriais, clínicos e de imagem (de acordo com a necessidade, avaliada pelo médico)</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+					<item>Cartão de registro no serviço</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Ambulatório do serviço de filariose - IAM - Fiocruz/PE</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/315"/>
+	<areas-de-interesse>
+		<item>Pesquisa e Desenvolvimento</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
