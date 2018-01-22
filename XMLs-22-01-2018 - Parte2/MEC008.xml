@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Sistema de Seleção Unificada - Sisu</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O Sistema de Seleção Unificada - Sisu é o sistema informatizado, gerenciado pelo Ministério da Educação, por meio do qual são ofertadas vagas em cursos de graduação para todos os estudantes que participaram do ENEM. As vagas são disponibilizadas pelas instituições públicas de educação superior que aderem ao sistema de seleção unificada para acesso ao ensino superior público (instituições federais, estaduais e municipais).                                                                             Procedimentos: As instituiçoes públicas de ensino superior fazem a adesão em resposta a editais do MEC e oferecem vagas de cursos de graduação para o processo seletivo semestral; Os candidatos se inscrevem no período em que as vagas são disponibilizadas em sistema específico no MEC; Classificação pelo sistema eletrônico de acordo com as opções de cursos e notas do ENEM; É publicado o resultado da classificação da chamada regular; É disponibilizada lista de espera; As IES acessam o sistema para conferência e realização das matrículas.  Exigências aos estudantes: 1. Ter realizado o ENEM de acordo com o Edital do Processo Seletivo; 2. Não ter zerado a prova de redação do ENEM; 3. Fazer inscrição pelo sistema do Sisu em até 2 opções de cursos possíveis.                                       Base legal do SISU: Portaria Normativa nº 21 de 5 de novembro de 2012 e Editais a cada processo seletivo.  O serviço é realizado por meio de dois sistemas eletrônicos: Sistema de inscrição do Sisu e Sistema de Gestão do Sisu.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Inscrição pelo sistema de inscrição do sisu: http://sisu.mec.gov.br/.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://sisu.mec.gov.br/</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Verificar resultado da chamada regular.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>800616161.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://sisu.mec.gov.br/</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="aplicativo-movel">
+						<descricao>Aplicativo Sisu para Android, Apple e  Windows Phone (http:</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Manifestação de interesse em lista de espera.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>h</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/244"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

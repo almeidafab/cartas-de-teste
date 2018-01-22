@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Fomento à Educação Bilíngue (LIBRAS)</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Bilinguismo</item>
+	</nomes-populares>
+	<descricao>A educação bilíngue para estudantes com surdez visa garantir o pleno acesso à comunicação, à informação e à educação. Nesse sentido, o projeto pedagógico que contemple a Educação bilíngue deve prever professores bilíngues desde a educação infantil até o ensino superior; tradutor/intérprete de Libras; ensino de Libras e o ensino da modalidade escrita da Língua Portuguesa; atendimento às especificidades linguísticas dos estudantes surdos, com implante coclear, surdos oralizados, surdos indígenas, surdos não oralizados. O domínio da língua de sinais e da portuguesa  escrita constitui instrumento de promoção de autonomia e de emancipação social. Desta forma, a implementação da educação bilíngue vincula-se a estratégias pedagógicas definidas e aplicadas a partir das especificidades dos estudantes.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Distrito federal</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1 - Definição do serviço</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>não se aplica</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Anexo I do MEC,  4º Andar</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6120229081.0000000000</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.mec.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>educacaoespecial@mec.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/244"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

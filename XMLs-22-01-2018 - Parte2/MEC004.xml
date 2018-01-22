@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa de Estudantes-Convênio de Graduação - PEC-G</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O PEC-G constitui um conjunto de atividades e procedimentos de cooperação educacional internacional, preferencialmente com os países em desenvolvimento, com base em acordos bilaterais vigentes e caracterizase pela formação do estudante estrangeiro em curso de graduação no Brasil e seu retorno ao país de origem ao final do curso. As vagas nos cursos de graduação são totalmente gratuitas, e não há qualquer restrição quanto à natureza das Instituições de Educação Superior brasileiras para participar do programa.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Entrega de documentos e inscrição no processo seletivo</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>Comprovante de renda</item>
+					<item>Passaporte</item>
+					<item>Termo de Responsabilidade Financeira;  Termo de Compromisso em que se obrigue a cumprir as regras do PEC-G;  Certificado de conclusão do ensino médio (secundário ou equivalente), em sua totalidade, fora do Brasil;  Certificado de Proficiência em Língua Portuguesa para Estrangeiros – Celpe-Bras; certificado médico de saúde física e mental expedido com, no máximo, 90 dias de antecedência à apresentação da candidatura.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Posto Diplomático brasileiro no país de residência do candidato</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Aceitação da vaga determinada para o candidato pela Banca de Seleção.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>País de residência do candidato</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Recebimento das informações sobre a IES para a matrícula e chegada ao Brasil</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Matrícula no curso de graduação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade de estrangeiro</item>
+					<item>Certidão de nascimento</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>Passaporte</item>
+					<item>T</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Setor de matrícula da IES</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>S</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Aqueles solicitados pela IES</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Setor de diplomas da IES</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Entrega do Diploma, Histórico Escolar e Ementas do curso de graduação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Passaporte</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Posto diplomático</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/244"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+		<item>Relações Internacionais</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

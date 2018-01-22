@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa de Aquisição de Alimentos – PAA, Modalidade Compra com Doação Simultânea, executada pela Companhia Nacional de Abastecimento – CONAB.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>PAA CDS</item>
+	</nomes-populares>
+	<descricao>O Programa de Aquisição de Alimentos – PAA, modalidade Compra com Doação Simultânea, executada pela CONAB, é um programa por meio do qual o Governo Federal compra alimentos de cooperativas ou associações da agricultura familiar e os destina gratuitamente às pessoas em situação de insegurança alimentar e nutricional atendidas pela rede socioassistencial e pelos equipamentos de alimentação e nutrição, como os restaurantes populares, bancos de alimentos e cozinhas comunitárias.Neste caso, o MDS repassa recursos para CONAB e a Companhia fica responsável por contratar os projetos junto às Cooperativas e Associações da agricultura familiar.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cooperativas e Associações da agricultura familiar</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Habilitação do Projeto</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>(1) Proposta de Participação preenchida no PAAnet Proposta, disponibilizado no sítio eletrônico da CONAB. (2) Declaração de Aptidão ao Pronaf – DAP Jurídica; (3) Declaração de Aptidão ao Pronaf – DAP Física e extrato da DAP obtido eletronicamente dos beneficiários fornecedores não relacionados na DAP Jurídica da organização; (4) Estatuto e Ata de eleição e da posse da atual diretoria da organização fornecedora (cópia autenticada); (5) Cópia ou Ata de reunião do Conselho Estadual ou Municipal de Segurança Alimentar e Nutricional (CONSEA/COMSEA), ou do Conselho Estadual ou Municipal de Desenvolvimento Rural e Sustentável, ou do Conselho Estadual ou Municipal de Assistência Social, contendo a ciência da Proposta apresentada; (6) Formulário Bipartite entre Organização Fornecedora e Representante do Poder Público Municipal; (7) Termo de Compromisso da Unidade Recebedora; (8) Declaração de Aplicação de Recursos; (9) Termo de Compromisso do Beneficiário Fornecedor; (10) CNPJ; (11) Cópias autenticadas de RG e CPF dos representantes legais da organização; (12) Certificado do Cadastro Nacional de Produtores Orgânicos, quando for o caso; (13) Documentos relativos ao cumprimento da legislação sanitária, quando for o caso; e (14) Comprovante de entrega dos documentos via protocolo. Obs: os modelos dos documentos estão disponíveis no sítio eletrônico da CONAB. Manual Operativo – MOC Título 30. Podem ser consultados em: http://mds.gov.br/assuntos/seguranca-alimentar/programa-de-aquisicao-de-alimentos-paa/programa-de-aquisicao-de-alimentos/compra-com-doacao-simultanea/compra-com-doacao-sim</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Superintendências Regionais da CONAB</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Homologação/Contratação do Projeto</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certidões negativas junto ao INSS, FGTS, Dívida Trabalhista, Dívida Ativa da União, Receita Federal e Cadastro Nacional de Empresas Inidôneas e Suspensas (CEIS).</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Superintendências Regionais da CONAB</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Entrega dos alimentos nas entidades</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Termo de Recebimento e Aceitabilidade •	Obs: os modelos dos documentos estão disponíveis no sítio eletrônico da CONAB. Manual Operativo – MOC Título 30. •	Podem ser consultados em: •	http://mds.gov.br/assuntos/seguranca-alimentar/programa-de-aquisicao-de-alimentos-paa/programa-de-aquisicao-de-alimentos/compra-com-doacao-simultanea/compra-com-doacao-simultanea-conab •	http://www.conab.gov.br/conabweb/m</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>No endereço das entidades socioassistenciais e equipamentos de alimentação e nutrição, conforme Proposta de Participação aprovada pela CONAB.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Prestação de contas da execução do projeto</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>(</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Superintendências Regionais da CONAB</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="aplicativo-movel">
+						<descricao>PAA Net Entregas, disponível para download no sítio eletrônico da CONAB: http://www.conab.gov.br/conteudos.php?a=1129&t=Plataformas:Windows XP Professional (SP2); Windows XP Professional (SP1+); Windows XP Home (SP1+); Windows 2000 Professional (SP3+); Windows 98 (2nd Edition); Windows ME; Windows Server 2003, Web Edition; Windows Server 2003, Standard Edition; Windows Server 2003, Enterprise Edition; Windows Server 2003, DataCenter Editi</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>R</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Entrega do Relatório de Pagamentos</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Relatório de Pagamentos da organização fornecedora aos agricultores familiares Obs: os modelos dos documentos estão disponíveis no sítio eletrônico da CONAB. Manual Operativo – MOC Título 30 Podem ser consultados em: http://mds.gov.br/assuntos/seguranca-alimentar/programa-de-aquisicao-de-alimentos-paa/programa-de-aquisicao-de-alimentos/compra-com-doacao-simultanea/compra-com-doacao-simultanea-conab http://www.conab.gov.br/conabwe</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Superintendência Regional da CONAB</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1945"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

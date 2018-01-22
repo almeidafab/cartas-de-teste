@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa de Aquisição de Alimentos – PAAModalidade Compra Direta, executada pela Companhia Nacional de Abastecimento – CONAB.</nome>
+	<sigla/>
+	<contato/>
+	<descricao>A modalidade Compra Direta do PAA tem como finalidade a sustentação de preços de determinados produtos definidos pelo Grupo Gestor do Programa (ex: arroz, feijão, milho, trigo, sorgo, farinha de mandioca, farinha de trigo, leite em pó integral, e etc.)Quando o preço de mercado de algum dos produtos amparados pela Modalidade está abaixo do seu preço de referência, ou seja, não cobre os custos de produção, o Grupo Gestor pode aprovar a intervenção. Neste caso, a Conab divulga amplamente na região afetada que instalará um Polo de Compra para onde os agricultores familiares interessados se deslocam de posse de seus produtos bem como da documentação exigida, para vender seus produtos a preço justo, estabelecido por análise técnica da CONAB.Nesta modalidade, o MDS repassa recursos para CONAB e a Companhia fica responsável por adquirir os produtos junto às Cooperativas e Associações da agricultura familiar, bem como junto aos agricultores familiares de forma individual.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cooperativas e Associações da agricultura familiar (pessoa jurídica) e agricultor familiar (pessoa física)</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="8" max="15" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Comercialização do produto</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>•	No caso de cooperativa/associação da agricultura familiar: Declaração de Aptidão ao Pronaf – DAP Pessoa Jurídica válida; Declaração de produto in natura ou processado/beneficiado; Nota fiscal de venda; certidões negativas junto ao INSS, FGTS, Dívida ativa da União e Receita Federal, CADIN e CNDT; indicação da instituição bancária e número de conta corrente para pagamento. No caso de produto processado/beneficiado, apresentar as notas fiscais de aquisição junto aos fornecedores, nota fiscal de remessa à agroindústria e contrato de prestação de serviço da agroindústria. •	No caso de agricultor familiar individual: Declaração de Aptidão ao Pronaf – DAP Pessoa Física válida; Declaração de produção própria do produto; Declaração de regularidade junto à Secretaria de Receita Federal; indicação da instituição bancária e número de conta corrente para pagamento. •	 Obs: os modelos dos documentos estão disponíveis no sítio eletrônico da CONAB. Manual Operativo – MOC Título 27.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Polos de Compra a serem informados pela CONAB</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1945"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

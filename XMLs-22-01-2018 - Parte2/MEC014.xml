@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Habilitação de Unidades de Ensino de Instituições Privadas de Ensino Profissional Técnico de Nível Médio (IPEPTNM) para o Pronatec - HABILITAÇÃO PRONATEC.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>HABILITAÇÃO PRONATEC</item>
+	</nomes-populares>
+	<descricao>A Habilitação Pronatec é o processo que torna a unidade de ensino (UE) privada apta a ofertar cursos no âmbito do Programa Nacional de Acesso ao Ensino Técnico e Emprego (Pronatec). A UE solicita a habilitação registrando processo no Sistema Nacional de Informações de Educação Profissional e Tecnológica (Sistec), a qual será avaliada por meio do seguinte procedimento:1) A Secretaria de Educação Profissional e Tecnológica (Setec) informa, por ofício, o período em que ocorrerá a avaliação;2) Dois avaliadores designados pela Setec agendam o dia da avaliação diretamente com a unidade e realizam a avaliação registrando os dados de acordo com instrumento disponibilizado pela Setec;3) A comissão designada avalia os dados informados pelos avaliadores e emite parecer conclusivo de “Habilitada” para unidades que preencherem todos os requisitos e “Não Habilitada” para as que não preencherem os requisitos estabelecidos em norma própria.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Toma conhecimento do período de avaliação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>habilitacaosetec@mec.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Avaliação realizada por dois avaliadores.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>CPF</item>
+					<item>Diploma</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>habilitacaosetec@mec.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Recebimento do resultado da avaliação.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>habilitacaosetec@mec.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/244"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

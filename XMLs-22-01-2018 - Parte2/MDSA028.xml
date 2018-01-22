@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Oferta de Cursos e Tutoriais no Portal de Educação à Distância do Ministério do Desenvolvimento Social - Portal EaD/MDS</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Portal EaD/MDS</item>
+	</nomes-populares>
+	<descricao>O Portal EaD/MDS é um espaço virtual de aprendizagem onde são oferecidos cursos e tutoriais a distância, voltados especialmente para técnicos, gestores e profissionais das diversas áreas de atuação do Ministério do Desenvolvimento Social. Atualmente, nossos cursos e tutoriais são abertos para qualquer cidadão interessado, mas podem existir turmas e salas com restrição de público.Cursos Disponíveis:1.	Fiscalização de Recebimento Indevido de Benefícios do Programa Bolsa Família2.	Teoria e prática – Índice de Gestão Descentralizada Municipal (IGD-M)3.	Introdução ao Sistema de Benefícios ao Cidadão (SIBEC)4.	Sistema de Condicionalidades do Programa Bolsa Família (SICON)5.	Sistema de Gestão do Programa Bolsa Família (SIGPBF) – Aplicativo de Adesão Municipal6.	Sistema de Gestão do Programa Bolsa Família (SIGPBF) – Aplicativo Controle de Acesso7.	Sistema de Gestão do Programa Bolsa Família (SIGPBF) – Aplicativo de Formulários (SASF)8.	Sistema de Gestão do Programa Bolsa Família (SIGPBF) – Integração de Sistemas no SIGPBF9.	Sistema de Gestão do Programa Bolsa Família (SIGPBF)  – Aplicativo Transmissão de Arquivos: Upload/DownloadTutoriais Disponíveis:1.	Adesão ao Programa de Aquisição de Alimentos (PAA)2.	Alterações no Índice de Gestão Descentralizada (IGD) Portaria Nº 81 / 20153.	Boas-Vindas aos(às) Gestores(as) Municipais do Cadastro Único e do Programa Bolsa Família4.	Boas-Vindas aos(às) Secretários(as) Municipais de Assistência Social5.	Cadastro Único - Alterações da Versão 7.156.	Cadastro Único - Conceitos Gerais e Acesso ao Sistema7.	Cadastro Único - Noções Básicas para Usuários Master8.	CECAD - Consulta, Seleção e Extração de Informações do Cadastro Único9.	Gestão do Tempo10.	TABCAD - Tabulador de Informações do Cadastro Único</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Órgãos da administração direta</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Fazer o cadastro no Portal EaD/MDS.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CPF</item>
+					<item>E-mail</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.mds.gov.br/ead</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Realizar o login no Portal, escolher os cursos ou tutoriais desejados e confirmar a inscrição.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.mds.gov.br/ead</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Complementação do cadastro com dados adicionais (somente para aqueles que pretendem se matricular nos cursos).</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>h</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Emissão de certificado de conclusão de curso (somente para participantes aprovados nos cursos).</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1945"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Administração </item>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

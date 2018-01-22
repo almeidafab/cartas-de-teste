@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa Nacional de Apoio à Captação de Água de Chuva e Outras Tecnologias Sociais de Acesso à Água</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Programa Cisternas</item>
+	</nomes-populares>
+	<descricao>O Programa Nacional de Apoio à Captação de Água de Chuva e Outras Tecnologias Sociais de Acesso à Água - Programa Cisternas tem como finalidade promover o acesso à água para o consumo humano e animal e para a produção de alimentos, por meio de implementação de tecnologias sociais, destinado às famílias rurais de baixa renda atingidas pela seca ou falta regular de água.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Mobilização, seleção e cadastramento.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CPF</item>
+					<item>NIS</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Na própria residência do beneficiário ou em algum outro local definido no município pela entidade executora, podendo ser: sede do sindicato rural, secretaria municipal de assistência social, igreja, sede da associação comunitária, dentre outros.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Capacitações</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CPF</item>
+					<item>NIS</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Locais definidos pela entidade executora, podendo ser: sede da associação comunitária, escolas da comunidade, igreja, dentre outros.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Implementação da tecnologia social</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>CPF</item>
+					<item>NIS</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>A própria residência do beneficiário da tecnologia social.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1945"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+		<item>Administração </item>
+		<item>Meio ambiente</item>
+		<item>Saneamento</item>
+		<item>Saúde</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

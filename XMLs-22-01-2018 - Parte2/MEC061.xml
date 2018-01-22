@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa de Apoio aos Dirigentes Municipais de Educação - Pradime</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O Programa de Apoio aos Dirigentes Municipais de Educação - Pradime é uma iniciativa do Ministério da Educação em parceria com a União Nacional dos Dirigentes Municipais (UNDIME). Foi criado com o propósito de fortalecer e apoiar os dirigentes municipais de educação na gestão dos sistemas de ensino e das políticas educacionais, bem como contribuir para o avanço do País em relação às metas nacionais. O Programa objetiva oferecer a todos os dirigentes municipais de educação e as equipes técnicas que atuam na gestão da educação do sistema municipal, um espaço permanente de formação, troca de experiências, acesso a informações sistematizadas e à legislação pertinente, que ajude a promover a qualidade da educação básica nos sistemas públicos municipais de ensino, focando as diversas dimensões da gestão educacional. O Programa foi concebido em 4 eixos norteadores: o reconhecimento do papel estratégico do DME no contexto dos desafios postos pela política educacional do país; a importância da educação como elemento propulsor do desenvolvimento local e nacional; a qualidade social da educação como marco diferencial da ação pedagógica do Estado; a gestão democrática como fio condutor das práticas do Poder Pública.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Entrega de documentos para  matricula-se no curso a distância.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certificado de conclusão de curso</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>Diploma</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>No Institutos Federais de Ensino Superior - IFES parceiro.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>Determinado pela instituição</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>Determinado pela instituição.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Interação durante a oferta do curso de capacitação a distância</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>Certificado de conclusão de curso</item>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+					<item>Diploma</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Ambiente Virtual de Aprendizagem.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="aplicativo-movel">
+						<descricao>http://cursos.mec.gov.br/pradime/matriz/</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/244"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Economia e Finanças</item>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Cadastro Nacional de Entidades de Assistência Social – CNEAS</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>CNEAS</item>
+	</nomes-populares>
+	<descricao>O CNEAS é uma ferramenta de gestão, que armazena informações sobre as organizações e ofertas socioassistenciais com atuação no território nacional. De responsabilidade da administração pública, permite a aproximação entre o Estado e a sociedade civil, possibilitando o acompanhamento do atendimento aos usuários da política e reconhecendo a importância das organizações no âmbito do Sistema Único de Assistência Social. Aos gestores da política o Cadastro permite o conhecimento e acompanhamento das organizações que integram a rede socioassistencial. Às organizações o Cadastro permite a celebração de parcerias e o recebimento de recursos oriundos de emendas parlamentares. Aos usuários da política de assistência social, por meio da Consulta CNEAS e do Mapa das Organizações da Sociedade Civil, o público pode verificar quais organizações e que ofertas estão disponíveis no seu município e/ou no estado.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Agendar visita técnica do órgão gestor de assistência social.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Prestar informações sobre o seu atendimento para cadastro no CNEAS.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>Certidões de cartório</item>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Na própria organização da sociedade civil visitada.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1945"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

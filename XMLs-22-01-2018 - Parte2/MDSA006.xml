@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa de Aquisição de Alimentos – PAAModalidade Aquisição de Sementes, executada pela Companhia Nacional de Abastecimento – CONAB.</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>PAA Sementes</item>
+	</nomes-populares>
+	<descricao>Através desta modalidade o PAA pode comprar sementes de organizações da agricultura familiar detentoras da Declaração de Aptidão ao Pronaf – DAP Jurídica, e destinar tais sementes a agricultores familiares, conforme demanda apresentada por órgãos parceiros.Os órgãos parceiros que podem demandar sementes ao PAA são: Secretaria Especial de Agricultura Familiar e Desenvolvimento Agrário (SEAD); Instituto Nacional de Colonização e Reforma Agrária (INCRA); Fundação Nacional do Índio (FUNAI); Fundação Cultural Palmares (FCP); Instituto Chico Mendes (ICMBio); e Governos Estaduais.Nesta modalidade, o MDS repassa recursos para CONAB e a Companhia fica responsável por comprar as sementes junto às Cooperativas e Associações da agricultura familiar.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cooperativas e Associações da agricultura familiar</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="60" max="90" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Apresentação de proposta de venda</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Proposta de Participação conforme modelo disponibilizado pela CONAB; Declaração de Aptidão ao Pronaf – DAP Jurídica;  CNPJ; Termo de Compromisso de beneficiário fornecedor e da organização fornecedora; certidões negativas junto ao INSS, FGTS, Dívida trabalhista, Dívida ativa da União, Receita Federal, Cadastro informativo de créditos não quitados do setor público federal (CADIN), Cadastro Nacional de empresas inidôneas e suspensas (CEIS); estatuto e ata de eleição e posse da atual diretoria da organização (cópia autenticada); cópias autenticadas de RG e CPF dos representantes legais que assinam a Proposta. •	Obs: os modelos dos documentos estão disponíveis no sítio eletrônico da CONAB. Manual Operativo – MOC Título 86. •	Podem ser consultados em: •	http://mds.gov.br/assuntos/seguranca-alimentar/programa-de-aquisicao-de-alimentos-paa/programa-de-aquisicao-de-alimentos/compra-com-doacao-simultanea/compra-com-doacao-simultanea-conab •	http://www.conab.gov.br/conabweb/moc.php. Caso a proposta seja de sementes crioulas, apresentar também: Inscrição da organização e da cultivar no Cadastro Nacional de Cultivares Crioulas. Caso a proposta seja de cultivar, apresentar também: Inscrição da cultivar no Registro Nacional de Cultivares e Inscrição do produtor das sementes no Registro Nacional de Sementes e Mudas (RENASEM).</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Superintendências Regionais da CONAB</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Contratação da proposta de venda apresentada pela organização.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Contrato de Aquisição de Sementes da Agricultura Familiar assinado (modelo disponibilizado pela CONAB).</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Superintendências Regionais da CONAB</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Entrega das sementes</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nota Fiscal de venda à CONAB; Relação de beneficiários fornecedores (modelo disponibilizado pela CONAB); Termo de conformidade e comprovação do valor de cultivo e uso (teste de pureza, germinação e vigor) das sementes a serem ofertadas, obtido em laboratório oficial de análise de sementes; Resultado do teste de transgenia.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Conforme estabelecido no contrato</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Recebimento do Pagamento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao>6133126000.0000000000</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>E</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Declaração de composição de pagamentos da organização aos agricultores fornecedores (modelo disponibilizado pela CONAB)</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Superintendência Regional da CONAB, onde o contrato foi firmado</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1945"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

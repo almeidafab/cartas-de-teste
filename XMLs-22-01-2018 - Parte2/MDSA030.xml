@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa de Aquisição de Alimentos – PAAModalidade Compra com Doação Simultânea (PAA/CDS), executada pela Companhia Nacional de Abastecimento – CONAB.</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O Programa de Aquisição de Alimentos – PAA, modalidade Compra com Doação Simultânea, executada pela CONAB com recursos do MDS, é um programa por meio do qual o Governo Federal compra alimentos de cooperativas ou associações da agricultura familiar e os destina gratuitamente às pessoas em situação de insegurança alimentar e nutricional e àquelas atendidas pela rede socioassistencial e pelos equipamentos de alimentação e nutrição, como os restaurantes populares, bancos de alimentos e cozinhas comunitárias.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>ENTIDADES QUE PODEM RECEBER ALIMENTOS DO PAA •	Centro de Referência de Assistência Social – CRAS; •	Centro de Referência Especializado em Assistência Social – CREAS. •	Centro de Referência Especializado para População em Situação de Rua - Centro POP;  •	equipamento que oferte o serviço de acolhimento a famílias e/ou indivíduos com vínculos familiares rompidos ou fragilizados, a fim de garantir proteção integral;  •	entidade e organização de assistência social: entidade e organização sem fins lucrativos que, isolada ou cumulativamente, presta atendimento e assessoramento aos beneficiários da Assistência Social, bem como atua na defesa e garantia de direitos, e que obrigatoriamente esteja inscrita no conselho municipal de assistência social;  •	Equipamentos públicos de alimentação e nutrição: o	Restaurantes Populares; o	Cozinhas Comunitárias; o	Bancos de Alimentos; o	estruturas públicas que produzam e disponibilizem refeições a beneficiários consumidores, no âmbito das redes públicas de educação, conforme regulamento do Programa Nacional de Alimentação Escolar - PNAE, de justiça e de segurança;  o	redes públicas e serviços públicos de saúde que ofertem serviços de saúde básicos, ambulatoriais e hospitalares por meio do Sistema Único de Saúde - SUS, e estabelecimentos de saúde de direito privado sem fins lucrativos que possuam Certificado de Entidade Beneficente da Assistência Social - CEBAS, q</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="31" max="60" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Participar da elaboração do projeto junto à Cooperativa ou Associação da Agricultura Familiar.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>(1) CNPJ; (2) cópia de RG e CPF do responsável legal; (3) cópia do comprovante de inscrição no Conselho Municipal de Assistência Social, no caso de entidade socioassistencial de direito privado.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Cooperativa ou Associação da agricultura familiar que esteja elaborando Proposta de Participação do PAA CONAB, modalidade Compra com Doação Simultânea.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Recebimento de alimentos do PAA na entidade</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Termo de Recebimento e Aceitabilidade (modelo do documento encontra-se disponível no sítio eletrônico da CONAB – Manual de Operações – MOC Título nº 30) •	Podem ser consultados em: •	http://mds.gov.br/assuntos/seguranca-alimentar/programa-de-aquisicao-de-alimentos-paa/programa-de-aquisicao-de-alimentos/compra-com-doacao-simultanea/compra-com-doacao-simultanea-conab •	http://www.conab.gov.br/conabweb/moc.php.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Endereço da própria entidade.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1945"/>
+	<areas-de-interesse>
+		<item>Proteção Social</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

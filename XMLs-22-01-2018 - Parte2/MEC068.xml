@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Regulação da Educação Superior</nome>
+	<sigla/>
+	<contato/>
+	<descricao>1)Credenciamento e Recredenciamento de Instituições de Educação Superior: Expedição de ato regulatório pelo Ministério da Educação, necessário para que uma Instituição de Educação Superior oferte cursos de graduação. Conforme previsto na legislação, os atos devem passar por renovações periódicas após avaliação.2)Autorização e Reconhecimento de Curso: Expedição de ato regulatório pelo Ministério da Educação, necessário para que uma Instituição de Educação Superior regularmente credenciada possa ofertar curso de graduação e posteriormente emitir diplomas dos concluintes de um curso superior de graduação. Os atos são expedidos após protocolo de processo específico pela Instituição de Educação Superior interessada, no Sistema e-MEC (Sistema Eletrônico de tramitação dos processos regulatórios). Sua expedição requer prévia avaliação e está condicionada ao atingimento, pela Instituição/curso, dos padrões de qualidade estabelecidos na legislação vigente.3)	Renovação de Reconhecimento de Curso: Expedição de ato regulatório pelo Ministério da Educação que renova o ato de reconhecimento do curso após processo de avaliação (o ato de reconhecimento deve passar por renovações periódicas, conforme disposto na Lei de Diretrizes e Bases – LDB). Aplica-se a mesma descrição do reconhecimento de cursos.</descricao>
+	<gratuito>false</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Protocolar processos de credenciamento, recredenciamento de Instituições de Educação Superior, e de autorização, reconhecimento e renovação de reconhecimento de cursos superiores</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Ata de fundação</item>
+					<item>Certidões da Receita Federal</item>
+					<item>CNPJ</item>
+					<item>Contrato Social</item>
+					<item>Plano de Desenvolvimento Institucional e Projeto Pedagógico de Curso</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>emec.mec.gov.br/ies</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Preenchimento de formulário eletrônico de avaliação</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Projeto Pedagógigo do Curso, lista de docentes do curso (com titulação e regime de trabalho), instalações e equipamentos disponíveis para oferta do curso</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Impugnação ou aceite do relatório de avaliação da Instituição ou do curso.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/244"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa de Aquisição de Alimentos – PAAModalidade  Incentivo à Produção e ao Consumo de Leite</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>PAA Leite</item>
+	</nomes-populares>
+	<descricao>O Programa de Aquisição de Alimentos – PAA, modalidade Incentivo à Produção e ao Consumo de Leite é executado em parceria com órgãos ou entidades da administração pública estadual, direta ou indireta, com recursos do MDS e contrapartida dos Estados. É um programa por meio do qual o Governo Federal compra de leite de cooperativas ou associações da agricultura familiar e /ou de agricultores individuais que, após beneficiamento, é doado gratuitamente às pessoas em situação de insegurança alimentar e nutricional e àquelas atendidas pela rede socioassistencial e pelos equipamentos de alimentação e nutrição, como os restaurantes populares, bancos de alimentos e cozinhas comunitárias.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Organizações da agricultura familiar e produtores fornecedores individuais</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="16" max="30" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Habilitação da proposta</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>•	Documentos para habilitação das Organizações da Agricultura Familiar:  Documentos pessoais (RG e CPF) do Presidente; DAP Jurídica; Comprovante de endereço; Estatuto, acompanhado da Ata de Posse da última eleição; Inscrição no Cadastro Nacional de Pessoa Jurídica – CNPJ; Alvará de Funcionamento; Certificado de Registro junto ao Serviço de Inspeção Federal, Estadual ou Municipal; Declaração de compromisso de comprovação de regularidade da Usina/Laticínio contratado pela Organização com DAP Jurídica.    •	Documentos para habilitação dos Laticínios (caso dos produtores individuais):  Documentos pessoais (RG e CPF) dos representantes legais; Comprovante de endereço; Contrato Social, em vigor, devidamente registrado, no caso de sociedades comerciais, e, em se tratando de sociedades por ações, acompanhado dos documentos de eleição dos seus administradores; Inscrição no Cadastro Nacional de Pessoa Jurídica – CNPJ; Alvará de Funcionamento; Certificado de Registro junto ao Serviço de Inspeção Federal, Estadual ou Municipal.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Sede do órgão executor do Programa no Estado</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Contratação da Organização, produtor rural individual e/ou Laticínio</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>•	Prova de regularidade para com a Fazenda Federal, Estadual e Municipal do domicílio ou sede do licitante, ou outra equivalente, na forma da lei; Prova de regularidade relativa à Seguridade Social e ao Fundo de Garantia por Tempo de Serviço (FGTS), demonstrando situação regular no cumprimento dos encargos sociais instituídos por lei; Comprovante de regularidade com o TST – Tribunal Superior do Trabalho (Certidão Negativa de Débitos Trabalhis</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Sede do órgão executor do Programa no Estado</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Prestação de contas das entregas do leite.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nota fiscal de venda ao órgão executor do Programa no Estado; Documento comprovante das entregas do leite e relação dos produtores que venderam o leite no período.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Sede do órgão executor do PAA Leite no Estado.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Pagamento</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1945"/>
+	<areas-de-interesse>
+		<item>Agropecuária</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

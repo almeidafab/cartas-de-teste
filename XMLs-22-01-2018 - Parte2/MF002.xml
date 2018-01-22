@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Reduções Tarifárias por Desabastecimento (GTAR-08)</nome>
+	<sigla/>
+	<contato/>
+	<descricao>O serviço possibilita aos importadores brasileiros a redução da tarifa do Imposto de Importação por meio da aplicação do disposto na Resolução do Grupo Mercado Comum do Mercosul – GMC nº 08/08, que tem por objetivo tornar possível a adoção de ações pontuais de caráter excepcional, no campo tarifário, para garantir o abastecimento normal e fluido de produtos no Mercosul. Ele consiste na apresentação de pleito pelo setor privado e análise pela Coordenação de Integração Comercial (COINT), vinculada a Secretaria de Assuntos Internacionais do Ministério da Fazenda. A COINT prepara uma nota técnica apresentando o pleito ao GTAR-08, grupo interministerial vinculado à Câmara de Comércio Exterior (CAMEX), que recomenda ao GECEX o deferimento ou não do pleito. Caso seja deferido pelo GECEX, o pleito segue para análise no Mercosul que, por sua vez, analisa e aprova o pleito por meio de uma Diretriz ou não. No caso de aprovação, a Diretriz e internalizada no ordenamento jurídico brasileiro por meio de uma Resolução da CAMEX e entra em vigor.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Empresas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Protocolar o pleito de redução tarifária no Protocolo da Secretaria de Assuntos Internacionais.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Formulários padrões para apresentação dos pleitos, em formato digital e físico, com versões pública e confidencial e um Termo de Confidencialidade</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Protocolo da Secretaria de Assuntos Internacionais</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>protocolo.sain@fazenda.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Resposta a questionamentos elaborados pela COINT/MF ou por outros órgãos ministeriais envolvidos no processo de análise do pleito</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="telefone">
+						<descricao></descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>sain.gtar@fazenda.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Comércio e Serviços</item>
+		<item>Indústria</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

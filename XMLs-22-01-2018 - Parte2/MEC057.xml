@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Assistência técnica do PDDE Interativo</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>PDDE Interativo</item>
+	</nomes-populares>
+	<descricao>O PDDE Interativo é uma ferramenta de planejamento e apoio à gestão escolar que disponibiliza a todas as escolas públicas municipais, estaduais e do DF uma metodologia de diagnóstico e plano estratégico com o objetivo de auxiliar a comunidade escolar a produzir um diagnóstico de sua realidade e a definir ações para aprimorar sua gestão e seu processo de ensino e aprendizagem, além de promover o fortalecimento da gestão escolar democrática. As escolas elaboram os planos e as secretarias estaduais, distrital e municipais de educação têm acesso às informações. Tanto escolas quanto secretarias são beneficiárias da assistência técnica ofertada por meio do PDDE Interativo.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Escolas públicas estaduais, distritais e municipais</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Cadastro</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Comprovante de endereço/residência</item>
+					<item>CPF</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>pddeinterativo.mec.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Envio do plano estratégico da escola para o MEC.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>pddeinterativo.mec.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/244"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

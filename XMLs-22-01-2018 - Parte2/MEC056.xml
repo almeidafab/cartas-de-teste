@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Plano de Ações Articuladas - PAR</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>PAR</item>
+	</nomes-populares>
+	<descricao>O que é o Plano de Ações Articuladas (PAR)?Ferramenta de apoio à gestão da rede escolar que integra diversas ações do MEC e que organiza, de forma sistêmica e institucional, o diálogo com estados e municípios e o seu acesso à assistência técnica e financeira do Governo Federal.Viabiliza o diagnóstico da realidade educacional dos estados e dos municípios e a elaboração de planos multidimensionais e plurianuais de ações, próprias, do MEC e de outros parceiros, para abordá-la.Estrutura-se em quatro dimensões de análise:- Gestão Educacional.- Formação de Professores e dos Profissionais de Serviço e Apoio Escolar.- Práticas Pedagógicas e Avaliação.- Infraestrutura Física e Recursos Pedagógicos.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Cadastro</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+					<item>CPF</item>
+					<item>Anexo I preenchido e assinado  (Cadastro do Órgão, entidade e dirigente), cópia autenticada da ata de posse/Portaria/Nomeação e demonstrativo de aplicação de recursos do FUNDEB.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://simec.mec.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="email">
+						<descricao>cohap@fnde.gov.br</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="postal">
+						<descricao>SBS QD 02 BL "F" ED. FNDE - Cep. 70070-929 - Brasília - DF 12 andar - COHAP</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Planejamento (Plano)</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+					<item>Envio do Plano</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>http://simec.mec.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/244"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

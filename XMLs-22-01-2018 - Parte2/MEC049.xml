@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>CGEEI/DPECIRER/SECADI</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>COORDENAÇÃO INDÍGENA</item>
+	</nomes-populares>
+	<descricao>Coordenação Geral de Educação Escolar Indígena visa promover os direitos dos povos indígenas à educação escolar, respeitando suas especificidades e processos próprios de aprendizagem e reconhecendo e valorizando a diversidade sociocultural e linguística, a autonomia e o protagonismo desses povos.  As interações são realizadas nos momentos em que esta CGEEI implementa as ações de sua competência:-  planejamento, coordenação e orientação na formulação e na implementação de políticas educacionais que promovam o direito à educação dos povos indígenas, em todos os níveis, etapas e modalidades de ensino;- apoio e acompanhamento da implementação das diretrizes do Conselho Nacional de Educação, referentes à educação dos povos indígenas, e-  promover e apoiar ações de ampliação e melhoria da infraestrutura escolar, de formação de professores e de desenvolvimento de materiais didáticos e pedagógicos específicos para a educação dos povos indígenas.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>MATRICULAR-SE NO CURSO</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Carteira de identidade</item>
+					<item>Carteira de trabalho</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Nas IES</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/244"/>
+	<areas-de-interesse>
+		<item>Administração </item>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

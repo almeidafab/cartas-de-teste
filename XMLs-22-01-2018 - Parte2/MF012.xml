@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Parcelamento de débitos de Pessoa Jurídica em Recuperação Judicial</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Não</item>
+	</nomes-populares>
+	<descricao>É o serviço que possibilita o Parcelamento, em até 84 (oitenta e quatro) parcelas, de débitos inscritos em Dívida Ativa da União, cujo titular tenha pleiteado a recuperação judicial, nos termos dos artigos 51, 52 e 70 da Lei nº 11.101, de 9 de fevereiro de 2005.Conforme Portaria Conjunta PGFN/RFB nº 15, de 15 de dezembro de 2009, as parcelas não poderão ser inferiores a R$ 10,00 (dez reais) e serão calculadas observando-se os seguintes percentuais mínimos, aplicados sobre o valor da dívida consolidada:I - da 1ª (primeira) à 12ª (décima segunda) prestação: 0,666% (seiscentos e sessenta e seis milésimos por cento);II - da 13ª (décima terceira) à 24ª (vigésima quarta) prestação: 1% (um por cento);III - da 25ª (vigésima quinta) à 83ª (octogésima terceira) prestação: 1,333% (um inteiro e trezentos e trinta e três milésimos por cento); eIV - 84ª (octogésima quarta) prestação: saldo devedor remanescente.O contribuinte não poderá ter mais de 1 (um) parcelamento referente ao processo de recuperação judicial e esse parcelamento deverá abranger a totalidade dos débitos do sujeito passivo perante a Fazenda Nacional, cuja exigibilidade não esteja suspensa.É admitida a inclusão de débitos já parcelados no Parcelamento da Recuperação Judicial, desde que o sujeito passivo desista dos parcelamentos vigentes para os respectivos débitos. Nesse caso, não haverá a cobrança do pedágio.Não podem ser objeto do Parcelamento da Recuperação Judicial os débitos referentes a:I - Simples Nacional;II - CPMF;III - Programa Minha Casa, Minha Vida;IV - créditos tributários devidos pela incorporadora optante do Regime Especial Tributário do Patrimônio de Afetação; eV - incentivos fiscais devidos ao Fundo de Investimento do Nordeste – FINOR, Fundo de Investimento da Amazônia – FINAM e Fundo de Recuperação do Estado do Espírito Santo – FUNRES.Caso o débito se refira a alguma das situações acima, ele será automaticamente excluído do parcelamento.Também não é permitida a concessão de parcelamento em processo de execução fiscal onde haja sido verificada, pelo juiz da causa, prova de fraude à execução, ou sua tentativa.A concessão do parcelamento não implica a liberação dos bens e direitos do devedor ou de seus responsáveis que tenham sido constituídos em garantia dos respectivos créditos.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estrangeiros</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas privadas</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Empresas públicas ou de economia mista</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Pessoas jurídicas de direito privado sem fins lucrativos</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Fundações e autarquias de direito público</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+		<item>Empresas</item>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<ate max="1" unidade="dias-corridos"</ate>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Agendar.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Receita Federal.</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.pgfn.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Protocolar o requerimento.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Requerimento de parcelamento; documentos comprobatórios da legitimidade da pessoa que poderá assinar o “formulário de requerimento”.</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Receita Federal.</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Após a análise, o interessado será notificado, via publicação no e-CAC da PGFN, para emissão do DARF numerado da primeira parcela e seu pagamento.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="web">
+						<descricao>w</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1929"/>
+	<areas-de-interesse>
+		<item>Economia e Finanças</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

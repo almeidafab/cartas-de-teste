@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Formação Continuada de Professores em Educação Especial</nome>
+	<sigla/>
+	<contato/>
+	<descricao>Ações de formação de professores da educação especial executadas em parceria com as Instituições Públicas de Ensino Superior (aperfeiçoamento e especialização) e apoio técnico e financeiro a ações de formação executadas pelos estados, municípios e o Distrito Federal.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>Distrito Federal</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>
+		Mais de 120 dias.
+	</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>1 - Adesão ao programa por parte do estado, município, Distrito Federal ou Instituição Pública de Ensino Superior;2 - Execução: inserção de plano de execução - projeto3 - Relatório de finalização</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Certificado de conclusão de curso</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Presencial, no caso do cursistas que farão cursos nas Universidades, estados, municípios e o Distrito Federal</descricao>
+					</canal-de-prestacao>
+					<canal-de-prestacao tipo="web">
+						<descricao>www.simec.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/244"/>
+	<areas-de-interesse>
+		<item>Educação</item>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

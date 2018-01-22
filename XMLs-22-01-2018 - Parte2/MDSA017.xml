@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Proteção Social Especial</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Serviços de Proteção Especial</item>
+	</nomes-populares>
+	<descricao>Os serviços de Proteção Social Especial destinam-se a famílias e indivíduos cujos direitos tenham sido violados e/ou ameaçados. São serviços que requerem o acompanhamento familiar e individual e maior flexibilidade nas soluções de proteção.Além de orientar e encaminhar os cidadãos para os serviços da assistência social ou demais serviços públicos existentes no município, também são oferecidas informações, orientação jurídica, apoio à família, apoio no acesso à documentação pessoal e estimula a mobilização comunitária.Os serviços de Proteção Social especial têm estreita interface com o sistema de Garantia de Direito exigindo, muitas vezes, uma gestão mais complexa e compartilhada com o Poder Judiciário, Ministério Público e outros órgãos e ações do Executivo.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="2" max="7" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Conversar com a equipe da unidade (CREAS, Centro-Pop e Centros-Dia)  para identificação de necessidades e verificação dos encaminhamentos necessários.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Centros de Referência da Assistência Social (CRAS)</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Participação nos serviços socioassistenciais.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Centros de Referência da Assistência Social (CRAS), Centros de Convivência ou Entidades Socioassistenciais que oferecem os serviços</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+		<etapa>
+			<titulo>Solicitação de acolhimento.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Unidades de Acolhimento que ofereçam o serviço de acolhimento de acordo com a Tipificação Nacional de Serviços Socioassistenciais</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1945"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

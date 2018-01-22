@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Programa Dinheiro Direto na Escola</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>PDDE Campo e PDDE Água e Esgotamento Sanitário</item>
+	</nomes-populares>
+	<descricao>A ação denominada PDDE Campo – Programa Dinheiro Direto na Escola tem por objetivo promover a melhoria da qualidade do ensino nas escolas publicas estaduais e municipais do campo  tem por objetivo a  manutenção, conservação, reparos e ou pequenas ampliações em suas instalações,  aquisição de mobiliário escolar, bem como  o abastecimento de água em condições apropriadas para o consumo e o esgotamento sanitário e outras ações de apoio com vistas à realização de atividades  educativas e pedagógicas coletivas requeridas pelas escolas do ensino fundamental.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Estados e municípios</tipo>
+			<requisitos/>
+		</solicitante>
+		<solicitante>
+			<tipo>escolas publicas</tipo>
+			<requisitos/>
+			</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Órgãos e entidades públicas</item>
+		<item>Demais segmentos (ONGs, organizações sociais, etc)</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<descricao>Não se aplica \ Não é estimado ainda.</descricao>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Análise do Plano de Trabalho das escolas públicas do campo aptas a solicitar o apoio financeiro para a execução das ações do PDDE.</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>Nenhum</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="email">
+						<descricao>campo@mec.gov.br</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/244"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>

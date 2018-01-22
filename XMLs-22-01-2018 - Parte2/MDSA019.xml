@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+	<nome>Emissão da Carteira do Idoso</nome>
+	<sigla/>
+	<contato/>
+	<nomes-populares>
+		<item>Carteira do Idoso</item>
+	</nomes-populares>
+	<descricao>A Carteira do Idoso é o instrumento de comprovação para que o idoso tenha acesso gratuito ou desconto de, no mínimo, 50% no valor das passagens interestaduais, de acordo com o Estatuto do Idoso (Lei nº 10.741/03).A carteira deve ser gerada apenas para as pessoas acima de 60 anos, que não tenham como comprovar renda individual de até dois salários mínimos. Para emitir a carteira, o idoso deve procurar o Centro de Referência de Assistência Social (CRAS) de seu município. Lá, ele irá inscrever-se no Cadastro Único e receberá o Número de Identificação Social (NIS). Com esse número, o Cras poderá solicitar a carteira por meio do sistema Carteiro do Idoso. Caso o idoso já tenha seus dados no Cadastro Único, o CRAS irá verificar o NIS existente e solicitar a carteirinha a partir dele, também no sistema.Além do NIS, a carteira do Idoso traz informações de identificação do idoso e do município em que ele mora e a foto. A Carteira do Idoso poderá ser emitida após 90 (noventa) dias, a contar da data de cadastramento e ou atualização cadastral no Cadastro Único. Enquanto a Carteira do Idoso não é emitida poderá ser fornecida Declaração Provisória com prazo de validade de até 180 (cento e oitenta) dias.</descricao>
+	<gratuito>true</gratuito>
+	<solicitantes>
+		<solicitante>
+			<tipo>Cidadãos e Famílias</tipo>
+			<requisitos/>
+		</solicitante>
+	</solicitantes>
+	<segmentos-da-sociedade>
+		<item>Cidadãos</item>
+	</segmentos-da-sociedade>
+	<tempo-total-estimado>
+		<entre min="90" max="120" unidade="dias-corridos"/>
+		<descricao/>
+	</tempo-total-estimado>
+	<etapas>
+		<etapa>
+			<titulo>Requerer carteira</titulo>
+			<descricao/>
+			<documentos>
+				<default>
+					<item>NIS</item>
+				</default>
+			</documentos>
+			<custos>
+				<default/>
+			</custos>
+			<canais-de-prestacao>
+				<default>
+					<canal-de-prestacao tipo="presencial">
+						<descricao>Centros de Referência da Assistência Social (CRAS)</descricao>
+					</canal-de-prestacao>
+				</default>
+			</canais-de-prestacao>
+		</etapa>
+	</etapas>
+	<orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1945"/>
+	<areas-de-interesse>
+	</areas-de-interesse>
+	<palavras-chave/>
+	<legislacoes/>
+</servico>
