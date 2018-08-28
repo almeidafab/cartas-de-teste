@@ -1,11 +1,11 @@
-<Resposta xmlns="">
-  <resposta>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+  <servico>
     <id>https://servicos.gov.br/api/v1/servicos/2570</id>
-    <nome>Obter doaÁ„o de mudas do Jardim Bot‚nico do Rio de Janeiro</nome>
+    <nome>Obter doa√ß√£o de mudas do Jardim Bot√¢nico do Rio de Janeiro</nome>
     <sigla></sigla>
     <descricao>
       &lt;div style="text-align:jusfity"&gt;
-    A alienaÁ„o por doaÁ„o de mudas È um procedimento previsto na Portaria JBRJ n∞ 125/2018, e poder· ocorrer sempre que for de interesse p˙blico e estiver adequada aos objetivos conservacionistas do JBRJ e de acordo com a disponibilidade de mudas no Horto Florestal, com a finalidade de recomposiÁ„o ou recuperaÁ„o de ·reas de interesse ambiental, no ‚mbito de programas de educaÁ„o ou conscientizaÁ„o ambiental assistidos pelo poder p˙blico.&lt;/div&gt;</descricao>
+    A aliena√ß√£o por doa√ß√£o de mudas √© um procedimento previsto na Portaria JBRJ n¬∞ 125/2018, e poder√° ocorrer sempre que for de interesse p√∫blico e estiver adequada aos objetivos conservacionistas do JBRJ e de acordo com a disponibilidade de mudas no Horto Florestal, com a finalidade de recomposi√ß√£o ou recupera√ß√£o de √°reas de interesse ambiental, no √¢mbito de programas de educa√ß√£o ou conscientiza√ß√£o ambiental assistidos pelo poder p√∫blico.&lt;/div&gt;</descricao>
     <contato></contato>
     <gratuito>true</gratuito>
     <porcentagemDigital>66</porcentagemDigital>
@@ -16,12 +16,12 @@
       <solicitante>
         <solicitante>
           <id>5392</id>
-          <tipo>Pessoas jurÌdicas de direito p˙blico ou privado.</tipo>
+          <tipo>Pessoas jur√≠dicas de direito p√∫blico ou privado.</tipo>
           <requisitos></requisitos>
         </solicitante>
         <solicitante>
           <id>4175</id>
-          <tipo>Pessoas jurÌdicas de direito p˙blico ou privado.</tipo>
+          <tipo>Pessoas jur√≠dicas de direito p√∫blico ou privado.</tipo>
           <requisitos></requisitos>
         </solicitante>
       </solicitante>
@@ -49,7 +49,7 @@
     <orgao>
       <id>http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/1913</id>
       <dbId>37021</dbId>
-      <nomeOrgao>Instituto de Pesquisas Jardim Bot‚nico do Rio de Janeiro (JBRJ)</nomeOrgao>
+      <nomeOrgao>Instituto de Pesquisas Jardim Bot√¢nico do Rio de Janeiro (JBRJ)</nomeOrgao>
       <porcentagemDigital/>
       <tempoMedioEspera/>
       <porcentagemAvaliacoesPositivas/>
@@ -66,12 +66,12 @@
           <idServicoSegmento>9331</idServicoSegmento>
         </item>
         <item>
-          <item>”rg„os e entidades p˙blicas</item>
+          <item>√ìrg√£os e entidades p√∫blicas</item>
           <idSegmento>2</idSegmento>
           <idServicoSegmento>9332</idServicoSegmento>
         </item>
         <item>
-          <item>Demais segmentos (ONGs, organizaÁıes sociais, etc)</item>
+          <item>Demais segmentos (ONGs, organiza√ß√µes sociais, etc)</item>
           <idSegmento>4</idSegmento>
           <idServicoSegmento>9333</idServicoSegmento>
         </item>
@@ -81,9 +81,9 @@
       <item>
         <item>Meio ambiente</item>
         <item>Biodiversidade</item>
-        <item>PreservaÁ„o e ConservaÁ„o Ambiental</item>
+        <item>Preserva√ß√£o e Conserva√ß√£o Ambiental</item>
         <item>Pesquisa e Desenvolvimento</item>
-        <item>Pesquisa, CiÍncia, InovaÁ„o e Tecnologia</item>
+        <item>Pesquisa, Ci√™ncia, Inova√ß√£o e Tecnologia</item>
       </item>
     </areasDeInteresse>
     <palavrasChave>
@@ -117,11 +117,11 @@
     <legislacoes>
       <item>
         <item>
-          <item>[Portaria JBRJ n∞ 125/2018](http://aplicacoes.jbrj.gov.br/divulga/125.pdf "aplicacoes.jbrj.gov.br/divulga/125.pdf")</item>
+          <item>[Portaria JBRJ n¬∞ 125/2018](http://aplicacoes.jbrj.gov.br/divulga/125.pdf "aplicacoes.jbrj.gov.br/divulga/125.pdf")</item>
           <id>3208</id>
         </item>
         <item>
-          <item>[Portaria JBRJ n∞ 125/2018](http://aplicacoes.jbrj.gov.br/divulga/125.pdf "aplicacoes.jbrj.gov.br/divulga/125.pdf")</item>
+          <item>[Portaria JBRJ n¬∞ 125/2018](http://aplicacoes.jbrj.gov.br/divulga/125.pdf "aplicacoes.jbrj.gov.br/divulga/125.pdf")</item>
           <id>3211</id>
         </item>
       </item>
@@ -136,13 +136,13 @@
     <etapas>
       <etapas>
         <id>9609</id>
-        <titulo>Pedir doaÁ„o</titulo>
-        <descricao>O solicitante entra no sistema e preenche o formul·rio com seus dados e o que est· sendo solicitado.</descricao>
+        <titulo>Pedir doa√ß√£o</titulo>
+        <descricao>O solicitante entra no sistema e preenche o formul√°rio com seus dados e o que est√° sendo solicitado.</descricao>
         <documentos>
           <documentos>
             <documentos>
               <id>13712</id>
-              <nome>OfÌcio a ser carregado e enviado por meio do sistema.</nome>
+              <nome>Of√≠cio a ser carregado e enviado por meio do sistema.</nome>
             </documentos>
           </documentos>
           <casos></casos>
@@ -156,7 +156,7 @@
               <id>10596</id>
               <tipo>web</tipo>
               <descricao>http://solicitacao.servicos.gov.br/processos/iniciar?codServico=3542</descricao>
-              <procedimentoSistemaIndisponivel>Caso o sistema esteja indisponÌvel, a solicitaÁ„o pode ser feita presencialmente no Horto do JBRJ (Rua Pacheco Le„o, 2040- Jardim Bot‚nico - RJ) ou na DICAT - Diretoria de Conhecimento, Ambiente e Tecnologia do JBRJ (Rua Jardim Bot‚nico, 1008, casa 9 - Jardim Bot‚nico - CEP 22470-180).</procedimentoSistemaIndisponivel>
+              <procedimentoSistemaIndisponivel>Caso o sistema esteja indispon√≠vel, a solicita√ß√£o pode ser feita presencialmente no Horto do JBRJ (Rua Pacheco Le√£o, 2040- Jardim Bot√¢nico - RJ) ou na DICAT - Diretoria de Conhecimento, Ambiente e Tecnologia do JBRJ (Rua Jardim Bot√¢nico, 1008, casa 9 - Jardim Bot√¢nico - CEP 22470-180).</procedimentoSistemaIndisponivel>
               <tempoEstimadoPeriodo/>
               <tempoEstimadoEspera/>
               <tempoEstimadoPeriodoService/>
@@ -177,13 +177,13 @@
       </etapas>
       <etapas>
         <id>7931</id>
-        <titulo>Pedir doaÁ„o</titulo>
-        <descricao>O solicitante entra no sistema e preenche o formul·rio com seus dados e o que est· sendo solicitado.</descricao>
+        <titulo>Pedir doa√ß√£o</titulo>
+        <descricao>O solicitante entra no sistema e preenche o formul√°rio com seus dados e o que est√° sendo solicitado.</descricao>
         <documentos>
           <documentos>
             <documentos>
               <id>11102</id>
-              <nome>OfÌcio a ser carregado e enviado por meio do sistema.</nome>
+              <nome>Of√≠cio a ser carregado e enviado por meio do sistema.</nome>
             </documentos>
           </documentos>
           <casos></casos>
@@ -197,7 +197,7 @@
               <id>10504</id>
               <tipo>web</tipo>
               <descricao>http://solicitacao.servicos.gov.br/processos/iniciar?codServico=3542</descricao>
-              <procedimentoSistemaIndisponivel>Caso o sistema esteja indisponÌvel, a solicitaÁ„o pode ser feita presencialmente no Horto do JBRJ (Rua Pacheco Le„o, 2040- Jardim Bot‚nico - RJ) ou na DICAT - Diretoria de Conhecimento, Ambiente e Tecnologia do JBRJ (Rua Jardim Bot‚nico, 1008, casa 9 - Jardim Bot‚nico - CEP 22470-180).</procedimentoSistemaIndisponivel>
+              <procedimentoSistemaIndisponivel>Caso o sistema esteja indispon√≠vel, a solicita√ß√£o pode ser feita presencialmente no Horto do JBRJ (Rua Pacheco Le√£o, 2040- Jardim Bot√¢nico - RJ) ou na DICAT - Diretoria de Conhecimento, Ambiente e Tecnologia do JBRJ (Rua Jardim Bot√¢nico, 1008, casa 9 - Jardim Bot√¢nico - CEP 22470-180).</procedimentoSistemaIndisponivel>
               <tempoEstimadoPeriodo/>
               <tempoEstimadoEspera/>
               <tempoEstimadoPeriodoService/>
@@ -219,7 +219,7 @@
       <etapas>
         <id>7932</id>
         <titulo>Agendar recebimento das mudas</titulo>
-        <descricao>Se a solicitaÁ„o tiver sido aprovada, o solicitante agenda uma data pelo sistema para fazer a retirada das mudas no Horto Florestal.</descricao>
+        <descricao>Se a solicita√ß√£o tiver sido aprovada, o solicitante agenda uma data pelo sistema para fazer a retirada das mudas no Horto Florestal.</descricao>
         <documentos>
           <casos></casos>
         </documentos>
@@ -232,7 +232,7 @@
               <id>10505</id>
               <tipo>web</tipo>
               <descricao>http://solicitacao.servicos.gov.br/processos/iniciar?codServico=3542</descricao>
-              <procedimentoSistemaIndisponivel>Caso o sistema esteja indisponÌvel, o agendamento poder· ser feito pelo telefone (21) 3874-6211</procedimentoSistemaIndisponivel>
+              <procedimentoSistemaIndisponivel>Caso o sistema esteja indispon√≠vel, o agendamento poder√° ser feito pelo telefone (21) 3874-6211</procedimentoSistemaIndisponivel>
               <tempoEstimadoPeriodo/>
               <tempoEstimadoEspera/>
               <tempoEstimadoPeriodoService/>
@@ -263,7 +263,7 @@
             </documentos>
             <documentos>
               <id>11105</id>
-              <nome>Crach·s</nome>
+              <nome>Crach√°s</nome>
             </documentos>
           </documentos>
           <casos></casos>
@@ -276,7 +276,7 @@
             <canaisDePrestacao>
               <id>8301</id>
               <tipo>presencial</tipo>
-              <descricao>No Horto do JBRJ - Rua Pacheco Le„o, 2040 - Jardim Bot‚nico - CEP 22470-180</descricao>
+              <descricao>No Horto do JBRJ - Rua Pacheco Le√£o, 2040 - Jardim Bot√¢nico - CEP 22470-180</descricao>
               <procedimentoSistemaIndisponivel/>
               <tempoEstimadoPeriodo>horas</tempoEstimadoPeriodo>
               <tempoEstimadoEspera>1</tempoEstimadoEspera>
@@ -299,7 +299,7 @@
       <etapas>
         <id>9610</id>
         <titulo>Agendar recebimento das mudas</titulo>
-        <descricao>Se a solicitaÁ„o tiver sido aprovada, o solicitante agenda uma data pelo sistema para fazer a retirada das mudas no Horto Florestal.</descricao>
+        <descricao>Se a solicita√ß√£o tiver sido aprovada, o solicitante agenda uma data pelo sistema para fazer a retirada das mudas no Horto Florestal.</descricao>
         <documentos>
           <casos></casos>
         </documentos>
@@ -312,7 +312,7 @@
               <id>10597</id>
               <tipo>web</tipo>
               <descricao>http://solicitacao.servicos.gov.br/processos/iniciar?codServico=3542</descricao>
-              <procedimentoSistemaIndisponivel>Caso o sistema esteja indisponÌvel, o agendamento poder· ser feito pelo telefone (21) 3874-6211</procedimentoSistemaIndisponivel>
+              <procedimentoSistemaIndisponivel>Caso o sistema esteja indispon√≠vel, o agendamento poder√° ser feito pelo telefone (21) 3874-6211</procedimentoSistemaIndisponivel>
               <tempoEstimadoPeriodo/>
               <tempoEstimadoEspera/>
               <tempoEstimadoPeriodoService/>
@@ -343,7 +343,7 @@
             </documentos>
             <documentos>
               <id>13714</id>
-              <nome>Crach·s</nome>
+              <nome>Crach√°s</nome>
             </documentos>
           </documentos>
           <casos></casos>
@@ -356,7 +356,7 @@
             <canaisDePrestacao>
               <id>10598</id>
               <tipo>presencial</tipo>
-              <descricao>No Horto do JBRJ - Rua Pacheco Le„o, 2040 - Jardim Bot‚nico - CEP 22470-180</descricao>
+              <descricao>No Horto do JBRJ - Rua Pacheco Le√£o, 2040 - Jardim Bot√¢nico - CEP 22470-180</descricao>
               <procedimentoSistemaIndisponivel/>
               <tempoEstimadoPeriodo>horas</tempoEstimadoPeriodo>
               <tempoEstimadoEspera>1</tempoEstimadoEspera>
@@ -377,7 +377,6 @@
         </tempoTotalEstimado>
       </etapas>
     </etapas>
-  </resposta>
   <mensagem/>
   <hasErro>false</hasErro>
-</Resposta>
+</servico>
